@@ -1,0 +1,306 @@
+[
+    {
+        "Id": "ddd67694861620b00057b5db378e9e33d3f34a8ec92bf5df48e040e730f3a925",
+        "Created": "2024-09-20T23:49:08.442779232Z",
+        "Path": "/bin/bash",
+        "Args": [
+            "/entrypoint.sh"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 85609,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-10-06T01:08:35.460469052Z",
+            "FinishedAt": "2024-10-06T01:08:35.407551491Z",
+            "Health": {
+                "Status": "healthy",
+                "FailingStreak": 0,
+                "Log": [
+                    {
+                        "Start": "2024-10-06T20:09:38.17196256Z",
+                        "End": "2024-10-06T20:09:38.267270337Z",
+                        "ExitCode": 0,
+                        "Output": "Ok"
+                    },
+                    {
+                        "Start": "2024-10-06T20:10:08.271853094Z",
+                        "End": "2024-10-06T20:10:08.365321901Z",
+                        "ExitCode": 0,
+                        "Output": "Ok"
+                    },
+                    {
+                        "Start": "2024-10-06T20:10:38.371117076Z",
+                        "End": "2024-10-06T20:10:38.459993879Z",
+                        "ExitCode": 0,
+                        "Output": "Ok"
+                    },
+                    {
+                        "Start": "2024-10-06T20:11:08.465362787Z",
+                        "End": "2024-10-06T20:11:08.566065996Z",
+                        "ExitCode": 0,
+                        "Output": "Ok"
+                    },
+                    {
+                        "Start": "2024-10-06T20:11:38.572910569Z",
+                        "End": "2024-10-06T20:11:38.67049243Z",
+                        "ExitCode": 0,
+                        "Output": "Ok"
+                    }
+                ]
+            }
+        },
+        "Image": "sha256:60ca616abcf513b577177ae1b261f41dbba056d5449c2de50f0442ee42ae0b7e",
+        "ResolvConfPath": "/var/lib/docker/containers/ddd67694861620b00057b5db378e9e33d3f34a8ec92bf5df48e040e730f3a925/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/ddd67694861620b00057b5db378e9e33d3f34a8ec92bf5df48e040e730f3a925/hostname",
+        "HostsPath": "/var/lib/docker/containers/ddd67694861620b00057b5db378e9e33d3f34a8ec92bf5df48e040e730f3a925/hosts",
+        "LogPath": "/var/lib/docker/containers/ddd67694861620b00057b5db378e9e33d3f34a8ec92bf5df48e040e730f3a925/ddd67694861620b00057b5db378e9e33d3f34a8ec92bf5df48e040e730f3a925-json.log",
+        "Name": "/kavita",
+        "RestartCount": 7,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [
+                "/home/rshah17/drive2/Manga_pub:/manga",
+                "/home/rshah17/drive2/Comics_pub:/comics",
+                "/home/rshah17/drive2/Library_pub:/books",
+                "/home/rshah17/drive2/kavita:/kavita/config"
+            ],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "bridge",
+            "PortBindings": {
+                "5000/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "5000"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "unless-stopped",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": null,
+            "ConsoleSize": [
+                24,
+                80
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": [],
+            "DnsOptions": [],
+            "DnsSearch": [],
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 0,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": [],
+            "BlkioDeviceReadBps": [],
+            "BlkioDeviceWriteBps": [],
+            "BlkioDeviceReadIOps": [],
+            "BlkioDeviceWriteIOps": [],
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": [],
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 0,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": [],
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/f683794d3cec0c257fbb8a8d5f1c79a32ff99a0ec3e2f52531761ca288daf6f5-init/diff:/var/lib/docker/overlay2/7c545c3ffe7db1365c532ed02ad22e5e26e8b0d24582866f6ae3f6425b2abceb/diff:/var/lib/docker/overlay2/2a7249a907b81794c7624914a45fb8535d68846aa2676ae762efd6820f450612/diff:/var/lib/docker/overlay2/5eb930c40910344c10916beca2019b02d117200f6743284c5b2a29bb50e35196/diff:/var/lib/docker/overlay2/7cdbaaa576edcbd7ed9e98ebfc7bafe5b4394865abbea833cdc6a240171b1cdf/diff:/var/lib/docker/overlay2/cd57fe6e17fee6eb4130d7aa8738071099c0babc5a1be27c95ca92e4d014b9fa/diff:/var/lib/docker/overlay2/39f0a07e7f6ef10934bd61ef2c6562d58d0679fc6373dffb4fc84718163ae3c4/diff:/var/lib/docker/overlay2/9ce28f5a72b982e2b07edbd83c988bc8ca6bd9957a2945519ccd1f2618446393/diff:/var/lib/docker/overlay2/dcfee14a1b39cf263d7d0370e33d8a48211d2cc0b46231d324d48c50fc04acc4/diff",
+                "MergedDir": "/var/lib/docker/overlay2/f683794d3cec0c257fbb8a8d5f1c79a32ff99a0ec3e2f52531761ca288daf6f5/merged",
+                "UpperDir": "/var/lib/docker/overlay2/f683794d3cec0c257fbb8a8d5f1c79a32ff99a0ec3e2f52531761ca288daf6f5/diff",
+                "WorkDir": "/var/lib/docker/overlay2/f683794d3cec0c257fbb8a8d5f1c79a32ff99a0ec3e2f52531761ca288daf6f5/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [
+            {
+                "Type": "bind",
+                "Source": "/home/rshah17/drive2/Manga_pub",
+                "Destination": "/manga",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/home/rshah17/drive2/Library_pub",
+                "Destination": "/books",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/home/rshah17/drive2/Comics_pub",
+                "Destination": "/comics",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/home/rshah17/drive2/kavita",
+                "Destination": "/kavita/config",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            }
+        ],
+        "Config": {
+            "Hostname": "ddd676948616",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "5000/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "TZ=NewYork",
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "DOTNET_RUNNING_IN_CONTAINER=true"
+            ],
+            "Cmd": [
+                "/entrypoint.sh"
+            ],
+            "Healthcheck": {
+                "Test": [
+                    "CMD-SHELL",
+                    "curl -fsS http://localhost:5000/api/health || exit 1"
+                ],
+                "Interval": 30000000000,
+                "Timeout": 15000000000,
+                "StartPeriod": 30000000000,
+                "Retries": 3
+            },
+            "Image": "jvmilazz0/kavita:latest",
+            "Volumes": null,
+            "WorkingDir": "/kavita",
+            "Entrypoint": [
+                "/bin/bash"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "org.opencontainers.image.ref.name": "ubuntu",
+                "org.opencontainers.image.version": "20.04"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "3f86af28a4e73a45b6c6a30bac19d0ca4a453e2f31b80e43f230cdcaa9f6af25",
+            "SandboxKey": "/var/run/docker/netns/3f86af28a4e7",
+            "Ports": {
+                "5000/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "5000"
+                    }
+                ]
+            },
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "8265dabec2faee2309a531b6d08c81a7b7910e71e3ed73aa24e122745b25c28b",
+            "Gateway": "172.17.0.1",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "172.17.0.2",
+            "IPPrefixLen": 16,
+            "IPv6Gateway": "",
+            "MacAddress": "02:42:ac:11:00:02",
+            "Networks": {
+                "bridge": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": null,
+                    "MacAddress": "02:42:ac:11:00:02",
+                    "DriverOpts": null,
+                    "NetworkID": "95ee712b38931bdfed92d687b6fce19beeed666ff59dcf362914cc361ea4fc63",
+                    "EndpointID": "8265dabec2faee2309a531b6d08c81a7b7910e71e3ed73aa24e122745b25c28b",
+                    "Gateway": "172.17.0.1",
+                    "IPAddress": "172.17.0.2",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DNSNames": null
+                }
+            }
+        }
+    }
+]

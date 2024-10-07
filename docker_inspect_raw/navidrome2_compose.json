@@ -1,0 +1,255 @@
+[
+    {
+        "Id": "768138f4a2524a6497b0ff9147cb79566f2aacf813f00dd25f44806d4f662276",
+        "Created": "2024-09-08T19:32:55.967367248Z",
+        "Path": "/app/navidrome",
+        "Args": [],
+        "State": {
+            "Status": "created",
+            "Running": false,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 0,
+            "ExitCode": 128,
+            "Error": "network navidrome_default not found",
+            "StartedAt": "0001-01-01T00:00:00Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:59f3c0949a3150359677d6a61785a39b4b713fa8a6a761f3f4ddc530ffe13c1f",
+        "ResolvConfPath": "",
+        "HostnamePath": "",
+        "HostsPath": "",
+        "LogPath": "",
+        "Name": "/youthful_lederberg",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [
+                "/home/rshah17/drive1/Music_data:/data:rw",
+                "/home/rshah17/drive1/Music:/music:ro"
+            ],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "navidrome_default",
+            "PortBindings": {
+                "4533/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "4533"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "unless-stopped",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": null,
+            "ConsoleSize": [
+                43,
+                190
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": [],
+            "DnsOptions": [],
+            "DnsSearch": [],
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 0,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": [],
+            "BlkioDeviceReadBps": [],
+            "BlkioDeviceWriteBps": [],
+            "BlkioDeviceReadIOps": [],
+            "BlkioDeviceWriteIOps": [],
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": [],
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 0,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": [],
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/f9ac09e57d2d552c2a260e2a2afca68b508dfcb8915c09c175e727a73d31cceb-init/diff:/var/lib/docker/overlay2/2ae598ef909fe0e1defb70c1edfd88dc924f4a514e47f2ca42cf7c20e7f12c82/diff:/var/lib/docker/overlay2/eeaa7fb610947cb58226a500a5840ba41ae78d1a74b3ee2f260dda5eab3f094f/diff:/var/lib/docker/overlay2/419f272e1c39ce5f60ce6684628f516db63b9f58c688cde41915535a668ca08b/diff:/var/lib/docker/overlay2/96016f21678d9f024b261c64d8ce13e532847b4c8126a7beb4457413ab46a0d4/diff:/var/lib/docker/overlay2/fbc133b0950506ebebf7e7af09d8dbda0219c5386dabcd6efb42b6efe16bc9ba/diff",
+                "MergedDir": "/var/lib/docker/overlay2/f9ac09e57d2d552c2a260e2a2afca68b508dfcb8915c09c175e727a73d31cceb/merged",
+                "UpperDir": "/var/lib/docker/overlay2/f9ac09e57d2d552c2a260e2a2afca68b508dfcb8915c09c175e727a73d31cceb/diff",
+                "WorkDir": "/var/lib/docker/overlay2/f9ac09e57d2d552c2a260e2a2afca68b508dfcb8915c09c175e727a73d31cceb/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [
+            {
+                "Type": "bind",
+                "Source": "/home/rshah17/drive1/Music_data",
+                "Destination": "/data",
+                "Mode": "rw",
+                "RW": true,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/home/rshah17/drive1/Music",
+                "Destination": "/music",
+                "Mode": "ro",
+                "RW": false,
+                "Propagation": "rprivate"
+            }
+        ],
+        "Config": {
+            "Hostname": "f9663df3e626",
+            "Domainname": "",
+            "User": "1000:1000",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "4533/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "ND_SESSIONTIMEOUT=24h",
+                "ND_DATAFOLDER=/data",
+                "ND_PORT=4533",
+                "GODEBUG=asyncpreemptoff=1",
+                "ND_SCANSCHEDULE=1h",
+                "ND_LOGLEVEL=info",
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "ND_MUSICFOLDER=/music",
+                "ND_BASEURL="
+            ],
+            "Cmd": null,
+            "Healthcheck": {
+                "Test": [
+                    "CMD-SHELL",
+                    "wget -O- http://localhost:${ND_PORT}/ping || exit 1"
+                ]
+            },
+            "Image": "deluan/navidrome:latest",
+            "Volumes": {
+                "/data": {},
+                "/music": {}
+            },
+            "WorkingDir": "/app",
+            "Entrypoint": [
+                "/app/navidrome"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "f8e414d33000d2de9f299bc0242fd357e3c5c0a5bfc5ad3e6b84d81339076e93",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.depends_on": "",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "navidrome",
+                "com.docker.compose.project.config_files": "/home/rshah17/drive1/Navidrome/docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/rshah17/drive1/Navidrome",
+                "com.docker.compose.service": "navidrome",
+                "com.docker.compose.version": "2.6.1",
+                "desktop.docker.io/wsl-distro": "Ubuntu",
+                "maintainer": "deluan@navidrome.org"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "",
+            "SandboxKey": "",
+            "Ports": {},
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "navidrome_default": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": null,
+                    "MacAddress": "",
+                    "DriverOpts": null,
+                    "NetworkID": "",
+                    "EndpointID": "",
+                    "Gateway": "",
+                    "IPAddress": "",
+                    "IPPrefixLen": 0,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DNSNames": null
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,319 @@
+[
+    {
+        "Id": "ea69d4176e06c1d45e199d32398a8df49887e14e09177938c1a31d9e6500763b",
+        "Created": "2024-09-08T19:24:42.77915787Z",
+        "Path": "/jellyfin/jellyfin",
+        "Args": [],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 871,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-09-29T04:41:56.138934704Z",
+            "FinishedAt": "2024-09-26T23:22:55.599927321Z",
+            "Health": {
+                "Status": "healthy",
+                "FailingStreak": 0,
+                "Log": [
+                    {
+                        "Start": "2024-10-06T20:11:59.048915705Z",
+                        "End": "2024-10-06T20:11:59.14771526Z",
+                        "ExitCode": 0,
+                        "Output": "Healthy"
+                    },
+                    {
+                        "Start": "2024-10-06T20:12:29.1479599Z",
+                        "End": "2024-10-06T20:12:29.217109073Z",
+                        "ExitCode": 0,
+                        "Output": "Healthy"
+                    },
+                    {
+                        "Start": "2024-10-06T20:12:59.219388679Z",
+                        "End": "2024-10-06T20:12:59.303580494Z",
+                        "ExitCode": 0,
+                        "Output": "Healthy"
+                    },
+                    {
+                        "Start": "2024-10-06T20:13:29.303591816Z",
+                        "End": "2024-10-06T20:13:29.383245712Z",
+                        "ExitCode": 0,
+                        "Output": "Healthy"
+                    },
+                    {
+                        "Start": "2024-10-06T20:13:59.385157295Z",
+                        "End": "2024-10-06T20:13:59.446367171Z",
+                        "ExitCode": 0,
+                        "Output": "Healthy"
+                    }
+                ]
+            }
+        },
+        "Image": "sha256:ff07fd8b5b7e4df2226df69435bc1d2b734d6f413af1584b517d26e0e40ffe43",
+        "ResolvConfPath": "/var/lib/docker/containers/ea69d4176e06c1d45e199d32398a8df49887e14e09177938c1a31d9e6500763b/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/ea69d4176e06c1d45e199d32398a8df49887e14e09177938c1a31d9e6500763b/hostname",
+        "HostsPath": "/var/lib/docker/containers/ea69d4176e06c1d45e199d32398a8df49887e14e09177938c1a31d9e6500763b/hosts",
+        "LogPath": "/var/lib/docker/containers/ea69d4176e06c1d45e199d32398a8df49887e14e09177938c1a31d9e6500763b/ea69d4176e06c1d45e199d32398a8df49887e14e09177938c1a31d9e6500763b-json.log",
+        "Name": "/jellyfin",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [
+                "/home/rshah17/drive1/Jellyfin/config:/config",
+                "/home/rshah17/drive1/Jellyfin/cache:/cache"
+            ],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "bridge",
+            "PortBindings": {
+                "8096/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "8096"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "unless-stopped",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": null,
+            "ConsoleSize": [
+                43,
+                190
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": [],
+            "DnsOptions": [],
+            "DnsSearch": [],
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 0,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": [],
+            "BlkioDeviceReadBps": [],
+            "BlkioDeviceWriteBps": [],
+            "BlkioDeviceReadIOps": [],
+            "BlkioDeviceWriteIOps": [],
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": [],
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 0,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": [],
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "Mounts": [
+                {
+                    "Type": "bind",
+                    "Source": "/home/rshah17/drive1/Watchable_Media",
+                    "Target": "/media"
+                }
+            ],
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/5eeb491d2bc47f7831dff0f40743a1579b36e101e37624953c7f93979b0dbd26-init/diff:/var/lib/docker/overlay2/5b413ee9497f0ad43690e3d58bc146689ecb8778243b14cc803a4c0a8387f07b/diff:/var/lib/docker/overlay2/69489d4a228ef9b68ce83549cf8e5888f20bf4170e65b35dc3449b83f2862cc1/diff:/var/lib/docker/overlay2/55921e5cfeb8173571ed1c778822081ffb467a0c3ff1016147e4974c123966a5/diff:/var/lib/docker/overlay2/517abb556944edebd1adf5dc6a20b25ef8e1e4ce0db490589938fc7dc2903683/diff:/var/lib/docker/overlay2/b649bad54e52ecfd720acef6ec717c3c4d94f1a16415831837deada75d49e220/diff:/var/lib/docker/overlay2/2b9ec1c01dda35a8b0090b784564f11a2dd0eb5d55cd94981db9d3a110870875/diff:/var/lib/docker/overlay2/e37e8bf4ec2411ff48cc210c15df9f0e75587d95073cd6adcbfe0e5236b170a1/diff:/var/lib/docker/overlay2/5343458cb5ca7386d025bbed15056578284e50c473bb622c4856035f704fafe8/diff",
+                "MergedDir": "/var/lib/docker/overlay2/5eeb491d2bc47f7831dff0f40743a1579b36e101e37624953c7f93979b0dbd26/merged",
+                "UpperDir": "/var/lib/docker/overlay2/5eeb491d2bc47f7831dff0f40743a1579b36e101e37624953c7f93979b0dbd26/diff",
+                "WorkDir": "/var/lib/docker/overlay2/5eeb491d2bc47f7831dff0f40743a1579b36e101e37624953c7f93979b0dbd26/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [
+            {
+                "Type": "bind",
+                "Source": "/home/rshah17/drive1/Jellyfin/cache",
+                "Destination": "/cache",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/home/rshah17/drive1/Jellyfin/config",
+                "Destination": "/config",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            },
+            {
+                "Type": "bind",
+                "Source": "/home/rshah17/drive1/Watchable_Media",
+                "Destination": "/media",
+                "Mode": "",
+                "RW": true,
+                "Propagation": "rprivate"
+            }
+        ],
+        "Config": {
+            "Hostname": "ea69d4176e06",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "8096/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "HEALTHCHECK_URL=http://localhost:8096/health",
+                "DEBIAN_FRONTEND=noninteractive",
+                "LC_ALL=en_US.UTF-8",
+                "LANG=en_US.UTF-8",
+                "LANGUAGE=en_US:en",
+                "JELLYFIN_DATA_DIR=/config",
+                "JELLYFIN_CACHE_DIR=/cache",
+                "JELLYFIN_CONFIG_DIR=/config/config",
+                "JELLYFIN_LOG_DIR=/config/log",
+                "JELLYFIN_WEB_DIR=/jellyfin/jellyfin-web",
+                "JELLYFIN_FFMPEG=/usr/lib/jellyfin-ffmpeg/ffmpeg",
+                "XDG_CACHE_HOME=/cache",
+                "MALLOC_TRIM_THRESHOLD_=131072",
+                "NVIDIA_VISIBLE_DEVICES=all",
+                "NVIDIA_DRIVER_CAPABILITIES=compute,video,utility"
+            ],
+            "Cmd": null,
+            "Healthcheck": {
+                "Test": [
+                    "CMD-SHELL",
+                    "curl -Lk -fsS \"${HEALTHCHECK_URL}\" || exit 1"
+                ],
+                "Interval": 30000000000,
+                "Timeout": 30000000000,
+                "StartPeriod": 10000000000,
+                "Retries": 3
+            },
+            "Image": "jellyfin/jellyfin",
+            "Volumes": {
+                "/cache": {},
+                "/config": {}
+            },
+            "WorkingDir": "",
+            "Entrypoint": [
+                "/jellyfin/jellyfin"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "org.opencontainers.image.description": "The Free Software Media System",
+                "org.opencontainers.image.documentation": "https://jellyfin.org/docs/",
+                "org.opencontainers.image.source": "https://github.com/jellyfin/jellyfin",
+                "org.opencontainers.image.title": "Jellyfin",
+                "org.opencontainers.image.url": "https://jellyfin.org",
+                "org.opencontainers.image.version": "10.9.10"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "89181f7bf28f55ebfbfcfbdf7bb92cf57bba1804b819b01f74b6438e66977d8a",
+            "SandboxKey": "/var/run/docker/netns/89181f7bf28f",
+            "Ports": {
+                "8096/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "8096"
+                    }
+                ]
+            },
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "adc4b2e1eecfdbb1ee56fb0080661c8a2aec6846346a99cf45730adf53e1ffb9",
+            "Gateway": "172.17.0.1",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "172.17.0.4",
+            "IPPrefixLen": 16,
+            "IPv6Gateway": "",
+            "MacAddress": "02:42:ac:11:00:04",
+            "Networks": {
+                "bridge": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": null,
+                    "MacAddress": "02:42:ac:11:00:04",
+                    "DriverOpts": null,
+                    "NetworkID": "95ee712b38931bdfed92d687b6fce19beeed666ff59dcf362914cc361ea4fc63",
+                    "EndpointID": "adc4b2e1eecfdbb1ee56fb0080661c8a2aec6846346a99cf45730adf53e1ffb9",
+                    "Gateway": "172.17.0.1",
+                    "IPAddress": "172.17.0.4",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DNSNames": null
+                }
+            }
+        }
+    }
+]
