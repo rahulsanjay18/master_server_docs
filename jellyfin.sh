@@ -1,0 +1,1 @@
+sudo docker run -d --name jellyfin -p 8096:8096 -v /media/rshah17/Drive\ 11/Jellyfin/config:/config -v /home/rshah17/Drive\ 11/Jellyfin/cache:/cache --mount "type=bind,source=/media/rshah17/Drive 11/Watchable_Media/,target=/media" --restart=unless-stopped jellyfin/jellyfin
