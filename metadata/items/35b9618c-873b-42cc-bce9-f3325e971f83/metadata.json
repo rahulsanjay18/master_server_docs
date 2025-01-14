@@ -1,0 +1,376 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 18.784,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 18.784,
+      "end": 1187.027,
+      "title": "1. Warring Premonitions"
+    },
+    {
+      "id": 2,
+      "start": 1187.027,
+      "end": 2089.703,
+      "title": "2. Ultimatum"
+    },
+    {
+      "id": 3,
+      "start": 2089.703,
+      "end": 2838.221,
+      "title": "3. What War Means for Everyone"
+    },
+    {
+      "id": 4,
+      "start": 2838.221,
+      "end": 3993.878,
+      "title": "4. Unexpectedly"
+    },
+    {
+      "id": 5,
+      "start": 3993.878,
+      "end": 4839.363,
+      "title": "5. Numbers Behind Age"
+    },
+    {
+      "id": 6,
+      "start": 4839.363,
+      "end": 5866.405,
+      "title": "6. Invaluable Allies"
+    },
+    {
+      "id": 7,
+      "start": 5866.405,
+      "end": 6825.644,
+      "title": "7. From the Balcony"
+    },
+    {
+      "id": 8,
+      "start": 6825.644,
+      "end": 7693.653,
+      "title": "8. Speech and Statement"
+    },
+    {
+      "id": 9,
+      "start": 7693.653,
+      "end": 8448.092,
+      "title": "9. Role"
+    },
+    {
+      "id": 10,
+      "start": 8448.092,
+      "end": 9226.263,
+      "title": "10. First Assignment"
+    },
+    {
+      "id": 11,
+      "start": 9226.263,
+      "end": 10036.825,
+      "title": "11. A Simple Cook"
+    },
+    {
+      "id": 12,
+      "start": 10036.825,
+      "end": 11142.954,
+      "title": "12. Rumination"
+    },
+    {
+      "id": 13,
+      "start": 11142.954,
+      "end": 11975.645,
+      "title": "13. Morning After"
+    },
+    {
+      "id": 14,
+      "start": 11975.645,
+      "end": 12838.846,
+      "title": "14. Way of Magic"
+    },
+    {
+      "id": 15,
+      "start": 12838.846,
+      "end": 13773.589,
+      "title": "15. A Normal Soldier"
+    },
+    {
+      "id": 16,
+      "start": 13773.589,
+      "end": 14646.427,
+      "title": "16. Changing Tides"
+    },
+    {
+      "id": 17,
+      "start": 14646.427,
+      "end": 15709.855,
+      "title": "17. Why I’m Here"
+    },
+    {
+      "id": 18,
+      "start": 15709.855,
+      "end": 16642.368,
+      "title": "18. A Lance’s Battle"
+    },
+    {
+      "id": 19,
+      "start": 16642.368,
+      "end": 17627.637,
+      "title": "19. Pinnacle’s Height"
+    },
+    {
+      "id": 20,
+      "start": 17627.637,
+      "end": 18444.236,
+      "title": "20. Covert"
+    },
+    {
+      "id": 21,
+      "start": 18444.236,
+      "end": 19372.779,
+      "title": "21. Down Within"
+    },
+    {
+      "id": 22,
+      "start": 19372.779,
+      "end": 20412.36,
+      "title": "22. Healing Procedure"
+    },
+    {
+      "id": 23,
+      "start": 20412.36,
+      "end": 21376.174,
+      "title": "23. Why Are You Crying?"
+    },
+    {
+      "id": 24,
+      "start": 21376.174,
+      "end": 22148.678,
+      "title": "24. Intermission"
+    },
+    {
+      "id": 25,
+      "start": 22148.678,
+      "end": 23136.92,
+      "title": "25. From Lance to Brother"
+    },
+    {
+      "id": 26,
+      "start": 23136.92,
+      "end": 24232.901,
+      "title": "26. Old Face"
+    },
+    {
+      "id": 27,
+      "start": 24232.901,
+      "end": 25145.631,
+      "title": "27. Center of Attention"
+    },
+    {
+      "id": 28,
+      "start": 25145.631,
+      "end": 26213.842,
+      "title": "28. Meaning"
+    },
+    {
+      "id": 29,
+      "start": 26213.842,
+      "end": 27101.82,
+      "title": "29. The Confidence To"
+    },
+    {
+      "id": 30,
+      "start": 27101.82,
+      "end": 27904.325,
+      "title": "30. View from the Sky"
+    },
+    {
+      "id": 31,
+      "start": 27904.325,
+      "end": 28738.919,
+      "title": "31. A Dwarven Night"
+    },
+    {
+      "id": 32,
+      "start": 28738.919,
+      "end": 29544.652,
+      "title": "32. Old Roots"
+    },
+    {
+      "id": 33,
+      "start": 29544.652,
+      "end": 30313.906,
+      "title": "33. Inside the Tavern"
+    },
+    {
+      "id": 34,
+      "start": 30313.906,
+      "end": 31176.852,
+      "title": "34. Inside the Tavern II"
+    },
+    {
+      "id": 35,
+      "start": 31176.852,
+      "end": 32214.97,
+      "title": "35. Conducting Business"
+    },
+    {
+      "id": 36,
+      "start": 32214.97,
+      "end": 33349.474,
+      "title": "36. Mother Earth's Embrace"
+    },
+    {
+      "id": 37,
+      "start": 33349.474,
+      "end": 34774.18,
+      "title": "37. Appeared"
+    },
+    {
+      "id": 38,
+      "start": 34774.18,
+      "end": 35628.907,
+      "title": "38. The First Scythe"
+    },
+    {
+      "id": 39,
+      "start": 35628.907,
+      "end": 36930.919,
+      "title": "39. Greying Glimpse"
+    },
+    {
+      "id": 40,
+      "start": 36930.919,
+      "end": 38068.651,
+      "title": "40. Strategic Conduct"
+    },
+    {
+      "id": 41,
+      "start": 38068.651,
+      "end": 39077.302,
+      "title": "41. Landship"
+    },
+    {
+      "id": 42,
+      "start": 39077.302,
+      "end": 39994.467,
+      "title": "42. Alacryan Glimpse"
+    },
+    {
+      "id": 43,
+      "start": 39994.467,
+      "end": 41068.692,
+      "title": "43. Gadgets and Magic"
+    },
+    {
+      "id": 44,
+      "start": 41068.692,
+      "end": 42091.508,
+      "title": "44. Elders’ Assessment"
+    },
+    {
+      "id": 45,
+      "start": 42091.508,
+      "end": 43147.064,
+      "title": "45. Measuring Magic"
+    },
+    {
+      "id": 46,
+      "start": 43147.064,
+      "end": 44230.739,
+      "title": "46. Aspect of Unpredictability"
+    },
+    {
+      "id": 47,
+      "start": 44230.739,
+      "end": 45096.124,
+      "title": "47. Guest Teacher"
+    },
+    {
+      "id": 48,
+      "start": 45096.124,
+      "end": 45850.888,
+      "title": "48. Beauty in Magic"
+    },
+    {
+      "id": 49,
+      "start": 45850.888,
+      "end": 46823.038,
+      "title": "49. Offensive Mindset"
+    },
+    {
+      "id": 50,
+      "start": 46823.038,
+      "end": 47898.656,
+      "title": "50. Dragon Steps"
+    },
+    {
+      "id": 51,
+      "start": 47898.656,
+      "end": 49158.106,
+      "title": "51. Inside the Vault"
+    },
+    {
+      "id": 52,
+      "start": 49158.106,
+      "end": 50050.681,
+      "title": "52. Solitary Mindframe"
+    },
+    {
+      "id": 53,
+      "start": 50050.681,
+      "end": 51415.806,
+      "title": "53. Magical Percentile"
+    },
+    {
+      "id": 54,
+      "start": 51415.806,
+      "end": 52573.692,
+      "title": "54. Eat, Drink, Be Merry"
+    },
+    {
+      "id": 55,
+      "start": 52573.692,
+      "end": 53544.031,
+      "title": "55. Broken Seal"
+    },
+    {
+      "id": 56,
+      "start": 53544.031,
+      "end": 54662.884,
+      "title": "56. Man Behind the Veil"
+    },
+    {
+      "id": 57,
+      "start": 54662.884,
+      "end": 54718.892,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "The Beginning After the End, Vol. 06: Transcendence",
+  "subtitle": null,
+  "authors": [
+    "Travis Baldree"
+  ],
+  "narrators": [
+    "Tae Ha Lee"
+  ],
+  "series": [
+    "The Beginning After the End #06"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "June 5, 2019 (08-11-20)",
+  "publishedDate": null,
+  "publisher": "Podium Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

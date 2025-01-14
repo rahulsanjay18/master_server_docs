@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=The Right Turn (Unwelcome Guests)
+artist=Noam Chomsky
+album_artist=Noam Chomsky
+album=The Right Turn (Unwelcome Guests)
+genre=Books & Spoken
+TRACKTOTAL=1
+grouping=Various Interviews and Talks

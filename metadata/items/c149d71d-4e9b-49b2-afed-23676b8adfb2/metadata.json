@@ -1,0 +1,88 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 42,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 42,
+      "end": 246,
+      "title": "PROLOGUE"
+    },
+    {
+      "id": 2,
+      "start": 246,
+      "end": 3431,
+      "title": "CHAPTER 01: THE HIDDEN"
+    },
+    {
+      "id": 3,
+      "start": 3431,
+      "end": 6233,
+      "title": "CHAPTER 02: EYES THAT GLEAM IN THE DARK"
+    },
+    {
+      "id": 4,
+      "start": 6233,
+      "end": 8624,
+      "title": "CHAPTER 03: THE LIVING DESERT"
+    },
+    {
+      "id": 5,
+      "start": 8624,
+      "end": 11523,
+      "title": "CHAPTER 04: PSI ATTACK"
+    },
+    {
+      "id": 6,
+      "start": 11523,
+      "end": 14532,
+      "title": "CHAPTER 05: THE DARK FOREST"
+    },
+    {
+      "id": 7,
+      "start": 14532,
+      "end": 18840,
+      "title": "CHAPTER 06: MELODY OF DESTRUCTION"
+    },
+    {
+      "id": 8,
+      "start": 18840,
+      "end": 18927,
+      "title": "Outro - Ending Credits ☕"
+    },
+    {
+      "id": 9,
+      "start": 18927,
+      "end": 19207,
+      "title": "Outro - Advertisements"
+    }
+  ],
+  "title": "Vampire Hunter D, Vol. 06: Pilgrimage of the Sacred and the Profane",
+  "subtitle": null,
+  "authors": [
+    "Full Cast"
+  ],
+  "narrators": [
+    "Hideyuki Kikuchi"
+  ],
+  "series": [
+    "Vampire Hunter D #06"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1988 (09-01-22)",
+  "publishedDate": null,
+  "publisher": "Graphic Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

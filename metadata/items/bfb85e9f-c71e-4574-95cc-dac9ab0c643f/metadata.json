@@ -1,0 +1,478 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 27.531995,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 27.531995,
+      "end": 2062.046984,
+      "title": "Chapter One"
+    },
+    {
+      "id": 2,
+      "start": 2062.046984,
+      "end": 3086.487982,
+      "title": "Chapter Two"
+    },
+    {
+      "id": 3,
+      "start": 3086.487982,
+      "end": 4254.590975,
+      "title": "Chapter Three"
+    },
+    {
+      "id": 4,
+      "start": 4254.590975,
+      "end": 5496.021973,
+      "title": "Chapter Four"
+    },
+    {
+      "id": 5,
+      "start": 5496.021973,
+      "end": 6461.019955,
+      "title": "Chapter Five"
+    },
+    {
+      "id": 6,
+      "start": 6461.019955,
+      "end": 7827.350952,
+      "title": "Chapter Six"
+    },
+    {
+      "id": 7,
+      "start": 7827.350952,
+      "end": 8789.747937,
+      "title": "Chapter Seven"
+    },
+    {
+      "id": 8,
+      "start": 8789.747937,
+      "end": 10238.95093,
+      "title": "Chapter Eight"
+    },
+    {
+      "id": 9,
+      "start": 10238.95093,
+      "end": 11861.978912,
+      "title": "Chapter Nine"
+    },
+    {
+      "id": 10,
+      "start": 11861.978912,
+      "end": 12627.354898,
+      "title": "Chapter Ten"
+    },
+    {
+      "id": 11,
+      "start": 12627.354898,
+      "end": 13784.241882,
+      "title": "Chapter Eleven"
+    },
+    {
+      "id": 12,
+      "start": 13784.241882,
+      "end": 14839.495873,
+      "title": "Chapter Twelve"
+    },
+    {
+      "id": 13,
+      "start": 14839.495873,
+      "end": 16153.349864,
+      "title": "Chapter Thirteen"
+    },
+    {
+      "id": 14,
+      "start": 16153.349864,
+      "end": 17063.896848,
+      "title": "Chapter Fourteen"
+    },
+    {
+      "id": 15,
+      "start": 17063.896848,
+      "end": 18363.981837,
+      "title": "Chapter Fifteen"
+    },
+    {
+      "id": 16,
+      "start": 18363.981837,
+      "end": 19148.908821,
+      "title": "Chapter Sixteen"
+    },
+    {
+      "id": 17,
+      "start": 19148.908821,
+      "end": 20226.569819,
+      "title": "Chapter Seventeen"
+    },
+    {
+      "id": 18,
+      "start": 20226.569819,
+      "end": 21303.440816,
+      "title": "Chapter Eighteen"
+    },
+    {
+      "id": 19,
+      "start": 21303.440816,
+      "end": 22786.150816,
+      "title": "Chapter Nineteen"
+    },
+    {
+      "id": 20,
+      "start": 22786.150816,
+      "end": 23448.174807,
+      "title": "Chapter Twenty"
+    },
+    {
+      "id": 21,
+      "start": 23448.174807,
+      "end": 24798.971791,
+      "title": "Chapter Twenty-One"
+    },
+    {
+      "id": 22,
+      "start": 24798.971791,
+      "end": 25516.885782,
+      "title": "Chapter Twenty-Two"
+    },
+    {
+      "id": 23,
+      "start": 25516.885782,
+      "end": 26920.972766,
+      "title": "Chapter Twenty-Three"
+    },
+    {
+      "id": 24,
+      "start": 26920.972766,
+      "end": 27783.89576,
+      "title": "Chapter Twenty-Four"
+    },
+    {
+      "id": 25,
+      "start": 27783.89576,
+      "end": 28921.370748,
+      "title": "Chapter Twenty-Five"
+    },
+    {
+      "id": 26,
+      "start": 28921.370748,
+      "end": 29891.221746,
+      "title": "Chapter Twenty-Six"
+    },
+    {
+      "id": 27,
+      "start": 29891.221746,
+      "end": 31186.360726,
+      "title": "Chapter Twenty-Seven"
+    },
+    {
+      "id": 28,
+      "start": 31186.360726,
+      "end": 32088.176712,
+      "title": "Chapter Twenty-Eight"
+    },
+    {
+      "id": 29,
+      "start": 32088.176712,
+      "end": 33501.59771,
+      "title": "Chapter Twenty-Nine"
+    },
+    {
+      "id": 30,
+      "start": 33501.59771,
+      "end": 34286.431701,
+      "title": "Chapter Thirty"
+    },
+    {
+      "id": 31,
+      "start": 34286.431701,
+      "end": 35701.06068,
+      "title": "Chapter Thirty-One"
+    },
+    {
+      "id": 32,
+      "start": 35701.06068,
+      "end": 36451.854671,
+      "title": "Chapter Thirty-Two"
+    },
+    {
+      "id": 33,
+      "start": 36451.854671,
+      "end": 37845.074671,
+      "title": "Chapter Thirty-Three"
+    },
+    {
+      "id": 34,
+      "start": 37845.074671,
+      "end": 38652.26966,
+      "title": "Chapter Thirty-Four"
+    },
+    {
+      "id": 35,
+      "start": 38652.26966,
+      "end": 40059.142653,
+      "title": "Chapter Thirty-Five"
+    },
+    {
+      "id": 36,
+      "start": 40059.142653,
+      "end": 40781.770635,
+      "title": "Chapter Thirty-Six"
+    },
+    {
+      "id": 37,
+      "start": 40781.770635,
+      "end": 41786.033628,
+      "title": "Chapter Thirty-Seven"
+    },
+    {
+      "id": 38,
+      "start": 41786.033628,
+      "end": 43068.633605,
+      "title": "Chapter Thirty-Eight"
+    },
+    {
+      "id": 39,
+      "start": 43068.633605,
+      "end": 43914.048594,
+      "title": "Chapter Thirty-Nine"
+    },
+    {
+      "id": 40,
+      "start": 43914.048594,
+      "end": 44950.749592,
+      "title": "Chapter Forty"
+    },
+    {
+      "id": 41,
+      "start": 44950.749592,
+      "end": 45918.858571,
+      "title": "Chapter Forty-One"
+    },
+    {
+      "id": 42,
+      "start": 45918.858571,
+      "end": 47216.969569,
+      "title": "Chapter Forty-Two"
+    },
+    {
+      "id": 43,
+      "start": 47216.969569,
+      "end": 48064.218549,
+      "title": "Chapter Forty-Three"
+    },
+    {
+      "id": 44,
+      "start": 48064.218549,
+      "end": 49254.310544,
+      "title": "Chapter Forty-Four"
+    },
+    {
+      "id": 45,
+      "start": 49254.310544,
+      "end": 50168.108526,
+      "title": "Chapter Forty-Five"
+    },
+    {
+      "id": 46,
+      "start": 50168.108526,
+      "end": 51508.131519,
+      "title": "Chapter Forty-Six"
+    },
+    {
+      "id": 47,
+      "start": 51508.131519,
+      "end": 52289.807506,
+      "title": "Chapter Forty-Seven"
+    },
+    {
+      "id": 48,
+      "start": 52289.807506,
+      "end": 53591.471497,
+      "title": "Chapter Forty-Eight"
+    },
+    {
+      "id": 49,
+      "start": 53591.471497,
+      "end": 54426.205488,
+      "title": "Chapter Forty-Nine"
+    },
+    {
+      "id": 50,
+      "start": 54426.205488,
+      "end": 55748.279478,
+      "title": "Chapter Fifty"
+    },
+    {
+      "id": 51,
+      "start": 55748.279478,
+      "end": 56666.04746,
+      "title": "Chapter Fifty-One"
+    },
+    {
+      "id": 52,
+      "start": 56666.04746,
+      "end": 57997.479456,
+      "title": "Chapter Fifty-Two"
+    },
+    {
+      "id": 53,
+      "start": 57997.479456,
+      "end": 58827.244444,
+      "title": "Chapter Fifty-Three"
+    },
+    {
+      "id": 54,
+      "start": 58827.244444,
+      "end": 60152.847438,
+      "title": "Chapter Fifty-Four"
+    },
+    {
+      "id": 55,
+      "start": 60152.847438,
+      "end": 60886.481429,
+      "title": "Chapter Fifty-Five"
+    },
+    {
+      "id": 56,
+      "start": 60886.481429,
+      "end": 62229.290408,
+      "title": "Chapter Fifty-Six"
+    },
+    {
+      "id": 57,
+      "start": 62229.290408,
+      "end": 62964.10839,
+      "title": "Chapter Fifty-Seven"
+    },
+    {
+      "id": 58,
+      "start": 62964.10839,
+      "end": 64231.592381,
+      "title": "Chapter Fifty-Eight"
+    },
+    {
+      "id": 59,
+      "start": 64231.592381,
+      "end": 65058.826372,
+      "title": "Chapter Fifty-Nine"
+    },
+    {
+      "id": 60,
+      "start": 65058.826372,
+      "end": 66401.380363,
+      "title": "Chapter Sixty"
+    },
+    {
+      "id": 61,
+      "start": 66401.380363,
+      "end": 67195.688345,
+      "title": "Chapter Sixty-One"
+    },
+    {
+      "id": 62,
+      "start": 67195.688345,
+      "end": 68534.759342,
+      "title": "Chapter Sixty-Two"
+    },
+    {
+      "id": 63,
+      "start": 68534.759342,
+      "end": 69422.968322,
+      "title": "Chapter Sixty-Three"
+    },
+    {
+      "id": 64,
+      "start": 69422.968322,
+      "end": 70837.365306,
+      "title": "Chapter Sixty-Four"
+    },
+    {
+      "id": 65,
+      "start": 70837.365306,
+      "end": 71530.527302,
+      "title": "Chapter Sixty-Five"
+    },
+    {
+      "id": 66,
+      "start": 71530.527302,
+      "end": 73668.156281,
+      "title": "Chapter Sixty-Six"
+    },
+    {
+      "id": 67,
+      "start": 73668.156281,
+      "end": 74934.015261,
+      "title": "Chapter Sixty-Seven"
+    },
+    {
+      "id": 68,
+      "start": 74934.015261,
+      "end": 75842.727256,
+      "title": "Chapter Sixty-Eight"
+    },
+    {
+      "id": 69,
+      "start": 75842.727256,
+      "end": 77183.447256,
+      "title": "Chapter Sixty-Nine"
+    },
+    {
+      "id": 70,
+      "start": 77183.447256,
+      "end": 78023.405238,
+      "title": "Chapter Seventy"
+    },
+    {
+      "id": 71,
+      "start": 78023.405238,
+      "end": 79199.91322,
+      "title": "Chapter Seventy-One"
+    },
+    {
+      "id": 72,
+      "start": 79199.91322,
+      "end": 80244.114218,
+      "title": "Chapter Seventy-Two"
+    },
+    {
+      "id": 73,
+      "start": 80244.114218,
+      "end": 81495.114218,
+      "title": "Chapter Seventy-Three"
+    },
+    {
+      "id": 74,
+      "start": 81495.114218,
+      "end": 81549.39,
+      "title": "End Credits"
+    }
+  ],
+  "title": "The Old Curiosity Shop (Unabridged)",
+  "subtitle": "The Audible Dickens Collection",
+  "authors": [
+    "Charles Dickens"
+  ],
+  "narrators": [
+    "Jessie Buckley"
+  ],
+  "series": [
+    "The Audible Dickens Collection #0"
+  ],
+  "genres": [
+    "Classics"
+  ],
+  "publishedYear": "2018",
+  "publishedDate": null,
+  "publisher": "Audible Studios",
+  "description": "In true Dickensian fashion, The Old Curiosity Shop offers a humorous yet devastating depiction of both the most honourable and most corrupt members of 19th-century English society. Hailed by Queen Victoria as being ‘interesting and cleverly written', The Old Curiosity Shop introduces listeners to the uniquely colourful characters of Nell Trent, her young friend, Kit, her doting grandfather and the evil moneylender to whom they all fall prey, Daniel Quilp.",
+  "isbn": null,
+  "asin": "B07HRNHKHY",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

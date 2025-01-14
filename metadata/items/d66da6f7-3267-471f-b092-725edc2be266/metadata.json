@@ -1,0 +1,42 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 23456.256,
+      "title": "2312 01"
+    },
+    {
+      "id": 1,
+      "start": 23456.256,
+      "end": 45901.608,
+      "title": "2312 02"
+    },
+    {
+      "id": 2,
+      "start": 45901.608,
+      "end": 69194.088,
+      "title": "2312 03"
+    }
+  ],
+  "title": "2312",
+  "subtitle": null,
+  "authors": [
+    "Kim Stanley Robinson"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2012",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

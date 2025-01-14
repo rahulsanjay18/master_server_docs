@@ -1,0 +1,94 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 34,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 34,
+      "end": 3425,
+      "title": "CHAPTER 01: VILLAGE OF THE DEAD"
+    },
+    {
+      "id": 2,
+      "start": 3425,
+      "end": 6060,
+      "title": "CHAPTER 02: FUGITIVES"
+    },
+    {
+      "id": 3,
+      "start": 6060,
+      "end": 9965,
+      "title": "CHAPTER 03: A VILLAGE OF FREAKS"
+    },
+    {
+      "id": 4,
+      "start": 9965,
+      "end": 13313,
+      "title": "CHAPTER 04: THE KILLING GAME"
+    },
+    {
+      "id": 5,
+      "start": 13313,
+      "end": 15696,
+      "title": "CHAPTER 05: JOURNEY'S END"
+    },
+    {
+      "id": 6,
+      "start": 15696,
+      "end": 18862,
+      "title": "CHAPTER 06: A PORT TO THE STARS"
+    },
+    {
+      "id": 7,
+      "start": 18862,
+      "end": 18951,
+      "title": "Outro - Ending Credits ☕"
+    },
+    {
+      "id": 8,
+      "start": 18951,
+      "end": 18972,
+      "title": "Advertisement: Titles"
+    },
+    {
+      "id": 9,
+      "start": 18972,
+      "end": 19127,
+      "title": "Advertisement: Preview"
+    },
+    {
+      "id": 10,
+      "start": 19127,
+      "end": 19208.753,
+      "title": "Advertisement: Graphic Audio"
+    }
+  ],
+  "title": "Vampire Hunter D, Vol. 03: Demon Deathchase",
+  "subtitle": null,
+  "authors": [
+    "Full Cast"
+  ],
+  "narrators": [
+    "Hideyuki Kikuchi"
+  ],
+  "series": [
+    "Vampire Hunter D #03"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1985 (04-01-22)",
+  "publishedDate": null,
+  "publisher": "Graphic Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

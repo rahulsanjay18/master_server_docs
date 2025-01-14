@@ -1,0 +1,72 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4307.774,
+      "title": "01"
+    },
+    {
+      "id": 1,
+      "start": 4307.774,
+      "end": 8610.036,
+      "title": "02"
+    },
+    {
+      "id": 2,
+      "start": 8610.036,
+      "end": 12914.923999999999,
+      "title": "03"
+    },
+    {
+      "id": 3,
+      "start": 12914.923999999999,
+      "end": 17228.782,
+      "title": "04"
+    },
+    {
+      "id": 4,
+      "start": 17228.782,
+      "end": 21534.163999999997,
+      "title": "05"
+    },
+    {
+      "id": 5,
+      "start": 21534.163999999997,
+      "end": 25841.157999999996,
+      "title": "06"
+    },
+    {
+      "id": 6,
+      "start": 25841.157999999996,
+      "end": 30144.199999999997,
+      "title": "07"
+    },
+    {
+      "id": 7,
+      "start": 30144.199999999997,
+      "end": 34446.903999999995,
+      "title": "08"
+    }
+  ],
+  "title": "All the Birds in the Sky",
+  "subtitle": null,
+  "authors": [
+    "Charlie Jane Anders"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Fantasy"
+  ],
+  "publishedYear": "2016-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

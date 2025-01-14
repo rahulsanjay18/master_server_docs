@@ -1,0 +1,6 @@
+;FFMETADATA1
+title=The Trial CD 1
+artist=Franz Kafka        01:11:33
+album_artist=Franz Kafka        01:11:33
+album=The Trial CD 1
+TRACKTOTAL=7

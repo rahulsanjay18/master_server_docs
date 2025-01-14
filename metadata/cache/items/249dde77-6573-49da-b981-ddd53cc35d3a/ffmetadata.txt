@@ -1,0 +1,13 @@
+;FFMETADATA1
+title=Piranesi
+artist=Susanna Clarke
+album_artist=Susanna Clarke
+album=Piranesi
+genre=Audiobook
+date=2020-01-01
+comment=Jonathan Strange & Mr Norrell transported countless listeners into its mysterious world. It became an instant classic and has been hailed as one of the finest works of fiction of the 21st century. Fifteen years later, it is finally time to enter the House and meet Piranesi. May your paths be safe and your floors unbroken, and may the house fill your eyes with Beauty.
+description=Jonathan Strange & Mr Norrell transported countless listeners into its mysterious world. It became an instant classic and has been hailed as one of the finest works of fiction of the 21st century. Fifteen years later, it is finally time to enter the House and meet Piranesi. May your paths be safe and your floors unbroken, and may the house fill your eyes with Beauty.
+composer=Chiwetel Ejiofor
+copyright=Bloomsbury Publishing Plc
+publisher=Bloomsbury Publishing Plc
+TRACKTOTAL=9

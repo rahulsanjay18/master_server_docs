@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=Percy Jackson: Camp Half-Blood Confidential
+artist=Rick Riordan
+album_artist=Rick Riordan
+album=Percy Jackson: Camp Half-Blood Confidential
+date=2017
+comment=Camp Half-Blood Confidential: Your Real Guide to the Demigod Training Camp - Juvenile Fiction/Juvenile Literature/Short Stories
+description=Camp Half-Blood Confidential: Your Real Guide to the Demigod Training Camp - Juvenile Fiction/Juvenile Literature/Short Stories
+TRACKTOTAL=7

@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=Oxford Very Short Introductions
+artist=Ancient Egypt
+album_artist=Ancient Egypt
+album=Oxford Very Short Introductions
+genre=Speech
+comment=PANCHO
+description=PANCHO
+TRACKTOTAL=15

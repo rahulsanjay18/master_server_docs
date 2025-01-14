@@ -1,0 +1,166 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 991.320816,
+      "title": "Chapter 01"
+    },
+    {
+      "id": 1,
+      "start": 991.320816,
+      "end": 1720.894694,
+      "title": "Chapter 02"
+    },
+    {
+      "id": 2,
+      "start": 1720.894694,
+      "end": 2724.022857,
+      "title": "Chapter 03"
+    },
+    {
+      "id": 3,
+      "start": 2724.022857,
+      "end": 3411.7746939999997,
+      "title": "Chapter 04"
+    },
+    {
+      "id": 4,
+      "start": 3411.7746939999997,
+      "end": 4566.413060999999,
+      "title": "Chapter 05"
+    },
+    {
+      "id": 5,
+      "start": 4566.413060999999,
+      "end": 5852.891427999999,
+      "title": "Chapter 06"
+    },
+    {
+      "id": 6,
+      "start": 5852.891427999999,
+      "end": 6996.845713999999,
+      "title": "Chapter 07"
+    },
+    {
+      "id": 7,
+      "start": 6996.845713999999,
+      "end": 8122.723264999999,
+      "title": "Chapter 08"
+    },
+    {
+      "id": 8,
+      "start": 8122.723264999999,
+      "end": 9097.038367,
+      "title": "Chapter 09"
+    },
+    {
+      "id": 9,
+      "start": 9097.038367,
+      "end": 10436.101223999998,
+      "title": "Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 10436.101223999998,
+      "end": 11501.035101999998,
+      "title": "Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 11501.035101999998,
+      "end": 13336.711836999999,
+      "title": "Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 13336.711836999999,
+      "end": 14274.324897999999,
+      "title": "Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 14274.324897999999,
+      "end": 15108.545305999998,
+      "title": "Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 15108.545305999998,
+      "end": 16073.430203999998,
+      "title": "Chapter 15"
+    },
+    {
+      "id": 15,
+      "start": 16073.430203999998,
+      "end": 16945.188571,
+      "title": "Chapter 16"
+    },
+    {
+      "id": 16,
+      "start": 16945.188571,
+      "end": 18195.226122,
+      "title": "Chapter 17"
+    },
+    {
+      "id": 17,
+      "start": 18195.226122,
+      "end": 19510.230204,
+      "title": "Chapter 18"
+    },
+    {
+      "id": 18,
+      "start": 19510.230204,
+      "end": 20316.604081999998,
+      "title": "Chapter 19"
+    },
+    {
+      "id": 19,
+      "start": 20316.604081999998,
+      "end": 21548.538775999998,
+      "title": "Chapter 20"
+    },
+    {
+      "id": 20,
+      "start": 21548.538775999998,
+      "end": 23874.220408999998,
+      "title": "Chapter 21"
+    },
+    {
+      "id": 21,
+      "start": 23874.220408999998,
+      "end": 25877.942858,
+      "title": "Chapter 22"
+    },
+    {
+      "id": 22,
+      "start": 25877.942858,
+      "end": 28184.555103,
+      "title": "Chapter 23"
+    },
+    {
+      "id": 23,
+      "start": 28184.555103,
+      "end": 28756.062041999998,
+      "title": "Chapter 24"
+    }
+  ],
+  "title": "Persuasion (read by Nadia May)",
+  "subtitle": null,
+  "authors": [
+    "Jane Austen"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "1817",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

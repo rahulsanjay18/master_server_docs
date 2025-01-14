@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Pride and Prejudice (read by Josephine Bailey)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Pride and Prejudice (read by Josephine Bailey)
+date=1813
+TRACKTOTAL=61

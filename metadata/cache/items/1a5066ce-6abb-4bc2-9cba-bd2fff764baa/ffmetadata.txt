@@ -1,0 +1,15 @@
+;FFMETADATA1
+title=Speaker for the Dead
+artist=Orson Scott Card
+album_artist=Orson Scott Card
+album=Speaker for the Dead
+genre=Science Fiction & Fantasy
+date=2008
+comment=<p>The thrilling sequel to <i>End?rs Game</i> and winner of the Hugo and Nebula Awar?sthis full cast unabridged recording includes an original postscript written and recorded by the author.\
+<p>Three thousand years have passed since Ender Wiggin won humanitys war with the Buggers by totally destroying them. Ender remains young, traveling the stars at the speed of relativity, but a hundred years or more might pass on Earth while he experiences a month-long voyage. In three thousand years, Enders books The Hive Queen and The Hegemon, written under a pseudonym, have become holy writ, while the name of Ender itself has become anathema: he is the Xenocide, the one who killed an entire race of thinking, feeling beings, killed the only other sapient race humankind had found in all the galaxy.
+description=<p>The thrilling sequel to <i>End?rs Game</i> and winner of the Hugo and Nebula Awar?sthis full cast unabridged recording includes an original postscript written and recorded by the author.\
+<p>Three thousand years have passed since Ender Wiggin won humanitys war with the Buggers by totally destroying them. Ender remains young, traveling the stars at the speed of relativity, but a hundred years or more might pass on Earth while he experiences a month-long voyage. In three thousand years, Enders books The Hive Queen and The Hegemon, written under a pseudonym, have become holy writ, while the name of Ender itself has become anathema: he is the Xenocide, the one who killed an entire race of thinking, feeling beings, killed the only other sapient race humankind had found in all the galaxy.
+composer=Peter Adrian Behravesh
+copyright=Emrys
+publisher=Emrys
+TRACKTOTAL=12

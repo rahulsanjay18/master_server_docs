@@ -1,0 +1,182 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 5943.053,
+      "title": "Book 05 - Chapter 01",
+      "id": 0
+    },
+    {
+      "start": 5943.053,
+      "end": 10005.196,
+      "title": "Book 05 - Chapter 02",
+      "id": 1
+    },
+    {
+      "start": 10005.196,
+      "end": 13321.654,
+      "title": "Book 05 - Chapter 03",
+      "id": 2
+    },
+    {
+      "start": 13321.654,
+      "end": 18887.638,
+      "title": "Book 05 - Chapter 04",
+      "id": 3
+    },
+    {
+      "start": 18887.638,
+      "end": 21085.521,
+      "title": "Book 05 - Chapter 05",
+      "id": 4
+    },
+    {
+      "start": 21085.521,
+      "end": 23827.494,
+      "title": "Book 05 - Chapter 06",
+      "id": 5
+    },
+    {
+      "start": 23827.494,
+      "end": 25590.374,
+      "title": "Book 05 - Chapter 07",
+      "id": 6
+    },
+    {
+      "start": 25590.374,
+      "end": 28782.721,
+      "title": "Book 05 - Chapter 08",
+      "id": 7
+    },
+    {
+      "start": 28782.721,
+      "end": 31308.539,
+      "title": "Book 05 - Chapter 09",
+      "id": 8
+    },
+    {
+      "start": 31308.539,
+      "end": 33864.776,
+      "title": "Book 05 - Chapter 10",
+      "id": 9
+    },
+    {
+      "start": 33864.776,
+      "end": 38343.532,
+      "title": "Book 06 - Chapter 01",
+      "id": 10
+    },
+    {
+      "start": 38343.532,
+      "end": 42336.689,
+      "title": "Book 06 - Chapter 02",
+      "id": 11
+    },
+    {
+      "start": 42336.689,
+      "end": 46158.552,
+      "title": "Book 06 - Chapter 03",
+      "id": 12
+    },
+    {
+      "start": 46158.552,
+      "end": 48607.861,
+      "title": "Book 06 - Chapter 04",
+      "id": 13
+    },
+    {
+      "start": 48607.861,
+      "end": 52423.13,
+      "title": "Book 06 - Chapter 05",
+      "id": 14
+    },
+    {
+      "start": 52423.13,
+      "end": 56576.551,
+      "title": "Book 06 - Chapter 06",
+      "id": 15
+    },
+    {
+      "start": 56576.551,
+      "end": 58352.272,
+      "title": "Book 06 - Chapter 07",
+      "id": 16
+    },
+    {
+      "start": 58352.272,
+      "end": 63501.76,
+      "title": "Book 06 - Chapter 08",
+      "id": 17
+    },
+    {
+      "start": 63501.76,
+      "end": 65944.521,
+      "title": "Book 06 - Chapter 09",
+      "id": 18
+    },
+    {
+      "start": 65944.521,
+      "end": 68496.23,
+      "title": "Appendix A - Annals of the Kings and Rulers",
+      "id": 19
+    },
+    {
+      "start": 68496.23,
+      "end": 70733.54,
+      "title": "Gondor and the Heirs of Anárion",
+      "id": 20
+    },
+    {
+      "start": 70733.54,
+      "end": 73805.84,
+      "title": "The Stewards",
+      "id": 21
+    },
+    {
+      "start": 73805.84,
+      "end": 75788.265,
+      "title": "Part II - The House of Eorl",
+      "id": 22
+    },
+    {
+      "start": 75788.265,
+      "end": 78059.477,
+      "title": "Part III - Durin's Folk",
+      "id": 23
+    },
+    {
+      "start": 78059.477,
+      "end": 78716.368,
+      "title": "Appendix B - The Tale of Years",
+      "id": 24
+    },
+    {
+      "start": 78716.368,
+      "end": 78743,
+      "title": "Outro",
+      "id": 25
+    }
+  ],
+  "title": "The Return of the King (The Lord of the Rings, Book 3)",
+  "subtitle": null,
+  "authors": [
+    "J. R. R. Tolkien"
+  ],
+  "narrators": [
+    "Andy Serkis"
+  ],
+  "series": [],
+  "genres": [
+    "Fiction"
+  ],
+  "publishedYear": "2021-09-16",
+  "publishedDate": null,
+  "publisher": "HarperCollins UK",
+  "description": "The third part of J.R.R. Tolkien’s epic adventure THE LORD OF THE RINGS ‘Extraordinarily imaginative, and wholly exciting’ The Times",
+  "isbn": "9780007322558",
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

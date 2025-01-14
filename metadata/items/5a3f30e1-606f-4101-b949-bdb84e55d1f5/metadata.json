@@ -1,0 +1,969 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "title": "A Song For A New Day",
+      "end": 12
+    },
+    {
+      "id": 1,
+      "start": 12,
+      "title": "Dedication",
+      "end": 23
+    },
+    {
+      "id": 2,
+      "start": 23,
+      "title": "Part One - Chapter 1",
+      "end": 1628
+    },
+    {
+      "id": 3,
+      "start": 1628,
+      "title": "Chapter 2",
+      "end": 2729
+    },
+    {
+      "id": 4,
+      "start": 2729,
+      "title": "Chapter 3",
+      "end": 11.2225
+    },
+    {
+      "id": 5,
+      "start": 11.2225,
+      "title": "A Song For A New Day",
+      "end": 23.2225
+    },
+    {
+      "id": 6,
+      "start": 23.2225,
+      "title": "Dedication",
+      "end": 34.2225
+    },
+    {
+      "id": 7,
+      "start": 34.2225,
+      "title": "Part One - Chapter 1",
+      "end": 1639.2225
+    },
+    {
+      "id": 8,
+      "start": 1639.2225,
+      "title": "Chapter 2",
+      "end": 2740.2225
+    },
+    {
+      "id": 9,
+      "start": 2740.2225,
+      "title": "Chapter 3",
+      "end": 22.794745
+    },
+    {
+      "id": 10,
+      "start": 22.794745,
+      "title": "A Song For A New Day",
+      "end": 34.794745
+    },
+    {
+      "id": 11,
+      "start": 34.794745,
+      "title": "Dedication",
+      "end": 45.794745
+    },
+    {
+      "id": 12,
+      "start": 45.794745,
+      "title": "Part One - Chapter 1",
+      "end": 1650.794745
+    },
+    {
+      "id": 13,
+      "start": 1650.794745,
+      "title": "Chapter 2",
+      "end": 2751.794745
+    },
+    {
+      "id": 14,
+      "start": 2751.794745,
+      "title": "Chapter 3",
+      "end": 1627.731888
+    },
+    {
+      "id": 15,
+      "start": 1627.731888,
+      "title": "A Song For A New Day",
+      "end": 1639.731888
+    },
+    {
+      "id": 16,
+      "start": 1639.731888,
+      "title": "Dedication",
+      "end": 1650.731888
+    },
+    {
+      "id": 17,
+      "start": 1650.731888,
+      "title": "Part One - Chapter 1",
+      "end": 3255.7318880000003
+    },
+    {
+      "id": 18,
+      "start": 3255.7318880000003,
+      "title": "Chapter 2",
+      "end": 4356.731888
+    },
+    {
+      "id": 19,
+      "start": 4356.731888,
+      "title": "Chapter 3",
+      "end": 2729.184949
+    },
+    {
+      "id": 20,
+      "start": 2729.184949,
+      "title": "A Song For A New Day",
+      "end": 2741.184949
+    },
+    {
+      "id": 21,
+      "start": 2741.184949,
+      "title": "Dedication",
+      "end": 2752.184949
+    },
+    {
+      "id": 22,
+      "start": 2752.184949,
+      "title": "Part One - Chapter 1",
+      "end": 4357.184949
+    },
+    {
+      "id": 23,
+      "start": 4357.184949,
+      "title": "Chapter 2",
+      "end": 5458.184949
+    },
+    {
+      "id": 24,
+      "start": 5458.184949,
+      "title": "Chapter 3",
+      "end": 4099.150663
+    },
+    {
+      "id": 25,
+      "start": 4099.150663,
+      "title": "Chapter 4",
+      "end": 5579.150663
+    },
+    {
+      "id": 26,
+      "start": 5579.150663,
+      "title": "Chapter 5",
+      "end": 7070.150663
+    },
+    {
+      "id": 27,
+      "start": 7070.150663,
+      "title": "Chapter 6",
+      "end": 5578.089041
+    },
+    {
+      "id": 28,
+      "start": 5578.089041,
+      "title": "Chapter 4",
+      "end": 7058.089041
+    },
+    {
+      "id": 29,
+      "start": 7058.089041,
+      "title": "Chapter 5",
+      "end": 8549.089041
+    },
+    {
+      "id": 30,
+      "start": 8549.089041,
+      "title": "Chapter 6",
+      "end": 7070.072714
+    },
+    {
+      "id": 31,
+      "start": 7070.072714,
+      "title": "Chapter 4",
+      "end": 8550.072714
+    },
+    {
+      "id": 32,
+      "start": 8550.072714,
+      "title": "Chapter 5",
+      "end": 10041.072714
+    },
+    {
+      "id": 33,
+      "start": 10041.072714,
+      "title": "Chapter 6",
+      "end": 7584.319245
+    },
+    {
+      "id": 34,
+      "start": 7584.319245,
+      "title": "Chapter 7",
+      "end": 9569.319244999999
+    },
+    {
+      "id": 35,
+      "start": 9569.319244999999,
+      "title": "Chapter 8",
+      "end": 11176.319244999999
+    },
+    {
+      "id": 36,
+      "start": 11176.319244999999,
+      "title": "Chapter 9",
+      "end": 9568.204623
+    },
+    {
+      "id": 37,
+      "start": 9568.204623,
+      "title": "Chapter 7",
+      "end": 11553.204623
+    },
+    {
+      "id": 38,
+      "start": 11553.204623,
+      "title": "Chapter 8",
+      "end": 13160.204623
+    },
+    {
+      "id": 39,
+      "start": 13160.204623,
+      "title": "Chapter 9",
+      "end": 11175.179317
+    },
+    {
+      "id": 40,
+      "start": 11175.179317,
+      "title": "Chapter 7",
+      "end": 13160.179317
+    },
+    {
+      "id": 41,
+      "start": 13160.179317,
+      "title": "Chapter 8",
+      "end": 14767.179317
+    },
+    {
+      "id": 42,
+      "start": 14767.179317,
+      "title": "Chapter 9",
+      "end": 12112.165439
+    },
+    {
+      "id": 43,
+      "start": 12112.165439,
+      "title": "Chapter 10",
+      "end": 13090.165439
+    },
+    {
+      "id": 44,
+      "start": 13090.165439,
+      "title": "Chapter 11",
+      "end": 13899.165439
+    },
+    {
+      "id": 45,
+      "start": 13899.165439,
+      "title": "Chapter 12",
+      "end": 14472.165439
+    },
+    {
+      "id": 46,
+      "start": 14472.165439,
+      "title": "Chapter 13",
+      "end": 13089.160939000001
+    },
+    {
+      "id": 47,
+      "start": 13089.160939000001,
+      "title": "Chapter 10",
+      "end": 14067.160939000001
+    },
+    {
+      "id": 48,
+      "start": 14067.160939000001,
+      "title": "Chapter 11",
+      "end": 14876.160939000001
+    },
+    {
+      "id": 49,
+      "start": 14876.160939000001,
+      "title": "Chapter 12",
+      "end": 15449.160939000001
+    },
+    {
+      "id": 50,
+      "start": 15449.160939000001,
+      "title": "Chapter 13",
+      "end": 13898.643388
+    },
+    {
+      "id": 51,
+      "start": 13898.643388,
+      "title": "Chapter 10",
+      "end": 14876.643388
+    },
+    {
+      "id": 52,
+      "start": 14876.643388,
+      "title": "Chapter 11",
+      "end": 15685.643388
+    },
+    {
+      "id": 53,
+      "start": 15685.643388,
+      "title": "Chapter 12",
+      "end": 16258.643388
+    },
+    {
+      "id": 54,
+      "start": 16258.643388,
+      "title": "Chapter 13",
+      "end": 14471.796041
+    },
+    {
+      "id": 55,
+      "start": 14471.796041,
+      "title": "Chapter 10",
+      "end": 15449.796041
+    },
+    {
+      "id": 56,
+      "start": 15449.796041,
+      "title": "Chapter 11",
+      "end": 16258.796041
+    },
+    {
+      "id": 57,
+      "start": 16258.796041,
+      "title": "Chapter 12",
+      "end": 16831.796041
+    },
+    {
+      "id": 58,
+      "start": 16831.796041,
+      "title": "Chapter 13",
+      "end": 15734.39849
+    },
+    {
+      "id": 59,
+      "start": 15734.39849,
+      "title": "Chapter 14",
+      "end": 17156.39849
+    },
+    {
+      "id": 60,
+      "start": 17156.39849,
+      "title": "Part Two - Chapter 15",
+      "end": 18872.39849
+    },
+    {
+      "id": 61,
+      "start": 18872.39849,
+      "title": "Chapter 16",
+      "end": 17154.979368
+    },
+    {
+      "id": 62,
+      "start": 17154.979368,
+      "title": "Chapter 14",
+      "end": 18576.979368
+    },
+    {
+      "id": 63,
+      "start": 18576.979368,
+      "title": "Part Two - Chapter 15",
+      "end": 20292.979368
+    },
+    {
+      "id": 64,
+      "start": 20292.979368,
+      "title": "Chapter 16",
+      "end": 18871.616103
+    },
+    {
+      "id": 65,
+      "start": 18871.616103,
+      "title": "Chapter 14",
+      "end": 20293.616103
+    },
+    {
+      "id": 66,
+      "start": 20293.616103,
+      "title": "Part Two - Chapter 15",
+      "end": 22009.616103
+    },
+    {
+      "id": 67,
+      "start": 22009.616103,
+      "title": "Chapter 16",
+      "end": 19853.611205
+    },
+    {
+      "id": 68,
+      "start": 19853.611205,
+      "title": "Chapter 17",
+      "end": 21502.611205
+    },
+    {
+      "id": 69,
+      "start": 21502.611205,
+      "title": "Chapter 18",
+      "end": 23192.611205
+    },
+    {
+      "id": 70,
+      "start": 23192.611205,
+      "title": "Chapter 19",
+      "end": 21501.66633
+    },
+    {
+      "id": 71,
+      "start": 21501.66633,
+      "title": "Chapter 17",
+      "end": 23150.66633
+    },
+    {
+      "id": 72,
+      "start": 23150.66633,
+      "title": "Chapter 18",
+      "end": 24840.66633
+    },
+    {
+      "id": 73,
+      "start": 24840.66633,
+      "title": "Chapter 19",
+      "end": 23191.814901
+    },
+    {
+      "id": 74,
+      "start": 23191.814901,
+      "title": "Chapter 17",
+      "end": 24840.814901
+    },
+    {
+      "id": 75,
+      "start": 24840.814901,
+      "title": "Chapter 18",
+      "end": 26530.814901
+    },
+    {
+      "id": 76,
+      "start": 26530.814901,
+      "title": "Chapter 19",
+      "end": 24228.249187
+    },
+    {
+      "id": 77,
+      "start": 24228.249187,
+      "title": "Chapter 20",
+      "end": 26454.629187000002
+    },
+    {
+      "id": 78,
+      "start": 26454.629187000002,
+      "title": "Chapter 21",
+      "end": 27737.629187000002
+    },
+    {
+      "id": 79,
+      "start": 27737.629187000002,
+      "title": "Chapter 22",
+      "end": 29207.629187000002
+    },
+    {
+      "id": 80,
+      "start": 29207.629187000002,
+      "title": "Chapter 23",
+      "end": 27736.316943
+    },
+    {
+      "id": 81,
+      "start": 27736.316943,
+      "title": "Chapter 21",
+      "end": 29019.316943
+    },
+    {
+      "id": 82,
+      "start": 29019.316943,
+      "title": "Chapter 22",
+      "end": 30489.316943
+    },
+    {
+      "id": 83,
+      "start": 30489.316943,
+      "title": "Chapter 23",
+      "end": 29207.010821000003
+    },
+    {
+      "id": 84,
+      "start": 29207.010821000003,
+      "title": "Chapter 21",
+      "end": 30490.010821000003
+    },
+    {
+      "id": 85,
+      "start": 30490.010821000003,
+      "title": "Chapter 22",
+      "end": 31960.010821000003
+    },
+    {
+      "id": 86,
+      "start": 31960.010821000003,
+      "title": "Chapter 23",
+      "end": 30624.336535000002
+    },
+    {
+      "id": 87,
+      "start": 30624.336535000002,
+      "title": "Chapter 24",
+      "end": 31044.336535000002
+    },
+    {
+      "id": 88,
+      "start": 31044.336535000002,
+      "title": "Part Three - Chapter 25",
+      "end": 32202.336535000002
+    },
+    {
+      "id": 89,
+      "start": 32202.336535000002,
+      "title": "Chapter 26",
+      "end": 33048.336535
+    },
+    {
+      "id": 90,
+      "start": 33048.336535,
+      "title": "Chapter 27",
+      "end": 33617.336535
+    },
+    {
+      "id": 91,
+      "start": 33617.336535,
+      "title": "Chapter 28",
+      "end": 34137.336535
+    },
+    {
+      "id": 92,
+      "start": 34137.336535,
+      "title": "Chapter 29",
+      "end": 31043.356535000003
+    },
+    {
+      "id": 93,
+      "start": 31043.356535000003,
+      "title": "Chapter 24",
+      "end": 31463.356535000003
+    },
+    {
+      "id": 94,
+      "start": 31463.356535000003,
+      "title": "Part Three - Chapter 25",
+      "end": 32621.356535000003
+    },
+    {
+      "id": 95,
+      "start": 32621.356535000003,
+      "title": "Chapter 26",
+      "end": 33467.356535
+    },
+    {
+      "id": 96,
+      "start": 33467.356535,
+      "title": "Chapter 27",
+      "end": 34036.356535
+    },
+    {
+      "id": 97,
+      "start": 34036.356535,
+      "title": "Chapter 28",
+      "end": 34556.356535
+    },
+    {
+      "id": 98,
+      "start": 34556.356535,
+      "title": "Chapter 29",
+      "end": 32201.469188000003
+    },
+    {
+      "id": 99,
+      "start": 32201.469188000003,
+      "title": "Chapter 24",
+      "end": 32621.469188000003
+    },
+    {
+      "id": 100,
+      "start": 32621.469188000003,
+      "title": "Part Three - Chapter 25",
+      "end": 33779.469188
+    },
+    {
+      "id": 101,
+      "start": 33779.469188,
+      "title": "Chapter 26",
+      "end": 34625.469188
+    },
+    {
+      "id": 102,
+      "start": 34625.469188,
+      "title": "Chapter 27",
+      "end": 35194.469188
+    },
+    {
+      "id": 103,
+      "start": 35194.469188,
+      "title": "Chapter 28",
+      "end": 35714.469188
+    },
+    {
+      "id": 104,
+      "start": 35714.469188,
+      "title": "Chapter 29",
+      "end": 33047.78429
+    },
+    {
+      "id": 105,
+      "start": 33047.78429,
+      "title": "Chapter 24",
+      "end": 33467.78429
+    },
+    {
+      "id": 106,
+      "start": 33467.78429,
+      "title": "Part Three - Chapter 25",
+      "end": 34625.78429
+    },
+    {
+      "id": 107,
+      "start": 34625.78429,
+      "title": "Chapter 26",
+      "end": 35471.78429
+    },
+    {
+      "id": 108,
+      "start": 35471.78429,
+      "title": "Chapter 27",
+      "end": 36040.78429
+    },
+    {
+      "id": 109,
+      "start": 36040.78429,
+      "title": "Chapter 28",
+      "end": 36560.78429
+    },
+    {
+      "id": 110,
+      "start": 36560.78429,
+      "title": "Chapter 29",
+      "end": 33617.044698000005
+    },
+    {
+      "id": 111,
+      "start": 33617.044698000005,
+      "title": "Chapter 24",
+      "end": 34037.044698000005
+    },
+    {
+      "id": 112,
+      "start": 34037.044698000005,
+      "title": "Part Three - Chapter 25",
+      "end": 35195.044698000005
+    },
+    {
+      "id": 113,
+      "start": 35195.044698000005,
+      "title": "Chapter 26",
+      "end": 36041.044698000005
+    },
+    {
+      "id": 114,
+      "start": 36041.044698000005,
+      "title": "Chapter 27",
+      "end": 36610.044698000005
+    },
+    {
+      "id": 115,
+      "start": 36610.044698000005,
+      "title": "Chapter 28",
+      "end": 37130.044698000005
+    },
+    {
+      "id": 116,
+      "start": 37130.044698000005,
+      "title": "Chapter 29",
+      "end": 34137.456127000005
+    },
+    {
+      "id": 117,
+      "start": 34137.456127000005,
+      "title": "Chapter 24",
+      "end": 34557.456127000005
+    },
+    {
+      "id": 118,
+      "start": 34557.456127000005,
+      "title": "Part Three - Chapter 25",
+      "end": 35715.456127000005
+    },
+    {
+      "id": 119,
+      "start": 35715.456127000005,
+      "title": "Chapter 26",
+      "end": 36561.456127000005
+    },
+    {
+      "id": 120,
+      "start": 36561.456127000005,
+      "title": "Chapter 27",
+      "end": 37130.456127000005
+    },
+    {
+      "id": 121,
+      "start": 37130.456127000005,
+      "title": "Chapter 28",
+      "end": 37650.456127000005
+    },
+    {
+      "id": 122,
+      "start": 37650.456127000005,
+      "title": "Chapter 29",
+      "end": 34756.375311
+    },
+    {
+      "id": 123,
+      "start": 34756.375311,
+      "title": "Chapter 30",
+      "end": 36279.375311
+    },
+    {
+      "id": 124,
+      "start": 36279.375311,
+      "title": "Chapter 31",
+      "end": 36976.375311
+    },
+    {
+      "id": 125,
+      "start": 36976.375311,
+      "title": "Chapter 32",
+      "end": 37722.375311
+    },
+    {
+      "id": 126,
+      "start": 37722.375311,
+      "title": "Chapter 33",
+      "end": 36277.89331100001
+    },
+    {
+      "id": 127,
+      "start": 36277.89331100001,
+      "title": "Chapter 30",
+      "end": 37800.89331100001
+    },
+    {
+      "id": 128,
+      "start": 37800.89331100001,
+      "title": "Chapter 31",
+      "end": 38497.89331100001
+    },
+    {
+      "id": 129,
+      "start": 38497.89331100001,
+      "title": "Chapter 32",
+      "end": 39243.89331100001
+    },
+    {
+      "id": 130,
+      "start": 39243.89331100001,
+      "title": "Chapter 33",
+      "end": 36975.33657600001
+    },
+    {
+      "id": 131,
+      "start": 36975.33657600001,
+      "title": "Chapter 30",
+      "end": 38498.33657600001
+    },
+    {
+      "id": 132,
+      "start": 38498.33657600001,
+      "title": "Chapter 31",
+      "end": 39195.33657600001
+    },
+    {
+      "id": 133,
+      "start": 39195.33657600001,
+      "title": "Chapter 32",
+      "end": 39941.33657600001
+    },
+    {
+      "id": 134,
+      "start": 39941.33657600001,
+      "title": "Chapter 33",
+      "end": 37721.83780000001
+    },
+    {
+      "id": 135,
+      "start": 37721.83780000001,
+      "title": "Chapter 30",
+      "end": 39244.83780000001
+    },
+    {
+      "id": 136,
+      "start": 39244.83780000001,
+      "title": "Chapter 31",
+      "end": 39941.83780000001
+    },
+    {
+      "id": 137,
+      "start": 39941.83780000001,
+      "title": "Chapter 32",
+      "end": 40687.83780000001
+    },
+    {
+      "id": 138,
+      "start": 40687.83780000001,
+      "title": "Chapter 33",
+      "end": 38518.15453500001
+    },
+    {
+      "id": 139,
+      "start": 38518.15453500001,
+      "title": "Chapter 34",
+      "end": 39534.15453500001
+    },
+    {
+      "id": 140,
+      "start": 39534.15453500001,
+      "title": "Chapter 35",
+      "end": 41371.15453500001
+    },
+    {
+      "id": 141,
+      "start": 41371.15453500001,
+      "title": "Chapter 36",
+      "end": 39533.210535000006
+    },
+    {
+      "id": 142,
+      "start": 39533.210535000006,
+      "title": "Chapter 34",
+      "end": 40549.210535000006
+    },
+    {
+      "id": 143,
+      "start": 40549.210535000006,
+      "title": "Chapter 35",
+      "end": 42386.210535000006
+    },
+    {
+      "id": 144,
+      "start": 42386.210535000006,
+      "title": "Chapter 36",
+      "end": 41371.368902
+    },
+    {
+      "id": 145,
+      "start": 41371.368902,
+      "title": "Chapter 34",
+      "end": 42387.368902
+    },
+    {
+      "id": 146,
+      "start": 42387.368902,
+      "title": "Chapter 35",
+      "end": 44224.368902
+    },
+    {
+      "id": 147,
+      "start": 44224.368902,
+      "title": "Chapter 36",
+      "end": 42247.228494
+    },
+    {
+      "id": 148,
+      "start": 42247.228494,
+      "title": "Chapter 37",
+      "end": 44172.228494
+    },
+    {
+      "id": 149,
+      "start": 44172.228494,
+      "title": "Chapter 38",
+      "end": 45082.228494
+    },
+    {
+      "id": 150,
+      "start": 45082.228494,
+      "title": "Credits",
+      "end": 44171.502372
+    },
+    {
+      "id": 151,
+      "start": 44171.502372,
+      "title": "Chapter 37",
+      "end": 46096.502372
+    },
+    {
+      "id": 152,
+      "start": 46096.502372,
+      "title": "Chapter 38",
+      "end": 47006.502372
+    },
+    {
+      "id": 153,
+      "start": 47006.502372,
+      "title": "Credits",
+      "end": 45082.339923
+    },
+    {
+      "id": 154,
+      "start": 45082.339923,
+      "title": "Chapter 37",
+      "end": 47007.339923
+    },
+    {
+      "id": 155,
+      "start": 47007.339923,
+      "title": "Chapter 38",
+      "end": 47917.339923
+    },
+    {
+      "id": 156,
+      "start": 47917.339923,
+      "title": "Credits",
+      "end": 45107.600331
+    }
+  ],
+  "title": "A Song for a New Day",
+  "subtitle": null,
+  "authors": [
+    "Sarah Pinsker"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Fantasy",
+    "Fiction",
+    "Literature",
+    "Science Fiction"
+  ],
+  "publishedYear": "2020",
+  "publishedDate": null,
+  "publisher": "Books on Tape",
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

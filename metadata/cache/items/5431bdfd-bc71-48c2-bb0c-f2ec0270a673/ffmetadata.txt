@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Dresden Files 09.0 - White Night
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 09.0 - White Night
+genre=Audiobook
+composer=Jim Butcher
+TRACKTOTAL=156
+grouping=Jim Butcher - Dresden Files 22GB \#9

@@ -1,0 +1,114 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 332.02,
+      "title": "track01"
+    },
+    {
+      "id": 1,
+      "start": 332.02,
+      "end": 718.588,
+      "title": "track02"
+    },
+    {
+      "id": 2,
+      "start": 718.588,
+      "end": 1154.946,
+      "title": "track03"
+    },
+    {
+      "id": 3,
+      "start": 1154.946,
+      "end": 1562.418,
+      "title": "track04"
+    },
+    {
+      "id": 4,
+      "start": 1562.418,
+      "end": 1927.7959999999998,
+      "title": "track05"
+    },
+    {
+      "id": 5,
+      "start": 1927.7959999999998,
+      "end": 2133.8199999999997,
+      "title": "track06"
+    },
+    {
+      "id": 6,
+      "start": 2133.8199999999997,
+      "end": 2391.428,
+      "title": "track07"
+    },
+    {
+      "id": 7,
+      "start": 2391.428,
+      "end": 2639.468,
+      "title": "track08"
+    },
+    {
+      "id": 8,
+      "start": 2639.468,
+      "end": 2971.774,
+      "title": "track09"
+    },
+    {
+      "id": 9,
+      "start": 2971.774,
+      "end": 3304.99,
+      "title": "track10"
+    },
+    {
+      "id": 10,
+      "start": 3304.99,
+      "end": 3576.4559999999997,
+      "title": "track11"
+    },
+    {
+      "id": 11,
+      "start": 3576.4559999999997,
+      "end": 3843.45,
+      "title": "track12"
+    },
+    {
+      "id": 12,
+      "start": 3843.45,
+      "end": 4264.806,
+      "title": "track13"
+    },
+    {
+      "id": 13,
+      "start": 4264.806,
+      "end": 4459.052,
+      "title": "track14"
+    },
+    {
+      "id": 14,
+      "start": 4459.052,
+      "end": 4723.446,
+      "title": "track15"
+    }
+  ],
+  "title": "disc 9",
+  "subtitle": null,
+  "authors": [
+    "Haruki Murakami"
+  ],
+  "narrators": [],
+  "series": [
+    "Haruki Murakami - Kafka on the Shore"
+  ],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

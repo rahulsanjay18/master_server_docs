@@ -1,0 +1,86 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 17.737143,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 17.737143,
+      "end": 605.9363269999999,
+      "title": "Foreword"
+    },
+    {
+      "id": 2,
+      "start": 605.9363269999999,
+      "end": 16169.299592,
+      "title": "The Finder"
+    },
+    {
+      "id": 3,
+      "start": 16169.299592,
+      "end": 21035.389388,
+      "title": "Darkrose and Diamond"
+    },
+    {
+      "id": 4,
+      "start": 21035.389388,
+      "end": 23891.748572,
+      "title": "The Bones of the Earth"
+    },
+    {
+      "id": 5,
+      "start": 23891.748572,
+      "end": 28590.315103,
+      "title": "On the High Marsh"
+    },
+    {
+      "id": 6,
+      "start": 28590.315103,
+      "end": 38648.816327,
+      "title": "Dragonfly"
+    },
+    {
+      "id": 7,
+      "start": 38648.816327,
+      "end": 43373.400817,
+      "title": "A Description of Earthsea"
+    },
+    {
+      "id": 8,
+      "start": 43373.400817,
+      "end": 43956.271021,
+      "title": "Afterword"
+    },
+    {
+      "id": 9,
+      "start": 43956.271021,
+      "end": 43991.379592,
+      "title": "End"
+    }
+  ],
+  "title": "Tales from Earthsea",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "337mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2001",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Jenny Sterlin",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

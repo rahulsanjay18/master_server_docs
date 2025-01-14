@@ -1,0 +1,126 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 16.3,
+      "title": "Chapter 1"
+    },
+    {
+      "id": 1,
+      "start": 16.3,
+      "end": 1679.732,
+      "title": "Chapter 2"
+    },
+    {
+      "id": 2,
+      "start": 1679.732,
+      "end": 2985.111,
+      "title": "Chapter 3"
+    },
+    {
+      "id": 3,
+      "start": 2985.111,
+      "end": 4537.04,
+      "title": "Chapter 4"
+    },
+    {
+      "id": 4,
+      "start": 4537.04,
+      "end": 5911.15,
+      "title": "Chapter 5"
+    },
+    {
+      "id": 5,
+      "start": 5911.15,
+      "end": 7692.167,
+      "title": "Chapter 6"
+    },
+    {
+      "id": 6,
+      "start": 7692.167,
+      "end": 10160.077,
+      "title": "Chapter 7"
+    },
+    {
+      "id": 7,
+      "start": 10160.077,
+      "end": 12409.951,
+      "title": "Chapter 8"
+    },
+    {
+      "id": 8,
+      "start": 12409.951,
+      "end": 14840.337,
+      "title": "Chapter 9"
+    },
+    {
+      "id": 9,
+      "start": 14840.337,
+      "end": 15832.526,
+      "title": "Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 15832.526,
+      "end": 17077.719,
+      "title": "Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 17077.719,
+      "end": 21862.888,
+      "title": "Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 21862.888,
+      "end": 23002.848,
+      "title": "Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 23002.848,
+      "end": 24790.924,
+      "title": "Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 24790.924,
+      "end": 25986.752,
+      "title": "Chapter 15"
+    },
+    {
+      "id": 15,
+      "start": 25986.752,
+      "end": 26871.525,
+      "title": "Chapter 16"
+    },
+    {
+      "id": 16,
+      "start": 26871.525,
+      "end": 26904.34,
+      "title": "Chapter 17"
+    }
+  ],
+  "title": "Teaching to Transgress: Education as the Practice of Freedom",
+  "subtitle": null,
+  "authors": [
+    "Bell Hooks"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2017",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": "B077H2L6K8",
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,387 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 30.249796,
+      "title": "[01]  Intro"
+    },
+    {
+      "id": 1,
+      "start": 30.249796,
+      "end": 295.88898,
+      "title": "[02]  Forward"
+    },
+    {
+      "id": 2,
+      "start": 295.88898,
+      "end": 305.214694,
+      "title": "[03]  Dedication"
+    },
+    {
+      "id": 3,
+      "start": 305.214694,
+      "end": 351.73877600000003,
+      "title": "[04]  An Excerpt"
+    },
+    {
+      "id": 4,
+      "start": 351.73877600000003,
+      "end": 5660.682449,
+      "title": "[05]  Prologue - What the Storm Means"
+    },
+    {
+      "id": 5,
+      "start": 5660.682449,
+      "end": 8264.829388,
+      "title": "[06]  Chapter 1 - Tears From Steel"
+    },
+    {
+      "id": 6,
+      "start": 8264.829388,
+      "end": 11065.260408,
+      "title": "[07]  Chapter 2 - The Nature of Pain"
+    },
+    {
+      "id": 7,
+      "start": 11065.260408,
+      "end": 12834.925714,
+      "title": "[08]  Chapter 3 - The Ways of Honor"
+    },
+    {
+      "id": 8,
+      "start": 12834.925714,
+      "end": 13577.508571,
+      "title": "[09]  Chapter 4 - Nightfall"
+    },
+    {
+      "id": 9,
+      "start": 13577.508571,
+      "end": 15995.611428,
+      "title": "[10]  Chapter 5 - A Tale of Blood"
+    },
+    {
+      "id": 10,
+      "start": 15995.611428,
+      "end": 17352.64653,
+      "title": "[11]  Chapter 6 - When Iron Melts"
+    },
+    {
+      "id": 11,
+      "start": 17352.64653,
+      "end": 19795.644081000002,
+      "title": "[12]  Chapter 7 - The Plan for Arad Doman"
+    },
+    {
+      "id": 12,
+      "start": 19795.644081000002,
+      "end": 22839.196734,
+      "title": "[13]  Chapter 8 - Clean Shirts"
+    },
+    {
+      "id": 13,
+      "start": 22839.196734,
+      "end": 24939.833469,
+      "title": "[14]  Chapter 9 - Leaving Malden"
+    },
+    {
+      "id": 14,
+      "start": 24939.833469,
+      "end": 26802.520816,
+      "title": "[15]  Chapter 10 - The Last of the Tabac"
+    },
+    {
+      "id": 15,
+      "start": 26802.520816,
+      "end": 28594.755918,
+      "title": "[16]  Chapter 11 - The Death of Adrin"
+    },
+    {
+      "id": 16,
+      "start": 28594.755918,
+      "end": 31982.053877,
+      "title": "[17]  Chapter 12 - Unexpected Encounters"
+    },
+    {
+      "id": 17,
+      "start": 31982.053877,
+      "end": 34280.803264999995,
+      "title": "[18]  Chapter 13 - An Offer and a Departure"
+    },
+    {
+      "id": 18,
+      "start": 34280.803264999995,
+      "end": 35353.573876999995,
+      "title": "[19]  Chapter 14 - A Box Opens"
+    },
+    {
+      "id": 19,
+      "start": 35353.573876999995,
+      "end": 37794.847345999995,
+      "title": "[20]  Chapter 15 - A Place to Begin"
+    },
+    {
+      "id": 20,
+      "start": 37794.847345999995,
+      "end": 41962.657957999996,
+      "title": "[21]  Chapter 16 - In the White Tower"
+    },
+    {
+      "id": 21,
+      "start": 41962.657957999996,
+      "end": 43483.533059999994,
+      "title": "[22]  Chapter 17 - Questions of Control"
+    },
+    {
+      "id": 22,
+      "start": 43483.533059999994,
+      "end": 44815.41224399999,
+      "title": "[23]  Chapter 18 - A Message in Haste"
+    },
+    {
+      "id": 23,
+      "start": 44815.41224399999,
+      "end": 47620.72816199999,
+      "title": "[24]  Chapter 19 - Gambits"
+    },
+    {
+      "id": 24,
+      "start": 47620.72816199999,
+      "end": 49662.798365999995,
+      "title": "[25]  Chapter 20 - On a Broken Road"
+    },
+    {
+      "id": 25,
+      "start": 49662.798365999995,
+      "end": 51805.54448799999,
+      "title": "[26]  Chapter 21 - Embers and Ash"
+    },
+    {
+      "id": 26,
+      "start": 51805.54448799999,
+      "end": 54817.09714099999,
+      "title": "[27]  Chapter 22 - The Last That Could Be Done"
+    },
+    {
+      "id": 27,
+      "start": 54817.09714099999,
+      "end": 55588.33632499999,
+      "title": "[28]  Chapter 23 - A Warp in the Air"
+    },
+    {
+      "id": 28,
+      "start": 55588.33632499999,
+      "end": 58055.83673299999,
+      "title": "[29]  Chapter 24 - A New Commitment"
+    },
+    {
+      "id": 29,
+      "start": 58055.83673299999,
+      "end": 59069.857956999986,
+      "title": "[30]  Chapter 25 - In Darkness"
+    },
+    {
+      "id": 30,
+      "start": 59069.857956999986,
+      "end": 61297.73714099998,
+      "title": "[31]  Chapter 26 - A Crack in the Stone"
+    },
+    {
+      "id": 31,
+      "start": 61297.73714099998,
+      "end": 64516.362446999985,
+      "title": "[32]  Chapter 27 - The Tipsy Gelding"
+    },
+    {
+      "id": 32,
+      "start": 64516.362446999985,
+      "end": 67840.02611999998,
+      "title": "[33]  Chapter 28 - Night in Hinderstap"
+    },
+    {
+      "id": 33,
+      "start": 67840.02611999998,
+      "end": 70124.01632399998,
+      "title": "[34]  Chapter 29 - Into Bandar Eban"
+    },
+    {
+      "id": 34,
+      "start": 70124.01632399998,
+      "end": 71793.73713999998,
+      "title": "[35]  Chapter 30 - Old Advice"
+    },
+    {
+      "id": 35,
+      "start": 71793.73713999998,
+      "end": 75003.58530299999,
+      "title": "[36]  Chapter 31 - A Promise to Lews Therin"
+    },
+    {
+      "id": 36,
+      "start": 75003.58530299999,
+      "end": 78653.72734399998,
+      "title": "[37]  Chapter 32 - River of Shadows"
+    },
+    {
+      "id": 37,
+      "start": 78653.72734399998,
+      "end": 80147.72244599999,
+      "title": "[38]  Chapter 33 - A Conversation With the Dragon"
+    },
+    {
+      "id": 38,
+      "start": 80147.72244599999,
+      "end": 82233.49550699999,
+      "title": "[39]  Chapter 34 - Legends"
+    },
+    {
+      "id": 39,
+      "start": 82233.49550699999,
+      "end": 84395.20652699999,
+      "title": "[40]  Chapter 35 - A Halo of Blackness"
+    },
+    {
+      "id": 40,
+      "start": 84395.20652699999,
+      "end": 86271.94775099999,
+      "title": "[41]  Chapter 36 - The Death of Tuon"
+    },
+    {
+      "id": 41,
+      "start": 86271.94775099999,
+      "end": 89444.70203699998,
+      "title": "[42]  Chapter 37 - A Force of Light"
+    },
+    {
+      "id": 42,
+      "start": 89444.70203699998,
+      "end": 92177.18856799998,
+      "title": "[43]  Chapter 38 - News in Tel'aran'rhiod"
+    },
+    {
+      "id": 43,
+      "start": 92177.18856799998,
+      "end": 95338.37060899998,
+      "title": "[44]  Chapter 39 - A Visit From Verin Sedai"
+    },
+    {
+      "id": 44,
+      "start": 95338.37060899998,
+      "end": 97793.14938499998,
+      "title": "[45]  Chapter 40 - The Tower Shakes"
+    },
+    {
+      "id": 45,
+      "start": 97793.14938499998,
+      "end": 100861.72734399998,
+      "title": "[46]  Chapter 41 - A Fount of Power"
+    },
+    {
+      "id": 46,
+      "start": 100861.72734399998,
+      "end": 102366.24979299998,
+      "title": "[47]  Chapter 42 - Before the Stone of Tear"
+    },
+    {
+      "id": 47,
+      "start": 102366.24979299998,
+      "end": 105493.99509899998,
+      "title": "[48]  Chapter 43 - Sealed to the Flame"
+    },
+    {
+      "id": 48,
+      "start": 105493.99509899998,
+      "end": 108358.94856799998,
+      "title": "[49]  Chapter 44 - Scents Unknown"
+    },
+    {
+      "id": 49,
+      "start": 108358.94856799998,
+      "end": 110182.58285399998,
+      "title": "[50]  Chapter 45 - The Tower Stands"
+    },
+    {
+      "id": 50,
+      "start": 110182.58285399998,
+      "end": 112446.77224199998,
+      "title": "[51]  Chapter 46 - To Be Forged Again"
+    },
+    {
+      "id": 51,
+      "start": 112446.77224199998,
+      "end": 114570.34448699998,
+      "title": "[52]  Chapter 47 - The One He Lost"
+    },
+    {
+      "id": 52,
+      "start": 114570.34448699998,
+      "end": 115656.35918099998,
+      "title": "[53]  Chapter 48 - Reading the Commentary"
+    },
+    {
+      "id": 53,
+      "start": 115656.35918099998,
+      "end": 116555.78122199998,
+      "title": "[54]  Chapter 49 - Just Another Man"
+    },
+    {
+      "id": 54,
+      "start": 116555.78122199998,
+      "end": 117391.90856899998,
+      "title": "[55]  Chapter 50 - Veins of Gold"
+    },
+    {
+      "id": 55,
+      "start": 117391.90856899998,
+      "end": 118171.97713999997,
+      "title": "[56]  Epilogue - Bathed in Light"
+    },
+    {
+      "id": 56,
+      "start": 118171.97713999997,
+      "end": 118204.76081299997,
+      "title": "[57]  An Excerpt"
+    },
+    {
+      "id": 57,
+      "start": 118204.76081299997,
+      "end": 118211.26530299998,
+      "title": "[58]  The End"
+    },
+    {
+      "id": 58,
+      "start": 118211.26530299998,
+      "end": 118244.51918099998,
+      "title": "[59]  Outro"
+    },
+    {
+      "id": 59,
+      "start": 118244.51918099998,
+      "end": 118840.50285399998,
+      "title": "[60]  Interview With Brandon Sanderson"
+    }
+  ],
+  "title": "The Gathering Storm (The Wheel of Time #12)",
+  "subtitle": null,
+  "authors": [
+    "Robert Jordan",
+    "Brandon Sanderson"
+  ],
+  "narrators": [],
+  "series": [
+    "Robert Jordan - The Wheel of Time 12GB"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2009-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

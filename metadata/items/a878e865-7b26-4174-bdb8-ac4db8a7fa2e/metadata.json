@@ -1,0 +1,261 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 43.049796,
+      "title": "Intro & Dedication"
+    },
+    {
+      "id": 1,
+      "start": 43.049796,
+      "end": 348.081633,
+      "title": "Author’s Note"
+    },
+    {
+      "id": 2,
+      "start": 348.081633,
+      "end": 2783.1118370000004,
+      "title": "Book 1, Chapter 1"
+    },
+    {
+      "id": 3,
+      "start": 2783.1118370000004,
+      "end": 6827.154286000001,
+      "title": "Chapter 2"
+    },
+    {
+      "id": 4,
+      "start": 6827.154286000001,
+      "end": 10339.186939000001,
+      "title": "Chapter 3"
+    },
+    {
+      "id": 5,
+      "start": 10339.186939000001,
+      "end": 13591.222857,
+      "title": "Chapter 4"
+    },
+    {
+      "id": 6,
+      "start": 13591.222857,
+      "end": 15117.270204,
+      "title": "Book 2, Chapter 5"
+    },
+    {
+      "id": 7,
+      "start": 15117.270204,
+      "end": 17743.307755,
+      "title": "Chapter 6"
+    },
+    {
+      "id": 8,
+      "start": 17743.307755,
+      "end": 19540.349388000002,
+      "title": "Chapter 7"
+    },
+    {
+      "id": 9,
+      "start": 19540.349388000002,
+      "end": 22613.394286000002,
+      "title": "Chapter 8"
+    },
+    {
+      "id": 10,
+      "start": 22613.394286000002,
+      "end": 25548.434286000003,
+      "title": "Chapter 9"
+    },
+    {
+      "id": 11,
+      "start": 25548.434286000003,
+      "end": 27832.476735000004,
+      "title": "Chapter 10"
+    },
+    {
+      "id": 12,
+      "start": 27832.476735000004,
+      "end": 29840.509388000002,
+      "title": "Chapter 11"
+    },
+    {
+      "id": 13,
+      "start": 29840.509388000002,
+      "end": 32239.542857,
+      "title": "Chapter 12"
+    },
+    {
+      "id": 14,
+      "start": 32239.542857,
+      "end": 34406.582857,
+      "title": "Book 3, Chapter 13"
+    },
+    {
+      "id": 15,
+      "start": 34406.582857,
+      "end": 36551.627755,
+      "title": "Chapter 14"
+    },
+    {
+      "id": 16,
+      "start": 36551.627755,
+      "end": 39233.671837,
+      "title": "Chapter 15"
+    },
+    {
+      "id": 17,
+      "start": 39233.671837,
+      "end": 40033.697959000005,
+      "title": "Interlude"
+    },
+    {
+      "id": 18,
+      "start": 40033.697959000005,
+      "end": 42521.73061200001,
+      "title": "Chapter 16"
+    },
+    {
+      "id": 19,
+      "start": 42521.73061200001,
+      "end": 46040.76408100001,
+      "title": "Chapter 17"
+    },
+    {
+      "id": 20,
+      "start": 46040.76408100001,
+      "end": 47312.79673400001,
+      "title": "Chapter 18"
+    },
+    {
+      "id": 21,
+      "start": 47312.79673400001,
+      "end": 49431.82367300001,
+      "title": "Book 4, Chapter 19"
+    },
+    {
+      "id": 22,
+      "start": 49431.82367300001,
+      "end": 51825.867755000014,
+      "title": "Chapter 20"
+    },
+    {
+      "id": 23,
+      "start": 51825.867755000014,
+      "end": 54402.899592000016,
+      "title": "Chapter 21"
+    },
+    {
+      "id": 24,
+      "start": 54402.899592000016,
+      "end": 57744.92734700002,
+      "title": "Chapter 22"
+    },
+    {
+      "id": 25,
+      "start": 57744.92734700002,
+      "end": 59562.97142900002,
+      "title": "Chapter 23"
+    },
+    {
+      "id": 26,
+      "start": 59562.97142900002,
+      "end": 62356.00979600002,
+      "title": "Chapter 24"
+    },
+    {
+      "id": 27,
+      "start": 62356.00979600002,
+      "end": 62795.04979600002,
+      "title": "Chapter 25"
+    },
+    {
+      "id": 28,
+      "start": 62795.04979600002,
+      "end": 63591.079184000024,
+      "title": "Book 5, Interlude"
+    },
+    {
+      "id": 29,
+      "start": 63591.079184000024,
+      "end": 66611.12163300002,
+      "title": "Chapter 26"
+    },
+    {
+      "id": 30,
+      "start": 66611.12163300002,
+      "end": 69107.14775500001,
+      "title": "Chapter 27"
+    },
+    {
+      "id": 31,
+      "start": 69107.14775500001,
+      "end": 72262.19102000001,
+      "title": "Chapter 28"
+    },
+    {
+      "id": 32,
+      "start": 72262.19102000001,
+      "end": 73750.230204,
+      "title": "Chapter 29"
+    },
+    {
+      "id": 33,
+      "start": 73750.230204,
+      "end": 73955.265306,
+      "title": "Chapter 30"
+    },
+    {
+      "id": 34,
+      "start": 73955.265306,
+      "end": 74541.296326,
+      "title": "Chapter 31"
+    },
+    {
+      "id": 35,
+      "start": 74541.296326,
+      "end": 76087.32734599999,
+      "title": "Chapter 32"
+    },
+    {
+      "id": 36,
+      "start": 76087.32734599999,
+      "end": 77496.372244,
+      "title": "Chapter 33"
+    },
+    {
+      "id": 37,
+      "start": 77496.372244,
+      "end": 78315.415509,
+      "title": "Epilogue"
+    },
+    {
+      "id": 38,
+      "start": 78315.415509,
+      "end": 78364.447346,
+      "title": "Outro"
+    }
+  ],
+  "title": "Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution",
+  "subtitle": null,
+  "authors": [
+    "R. F. Kuang"
+  ],
+  "narrators": [
+    "Chris Lew Kum Hoi",
+    "Billie Fulford-Brown"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2022",
+  "publishedDate": null,
+  "publisher": "HarperAudio",
+  "description": "From award-winning author R. F. Kuang comes Babel, a thematic response to The Secret History and a tonal retort to Jonathan Strange & Mr. Norrell that grapples with student revolutions, colonial resistance, and the use of language and translation as the dominating tool of the British empire.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

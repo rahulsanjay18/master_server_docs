@@ -1,0 +1,138 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 694.125714,
+      "title": "Volume 2 - Chapter 01"
+    },
+    {
+      "id": 1,
+      "start": 694.125714,
+      "end": 1212.4212240000002,
+      "title": "Volume 2 - Chapter 02"
+    },
+    {
+      "id": 2,
+      "start": 1212.4212240000002,
+      "end": 2003.2000000000003,
+      "title": "Volume 2 - Chapter 03"
+    },
+    {
+      "id": 3,
+      "start": 2003.2000000000003,
+      "end": 2454.3608160000003,
+      "title": "Volume 2 - Chapter 04"
+    },
+    {
+      "id": 4,
+      "start": 2454.3608160000003,
+      "end": 2957.66204,
+      "title": "Volume 2 - Chapter 05"
+    },
+    {
+      "id": 5,
+      "start": 2957.66204,
+      "end": 3837.074285,
+      "title": "Volume 2 - Chapter 06"
+    },
+    {
+      "id": 6,
+      "start": 3837.074285,
+      "end": 4266.736326,
+      "title": "Volume 2 - Chapter 07"
+    },
+    {
+      "id": 7,
+      "start": 4266.736326,
+      "end": 4846.680816,
+      "title": "Volume 2 - Chapter 08"
+    },
+    {
+      "id": 8,
+      "start": 4846.680816,
+      "end": 5402.096326,
+      "title": "Volume 2 - Chapter 09"
+    },
+    {
+      "id": 9,
+      "start": 5402.096326,
+      "end": 6082.795102,
+      "title": "Volume 2 - Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 6082.795102,
+      "end": 6888.542041,
+      "title": "Volume 2 - Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 6888.542041,
+      "end": 8000.548572,
+      "title": "Volume 2 - Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 8000.548572,
+      "end": 8812.120816999999,
+      "title": "Volume 2 - Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 8812.120816999999,
+      "end": 9314.716734999998,
+      "title": "Volume 2 - Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 9314.716734999998,
+      "end": 9682.468571999998,
+      "title": "Volume 2 - Chapter 15"
+    },
+    {
+      "id": 15,
+      "start": 9682.468571999998,
+      "end": 10197.942857999999,
+      "title": "Volume 2 - Chapter 16"
+    },
+    {
+      "id": 16,
+      "start": 10197.942857999999,
+      "end": 10779.924898999998,
+      "title": "Volume 2 - Chapter 17"
+    },
+    {
+      "id": 17,
+      "start": 10779.924898999998,
+      "end": 11632.091429999999,
+      "title": "Volume 2 - Chapter 18"
+    },
+    {
+      "id": 18,
+      "start": 11632.091429999999,
+      "end": 12265.299592999998,
+      "title": "Volume 2 - Chapter 19"
+    }
+  ],
+  "title": "Pride and Prejudice (read by Irene Sutcliffe)",
+  "subtitle": null,
+  "authors": [
+    "Jane Austen"
+  ],
+  "narrators": [],
+  "series": [
+    "1813 - Pride and Prejudice (read by Irene Sutcliffe) #2"
+  ],
+  "genres": [],
+  "publishedYear": "1813",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

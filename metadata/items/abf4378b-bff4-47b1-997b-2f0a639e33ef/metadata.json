@@ -1,0 +1,112 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 16.114,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 16.114,
+      "end": 197.461,
+      "title": "The Secret of the Magic: A Note from the Author"
+    },
+    {
+      "id": 2,
+      "start": 197.461,
+      "end": 664.042,
+      "title": "The Beginning of the Story"
+    },
+    {
+      "id": 3,
+      "start": 664.042,
+      "end": 1496.709,
+      "title": "Kiki Comes of Age"
+    },
+    {
+      "id": 4,
+      "start": 1496.709,
+      "end": 4090.656,
+      "title": "Kiki Lands in a Big City"
+    },
+    {
+      "id": 5,
+      "start": 4090.656,
+      "end": 5927.4,
+      "title": "Kiki Opens a Shop"
+    },
+    {
+      "id": 6,
+      "start": 5927.4,
+      "end": 7597.518,
+      "title": "Kiki Finds Herself in a Tough Spot"
+    },
+    {
+      "id": 7,
+      "start": 7597.518,
+      "end": 9396.507,
+      "title": "Kiki Gets a Little Irritated"
+    },
+    {
+      "id": 8,
+      "start": 9396.507,
+      "end": 10981.361,
+      "title": "Kiki Pries into Someone's Secrets"
+    },
+    {
+      "id": 9,
+      "start": 10981.361,
+      "end": 12705.674,
+      "title": "Kiki Solves the Captain's Problem"
+    },
+    {
+      "id": 10,
+      "start": 12705.674,
+      "end": 14089.304,
+      "title": "Kiki Delivers the New Year"
+    },
+    {
+      "id": 11,
+      "start": 14089.304,
+      "end": 15378.568,
+      "title": "Kiki Delivers the Sound of Spring"
+    },
+    {
+      "id": 12,
+      "start": 15378.568,
+      "end": 17062.061,
+      "title": "Kiki Visits Home"
+    },
+    {
+      "id": 13,
+      "start": 17062.061,
+      "end": 17119.91,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Kiki's Delivery Service",
+  "subtitle": null,
+  "authors": [
+    "Emily Balistrieri"
+  ],
+  "narrators": [
+    "Eiko Kadono"
+  ],
+  "series": [
+    "(Eiko Kadono)"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "January 25, 1985 (07-07-20)",
+  "publishedDate": null,
+  "publisher": "Listening Library",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

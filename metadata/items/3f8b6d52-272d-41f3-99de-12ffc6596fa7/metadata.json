@@ -1,0 +1,406 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 17.088,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 17.088,
+      "end": 752.858,
+      "title": "Chapter 1: Echoes and Accusations"
+    },
+    {
+      "id": 2,
+      "start": 752.858,
+      "end": 1819.582,
+      "title": "Chapter 2: Imprisoned"
+    },
+    {
+      "id": 3,
+      "start": 1819.582,
+      "end": 2791.592,
+      "title": "Chapter 3: Blood Ties"
+    },
+    {
+      "id": 4,
+      "start": 2791.592,
+      "end": 3774.957,
+      "title": "Chapter 4: Painless"
+    },
+    {
+      "id": 5,
+      "start": 3774.957,
+      "end": 4862.231,
+      "title": "Chapter 5: Backlash"
+    },
+    {
+      "id": 6,
+      "start": 4862.231,
+      "end": 5617.46,
+      "title": "Chapter 6: Enough For Now"
+    },
+    {
+      "id": 7,
+      "start": 5617.46,
+      "end": 6338.253,
+      "title": "Chapter 7: Face to Face"
+    },
+    {
+      "id": 8,
+      "start": 6338.253,
+      "end": 7561.712,
+      "title": "Chapter 8: A Plea for Help"
+    },
+    {
+      "id": 9,
+      "start": 7561.712,
+      "end": 8488.908,
+      "title": "Chapter 9: The High Hall"
+    },
+    {
+      "id": 10,
+      "start": 8488.908,
+      "end": 10066.193,
+      "title": "Chapter 10: The Trial"
+    },
+    {
+      "id": 11,
+      "start": 10066.193,
+      "end": 11080.069,
+      "title": "Chapter 11: Broken Chains"
+    },
+    {
+      "id": 12,
+      "start": 11080.069,
+      "end": 12032.365,
+      "title": "Chapter 12: A Shame"
+    },
+    {
+      "id": 13,
+      "start": 12032.365,
+      "end": 13021.674,
+      "title": "Chapter 13:  Last Mercy"
+    },
+    {
+      "id": 14,
+      "start": 13021.674,
+      "end": 14580.452,
+      "title": "Chapter 14: Haunting Peace"
+    },
+    {
+      "id": 15,
+      "start": 14580.452,
+      "end": 15866.558,
+      "title": "Chapter 15: Protection"
+    },
+    {
+      "id": 16,
+      "start": 15866.558,
+      "end": 17054.862,
+      "title": "Chapter 16: Layers"
+    },
+    {
+      "id": 17,
+      "start": 17054.862,
+      "end": 18019.743,
+      "title": "Chapter 17: A Weapon Against Him"
+    },
+    {
+      "id": 18,
+      "start": 18019.743,
+      "end": 19318.226,
+      "title": "Chapter 18: The Central Dominion"
+    },
+    {
+      "id": 19,
+      "start": 19318.226,
+      "end": 20607.908,
+      "title": "Chapter 19: Burden and Stakes"
+    },
+    {
+      "id": 20,
+      "start": 20607.908,
+      "end": 21682.155,
+      "title": "Chapter 20: Ash and Dust"
+    },
+    {
+      "id": 21,
+      "start": 21682.155,
+      "end": 22785.195,
+      "title": "Chapter 21: Duality"
+    },
+    {
+      "id": 22,
+      "start": 22785.195,
+      "end": 23910.898,
+      "title": "Chapter 22: Professor Princess"
+    },
+    {
+      "id": 23,
+      "start": 23910.898,
+      "end": 25236.919,
+      "title": "Chapter 23: Eyes Locked"
+    },
+    {
+      "id": 24,
+      "start": 25236.919,
+      "end": 26661.904,
+      "title": "Chapter 24: Socialite"
+    },
+    {
+      "id": 25,
+      "start": 26661.904,
+      "end": 27983.699,
+      "title": "Chapter 25: A Dim Spark"
+    },
+    {
+      "id": 26,
+      "start": 27983.699,
+      "end": 29059.618,
+      "title": "Chapter 26 A Stroll With Gods"
+    },
+    {
+      "id": 27,
+      "start": 29059.618,
+      "end": 30595.339,
+      "title": "Chapter 27: Melee Enhancement Tactics"
+    },
+    {
+      "id": 28,
+      "start": 30595.339,
+      "end": 31873.574,
+      "title": "Chapter 28: Hope and Lies"
+    },
+    {
+      "id": 29,
+      "start": 31873.574,
+      "end": 33238.164,
+      "title": "Chapter 29: Colleagues"
+    },
+    {
+      "id": 30,
+      "start": 33238.164,
+      "end": 34532.003,
+      "title": "Chapter 30: Minimally Catastrophic"
+    },
+    {
+      "id": 31,
+      "start": 34532.003,
+      "end": 35464.377,
+      "title": "Chapter 31: Relic, Revived"
+    },
+    {
+      "id": 32,
+      "start": 35464.377,
+      "end": 37044.68,
+      "title": "Chapter 32: Paradigm Shift"
+    },
+    {
+      "id": 33,
+      "start": 37044.68,
+      "end": 38251.583,
+      "title": "Chapter 33: Somewhat Teaching"
+    },
+    {
+      "id": 34,
+      "start": 38251.583,
+      "end": 39740.307,
+      "title": "Chapter 34: Just His Name"
+    },
+    {
+      "id": 35,
+      "start": 39740.307,
+      "end": 41410.889,
+      "title": "Chapter 35: Closure"
+    },
+    {
+      "id": 36,
+      "start": 41410.889,
+      "end": 43098.259,
+      "title": "Chapter 36: Blood Relic"
+    },
+    {
+      "id": 37,
+      "start": 43098.259,
+      "end": 44818.88,
+      "title": "Chapter 37: Blood Relic II"
+    },
+    {
+      "id": 38,
+      "start": 44818.88,
+      "end": 46437.798,
+      "title": "Chapter 38: Potentials"
+    },
+    {
+      "id": 39,
+      "start": 46437.798,
+      "end": 47878.015,
+      "title": "Chapter 39: Blood Relic III"
+    },
+    {
+      "id": 40,
+      "start": 47878.015,
+      "end": 49355.338,
+      "title": "Chapter 40: The Second Ruin"
+    },
+    {
+      "id": 41,
+      "start": 49355.338,
+      "end": 50908.242,
+      "title": "Chapter 41: Fate Intertwined"
+    },
+    {
+      "id": 42,
+      "start": 50908.242,
+      "end": 52799.809,
+      "title": "Chapter 42: Results and Attention"
+    },
+    {
+      "id": 43,
+      "start": 52799.809,
+      "end": 54517.923,
+      "title": "Chapter 43: Planting Seeds"
+    },
+    {
+      "id": 44,
+      "start": 54517.923,
+      "end": 55873.573,
+      "title": "Chapter 44: Unfinished Grudges"
+    },
+    {
+      "id": 45,
+      "start": 55873.573,
+      "end": 57324.123,
+      "title": "Chapter 45: Unmerciful Promise"
+    },
+    {
+      "id": 46,
+      "start": 57324.123,
+      "end": 58993.289,
+      "title": "Chapter 46: The Victoriad"
+    },
+    {
+      "id": 47,
+      "start": 58993.289,
+      "end": 60217.259,
+      "title": "Chapter 47: The Victoriad II"
+    },
+    {
+      "id": 48,
+      "start": 60217.259,
+      "end": 62214.384,
+      "title": "Chapter 48: The Victoriad III"
+    },
+    {
+      "id": 49,
+      "start": 62214.384,
+      "end": 63876.259,
+      "title": "Chapter 49: A Brief Reprieve"
+    },
+    {
+      "id": 50,
+      "start": 63876.259,
+      "end": 65691.943,
+      "title": "Chapter 50: The Victoriad IV"
+    },
+    {
+      "id": 51,
+      "start": 65691.943,
+      "end": 67154.846,
+      "title": "Chapter 51: Unsanctioned"
+    },
+    {
+      "id": 52,
+      "start": 67154.846,
+      "end": 69013.208,
+      "title": "Chapter 52: The Victoriad Ends"
+    },
+    {
+      "id": 53,
+      "start": 69013.208,
+      "end": 70503.789,
+      "title": "Chapter 53: Afterwards"
+    },
+    {
+      "id": 54,
+      "start": 70503.789,
+      "end": 71547.247,
+      "title": "Chapter 54: In the Wake of..."
+    },
+    {
+      "id": 55,
+      "start": 71547.247,
+      "end": 73123.347,
+      "title": "Chapter 55: Voices"
+    },
+    {
+      "id": 56,
+      "start": 73123.347,
+      "end": 74537.883,
+      "title": "Chapter 56: Choices"
+    },
+    {
+      "id": 57,
+      "start": 74537.883,
+      "end": 75665.699,
+      "title": "Chapter 57: Time to Go"
+    },
+    {
+      "id": 58,
+      "start": 75665.699,
+      "end": 77508.875,
+      "title": "Chapter 58: Last Stand"
+    },
+    {
+      "id": 59,
+      "start": 77508.875,
+      "end": 79129.511,
+      "title": "Chapter 59: Right Place, Right Time"
+    },
+    {
+      "id": 60,
+      "start": 79129.511,
+      "end": 81204.213,
+      "title": "Chapter 60: A Void Beyond"
+    },
+    {
+      "id": 61,
+      "start": 81204.213,
+      "end": 81884.302,
+      "title": "Epilogue"
+    },
+    {
+      "id": 62,
+      "start": 81884.302,
+      "end": 81940.641,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "The Beginning After the End, Vol. 09: Reckoning",
+  "subtitle": null,
+  "authors": [
+    "Travis Baldree"
+  ],
+  "narrators": [
+    "Tae Ha Lee"
+  ],
+  "series": [
+    "The Beginning After the End #09"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "August 30, 2022 (08-30-22)",
+  "publishedDate": null,
+  "publisher": "Podium Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

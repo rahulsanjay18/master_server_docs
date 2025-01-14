@@ -1,0 +1,284 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 16.53551,
+      "title": "[01]  Intro"
+    },
+    {
+      "id": 1,
+      "start": 16.53551,
+      "end": 31.791019999999996,
+      "title": "[02]  An Excerpt "
+    },
+    {
+      "id": 2,
+      "start": 31.791019999999996,
+      "end": 13660.604081000001,
+      "title": "[03]  Prologue - Embers Falling on Dry Grass"
+    },
+    {
+      "id": 3,
+      "start": 13660.604081000001,
+      "end": 16443.115101000003,
+      "title": "[04]  Chapter 1 - When Last Sounds"
+    },
+    {
+      "id": 4,
+      "start": 16443.115101000003,
+      "end": 19836.682448000003,
+      "title": "[05]  Chapter 2 - The Dark One's Touch"
+    },
+    {
+      "id": 5,
+      "start": 19836.682448000003,
+      "end": 21228.799999000003,
+      "title": "[06]  Chapter 3 - At the Gardens"
+    },
+    {
+      "id": 6,
+      "start": 21228.799999000003,
+      "end": 23448.711836000002,
+      "title": "[07]  Chapter 4 - A Deal"
+    },
+    {
+      "id": 7,
+      "start": 23448.711836000002,
+      "end": 25960.959999000002,
+      "title": "[08]  Chapter 5 - Something ... Strange"
+    },
+    {
+      "id": 8,
+      "start": 25960.959999000002,
+      "end": 28269.583672,
+      "title": "[09]  Chapter 6 - A Stave and a Razor"
+    },
+    {
+      "id": 9,
+      "start": 28269.583672,
+      "end": 29942.177958,
+      "title": "[10]  Chapter 7 - A Cold Medallion"
+    },
+    {
+      "id": 10,
+      "start": 29942.177958,
+      "end": 33681.266938,
+      "title": "[11]  Chapter 8 - Dragons' Eggs"
+    },
+    {
+      "id": 11,
+      "start": 33681.266938,
+      "end": 35857.423673,
+      "title": "[12]  Chapter 9 - A Short Path"
+    },
+    {
+      "id": 12,
+      "start": 35857.423673,
+      "end": 38791.758366999995,
+      "title": "[13]  Chapter 10 - A Village in Shiota"
+    },
+    {
+      "id": 13,
+      "start": 38791.758366999995,
+      "end": 42594.63836699999,
+      "title": "[14]  Chapter 11 - A Hell in Maderin"
+    },
+    {
+      "id": 14,
+      "start": 42594.63836699999,
+      "end": 45648.14367299999,
+      "title": "[15]  Chapter 12 - A Manufactury"
+    },
+    {
+      "id": 15,
+      "start": 45648.14367299999,
+      "end": 47567.490611999994,
+      "title": "[16]  Chapter 13 - Siege"
+    },
+    {
+      "id": 16,
+      "start": 47567.490611999994,
+      "end": 49578.762448999994,
+      "title": "[17]  Chapter 14 - Wet Things"
+    },
+    {
+      "id": 17,
+      "start": 49578.762448999994,
+      "end": 51822.31510199999,
+      "title": "[18]  Chapter 15 - A Different Skill"
+    },
+    {
+      "id": 18,
+      "start": 51822.31510199999,
+      "end": 54053.851428999995,
+      "title": "[19]  Chapter 16 - The New Follower"
+    },
+    {
+      "id": 19,
+      "start": 54053.851428999995,
+      "end": 57148.342857999996,
+      "title": "[20]  Chapter 17 - A Bronze Bear"
+    },
+    {
+      "id": 20,
+      "start": 57148.342857999996,
+      "end": 59418.174694999994,
+      "title": "[21]  Chapter 18 - News for the Dragon"
+    },
+    {
+      "id": 21,
+      "start": 59418.174694999994,
+      "end": 62190.210612999996,
+      "title": "[22]  Chapter 19 - Vows"
+    },
+    {
+      "id": 22,
+      "start": 62190.210612999996,
+      "end": 65963.91183699999,
+      "title": "[23]  Chapter 20 - The Golden Crane"
+    },
+    {
+      "id": 23,
+      "start": 65963.91183699999,
+      "end": 70013.33550999999,
+      "title": "[24]  Chapter 21 - Within the Stone"
+    },
+    {
+      "id": 24,
+      "start": 70013.33550999999,
+      "end": 72335.64734699999,
+      "title": "[25]  Chapter 22 - To Make an Anchor Weep"
+    },
+    {
+      "id": 25,
+      "start": 72335.64734699999,
+      "end": 75859.40898,
+      "title": "[26]  Chapter 23 - Call to a Sitting"
+    },
+    {
+      "id": 26,
+      "start": 75859.40898,
+      "end": 81438.589388,
+      "title": "[27]  Chapter 24 - Honey in the Tea"
+    },
+    {
+      "id": 27,
+      "start": 81438.589388,
+      "end": 84066.48163299999,
+      "title": "[28]  Chapter 25 - Attending Elaida"
+    },
+    {
+      "id": 28,
+      "start": 84066.48163299999,
+      "end": 88523.59836799999,
+      "title": "[29]  Chapter 26 - As if the World Were Fog"
+    },
+    {
+      "id": 29,
+      "start": 88523.59836799999,
+      "end": 92201.56081699999,
+      "title": "[30]  Chapter 27 - A Plain Wooden Box"
+    },
+    {
+      "id": 30,
+      "start": 92201.56081699999,
+      "end": 94641.24081699998,
+      "title": "[31]  Chapter 28 - In Malden"
+    },
+    {
+      "id": 31,
+      "start": 94641.24081699998,
+      "end": 97980.47346999998,
+      "title": "[32]  Chapter 29 - The Last Knot"
+    },
+    {
+      "id": 32,
+      "start": 97980.47346999998,
+      "end": 100457.14285799998,
+      "title": "[33]  Chapter 30 - Outside the Gates"
+    },
+    {
+      "id": 33,
+      "start": 100457.14285799998,
+      "end": 103092.40163399998,
+      "title": "[34]  Chapter 31 - The House on the Full Moon Street"
+    },
+    {
+      "id": 34,
+      "start": 103092.40163399998,
+      "end": 105427.46122599998,
+      "title": "[35]  Chapter 32 - To Keep the Bargain"
+    },
+    {
+      "id": 35,
+      "start": 105427.46122599998,
+      "end": 107228.05551199999,
+      "title": "[36]  Chapter 33 - Nine Out of Ten"
+    },
+    {
+      "id": 36,
+      "start": 107228.05551199999,
+      "end": 108331.41551199999,
+      "title": "[37]  Chapter 34 - A Cup of Kaf"
+    },
+    {
+      "id": 37,
+      "start": 108331.41551199999,
+      "end": 110675.48734899999,
+      "title": "[38]  Chapter 35 - The Importance of Dyelin"
+    },
+    {
+      "id": 38,
+      "start": 110675.48734899999,
+      "end": 112501.26367599999,
+      "title": "[39]  Chapter 36 - Under an Oak"
+    },
+    {
+      "id": 39,
+      "start": 112501.26367599999,
+      "end": 114339.21306399998,
+      "title": "[40]  Chapter 37 - Prince of the Ravens"
+    },
+    {
+      "id": 40,
+      "start": 114339.21306399998,
+      "end": 115967.86939099999,
+      "title": "[41]  Epilogue - Remember the Old Saying"
+    },
+    {
+      "id": 41,
+      "start": 115967.86939099999,
+      "end": 116344.60734999999,
+      "title": "[42]  An Interview With Robert Jordan"
+    },
+    {
+      "id": 42,
+      "start": 116344.60734999999,
+      "end": 116367.56898299999,
+      "title": "[43]  Outro"
+    }
+  ],
+  "title": "Knife of Dreams (The Wheel of Time #11)",
+  "subtitle": null,
+  "authors": [
+    "Robert Jordan"
+  ],
+  "narrators": [],
+  "series": [
+    "Robert Jordan - The Wheel of Time 12GB"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2005-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

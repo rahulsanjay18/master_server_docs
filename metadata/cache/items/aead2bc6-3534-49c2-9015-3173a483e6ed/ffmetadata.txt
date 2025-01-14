@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Noam Chomsky Lectures
+artist=Noam Chomsky, Great Canadian Theatre Company Archives (University of Guelph), Theatre Passe Muraille Archives, Daniel Brooks, Guillermo Verdecchia
+album_artist=Noam Chomsky, Great Canadian Theatre Company Archives (University of Guelph), Theatre Passe Muraille Archives, Daniel Brooks, Guillermo Verdecchia
+album=The Noam Chomsky Lectures
+genre=Books & Spoken
+date=2010-01-01
+TRACKTOTAL=1
+grouping=Various Interviews and Talks

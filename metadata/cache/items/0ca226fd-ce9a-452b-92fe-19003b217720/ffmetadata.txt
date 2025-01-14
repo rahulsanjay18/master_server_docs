@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=The Dresden Files 10.5 - Curses
+artist=Richard Topol
+album_artist=Richard Topol
+album=The Dresden Files 10.5 - Curses
+genre=Audiobook
+date=2011-01-01
+comment=Takes place between Small Favor and Turn Coat. "Curses", published in Naked City: Tales of Urban Fantasy (July 5, 2011)
+description=Takes place between Small Favor and Turn Coat. "Curses", published in Naked City: Tales of Urban Fantasy (July 5, 2011)
+composer=Jim Butcher
+TRACKTOTAL=1
+grouping=Jim Butcher - Dresden Files 22GB \#10.5

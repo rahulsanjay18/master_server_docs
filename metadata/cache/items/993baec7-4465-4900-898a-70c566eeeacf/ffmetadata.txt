@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Speaking in Tongues
+artist=Neil Gaiman
+album_artist=Neil Gaiman
+album=Speaking in Tongues
+date=2005-01-01
+TRACKTOTAL=1

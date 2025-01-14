@@ -1,0 +1,82 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 57.468,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 57.468,
+      "end": 163.536,
+      "title": "Chapter O: A Letter Home"
+    },
+    {
+      "id": 2,
+      "start": 163.536,
+      "end": 7262.386,
+      "title": "Chapter I: Rapid Advance"
+    },
+    {
+      "id": 3,
+      "start": 7262.386,
+      "end": 13909.841,
+      "title": "Chapter II: Strange Friendship"
+    },
+    {
+      "id": 4,
+      "start": 13909.841,
+      "end": 20077.827,
+      "title": "Chapter III: Northern Operation"
+    },
+    {
+      "id": 5,
+      "start": 20077.827,
+      "end": 26314.056,
+      "title": "Chapter IV: Long-Range Assault Operation"
+    },
+    {
+      "id": 6,
+      "start": 26314.056,
+      "end": 35464.784,
+      "title": "Chapter V: Out of Time"
+    },
+    {
+      "id": 7,
+      "start": 35464.784,
+      "end": 38441.349,
+      "title": "Chapter VI: “Liberator”"
+    },
+    {
+      "id": 8,
+      "start": 38441.349,
+      "end": 38582.926,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "The Saga of Tanya the Evil, Vol. 05: Abyssus Abyssum Invocat",
+  "subtitle": null,
+  "authors": [
+    "Shiromi Arserio"
+  ],
+  "narrators": [
+    "Carlo Zen"
+  ],
+  "series": [
+    "The Saga of Tanya the Evil #05"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "January 30, 2016 (10-11-22)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

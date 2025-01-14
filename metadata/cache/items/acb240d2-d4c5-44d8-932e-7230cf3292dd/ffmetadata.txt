@@ -1,0 +1,6 @@
+;FFMETADATA1
+title=VSI - Reagan-Revolution
+artist=Oxford-VSI-Pack-History
+album_artist=Oxford-VSI-Pack-History
+album=VSI - Reagan-Revolution
+TRACKTOTAL=9

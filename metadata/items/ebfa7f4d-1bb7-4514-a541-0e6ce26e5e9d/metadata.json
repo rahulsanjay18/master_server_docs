@@ -1,0 +1,88 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 21.843,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 21.843,
+      "end": 46.043,
+      "title": "Epigraph"
+    },
+    {
+      "id": 2,
+      "start": 46.043,
+      "end": 1484.219,
+      "title": "Prologue"
+    },
+    {
+      "id": 3,
+      "start": 1484.219,
+      "end": 8907.684,
+      "title": "Chapter 1"
+    },
+    {
+      "id": 4,
+      "start": 8907.684,
+      "end": 15296.468,
+      "title": "Chapter 2"
+    },
+    {
+      "id": 5,
+      "start": 15296.468,
+      "end": 19797.47,
+      "title": "Chapter 3"
+    },
+    {
+      "id": 6,
+      "start": 19797.47,
+      "end": 25847.242,
+      "title": "Chapter 4"
+    },
+    {
+      "id": 7,
+      "start": 25847.242,
+      "end": 26722.959,
+      "title": "The Final Chapter"
+    },
+    {
+      "id": 8,
+      "start": 26722.959,
+      "end": 27579.959,
+      "title": "Side Story: “The Building Blocks of a Dream”"
+    },
+    {
+      "id": 9,
+      "start": 27579.959,
+      "end": 27632.976,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "The Faraway Paladin, Vol. 01: The Boy in the City of the Dead",
+  "subtitle": null,
+  "authors": [
+    "Liam Price"
+  ],
+  "narrators": [
+    "Kanata Yanagino"
+  ],
+  "series": [
+    "The Faraway Paladin #01"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "March 24, 2016 (05-09-23)",
+  "publishedDate": null,
+  "publisher": "Tantor Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,388 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 305.162449,
+      "title": "Chapter 01"
+    },
+    {
+      "id": 1,
+      "start": 305.162449,
+      "end": 559.621225,
+      "title": "Chapter 02"
+    },
+    {
+      "id": 2,
+      "start": 559.621225,
+      "end": 1103.699592,
+      "title": "Chapter 03"
+    },
+    {
+      "id": 3,
+      "start": 1103.699592,
+      "end": 1450.814694,
+      "title": "Chapter 04"
+    },
+    {
+      "id": 4,
+      "start": 1450.814694,
+      "end": 1764.7804079999999,
+      "title": "Chapter 05"
+    },
+    {
+      "id": 5,
+      "start": 1764.7804079999999,
+      "end": 2530.56,
+      "title": "Chapter 06"
+    },
+    {
+      "id": 6,
+      "start": 2530.56,
+      "end": 3171.9967349999997,
+      "title": "Chapter 07"
+    },
+    {
+      "id": 7,
+      "start": 3171.9967349999997,
+      "end": 3809.6979589999996,
+      "title": "Chapter 08"
+    },
+    {
+      "id": 8,
+      "start": 3809.6979589999996,
+      "end": 4371.931428,
+      "title": "Chapter 09"
+    },
+    {
+      "id": 9,
+      "start": 4371.931428,
+      "end": 5130.396734,
+      "title": "Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 5130.396734,
+      "end": 5681.841632,
+      "title": "Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 5681.841632,
+      "end": 5914.592651999999,
+      "title": "Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 5914.592651999999,
+      "end": 6480.692244,
+      "title": "Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 6480.692244,
+      "end": 6871.69306,
+      "title": "Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 6871.69306,
+      "end": 7448.816325,
+      "title": "Chapter 15"
+    },
+    {
+      "id": 15,
+      "start": 7448.816325,
+      "end": 8585.221223,
+      "title": "Chapter 16"
+    },
+    {
+      "id": 16,
+      "start": 8585.221223,
+      "end": 9034.292243,
+      "title": "Chapter 17"
+    },
+    {
+      "id": 17,
+      "start": 9034.292243,
+      "end": 10805.211427,
+      "title": "Chapter 18"
+    },
+    {
+      "id": 18,
+      "start": 10805.211427,
+      "end": 11471.281631,
+      "title": "Chapter 19"
+    },
+    {
+      "id": 19,
+      "start": 11471.281631,
+      "end": 12051.382855,
+      "title": "Chapter 20"
+    },
+    {
+      "id": 20,
+      "start": 12051.382855,
+      "end": 12754.05061,
+      "title": "Chapter 21"
+    },
+    {
+      "id": 21,
+      "start": 12754.05061,
+      "end": 13376.809794,
+      "title": "Chapter 22"
+    },
+    {
+      "id": 22,
+      "start": 13376.809794,
+      "end": 13927.836733,
+      "title": "Chapter 23"
+    },
+    {
+      "id": 23,
+      "start": 13927.836733,
+      "end": 14616.737957,
+      "title": "Chapter 24"
+    },
+    {
+      "id": 24,
+      "start": 14616.737957,
+      "end": 15138.7951,
+      "title": "Chapter 25"
+    },
+    {
+      "id": 25,
+      "start": 15138.7951,
+      "end": 15942.112651,
+      "title": "Chapter 26"
+    },
+    {
+      "id": 26,
+      "start": 15942.112651,
+      "end": 16376.319997999999,
+      "title": "Chapter 27"
+    },
+    {
+      "id": 27,
+      "start": 16376.319997999999,
+      "end": 16859.271835,
+      "title": "Chapter 28"
+    },
+    {
+      "id": 28,
+      "start": 16859.271835,
+      "end": 17632.783671999998,
+      "title": "Chapter 29"
+    },
+    {
+      "id": 29,
+      "start": 17632.783671999998,
+      "end": 18012.656324999996,
+      "title": "Chapter 30"
+    },
+    {
+      "id": 30,
+      "start": 18012.656324999996,
+      "end": 18503.888977999995,
+      "title": "Chapter 31"
+    },
+    {
+      "id": 31,
+      "start": 18503.888977999995,
+      "end": 18972.891426999995,
+      "title": "Chapter 32"
+    },
+    {
+      "id": 32,
+      "start": 18972.891426999995,
+      "end": 19551.399181999994,
+      "title": "Chapter 33"
+    },
+    {
+      "id": 33,
+      "start": 19551.399181999994,
+      "end": 20272.979589999995,
+      "title": "Chapter 34"
+    },
+    {
+      "id": 34,
+      "start": 20272.979589999995,
+      "end": 21291.415507999995,
+      "title": "Chapter 35"
+    },
+    {
+      "id": 35,
+      "start": 21291.415507999995,
+      "end": 22010.592650999995,
+      "title": "Chapter 36"
+    },
+    {
+      "id": 36,
+      "start": 22010.592650999995,
+      "end": 22483.591834999996,
+      "title": "Chapter 37"
+    },
+    {
+      "id": 37,
+      "start": 22483.591834999996,
+      "end": 22850.951834999996,
+      "title": "Chapter 38"
+    },
+    {
+      "id": 38,
+      "start": 22850.951834999996,
+      "end": 23388.238365999998,
+      "title": "Chapter 39"
+    },
+    {
+      "id": 39,
+      "start": 23388.238365999998,
+      "end": 23952.11755,
+      "title": "Chapter 40"
+    },
+    {
+      "id": 40,
+      "start": 23952.11755,
+      "end": 24751.203264,
+      "title": "Chapter 41"
+    },
+    {
+      "id": 41,
+      "start": 24751.203264,
+      "end": 25379.160815,
+      "title": "Chapter 42"
+    },
+    {
+      "id": 42,
+      "start": 25379.160815,
+      "end": 26991.882448,
+      "title": "Chapter 43"
+    },
+    {
+      "id": 43,
+      "start": 26991.882448,
+      "end": 27784.202448,
+      "title": "Chapter 44"
+    },
+    {
+      "id": 44,
+      "start": 27784.202448,
+      "end": 28385.488979,
+      "title": "Chapter 45"
+    },
+    {
+      "id": 45,
+      "start": 28385.488979,
+      "end": 29449.952652,
+      "title": "Chapter 46"
+    },
+    {
+      "id": 46,
+      "start": 29449.952652,
+      "end": 30779.088979,
+      "title": "Chapter 47"
+    },
+    {
+      "id": 47,
+      "start": 30779.088979,
+      "end": 31529.090612,
+      "title": "Chapter 48"
+    },
+    {
+      "id": 48,
+      "start": 31529.090612,
+      "end": 32267.389388,
+      "title": "Chapter 49"
+    },
+    {
+      "id": 49,
+      "start": 32267.389388,
+      "end": 32993.253878,
+      "title": "Chapter 50"
+    },
+    {
+      "id": 50,
+      "start": 32993.253878,
+      "end": 33661.936327,
+      "title": "Chapter 51"
+    },
+    {
+      "id": 51,
+      "start": 33661.936327,
+      "end": 34675.826939000006,
+      "title": "Chapter 52"
+    },
+    {
+      "id": 52,
+      "start": 34675.826939000006,
+      "end": 35679.843266,
+      "title": "Chapter 53"
+    },
+    {
+      "id": 53,
+      "start": 35679.843266,
+      "end": 36233.404082,
+      "title": "Chapter 54"
+    },
+    {
+      "id": 54,
+      "start": 36233.404082,
+      "end": 37049.182041,
+      "title": "Chapter 55"
+    },
+    {
+      "id": 55,
+      "start": 37049.182041,
+      "end": 38035.017143,
+      "title": "Chapter 56"
+    },
+    {
+      "id": 56,
+      "start": 38035.017143,
+      "end": 38620.786939,
+      "title": "Chapter 57"
+    },
+    {
+      "id": 57,
+      "start": 38620.786939,
+      "end": 39472.300407999996,
+      "title": "Chapter 58"
+    },
+    {
+      "id": 58,
+      "start": 39472.300407999996,
+      "end": 40328.437550999995,
+      "title": "Chapter 59"
+    },
+    {
+      "id": 59,
+      "start": 40328.437550999995,
+      "end": 40874.475102,
+      "title": "Chapter 60"
+    },
+    {
+      "id": 60,
+      "start": 40874.475102,
+      "end": 41322.527346999996,
+      "title": "Chapter 61"
+    }
+  ],
+  "title": "Pride and Prejudice (read by Flo Gibson)",
+  "subtitle": null,
+  "authors": [
+    "Jane Austen"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "1813",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

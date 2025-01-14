@@ -1,0 +1,514 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 480.052245,
+      "title": "Among Others (Unabridged) Part 1, Chapter 01"
+    },
+    {
+      "id": 1,
+      "start": 480.052245,
+      "end": 960.10449,
+      "title": "Among Others (Unabridged) Part 1, Chapter 02"
+    },
+    {
+      "id": 2,
+      "start": 960.10449,
+      "end": 1440.156735,
+      "title": "Among Others (Unabridged) Part 1, Chapter 03"
+    },
+    {
+      "id": 3,
+      "start": 1440.156735,
+      "end": 1920.20898,
+      "title": "Among Others (Unabridged) Part 1, Chapter 04"
+    },
+    {
+      "id": 4,
+      "start": 1920.20898,
+      "end": 2400.261225,
+      "title": "Among Others (Unabridged) Part 1, Chapter 05"
+    },
+    {
+      "id": 5,
+      "start": 2400.261225,
+      "end": 2880.31347,
+      "title": "Among Others (Unabridged) Part 1, Chapter 06"
+    },
+    {
+      "id": 6,
+      "start": 2880.31347,
+      "end": 3360.365715,
+      "title": "Among Others (Unabridged) Part 1, Chapter 07"
+    },
+    {
+      "id": 7,
+      "start": 3360.365715,
+      "end": 3840.4179599999998,
+      "title": "Among Others (Unabridged) Part 1, Chapter 08"
+    },
+    {
+      "id": 8,
+      "start": 3840.4179599999998,
+      "end": 4320.470205,
+      "title": "Among Others (Unabridged) Part 1, Chapter 09"
+    },
+    {
+      "id": 9,
+      "start": 4320.470205,
+      "end": 4792.476736,
+      "title": "Among Others (Unabridged) Part 1, Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 4792.476736,
+      "end": 5272.5289809999995,
+      "title": "Among Others (Unabridged) Part 1, Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 5272.5289809999995,
+      "end": 5752.581225999999,
+      "title": "Among Others (Unabridged) Part 1, Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 5752.581225999999,
+      "end": 6232.633470999999,
+      "title": "Among Others (Unabridged) Part 1, Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 6232.633470999999,
+      "end": 6712.685715999999,
+      "title": "Among Others (Unabridged) Part 1, Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 6712.685715999999,
+      "end": 7192.737960999999,
+      "title": "Among Others (Unabridged) Part 1, Chapter 15"
+    },
+    {
+      "id": 15,
+      "start": 7192.737960999999,
+      "end": 7672.790205999999,
+      "title": "Among Others (Unabridged) Part 1, Chapter 16"
+    },
+    {
+      "id": 16,
+      "start": 7672.790205999999,
+      "end": 8152.842450999999,
+      "title": "Among Others (Unabridged) Part 1, Chapter 17"
+    },
+    {
+      "id": 17,
+      "start": 8152.842450999999,
+      "end": 8632.894696,
+      "title": "Among Others (Unabridged) Part 1, Chapter 18"
+    },
+    {
+      "id": 18,
+      "start": 8632.894696,
+      "end": 9112.946941,
+      "title": "Among Others (Unabridged) Part 1, Chapter 19"
+    },
+    {
+      "id": 19,
+      "start": 9112.946941,
+      "end": 9584.953472000001,
+      "title": "Among Others (Unabridged) Part 1, Chapter 20"
+    },
+    {
+      "id": 20,
+      "start": 9584.953472000001,
+      "end": 10065.005717000002,
+      "title": "Among Others (Unabridged) Part 1, Chapter 21"
+    },
+    {
+      "id": 21,
+      "start": 10065.005717000002,
+      "end": 10545.057962000003,
+      "title": "Among Others (Unabridged) Part 1, Chapter 22"
+    },
+    {
+      "id": 22,
+      "start": 10545.057962000003,
+      "end": 11025.110207000003,
+      "title": "Among Others (Unabridged) Part 1, Chapter 23"
+    },
+    {
+      "id": 23,
+      "start": 11025.110207000003,
+      "end": 11505.162452000004,
+      "title": "Among Others (Unabridged) Part 1, Chapter 24"
+    },
+    {
+      "id": 24,
+      "start": 11505.162452000004,
+      "end": 11985.214697000005,
+      "title": "Among Others (Unabridged) Part 1, Chapter 25"
+    },
+    {
+      "id": 25,
+      "start": 11985.214697000005,
+      "end": 12465.266942000006,
+      "title": "Among Others (Unabridged) Part 1, Chapter 26"
+    },
+    {
+      "id": 26,
+      "start": 12465.266942000006,
+      "end": 12945.319187000006,
+      "title": "Among Others (Unabridged) Part 1, Chapter 27"
+    },
+    {
+      "id": 27,
+      "start": 12945.319187000006,
+      "end": 13425.371432000007,
+      "title": "Among Others (Unabridged) Part 1, Chapter 28"
+    },
+    {
+      "id": 28,
+      "start": 13425.371432000007,
+      "end": 13905.423677000008,
+      "title": "Among Others (Unabridged) Part 1, Chapter 29"
+    },
+    {
+      "id": 29,
+      "start": 13905.423677000008,
+      "end": 14377.430208000009,
+      "title": "Among Others (Unabridged) Part 1, Chapter 30"
+    },
+    {
+      "id": 30,
+      "start": 14377.430208000009,
+      "end": 14848.496330000009,
+      "title": "Among Others (Unabridged) Part 1, Chapter 31"
+    },
+    {
+      "id": 31,
+      "start": 14848.496330000009,
+      "end": 15319.56245200001,
+      "title": "Among Others (Unabridged) Part 1, Chapter 32"
+    },
+    {
+      "id": 32,
+      "start": 15319.56245200001,
+      "end": 15790.62857400001,
+      "title": "Among Others (Unabridged) Part 1, Chapter 33"
+    },
+    {
+      "id": 33,
+      "start": 15790.62857400001,
+      "end": 16261.69469600001,
+      "title": "Among Others (Unabridged) Part 1, Chapter 34"
+    },
+    {
+      "id": 34,
+      "start": 16261.69469600001,
+      "end": 16732.682451000008,
+      "title": "Among Others (Unabridged) Part 1, Chapter 35"
+    },
+    {
+      "id": 35,
+      "start": 16732.682451000008,
+      "end": 17203.670206000006,
+      "title": "Among Others (Unabridged) Part 1, Chapter 36"
+    },
+    {
+      "id": 36,
+      "start": 17203.670206000006,
+      "end": 17674.657961000004,
+      "title": "Among Others (Unabridged) Part 1, Chapter 37"
+    },
+    {
+      "id": 37,
+      "start": 17674.657961000004,
+      "end": 18145.645716000003,
+      "title": "Among Others (Unabridged) Part 1, Chapter 38"
+    },
+    {
+      "id": 38,
+      "start": 18145.645716000003,
+      "end": 18616.633471,
+      "title": "Among Others (Unabridged) Part 1, Chapter 39"
+    },
+    {
+      "id": 39,
+      "start": 18616.633471,
+      "end": 19080.777144,
+      "title": "Among Others (Unabridged) Part 1, Chapter 40"
+    },
+    {
+      "id": 40,
+      "start": 19080.777144,
+      "end": 19169.541226,
+      "title": "Among Others (Unabridged) Part 2, Chapter 00"
+    },
+    {
+      "id": 41,
+      "start": 19169.541226,
+      "end": 19649.515104000002,
+      "title": "Among Others (Unabridged) Part 2, Chapter 01"
+    },
+    {
+      "id": 42,
+      "start": 19649.515104000002,
+      "end": 20129.488982000003,
+      "title": "Among Others (Unabridged) Part 2, Chapter 02"
+    },
+    {
+      "id": 43,
+      "start": 20129.488982000003,
+      "end": 20609.462860000003,
+      "title": "Among Others (Unabridged) Part 2, Chapter 03"
+    },
+    {
+      "id": 44,
+      "start": 20609.462860000003,
+      "end": 21089.436738000004,
+      "title": "Among Others (Unabridged) Part 2, Chapter 04"
+    },
+    {
+      "id": 45,
+      "start": 21089.436738000004,
+      "end": 21569.421321000005,
+      "title": "Among Others (Unabridged) Part 2, Chapter 05"
+    },
+    {
+      "id": 46,
+      "start": 21569.421321000005,
+      "end": 22049.405904000007,
+      "title": "Among Others (Unabridged) Part 2, Chapter 06"
+    },
+    {
+      "id": 47,
+      "start": 22049.405904000007,
+      "end": 22529.390487000008,
+      "title": "Among Others (Unabridged) Part 2, Chapter 07"
+    },
+    {
+      "id": 48,
+      "start": 22529.390487000008,
+      "end": 23009.37507000001,
+      "title": "Among Others (Unabridged) Part 2, Chapter 08"
+    },
+    {
+      "id": 49,
+      "start": 23009.37507000001,
+      "end": 23489.35965300001,
+      "title": "Among Others (Unabridged) Part 2, Chapter 09"
+    },
+    {
+      "id": 50,
+      "start": 23489.35965300001,
+      "end": 23961.29848600001,
+      "title": "Among Others (Unabridged) Part 2, Chapter 10"
+    },
+    {
+      "id": 51,
+      "start": 23961.29848600001,
+      "end": 24441.283069000012,
+      "title": "Among Others (Unabridged) Part 2, Chapter 11"
+    },
+    {
+      "id": 52,
+      "start": 24441.283069000012,
+      "end": 24921.267652000013,
+      "title": "Among Others (Unabridged) Part 2, Chapter 12"
+    },
+    {
+      "id": 53,
+      "start": 24921.267652000013,
+      "end": 25401.252235000014,
+      "title": "Among Others (Unabridged) Part 2, Chapter 13"
+    },
+    {
+      "id": 54,
+      "start": 25401.252235000014,
+      "end": 25881.236818000016,
+      "title": "Among Others (Unabridged) Part 2, Chapter 14"
+    },
+    {
+      "id": 55,
+      "start": 25881.236818000016,
+      "end": 26361.221401000017,
+      "title": "Among Others (Unabridged) Part 2, Chapter 15"
+    },
+    {
+      "id": 56,
+      "start": 26361.221401000017,
+      "end": 26841.20598400002,
+      "title": "Among Others (Unabridged) Part 2, Chapter 16"
+    },
+    {
+      "id": 57,
+      "start": 26841.20598400002,
+      "end": 27321.19056700002,
+      "title": "Among Others (Unabridged) Part 2, Chapter 17"
+    },
+    {
+      "id": 58,
+      "start": 27321.19056700002,
+      "end": 27801.17515000002,
+      "title": "Among Others (Unabridged) Part 2, Chapter 18"
+    },
+    {
+      "id": 59,
+      "start": 27801.17515000002,
+      "end": 28281.159733000022,
+      "title": "Among Others (Unabridged) Part 2, Chapter 19"
+    },
+    {
+      "id": 60,
+      "start": 28281.159733000022,
+      "end": 28753.098566000022,
+      "title": "Among Others (Unabridged) Part 2, Chapter 20"
+    },
+    {
+      "id": 61,
+      "start": 28753.098566000022,
+      "end": 29233.083149000024,
+      "title": "Among Others (Unabridged) Part 2, Chapter 21"
+    },
+    {
+      "id": 62,
+      "start": 29233.083149000024,
+      "end": 29713.067732000025,
+      "title": "Among Others (Unabridged) Part 2, Chapter 22"
+    },
+    {
+      "id": 63,
+      "start": 29713.067732000025,
+      "end": 30193.052315000026,
+      "title": "Among Others (Unabridged) Part 2, Chapter 23"
+    },
+    {
+      "id": 64,
+      "start": 30193.052315000026,
+      "end": 30673.036898000028,
+      "title": "Among Others (Unabridged) Part 2, Chapter 24"
+    },
+    {
+      "id": 65,
+      "start": 30673.036898000028,
+      "end": 31153.02148100003,
+      "title": "Among Others (Unabridged) Part 2, Chapter 25"
+    },
+    {
+      "id": 66,
+      "start": 31153.02148100003,
+      "end": 31633.00606400003,
+      "title": "Among Others (Unabridged) Part 2, Chapter 26"
+    },
+    {
+      "id": 67,
+      "start": 31633.00606400003,
+      "end": 32112.99064700003,
+      "title": "Among Others (Unabridged) Part 2, Chapter 27"
+    },
+    {
+      "id": 68,
+      "start": 32112.99064700003,
+      "end": 32592.975230000033,
+      "title": "Among Others (Unabridged) Part 2, Chapter 28"
+    },
+    {
+      "id": 69,
+      "start": 32592.975230000033,
+      "end": 33072.95981300003,
+      "title": "Among Others (Unabridged) Part 2, Chapter 29"
+    },
+    {
+      "id": 70,
+      "start": 33072.95981300003,
+      "end": 33544.89864600003,
+      "title": "Among Others (Unabridged) Part 2, Chapter 30"
+    },
+    {
+      "id": 71,
+      "start": 33544.89864600003,
+      "end": 34024.88322900003,
+      "title": "Among Others (Unabridged) Part 2, Chapter 31"
+    },
+    {
+      "id": 72,
+      "start": 34024.88322900003,
+      "end": 34504.867812000026,
+      "title": "Among Others (Unabridged) Part 2, Chapter 32"
+    },
+    {
+      "id": 73,
+      "start": 34504.867812000026,
+      "end": 34984.85239500002,
+      "title": "Among Others (Unabridged) Part 2, Chapter 33"
+    },
+    {
+      "id": 74,
+      "start": 34984.85239500002,
+      "end": 35464.83697800002,
+      "title": "Among Others (Unabridged) Part 2, Chapter 34"
+    },
+    {
+      "id": 75,
+      "start": 35464.83697800002,
+      "end": 35944.82156100002,
+      "title": "Among Others (Unabridged) Part 2, Chapter 35"
+    },
+    {
+      "id": 76,
+      "start": 35944.82156100002,
+      "end": 36424.80614400002,
+      "title": "Among Others (Unabridged) Part 2, Chapter 36"
+    },
+    {
+      "id": 77,
+      "start": 36424.80614400002,
+      "end": 36904.790727000014,
+      "title": "Among Others (Unabridged) Part 2, Chapter 37"
+    },
+    {
+      "id": 78,
+      "start": 36904.790727000014,
+      "end": 37384.77531000001,
+      "title": "Among Others (Unabridged) Part 2, Chapter 38"
+    },
+    {
+      "id": 79,
+      "start": 37384.77531000001,
+      "end": 37864.75989300001,
+      "title": "Among Others (Unabridged) Part 2, Chapter 39"
+    },
+    {
+      "id": 80,
+      "start": 37864.75989300001,
+      "end": 38336.69872600001,
+      "title": "Among Others (Unabridged) Part 2, Chapter 40"
+    },
+    {
+      "id": 81,
+      "start": 38336.69872600001,
+      "end": 38370.14614300001,
+      "title": "Among Others (Unabridged) Part 2, Chapter 41"
+    }
+  ],
+  "title": "Among Others",
+  "subtitle": null,
+  "authors": [
+    "Jo Walton"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2012",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,132 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 925.413878,
+      "title": "Volume 2 - Chapter 01"
+    },
+    {
+      "id": 1,
+      "start": 925.413878,
+      "end": 1766.8179599999999,
+      "title": "Volume 2 - Chapter 02"
+    },
+    {
+      "id": 2,
+      "start": 1766.8179599999999,
+      "end": 3093.655511,
+      "title": "Volume 2 - Chapter 03"
+    },
+    {
+      "id": 3,
+      "start": 3093.655511,
+      "end": 3668.715103,
+      "title": "Volume 2 - Chapter 04"
+    },
+    {
+      "id": 4,
+      "start": 3668.715103,
+      "end": 4809.299593,
+      "title": "Volume 2 - Chapter 05"
+    },
+    {
+      "id": 5,
+      "start": 4809.299593,
+      "end": 5815.745306999999,
+      "title": "Volume 2 - Chapter 06"
+    },
+    {
+      "id": 6,
+      "start": 5815.745306999999,
+      "end": 6618.906122999999,
+      "title": "Volume 2 - Chapter 07"
+    },
+    {
+      "id": 7,
+      "start": 6618.906122999999,
+      "end": 8802.899591999998,
+      "title": "Volume 2 - Chapter 08"
+    },
+    {
+      "id": 8,
+      "start": 8802.899591999998,
+      "end": 9816.293877999999,
+      "title": "Volume 2 - Chapter 09"
+    },
+    {
+      "id": 9,
+      "start": 9816.293877999999,
+      "end": 10524.839183999999,
+      "title": "Volume 2 - Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 10524.839183999999,
+      "end": 11669.211428999999,
+      "title": "Volume 2 - Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 11669.211428999999,
+      "end": 12448.182857999998,
+      "title": "Volume 2 - Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 12448.182857999998,
+      "end": 13139.905306999999,
+      "title": "Volume 2 - Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 13139.905306999999,
+      "end": 14473.27347,
+      "title": "Volume 2 - Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 14473.27347,
+      "end": 15541.315919,
+      "title": "Volume 2 - Chapter 15"
+    },
+    {
+      "id": 15,
+      "start": 15541.315919,
+      "end": 16604.943674000002,
+      "title": "Volume 2 - Chapter 16"
+    },
+    {
+      "id": 16,
+      "start": 16604.943674000002,
+      "end": 17363.095511000003,
+      "title": "Volume 2 - Chapter 17"
+    },
+    {
+      "id": 17,
+      "start": 17363.095511000003,
+      "end": 18369.750205000004,
+      "title": "Volume 2 - Chapter 18"
+    }
+  ],
+  "title": "Emma (read by Michael Page)",
+  "subtitle": null,
+  "authors": [
+    "Jane Austen"
+  ],
+  "narrators": [],
+  "series": [
+    "1815 - Emma (read by Michael Page) #2"
+  ],
+  "genres": [],
+  "publishedYear": "1815",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

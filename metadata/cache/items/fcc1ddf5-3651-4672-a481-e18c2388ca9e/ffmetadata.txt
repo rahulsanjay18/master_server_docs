@@ -1,0 +1,6 @@
+;FFMETADATA1
+title=Pakistan - A Very Short Introduction
+artist=Pippa Virdee
+album_artist=Pippa Virdee
+album=Pakistan - A Very Short Introduction
+TRACKTOTAL=1

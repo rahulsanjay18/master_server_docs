@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Timescape
+artist=Gregory Benford
+album_artist=Gregory Benford
+album=Timescape
+genre=Sci-Fi
+date=2000
+comment=Read by Pete Bradbury & Simon Prebble\; Unabridged
+description=Read by Pete Bradbury & Simon Prebble\; Unabridged
+TRACKTOTAL=22

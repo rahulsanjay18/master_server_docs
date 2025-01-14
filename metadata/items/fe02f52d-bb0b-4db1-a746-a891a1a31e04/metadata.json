@@ -1,0 +1,209 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 17.293061,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 17.293061,
+      "end": 131.265306,
+      "title": "Narrator's Note"
+    },
+    {
+      "id": 2,
+      "start": 131.265306,
+      "end": 691.696326,
+      "title": "Chapter 1: Dr. Sheppard at the Breakfast Table"
+    },
+    {
+      "id": 3,
+      "start": 691.696326,
+      "end": 1571.291428,
+      "title": "Chapter 2: Who's Who in King's Abbot"
+    },
+    {
+      "id": 4,
+      "start": 1571.291428,
+      "end": 2844.05551,
+      "title": "Chapter 3: The Man Who Grew Vegetable Marrows"
+    },
+    {
+      "id": 5,
+      "start": 2844.05551,
+      "end": 4546.403265,
+      "title": "Chapter 4: Dinner at Fernly"
+    },
+    {
+      "id": 6,
+      "start": 4546.403265,
+      "end": 5812.924081,
+      "title": "Chapter 5: Murder"
+    },
+    {
+      "id": 7,
+      "start": 5812.924081,
+      "end": 6668.799999,
+      "title": "Chapter 6: The Tunisian Dagger"
+    },
+    {
+      "id": 8,
+      "start": 6668.799999,
+      "end": 8175.90857,
+      "title": "Chapter 7: I Learn My Neighbor's Profession"
+    },
+    {
+      "id": 9,
+      "start": 8175.90857,
+      "end": 9342.09306,
+      "title": "Chapter 8: Inspector Raglan Is Confident"
+    },
+    {
+      "id": 10,
+      "start": 9342.09306,
+      "end": 10356.192652,
+      "title": "Chapter 9: The Goldfish Pond"
+    },
+    {
+      "id": 11,
+      "start": 10356.192652,
+      "end": 11904.391835999999,
+      "title": "Chapter 10: The Parlormaid"
+    },
+    {
+      "id": 12,
+      "start": 11904.391835999999,
+      "end": 12703.895508999998,
+      "title": "Chapter 11: Poirot Pays a Call"
+    },
+    {
+      "id": 13,
+      "start": 12703.895508999998,
+      "end": 13733.877549999997,
+      "title": "Chapter 12: Round the Table"
+    },
+    {
+      "id": 14,
+      "start": 13733.877549999997,
+      "end": 14492.186120999997,
+      "title": "Chapter 13: The Goose Quill"
+    },
+    {
+      "id": 15,
+      "start": 14492.186120999997,
+      "end": 15694.602447999998,
+      "title": "Chapter 14: Mrs. Ackroyd"
+    },
+    {
+      "id": 16,
+      "start": 15694.602447999998,
+      "end": 16674.742855999997,
+      "title": "Chapter 15: Geoffrey Raymond"
+    },
+    {
+      "id": 17,
+      "start": 16674.742855999997,
+      "end": 17677.035100999998,
+      "title": "Chapter 16: An Evening at Mah Jong"
+    },
+    {
+      "id": 18,
+      "start": 17677.035100999998,
+      "end": 19121.319182999996,
+      "title": "Chapter 17: Parker"
+    },
+    {
+      "id": 19,
+      "start": 19121.319182999996,
+      "end": 19761.684896999996,
+      "title": "Chapter 18: Charles Kent"
+    },
+    {
+      "id": 20,
+      "start": 19761.684896999996,
+      "end": 20774.530610999995,
+      "title": "Chapter 19: Flora Ackroyd"
+    },
+    {
+      "id": 21,
+      "start": 20774.530610999995,
+      "end": 21872.065304999996,
+      "title": "Chapter 20: Miss Russell"
+    },
+    {
+      "id": 22,
+      "start": 21872.065304999996,
+      "end": 22662.791835999997,
+      "title": "Chapter 21: The Paragraph in the Paper"
+    },
+    {
+      "id": 23,
+      "start": 22662.791835999997,
+      "end": 23489.828571,
+      "title": "Chapter 22: Ursula's Story"
+    },
+    {
+      "id": 24,
+      "start": 23489.828571,
+      "end": 24930.664489,
+      "title": "Chapter 23: Poirot's Little Reunion"
+    },
+    {
+      "id": 25,
+      "start": 24930.664489,
+      "end": 25411.787753999997,
+      "title": "Chapter 24: Ralph Paton's Story"
+    },
+    {
+      "id": 26,
+      "start": 25411.787753999997,
+      "end": 26272.522447999996,
+      "title": "Chapter 25: The Whole Truth"
+    },
+    {
+      "id": 27,
+      "start": 26272.522447999996,
+      "end": 26683.663671999995,
+      "title": "Chapter 26: And Nothing but the Truth"
+    },
+    {
+      "id": 28,
+      "start": 26683.663671999995,
+      "end": 27000.372242999994,
+      "title": "Chapter 27: Apologia"
+    },
+    {
+      "id": 29,
+      "start": 27000.372242999994,
+      "end": 27044.022854999996,
+      "title": "End Credits"
+    }
+  ],
+  "title": "The Murder of Roger Ackroyd",
+  "subtitle": "Hercule Poirot Mysteries , Book 4",
+  "authors": [
+    "Agatha Christie",
+    "Richard Armitage"
+  ],
+  "narrators": [
+    "Richard Armitage"
+  ],
+  "series": [
+    "Hercule Poirot Mysteries #4"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2020",
+  "publishedDate": null,
+  "publisher": "Audible, Inc.",
+  "description": "One of Agatha Christie’s most famous novels, featuring her beloved Detective Hercule Poirot - and her most surprising twist.    The story that made Agatha Christie famous ends with one of her most dramatic twists. The villagers of King’s Abbot are shocked when a wealthy local widow commits suicide and the very next day her fiancé, Roger Ackroyd, is stabbed to death. Dr. James Sheppard, the local physician, discovers the body of his friend and narrates the ensuing hunt for the killer. All the guests and staff at Ackroyd's country house seem to have solid alibis - except for his missing stepson. But as the authorities home in on their most obvious suspect, the recently retired detective Hercule Poirot unexpectedly turns up and joins the fray. Dr. Sheppard gamely assists the legendary Poirot as he untangles one of the most fiendish mysteries in Christie’s extensive oeuvre.",
+  "isbn": null,
+  "asin": "B09SQYDLGY",
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

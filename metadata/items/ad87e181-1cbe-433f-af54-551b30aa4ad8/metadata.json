@@ -1,0 +1,411 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 28.081633,
+      "title": "[01]  Intro"
+    },
+    {
+      "id": 1,
+      "start": 28.081633,
+      "end": 120.137143,
+      "title": "[02]  An Excerpt"
+    },
+    {
+      "id": 2,
+      "start": 120.137143,
+      "end": 6952.019592,
+      "title": "[03]  Prologue - Distinctions"
+    },
+    {
+      "id": 3,
+      "start": 6952.019592,
+      "end": 8219.141225,
+      "title": "[04]  Chapter 1 - Apples First"
+    },
+    {
+      "id": 4,
+      "start": 8219.141225,
+      "end": 10271.190204999999,
+      "title": "[05]  Chapter 2 - Questions of Leadership"
+    },
+    {
+      "id": 5,
+      "start": 10271.190204999999,
+      "end": 12672.026123,
+      "title": "[06]  Chapter 3 - The Amyrlin's Anger"
+    },
+    {
+      "id": 6,
+      "start": 12672.026123,
+      "end": 15382.831021,
+      "title": "[07]  Chapter 4 - The Pattern Groans"
+    },
+    {
+      "id": 7,
+      "start": 15382.831021,
+      "end": 18314.240001,
+      "title": "[08]  Chapter 5 - Writings"
+    },
+    {
+      "id": 8,
+      "start": 18314.240001,
+      "end": 20406.465307,
+      "title": "[09]  Chapter 6 - Questioning Intentions"
+    },
+    {
+      "id": 9,
+      "start": 20406.465307,
+      "end": 21866.971428999997,
+      "title": "[10]  Chapter 7 - Lighter Than a Feather"
+    },
+    {
+      "id": 10,
+      "start": 21866.971428999997,
+      "end": 24471.980408999996,
+      "title": "[11]  Chapter 8 - The Seven-Striped Lass"
+    },
+    {
+      "id": 11,
+      "start": 24471.980408999996,
+      "end": 25610.475102999997,
+      "title": "[12]  Chapter 9 - Blood in the Air"
+    },
+    {
+      "id": 12,
+      "start": 25610.475102999997,
+      "end": 27179.990205,
+      "title": "[13]  Chapter 10 - After the Taint"
+    },
+    {
+      "id": 13,
+      "start": 27179.990205,
+      "end": 29049.391021,
+      "title": "[14]  Chapter 11 - An Unexpected Letter"
+    },
+    {
+      "id": 14,
+      "start": 29049.391021,
+      "end": 29852.133878,
+      "title": "[15]  Chapter 12 - An Empty Ink Bottle"
+    },
+    {
+      "id": 15,
+      "start": 29852.133878,
+      "end": 31187.173878,
+      "title": "[16]  Chapter 13 - For What Has Been Wrought"
+    },
+    {
+      "id": 16,
+      "start": 31187.173878,
+      "end": 33597.701225000004,
+      "title": "[17]  Chapter 14 - A Vow"
+    },
+    {
+      "id": 17,
+      "start": 33597.701225000004,
+      "end": 36036.754286,
+      "title": "[18]  Chapter 15 - Use a Pebble"
+    },
+    {
+      "id": 18,
+      "start": 36036.754286,
+      "end": 38486.569796,
+      "title": "[19]  Chapter 16 - Shanna'har"
+    },
+    {
+      "id": 19,
+      "start": 38486.569796,
+      "end": 41215.399184,
+      "title": "[20]  Chapter 17 - Partings, and a Meeting"
+    },
+    {
+      "id": 20,
+      "start": 41215.399184,
+      "end": 44275.61796,
+      "title": "[21]  Chapter 18 - The Strength of This Place"
+    },
+    {
+      "id": 21,
+      "start": 44275.61796,
+      "end": 47120.64000100001,
+      "title": "[22]  Chapter 19 - Talk of Dragons"
+    },
+    {
+      "id": 22,
+      "start": 47120.64000100001,
+      "end": 50606.68081700001,
+      "title": "[23]  Chapter 20 - A Choice"
+    },
+    {
+      "id": 23,
+      "start": 50606.68081700001,
+      "end": 53588.97632700001,
+      "title": "[24]  Chapter 21 - An Open Gate"
+    },
+    {
+      "id": 24,
+      "start": 53588.97632700001,
+      "end": 58364.865307000015,
+      "title": "[25]  Chapter 22 - The End of a Legend"
+    },
+    {
+      "id": 25,
+      "start": 58364.865307000015,
+      "end": 61778.860409000015,
+      "title": "[26]  Chapter 23 - Foxheads"
+    },
+    {
+      "id": 26,
+      "start": 61778.860409000015,
+      "end": 65128.64653100001,
+      "title": "[27]  Chapter 24 - To Make a Stand"
+    },
+    {
+      "id": 27,
+      "start": 65128.64653100001,
+      "end": 66702.001633,
+      "title": "[28]  Chapter 25 - Return to Bandar Eban"
+    },
+    {
+      "id": 28,
+      "start": 66702.001633,
+      "end": 69152.235102,
+      "title": "[29]  Chapter 26 - Parley"
+    },
+    {
+      "id": 29,
+      "start": 69152.235102,
+      "end": 70954.34449,
+      "title": "[30]  Chapter 27 - A Call to Stand"
+    },
+    {
+      "id": 30,
+      "start": 70954.34449,
+      "end": 73454.550204,
+      "title": "[31]  Chapter 28 - Oddities"
+    },
+    {
+      "id": 31,
+      "start": 73454.550204,
+      "end": 76457.795918,
+      "title": "[32]  Chapter 29 - A Terrible Feeling"
+    },
+    {
+      "id": 32,
+      "start": 76457.795918,
+      "end": 78788.36244900001,
+      "title": "[33]  Chapter 30 - Men Dream Here"
+    },
+    {
+      "id": 33,
+      "start": 78788.36244900001,
+      "end": 80461.191837,
+      "title": "[34]  Chapter 31 - Into the Void"
+    },
+    {
+      "id": 34,
+      "start": 80461.191837,
+      "end": 82968.737959,
+      "title": "[35]  Chapter 32 - A Storm of Light"
+    },
+    {
+      "id": 35,
+      "start": 82968.737959,
+      "end": 86031.699592,
+      "title": "[36]  Chapter 33 - A Good Soup"
+    },
+    {
+      "id": 36,
+      "start": 86031.699592,
+      "end": 88966.661225,
+      "title": "[37]  Chapter 34 - Judgement"
+    },
+    {
+      "id": 37,
+      "start": 88966.661225,
+      "end": 90742.30857200001,
+      "title": "[38]  Chapter 35 - The Right Thing"
+    },
+    {
+      "id": 38,
+      "start": 90742.30857200001,
+      "end": 92961.41061300001,
+      "title": "[39]  Chapter 36 - An Invitation"
+    },
+    {
+      "id": 39,
+      "start": 92961.41061300001,
+      "end": 95695.20326600001,
+      "title": "[40]  Chapter 37 - Darkness in the Tower"
+    },
+    {
+      "id": 40,
+      "start": 95695.20326600001,
+      "end": 98150.138776,
+      "title": "[41]  Chapter 38 - Wounds"
+    },
+    {
+      "id": 41,
+      "start": 98150.138776,
+      "end": 99188.68898,
+      "title": "[42]  Chapter 39 - In the Three-Fold Land"
+    },
+    {
+      "id": 42,
+      "start": 99188.68898,
+      "end": 102138.148572,
+      "title": "[43]  Chapter 40 - A Making"
+    },
+    {
+      "id": 43,
+      "start": 102138.148572,
+      "end": 103982.942041,
+      "title": "[44]  Chapter 41 - An Unexpected Ally"
+    },
+    {
+      "id": 44,
+      "start": 103982.942041,
+      "end": 105130.34449,
+      "title": "[45]  Chapter 42 - Stronger Than Blood"
+    },
+    {
+      "id": 45,
+      "start": 105130.34449,
+      "end": 106395.53306100001,
+      "title": "[46]  Chapter 43 - Some Tea"
+    },
+    {
+      "id": 46,
+      "start": 106395.53306100001,
+      "end": 108264.306939,
+      "title": "[47]  Chapter 44 - A Backhanded Request"
+    },
+    {
+      "id": 47,
+      "start": 108264.306939,
+      "end": 110453.420408,
+      "title": "[48]  Chapter 45 - A Reunion"
+    },
+    {
+      "id": 48,
+      "start": 110453.420408,
+      "end": 112894.38040800001,
+      "title": "[49]  Chapter 46 - Working Leather"
+    },
+    {
+      "id": 49,
+      "start": 112894.38040800001,
+      "end": 116299.049796,
+      "title": "[50]  Chapter 47 - A Teaching Chamber"
+    },
+    {
+      "id": 50,
+      "start": 116299.049796,
+      "end": 118223.49061200001,
+      "title": "[51]  Chapter 48 - Near Avendesora"
+    },
+    {
+      "id": 51,
+      "start": 118223.49061200001,
+      "end": 120329.22122400001,
+      "title": "[52]  Chapter 49 - Court of the Sun"
+    },
+    {
+      "id": 52,
+      "start": 120329.22122400001,
+      "end": 121799.209795,
+      "title": "[53]  Chapter 50 - Choosing Enemies"
+    },
+    {
+      "id": 53,
+      "start": 121799.209795,
+      "end": 123681.802448,
+      "title": "[54]  Chapter 51 - A Testing"
+    },
+    {
+      "id": 54,
+      "start": 123681.802448,
+      "end": 126077.335509,
+      "title": "[55]  Chapter 52 - Boots"
+    },
+    {
+      "id": 55,
+      "start": 126077.335509,
+      "end": 129622.256325,
+      "title": "[56]  Chapter 53 - Gateways"
+    },
+    {
+      "id": 56,
+      "start": 129622.256325,
+      "end": 131836.81306,
+      "title": "[57]  Chapter 54 - The Light of the World"
+    },
+    {
+      "id": 57,
+      "start": 131836.81306,
+      "end": 133205.420407,
+      "title": "[58]  Chapter 55 - The One Left Behind"
+    },
+    {
+      "id": 58,
+      "start": 133205.420407,
+      "end": 134337.959183,
+      "title": "[59]  Chapter 56 - Something Wrong"
+    },
+    {
+      "id": 59,
+      "start": 134337.959183,
+      "end": 135579.506938,
+      "title": "[60]  Chapter 57 - A Rabbit for Supper"
+    },
+    {
+      "id": 60,
+      "start": 135579.506938,
+      "end": 138086.138775,
+      "title": "[61]  Epilogue - And After"
+    },
+    {
+      "id": 61,
+      "start": 138086.138775,
+      "end": 138189.76653,
+      "title": "[62]  An Excerpt"
+    },
+    {
+      "id": 62,
+      "start": 138189.76653,
+      "end": 138197.733877,
+      "title": "[63]  The End"
+    },
+    {
+      "id": 63,
+      "start": 138197.733877,
+      "end": 138233.73061199998,
+      "title": "[64]  Outro"
+    }
+  ],
+  "title": "Towers of Midnight (The Wheel of Time #13)",
+  "subtitle": null,
+  "authors": [
+    "Robert Jordan",
+    "Brandon Sanderson"
+  ],
+  "narrators": [],
+  "series": [
+    "Robert Jordan - The Wheel of Time 12GB"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2010",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Planet of Exile
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Planet of Exile
+genre=Audio Book
+date=1966
+comment=Read by Carrington MacDuffie & Steven Hoye
+description=Read by Carrington MacDuffie & Steven Hoye
+composer=126mb
+TRACKTOTAL=14

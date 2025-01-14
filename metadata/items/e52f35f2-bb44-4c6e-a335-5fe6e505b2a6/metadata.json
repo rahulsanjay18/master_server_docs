@@ -1,0 +1,183 @@
+{
+  "tags": [
+    "Science Fiction",
+    "Adventure",
+    "Space Opera"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2700.042449,
+      "title": "Paul of Dune_Part 01"
+    },
+    {
+      "id": 1,
+      "start": 2700.042449,
+      "end": 5400.084898,
+      "title": "Paul of Dune_Part 02"
+    },
+    {
+      "id": 2,
+      "start": 5400.084898,
+      "end": 8100.127347,
+      "title": "Paul of Dune_Part 03"
+    },
+    {
+      "id": 3,
+      "start": 8100.127347,
+      "end": 10800.169796,
+      "title": "Paul of Dune_Part 04"
+    },
+    {
+      "id": 4,
+      "start": 10800.169796,
+      "end": 13500.212245,
+      "title": "Paul of Dune_Part 05"
+    },
+    {
+      "id": 5,
+      "start": 13500.212245,
+      "end": 16200.254694000001,
+      "title": "Paul of Dune_Part 06"
+    },
+    {
+      "id": 6,
+      "start": 16200.254694000001,
+      "end": 18900.297143,
+      "title": "Paul of Dune_Part 07"
+    },
+    {
+      "id": 7,
+      "start": 18900.297143,
+      "end": 21600.339592,
+      "title": "Paul of Dune_Part 08"
+    },
+    {
+      "id": 8,
+      "start": 21600.339592,
+      "end": 24300.382041,
+      "title": "Paul of Dune_Part 09"
+    },
+    {
+      "id": 9,
+      "start": 24300.382041,
+      "end": 27000.42449,
+      "title": "Paul of Dune_Part 10"
+    },
+    {
+      "id": 10,
+      "start": 27000.42449,
+      "end": 29700.466939,
+      "title": "Paul of Dune_Part 11"
+    },
+    {
+      "id": 11,
+      "start": 29700.466939,
+      "end": 32400.509388000002,
+      "title": "Paul of Dune_Part 12"
+    },
+    {
+      "id": 12,
+      "start": 32400.509388000002,
+      "end": 35100.551837,
+      "title": "Paul of Dune_Part 13"
+    },
+    {
+      "id": 13,
+      "start": 35100.551837,
+      "end": 37800.594286,
+      "title": "Paul of Dune_Part 14"
+    },
+    {
+      "id": 14,
+      "start": 37800.594286,
+      "end": 40500.636735,
+      "title": "Paul of Dune_Part 15"
+    },
+    {
+      "id": 15,
+      "start": 40500.636735,
+      "end": 43200.679184,
+      "title": "Paul of Dune_Part 16"
+    },
+    {
+      "id": 16,
+      "start": 43200.679184,
+      "end": 45900.721633,
+      "title": "Paul of Dune_Part 17"
+    },
+    {
+      "id": 17,
+      "start": 45900.721633,
+      "end": 48600.764082,
+      "title": "Paul of Dune_Part 18"
+    },
+    {
+      "id": 18,
+      "start": 48600.764082,
+      "end": 51300.806531,
+      "title": "Paul of Dune_Part 19"
+    },
+    {
+      "id": 19,
+      "start": 51300.806531,
+      "end": 54000.84898,
+      "title": "Paul of Dune_Part 20"
+    },
+    {
+      "id": 20,
+      "start": 54000.84898,
+      "end": 56700.891429,
+      "title": "Paul of Dune_Part 21"
+    },
+    {
+      "id": 21,
+      "start": 56700.891429,
+      "end": 59400.933878,
+      "title": "Paul of Dune_Part 22"
+    },
+    {
+      "id": 22,
+      "start": 59400.933878,
+      "end": 62100.976327000004,
+      "title": "Paul of Dune_Part 23"
+    },
+    {
+      "id": 23,
+      "start": 62100.976327000004,
+      "end": 64801.018776000004,
+      "title": "Paul of Dune_Part 24"
+    },
+    {
+      "id": 24,
+      "start": 64801.018776000004,
+      "end": 66950.295511,
+      "title": "Paul of Dune_Part 25"
+    }
+  ],
+  "title": "Navigators of Dune",
+  "subtitle": null,
+  "authors": [
+    "Brian Herbert",
+    "Kevin J. Anderson"
+  ],
+  "narrators": [
+    "Scott Brick"
+  ],
+  "series": [
+    "Dune Saga #6"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2008-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "Brian Herbert and Kevin J. Anderson's Navigators of Dune is the climactic finale of the Great Schools of Dune trilogy, set 10,000 years before Frank Herbert's classic Dune.  The story line tells the origins of the Bene Gesserit Sisterhood and its breeding program, the human-computer Mentats, and the Navigators (the Spacing Guild), as well as a crucial battle for the future of the human race, in which reason faces off against fanaticism. These events have far-reaching consequences that will set the stage for Dune, millennia later.",
+  "isbn": null,
+  "asin": "B01JYCRKFM",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

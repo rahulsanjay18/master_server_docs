@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Words Are My Matter: Writings About Life and Books, 2000-2016
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Words Are My Matter: Writings About Life and Books, 2000-2016
+genre=Audio Book
+date=2016
+comment=Read by Faith Potts
+description=Read by Faith Potts
+composer=372mb
+TRACKTOTAL=75

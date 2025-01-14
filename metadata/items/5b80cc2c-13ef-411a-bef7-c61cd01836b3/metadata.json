@@ -1,0 +1,149 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 29.923991,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 29.923991,
+      "end": 1129.20898,
+      "title": "Chapter 1: The Worst Birthday"
+    },
+    {
+      "id": 2,
+      "start": 1129.20898,
+      "end": 2388.867959,
+      "title": "Chapter 2: Dobby's Warning"
+    },
+    {
+      "id": 3,
+      "start": 2388.867959,
+      "end": 4128.343946,
+      "title": "Chapter 3: The Burrow"
+    },
+    {
+      "id": 4,
+      "start": 4128.343946,
+      "end": 6493.527937,
+      "title": "Chapter 4: At Flourish and Blotts"
+    },
+    {
+      "id": 5,
+      "start": 6493.527937,
+      "end": 8679.012925,
+      "title": "Chapter 5: The Whomping Willow"
+    },
+    {
+      "id": 6,
+      "start": 8679.012925,
+      "end": 10514.619909,
+      "title": "Chapter 6: Gilderoy Lockhart"
+    },
+    {
+      "id": 7,
+      "start": 10514.619909,
+      "end": 12210.8139,
+      "title": "Chapter 7: Mudbloods and Murmurs"
+    },
+    {
+      "id": 8,
+      "start": 12210.8139,
+      "end": 13981.659887,
+      "title": "Chapter 8: The Deathday Party"
+    },
+    {
+      "id": 9,
+      "start": 13981.659887,
+      "end": 16001.168866,
+      "title": "Chapter 9: The Writing on the Wall"
+    },
+    {
+      "id": 10,
+      "start": 16001.168866,
+      "end": 17992.023855,
+      "title": "Chapter 10: The Rogue Bludger"
+    },
+    {
+      "id": 11,
+      "start": 17992.023855,
+      "end": 20347.548844,
+      "title": "Chapter 11: The Duelling Club"
+    },
+    {
+      "id": 12,
+      "start": 20347.548844,
+      "end": 22502.708844,
+      "title": "Chapter 12: The Polyjuice Potion"
+    },
+    {
+      "id": 13,
+      "start": 22502.708844,
+      "end": 24695.112834,
+      "title": "Chapter 13: The Very Secret Diary"
+    },
+    {
+      "id": 14,
+      "start": 24695.112834,
+      "end": 26330.121814,
+      "title": "Chapter 14: Cornelius Fudge"
+    },
+    {
+      "id": 15,
+      "start": 26330.121814,
+      "end": 28281.29381,
+      "title": "Chapter 15: Aragog"
+    },
+    {
+      "id": 16,
+      "start": 28281.29381,
+      "end": 30663.915805,
+      "title": "Chapter 16: The Chamber of Secrets"
+    },
+    {
+      "id": 17,
+      "start": 30663.915805,
+      "end": 33191.732789,
+      "title": "Chapter 17: The Heir of Slytherin"
+    },
+    {
+      "id": 18,
+      "start": 33191.732789,
+      "end": 34897.191769,
+      "title": "Chapter 18: Dobby's Reward"
+    },
+    {
+      "id": 19,
+      "start": 34897.191769,
+      "end": 35000.231678,
+      "title": "The Story Continues in Harry Potter and the Prisoner of Azkaban"
+    }
+  ],
+  "title": "02 Harry Potter and the Chamber of Secrets",
+  "subtitle": null,
+  "authors": [
+    "J.K. Rowling"
+  ],
+  "narrators": [
+    "Stephen Fry"
+  ],
+  "series": [
+    "Harry Potter #2"
+  ],
+  "genres": [
+    "Academy",
+    "Portal Fantasy (YA)"
+  ],
+  "publishedYear": "1998",
+  "publishedDate": null,
+  "publisher": "Pottermore Publishing",
+  "description": "Unabridged",
+  "isbn": null,
+  "asin": "B079TLMY8L",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

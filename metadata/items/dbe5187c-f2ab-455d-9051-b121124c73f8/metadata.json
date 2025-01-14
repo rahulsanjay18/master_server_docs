@@ -1,0 +1,244 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 39.128,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 39.128,
+      "end": 483.651,
+      "title": "Chapter 1: Kushida Kikyou’s Soliloquy"
+    },
+    {
+      "id": 2,
+      "start": 483.651,
+      "end": 833.669,
+      "title": "Chapter 2: The Changing Class D"
+    },
+    {
+      "id": 3,
+      "start": 833.669,
+      "end": 2020.162,
+      "title": "   ~ 2.1"
+    },
+    {
+      "id": 4,
+      "start": 2020.162,
+      "end": 2532.162,
+      "title": "   ~ 2.2"
+    },
+    {
+      "id": 5,
+      "start": 2532.162,
+      "end": 4262.513,
+      "title": "Chapter 3: The Paper Shuffle"
+    },
+    {
+      "id": 6,
+      "start": 4262.513,
+      "end": 6212.386,
+      "title": "   ~ 3.1"
+    },
+    {
+      "id": 7,
+      "start": 6212.386,
+      "end": 7454.676,
+      "title": "   ~ 3.2"
+    },
+    {
+      "id": 8,
+      "start": 7454.676,
+      "end": 8329.883,
+      "title": "Chapter 4: Class C Makes Its Move"
+    },
+    {
+      "id": 9,
+      "start": 8329.883,
+      "end": 9215.655,
+      "title": "   ~ 4.1"
+    },
+    {
+      "id": 10,
+      "start": 9215.655,
+      "end": 9680.541,
+      "title": "   ~ 4.2"
+    },
+    {
+      "id": 11,
+      "start": 9680.541,
+      "end": 10323.107,
+      "title": "Chapter 5: A Means of Escape"
+    },
+    {
+      "id": 12,
+      "start": 10323.107,
+      "end": 10651.577,
+      "title": "   ~ 5.1"
+    },
+    {
+      "id": 13,
+      "start": 10651.577,
+      "end": 11666.637,
+      "title": "   ~ 5.2"
+    },
+    {
+      "id": 14,
+      "start": 11666.637,
+      "end": 12377.4,
+      "title": "   ~ 5.3"
+    },
+    {
+      "id": 15,
+      "start": 12377.4,
+      "end": 13539.048,
+      "title": "   ~ 5.4"
+    },
+    {
+      "id": 16,
+      "start": 13539.048,
+      "end": 14169.284,
+      "title": "   ~ 5.5"
+    },
+    {
+      "id": 17,
+      "start": 14169.284,
+      "end": 14889.102,
+      "title": "   ~ 5.6"
+    },
+    {
+      "id": 18,
+      "start": 14889.102,
+      "end": 15723.813,
+      "title": "   ~ 5.7"
+    },
+    {
+      "id": 19,
+      "start": 15723.813,
+      "end": 16376.456,
+      "title": "   ~ 5.8"
+    },
+    {
+      "id": 20,
+      "start": 16376.456,
+      "end": 17480.728,
+      "title": "   ~ 5.9"
+    },
+    {
+      "id": 21,
+      "start": 17480.728,
+      "end": 17873.099,
+      "title": "Chapter 6: The Ayanokouji Group’s Formation"
+    },
+    {
+      "id": 22,
+      "start": 17873.099,
+      "end": 18781.626,
+      "title": "   ~ 6.1"
+    },
+    {
+      "id": 23,
+      "start": 18781.626,
+      "end": 19435.337,
+      "title": "   ~ 6.2"
+    },
+    {
+      "id": 24,
+      "start": 19435.337,
+      "end": 20491.218,
+      "title": "   ~ 6.3"
+    },
+    {
+      "id": 25,
+      "start": 20491.218,
+      "end": 20926.523,
+      "title": "   ~ 6.4"
+    },
+    {
+      "id": 26,
+      "start": 20926.523,
+      "end": 21300.759,
+      "title": "   ~ 6.5"
+    },
+    {
+      "id": 27,
+      "start": 21300.759,
+      "end": 22019.764,
+      "title": "   ~ 6.6"
+    },
+    {
+      "id": 28,
+      "start": 22019.764,
+      "end": 22769.606,
+      "title": "   ~ 6.7"
+    },
+    {
+      "id": 29,
+      "start": 22769.606,
+      "end": 24147.92,
+      "title": "Chapter 7: A Difference in Determination"
+    },
+    {
+      "id": 30,
+      "start": 24147.92,
+      "end": 24553.572,
+      "title": "   ~ 7.1"
+    },
+    {
+      "id": 31,
+      "start": 24553.572,
+      "end": 24866.74,
+      "title": "   ~ 7.2"
+    },
+    {
+      "id": 32,
+      "start": 24866.74,
+      "end": 25470.668,
+      "title": "   ~ 7.3"
+    },
+    {
+      "id": 33,
+      "start": 25470.668,
+      "end": 25651.319,
+      "title": "   ~ 7.4"
+    },
+    {
+      "id": 34,
+      "start": 25651.319,
+      "end": 26620.032,
+      "title": "   ~ 7.5"
+    },
+    {
+      "id": 35,
+      "start": 26620.032,
+      "end": 26689.945,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Classroom of the Elite, Vol. 06",
+  "subtitle": null,
+  "authors": [
+    "Zion Jang"
+  ],
+  "narrators": [
+    "Syougo Kinugasa"
+  ],
+  "series": [
+    "Classroom of the Elite #06"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "May 25, 2017 (12-27-23)",
+  "publishedDate": null,
+  "publisher": "Seven Seas Siren",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

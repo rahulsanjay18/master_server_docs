@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=The Dresden Files 15.0 - Skin Game
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 15.0 - Skin Game
+genre=Audiobook
+date=2014-01-01
+composer=Jim Butcher
+TRACKTOTAL=2
+grouping=Jim Butcher - Dresden Files 22GB \#15

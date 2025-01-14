@@ -1,0 +1,114 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 257.374,
+      "title": "track01"
+    },
+    {
+      "id": 1,
+      "start": 257.374,
+      "end": 602.94,
+      "title": "track02"
+    },
+    {
+      "id": 2,
+      "start": 602.94,
+      "end": 941.5640000000001,
+      "title": "track03"
+    },
+    {
+      "id": 3,
+      "start": 941.5640000000001,
+      "end": 1298.778,
+      "title": "track04"
+    },
+    {
+      "id": 4,
+      "start": 1298.778,
+      "end": 1638.078,
+      "title": "track05"
+    },
+    {
+      "id": 5,
+      "start": 1638.078,
+      "end": 1933.724,
+      "title": "track06"
+    },
+    {
+      "id": 6,
+      "start": 1933.724,
+      "end": 2281.578,
+      "title": "track07"
+    },
+    {
+      "id": 7,
+      "start": 2281.578,
+      "end": 2613.572,
+      "title": "track08"
+    },
+    {
+      "id": 8,
+      "start": 2613.572,
+      "end": 2855.2940000000003,
+      "title": "track09"
+    },
+    {
+      "id": 9,
+      "start": 2855.2940000000003,
+      "end": 3118.648,
+      "title": "track10"
+    },
+    {
+      "id": 10,
+      "start": 3118.648,
+      "end": 3391.388,
+      "title": "track11"
+    },
+    {
+      "id": 11,
+      "start": 3391.388,
+      "end": 3652.922,
+      "title": "track12"
+    },
+    {
+      "id": 12,
+      "start": 3652.922,
+      "end": 3966.404,
+      "title": "track13"
+    },
+    {
+      "id": 13,
+      "start": 3966.404,
+      "end": 4243.876,
+      "title": "track14"
+    },
+    {
+      "id": 14,
+      "start": 4243.876,
+      "end": 4567.368,
+      "title": "track15"
+    }
+  ],
+  "title": "disc 6",
+  "subtitle": null,
+  "authors": [
+    "Haruki Murakami"
+  ],
+  "narrators": [],
+  "series": [
+    "Haruki Murakami - Kafka on the Shore"
+  ],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

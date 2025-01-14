@@ -1,0 +1,264 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 19.365011,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 19.365011,
+      "end": 27.654014,
+      "title": "Dedication",
+      "id": 1
+    },
+    {
+      "start": 27.654014,
+      "end": 57.56102,
+      "title": "Epigraph",
+      "id": 2
+    },
+    {
+      "start": 57.56102,
+      "end": 61.56102,
+      "title": "Part One: 1871",
+      "id": 3
+    },
+    {
+      "start": 61.56102,
+      "end": 1509.342041,
+      "title": "Chapter 1: Carlota",
+      "id": 4
+    },
+    {
+      "start": 1509.342041,
+      "end": 3139.336054,
+      "title": "Chapter 2: Montgomery",
+      "id": 5
+    },
+    {
+      "start": 3139.336054,
+      "end": 4527.146054,
+      "title": "Chapter 3: Carlota",
+      "id": 6
+    },
+    {
+      "start": 4527.146054,
+      "end": 5902.812063,
+      "title": "Chapter 4: Montgomery",
+      "id": 7
+    },
+    {
+      "start": 5902.812063,
+      "end": 7095.574082,
+      "title": "Chapter 5: Carlota",
+      "id": 8
+    },
+    {
+      "start": 7095.574082,
+      "end": 7099.574082,
+      "title": "Part Two: 1877",
+      "id": 9
+    },
+    {
+      "start": 7099.574082,
+      "end": 8381.100091,
+      "title": "Chapter 6: Montgomery",
+      "id": 10
+    },
+    {
+      "start": 8381.100091,
+      "end": 10387.5361,
+      "title": "Chapter 7: Carlota",
+      "id": 11
+    },
+    {
+      "start": 10387.5361,
+      "end": 11682.4661,
+      "title": "Chapter 8: Montgomery",
+      "id": 12
+    },
+    {
+      "start": 11682.4661,
+      "end": 12959.168118,
+      "title": "Chapter 9: Carlota",
+      "id": 13
+    },
+    {
+      "start": 12959.168118,
+      "end": 14061.721134,
+      "title": "Chapter 10: Montgomery",
+      "id": 14
+    },
+    {
+      "start": 14061.721134,
+      "end": 16348.189138,
+      "title": "Chapter 11: Carlota",
+      "id": 15
+    },
+    {
+      "start": 16348.189138,
+      "end": 17718.096145,
+      "title": "Chapter 12: Montgomery",
+      "id": 16
+    },
+    {
+      "start": 17718.096145,
+      "end": 19504.871156,
+      "title": "Chapter 13: Carlota",
+      "id": 17
+    },
+    {
+      "start": 19504.871156,
+      "end": 20609.16517,
+      "title": "Chapter 14: Montgomery",
+      "id": 18
+    },
+    {
+      "start": 20609.16517,
+      "end": 21590.022177,
+      "title": "Chapter 15: Carlota",
+      "id": 19
+    },
+    {
+      "start": 21590.022177,
+      "end": 22549.470181,
+      "title": "Chapter 16: Montgomery",
+      "id": 20
+    },
+    {
+      "start": 22549.470181,
+      "end": 23790.088186,
+      "title": "Chapter 17: Carlota",
+      "id": 21
+    },
+    {
+      "start": 23790.088186,
+      "end": 24902.904195,
+      "title": "Chapter 18: Montgomery",
+      "id": 22
+    },
+    {
+      "start": 24902.904195,
+      "end": 25925.278209,
+      "title": "Chapter 19: Carlota",
+      "id": 23
+    },
+    {
+      "start": 25925.278209,
+      "end": 27186.562222,
+      "title": "Chapter 20: Montgomery",
+      "id": 24
+    },
+    {
+      "start": 27186.562222,
+      "end": 27190.562222,
+      "title": "Part Three: 1877",
+      "id": 25
+    },
+    {
+      "start": 27190.562222,
+      "end": 28332.141224,
+      "title": "Chapter 21: Carlota",
+      "id": 26
+    },
+    {
+      "start": 28332.141224,
+      "end": 29965.01424,
+      "title": "Chapter 22: Montgomery",
+      "id": 27
+    },
+    {
+      "start": 29965.01424,
+      "end": 31281.910249,
+      "title": "Chapter 23: Carlota",
+      "id": 28
+    },
+    {
+      "start": 31281.910249,
+      "end": 32128.532268,
+      "title": "Chapter 24: Montgomery",
+      "id": 29
+    },
+    {
+      "start": 32128.532268,
+      "end": 33294.01127,
+      "title": "Chapter 25: Carlota",
+      "id": 30
+    },
+    {
+      "start": 33294.01127,
+      "end": 34264.210272,
+      "title": "Chapter 26: Montgomery",
+      "id": 31
+    },
+    {
+      "start": 34264.210272,
+      "end": 35620.417279,
+      "title": "Chapter 27: Carlota",
+      "id": 32
+    },
+    {
+      "start": 35620.417279,
+      "end": 37337.60229,
+      "title": "Chapter 28: Montgomery",
+      "id": 33
+    },
+    {
+      "start": 37337.60229,
+      "end": 38567.377302,
+      "title": "Chapter 29: Carlota",
+      "id": 34
+    },
+    {
+      "start": 38567.377302,
+      "end": 39287.915306,
+      "title": "Chapter 30: Montgomery",
+      "id": 35
+    },
+    {
+      "start": 39287.915306,
+      "end": 40201.062313,
+      "title": "Chapter 31: Carlota",
+      "id": 36
+    },
+    {
+      "start": 40201.062313,
+      "end": 41671.628322,
+      "title": "Epilogue: Carlota",
+      "id": 37
+    },
+    {
+      "start": 41671.628322,
+      "end": 41952.101338,
+      "title": "Afterword",
+      "id": 38
+    },
+    {
+      "start": 41952.101338,
+      "end": 41996,
+      "title": "End Credits",
+      "id": 39
+    }
+  ],
+  "title": "The Daughter of Doctor Moreau (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "Silvia Moreno-Garcia"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Literature & Fiction, World Literature"
+  ],
+  "publishedYear": "2022-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Carlota Moreau: A young woman growing up on a distant and luxuriant estate, safe from the conflict and strife of the Yucatán peninsula. Montgomery Laughton: A melancholic overseer with a tragic past and a propensity for alcohol. An outcast who assists Dr. Moreau with his experiments. The hybrids: The fruits of the doctor’s labor, destined to blindly obey their creator and remain in the shadows. All of them live in a perfectly balanced and static world, which is jolted by the abrupt arrival of Eduardo Lizalde, who will unwittingly begin a dangerous chain reaction.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

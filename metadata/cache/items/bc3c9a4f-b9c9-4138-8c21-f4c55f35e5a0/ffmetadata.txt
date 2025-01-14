@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=Dreamsongs
+artist=George R. R. Martin
+album_artist=George R. R. Martin
+album=Dreamsongs: GRRM : a Rretrospective
+TIT3=GRRM : a Rretrospective
+genre=Audio Book
+date=2007
+comment=Read by Scott Brick, George R. R. Martin, Adrian Paul, Mark Bramhall, Roy Dotrice, Claudia Black, Kirby Heyborne & Kim Mai Guest
+description=Read by Scott Brick, George R. R. Martin, Adrian Paul, Mark Bramhall, Roy Dotrice, Claudia Black, Kirby Heyborne & Kim Mai Guest
+composer=2.57gb
+TRACKTOTAL=48

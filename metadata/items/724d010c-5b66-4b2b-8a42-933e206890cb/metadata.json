@@ -1,0 +1,546 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 447.216327,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 001"
+    },
+    {
+      "id": 1,
+      "start": 447.216327,
+      "end": 664.833742,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 002"
+    },
+    {
+      "id": 2,
+      "start": 664.833742,
+      "end": 2161.4062590000003,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 003"
+    },
+    {
+      "id": 3,
+      "start": 2161.4062590000003,
+      "end": 3336.8003630000003,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 004"
+    },
+    {
+      "id": 4,
+      "start": 3336.8003630000003,
+      "end": 4111.743129,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 005"
+    },
+    {
+      "id": 5,
+      "start": 4111.743129,
+      "end": 4826.314013,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 006"
+    },
+    {
+      "id": 6,
+      "start": 4826.314013,
+      "end": 5974.68009,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 007"
+    },
+    {
+      "id": 7,
+      "start": 5974.68009,
+      "end": 6476.045351,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 008"
+    },
+    {
+      "id": 8,
+      "start": 6476.045351,
+      "end": 7636.996644,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 009"
+    },
+    {
+      "id": 9,
+      "start": 7636.996644,
+      "end": 7947.215238,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 010"
+    },
+    {
+      "id": 10,
+      "start": 7947.215238,
+      "end": 8642.792199,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 011"
+    },
+    {
+      "id": 11,
+      "start": 8642.792199,
+      "end": 9082.253061,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 012"
+    },
+    {
+      "id": 12,
+      "start": 9082.253061,
+      "end": 10824.957096999999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 013"
+    },
+    {
+      "id": 13,
+      "start": 10824.957096999999,
+      "end": 11002.68263,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 014"
+    },
+    {
+      "id": 14,
+      "start": 11002.68263,
+      "end": 11574.961631999999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 015"
+    },
+    {
+      "id": 15,
+      "start": 11574.961631999999,
+      "end": 12200.646529999998,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 016"
+    },
+    {
+      "id": 16,
+      "start": 12200.646529999998,
+      "end": 12737.770520999999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 017"
+    },
+    {
+      "id": 17,
+      "start": 12737.770520999999,
+      "end": 13026.115917999998,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 018"
+    },
+    {
+      "id": 18,
+      "start": 13026.115917999998,
+      "end": 13391.505123999998,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 019"
+    },
+    {
+      "id": 19,
+      "start": 13391.505123999998,
+      "end": 14349.978411999997,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 020"
+    },
+    {
+      "id": 20,
+      "start": 14349.978411999997,
+      "end": 14732.318184999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 021"
+    },
+    {
+      "id": 21,
+      "start": 14732.318184999996,
+      "end": 16179.014238999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 022"
+    },
+    {
+      "id": 22,
+      "start": 16179.014238999996,
+      "end": 16528.892515999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 023"
+    },
+    {
+      "id": 23,
+      "start": 16528.892515999996,
+      "end": 17200.831563999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 024"
+    },
+    {
+      "id": 24,
+      "start": 17200.831563999996,
+      "end": 17559.997822999998,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 025"
+    },
+    {
+      "id": 25,
+      "start": 17559.997822999998,
+      "end": 17778.079637,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 026"
+    },
+    {
+      "id": 26,
+      "start": 17778.079637,
+      "end": 18436.086712,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 027"
+    },
+    {
+      "id": 27,
+      "start": 18436.086712,
+      "end": 18955.702857,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 028"
+    },
+    {
+      "id": 28,
+      "start": 18955.702857,
+      "end": 19910.878911,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 029"
+    },
+    {
+      "id": 29,
+      "start": 19910.878911,
+      "end": 20688.515192,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 030"
+    },
+    {
+      "id": 30,
+      "start": 20688.515192,
+      "end": 21212.125169,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 031"
+    },
+    {
+      "id": 31,
+      "start": 21212.125169,
+      "end": 21869.249885999998,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 032"
+    },
+    {
+      "id": 32,
+      "start": 21869.249885999998,
+      "end": 22440.460769999998,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 033"
+    },
+    {
+      "id": 33,
+      "start": 22440.460769999998,
+      "end": 22943.172787999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 034"
+    },
+    {
+      "id": 34,
+      "start": 22943.172787999996,
+      "end": 23692.155644999995,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 035"
+    },
+    {
+      "id": 35,
+      "start": 23692.155644999995,
+      "end": 24327.267844999995,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 036"
+    },
+    {
+      "id": 36,
+      "start": 24327.267844999995,
+      "end": 24847.812787999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 037"
+    },
+    {
+      "id": 37,
+      "start": 24847.812787999996,
+      "end": 25411.314646999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 038"
+    },
+    {
+      "id": 38,
+      "start": 25411.314646999996,
+      "end": 26480.825757999995,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 039"
+    },
+    {
+      "id": 39,
+      "start": 26480.825757999995,
+      "end": 28121.965712999994,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 040"
+    },
+    {
+      "id": 40,
+      "start": 28121.965712999994,
+      "end": 28493.159907999994,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 041"
+    },
+    {
+      "id": 41,
+      "start": 28493.159907999994,
+      "end": 29144.665395999993,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 042"
+    },
+    {
+      "id": 42,
+      "start": 29144.665395999993,
+      "end": 29611.061404999993,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 043"
+    },
+    {
+      "id": 43,
+      "start": 29611.061404999993,
+      "end": 30404.487254999993,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 044"
+    },
+    {
+      "id": 44,
+      "start": 30404.487254999993,
+      "end": 30792.306937999994,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 045"
+    },
+    {
+      "id": 45,
+      "start": 30792.306937999994,
+      "end": 31205.575690999995,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 046"
+    },
+    {
+      "id": 46,
+      "start": 31205.575690999995,
+      "end": 31658.132606999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 047"
+    },
+    {
+      "id": 47,
+      "start": 31658.132606999996,
+      "end": 32099.961903999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 048"
+    },
+    {
+      "id": 48,
+      "start": 32099.961903999996,
+      "end": 32591.481903999997,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 049"
+    },
+    {
+      "id": 49,
+      "start": 32591.481903999997,
+      "end": 33206.346303,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 050"
+    },
+    {
+      "id": 50,
+      "start": 33206.346303,
+      "end": 34050.484533999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 051"
+    },
+    {
+      "id": 51,
+      "start": 34050.484533999996,
+      "end": 34716.897231999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 052"
+    },
+    {
+      "id": 52,
+      "start": 34716.897231999996,
+      "end": 35405.368887,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 053"
+    },
+    {
+      "id": 53,
+      "start": 35405.368887,
+      "end": 35985.217593999994,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 054"
+    },
+    {
+      "id": 54,
+      "start": 35985.217593999994,
+      "end": 36205.435644,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 055"
+    },
+    {
+      "id": 55,
+      "start": 36205.435644,
+      "end": 37604.205711999995,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 056"
+    },
+    {
+      "id": 56,
+      "start": 37604.205711999995,
+      "end": 38046.638728,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 057"
+    },
+    {
+      "id": 57,
+      "start": 38046.638728,
+      "end": 38415.696686999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 058"
+    },
+    {
+      "id": 58,
+      "start": 38415.696686999996,
+      "end": 39162.72906799999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 059"
+    },
+    {
+      "id": 59,
+      "start": 39162.72906799999,
+      "end": 39512.88598399999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 060"
+    },
+    {
+      "id": 60,
+      "start": 39512.88598399999,
+      "end": 40209.62394299999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 061"
+    },
+    {
+      "id": 61,
+      "start": 40209.62394299999,
+      "end": 40925.35582499999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 062"
+    },
+    {
+      "id": 62,
+      "start": 40925.35582499999,
+      "end": 41573.74983899999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 063"
+    },
+    {
+      "id": 63,
+      "start": 41573.74983899999,
+      "end": 42022.82376199999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 064"
+    },
+    {
+      "id": 64,
+      "start": 42022.82376199999,
+      "end": 42443.197820999994,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 065"
+    },
+    {
+      "id": 65,
+      "start": 42443.197820999994,
+      "end": 42787.781947999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 066"
+    },
+    {
+      "id": 66,
+      "start": 42787.781947999996,
+      "end": 43143.92961199999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 067"
+    },
+    {
+      "id": 67,
+      "start": 43143.92961199999,
+      "end": 43329.41060999999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 068"
+    },
+    {
+      "id": 68,
+      "start": 43329.41060999999,
+      "end": 43588.266663999995,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 069"
+    },
+    {
+      "id": 69,
+      "start": 43588.266663999995,
+      "end": 43953.51655099999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 070"
+    },
+    {
+      "id": 70,
+      "start": 43953.51655099999,
+      "end": 44523.891517,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 071"
+    },
+    {
+      "id": 71,
+      "start": 44523.891517,
+      "end": 45955.44816099999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 072"
+    },
+    {
+      "id": 72,
+      "start": 45955.44816099999,
+      "end": 46317.168614999995,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 073"
+    },
+    {
+      "id": 73,
+      "start": 46317.168614999995,
+      "end": 46528.098683,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 074"
+    },
+    {
+      "id": 74,
+      "start": 46528.098683,
+      "end": 47395.874828,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 075"
+    },
+    {
+      "id": 75,
+      "start": 47395.874828,
+      "end": 47717.33188,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 076"
+    },
+    {
+      "id": 76,
+      "start": 47717.33188,
+      "end": 48099.903852999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 077"
+    },
+    {
+      "id": 77,
+      "start": 48099.903852999996,
+      "end": 48341.205621999994,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 078"
+    },
+    {
+      "id": 78,
+      "start": 48341.205621999994,
+      "end": 48882.36988499999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 079"
+    },
+    {
+      "id": 79,
+      "start": 48882.36988499999,
+      "end": 49620.25360399999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 080"
+    },
+    {
+      "id": 80,
+      "start": 49620.25360399999,
+      "end": 50759.23881899999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 081"
+    },
+    {
+      "id": 81,
+      "start": 50759.23881899999,
+      "end": 51597.525621999994,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 082"
+    },
+    {
+      "id": 82,
+      "start": 51597.525621999994,
+      "end": 52458.103580999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 083"
+    },
+    {
+      "id": 83,
+      "start": 52458.103580999996,
+      "end": 53273.216868999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 084"
+    },
+    {
+      "id": 84,
+      "start": 53273.216868999996,
+      "end": 54199.22865999999,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 085"
+    },
+    {
+      "id": 85,
+      "start": 54199.22865999999,
+      "end": 55102.252695999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 086"
+    },
+    {
+      "id": 86,
+      "start": 55102.252695999996,
+      "end": 55800.290972999996,
+      "title": "The View from the Cheap Seats Selected Nonfiction (Unabridged) - 087"
+    }
+  ],
+  "title": "The View from the Cheap Seats (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "Neil Gaiman"
+  ],
+  "narrators": [
+    "Neil Gaiman"
+  ],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2016",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "The View from the Cheap Seats draws together, for the first time ever, myriad nonfiction writing by international phenomenon and Sunday Times best-selling author Neil Gaiman. From Make Good Art, the speech he gave at the University of the Arts in Philade",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

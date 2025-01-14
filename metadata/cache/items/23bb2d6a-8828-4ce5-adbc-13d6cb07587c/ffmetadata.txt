@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=Stardust
+artist=BBC Radio 4
+album_artist=BBC Radio 4
+album=Stardust
+genre=Drama
+date=2016-12-17T09:30:00
+comment=Tristran Thorn travels to the mysterious land of Faerie in pursuit of a fallen star.
+description=Tristran Thorn travels to the mysterious land of Faerie in pursuit of a fallen star.
+composer=BBC iPlayer
+TRACKTOTAL=2
+grouping=Drama

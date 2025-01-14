@@ -1,0 +1,66 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 475.196,
+      "title": "Chapter 1"
+    },
+    {
+      "id": 1,
+      "start": 475.196,
+      "end": 3033.501,
+      "title": "Chapter 2"
+    },
+    {
+      "id": 2,
+      "start": 3033.501,
+      "end": 5579.453,
+      "title": "Chapter 3"
+    },
+    {
+      "id": 3,
+      "start": 5579.453,
+      "end": 8479.347,
+      "title": "Chapter 4"
+    },
+    {
+      "id": 4,
+      "start": 8479.347,
+      "end": 10929.261,
+      "title": "Chapter 5"
+    },
+    {
+      "id": 5,
+      "start": 10929.261,
+      "end": 13537.977,
+      "title": "Chapter 6"
+    },
+    {
+      "id": 6,
+      "start": 13537.977,
+      "end": 16229.117,
+      "title": "Chapter 7"
+    }
+  ],
+  "title": "Korea: A Very Short Introduction",
+  "subtitle": null,
+  "authors": [
+    "Michael J. Seth"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2020",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Chapter 7",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

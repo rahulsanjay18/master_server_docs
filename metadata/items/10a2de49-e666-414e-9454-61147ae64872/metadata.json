@@ -1,0 +1,146 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 107.232653,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 107.232653,
+      "end": 318.484898,
+      "title": "Foreword"
+    },
+    {
+      "id": 2,
+      "start": 318.484898,
+      "end": 3312.039184,
+      "title": "Semley's Necklace"
+    },
+    {
+      "id": 3,
+      "start": 3312.039184,
+      "end": 5283.761633,
+      "title": "April in Paris"
+    },
+    {
+      "id": 4,
+      "start": 5283.761633,
+      "end": 7841.854694,
+      "title": "The Masters"
+    },
+    {
+      "id": 5,
+      "start": 7841.854694,
+      "end": 9094.870203999999,
+      "title": "Darkness Box"
+    },
+    {
+      "id": 6,
+      "start": 9094.870203999999,
+      "end": 10162.573061,
+      "title": "The Word of Unbinding"
+    },
+    {
+      "id": 7,
+      "start": 10162.573061,
+      "end": 11715.056326,
+      "title": "The Rule of Names"
+    },
+    {
+      "id": 8,
+      "start": 11715.056326,
+      "end": 14932.636734,
+      "title": "Winter's King"
+    },
+    {
+      "id": 9,
+      "start": 14932.636734,
+      "end": 16249.49551,
+      "title": "The Good Trip"
+    },
+    {
+      "id": 10,
+      "start": 16249.49551,
+      "end": 20070.687347,
+      "title": "Nine Lives"
+    },
+    {
+      "id": 11,
+      "start": 20070.687347,
+      "end": 21466.827755,
+      "title": "Things"
+    },
+    {
+      "id": 12,
+      "start": 21466.827755,
+      "end": 22330.566530999997,
+      "title": "A Trip to the Head"
+    },
+    {
+      "id": 13,
+      "start": 22330.566530999997,
+      "end": 27042.063673999997,
+      "title": "Vaster Than Empires and More Slow"
+    },
+    {
+      "id": 14,
+      "start": 27042.063673999997,
+      "end": 29979.637551999997,
+      "title": "The Stars Below"
+    },
+    {
+      "id": 15,
+      "start": 29979.637551999997,
+      "end": 32831.843265999996,
+      "title": "The Field of Vision"
+    },
+    {
+      "id": 16,
+      "start": 32831.843265999996,
+      "end": 33744.848979999995,
+      "title": "The Direction of the Road"
+    },
+    {
+      "id": 17,
+      "start": 33744.848979999995,
+      "end": 34974.22367399999,
+      "title": "The Ones Who Walk Away from Omelas"
+    },
+    {
+      "id": 18,
+      "start": 34974.22367399999,
+      "end": 37335.666938999995,
+      "title": "The Day Before the Revolution"
+    },
+    {
+      "id": 19,
+      "start": 37335.666938999995,
+      "end": 37413.302856999995,
+      "title": "End"
+    }
+  ],
+  "title": "The Wind's Twelve Quarters",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "290mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1975",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Patricia Beaudry",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

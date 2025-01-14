@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Mansfield Park
+artist=Jane Austen
+album_artist=Jane Austen
+album=Mansfield Park
+genre=Adoptees
+date=1814
+comment=Mansfield Park is the study of three families: the Bertrams, the Crawfords, and the Prices. At its center is Fanny Price, a poor relation adopted into the family of her rich uncle Thomas Bertram, and condescendingly treated. Only her cousin Edmund, a young clergyman, appreciates her fine qualities, and Fanny falls in love with him. Unfortunately, he is drawn to the shallow and worldly Mary Crawford. Fanny's quiet passivity, steadfast loyalty, and natural goodness are matched against the wit and brilliance of her lovely rival. Jane Austen skillfully uses her characters' emotional relationships to explore the social and moral values by which they attempt to order their lives.
+description=Mansfield Park is the study of three families: the Bertrams, the Crawfords, and the Prices. At its center is Fanny Price, a poor relation adopted into the family of her rich uncle Thomas Bertram, and condescendingly treated. Only her cousin Edmund, a young clergyman, appreciates her fine qualities, and Fanny falls in love with him. Unfortunately, he is drawn to the shallow and worldly Mary Crawford. Fanny's quiet passivity, steadfast loyalty, and natural goodness are matched against the wit and brilliance of her lovely rival. Jane Austen skillfully uses her characters' emotional relationships to explore the social and moral values by which they attempt to order their lives.
+TRACKTOTAL=13
+grouping=1814 - Mansfield Park (read by Wanda McCaddon) \#2

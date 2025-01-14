@@ -1,0 +1,143 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 28.813991,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 28.813991,
+      "end": 1928.717982,
+      "title": "Chapter 1: The Boy Who Lived"
+    },
+    {
+      "id": 2,
+      "start": 1928.717982,
+      "end": 3258.663968,
+      "title": "Chapter 2: The Vanishing Glass"
+    },
+    {
+      "id": 3,
+      "start": 3258.663968,
+      "end": 4775.994966,
+      "title": "Chapter 3: The Letters from No One"
+    },
+    {
+      "id": 4,
+      "start": 4775.994966,
+      "end": 6246.165964,
+      "title": "Chapter 4: The Keeper of the Keys"
+    },
+    {
+      "id": 5,
+      "start": 6246.165964,
+      "end": 8890.128957,
+      "title": "Chapter 5: Diagon Alley"
+    },
+    {
+      "id": 6,
+      "start": 8890.128957,
+      "end": 11176.736939,
+      "title": "Chapter 6: The Journey from Platform Nine and Three-Quarters"
+    },
+    {
+      "id": 7,
+      "start": 11176.736939,
+      "end": 12950.763923,
+      "title": "Chapter 7: The Sorting Hat"
+    },
+    {
+      "id": 8,
+      "start": 12950.763923,
+      "end": 14076.652902,
+      "title": "Chapter 8: The Potions Master"
+    },
+    {
+      "id": 9,
+      "start": 14076.652902,
+      "end": 15918.2739,
+      "title": "Chapter 9: The Midnight Duel"
+    },
+    {
+      "id": 10,
+      "start": 15918.2739,
+      "end": 17490.101882,
+      "title": "Chapter 10: Hallowe'en"
+    },
+    {
+      "id": 11,
+      "start": 17490.101882,
+      "end": 18700.069864,
+      "title": "Chapter 11: Quidditch"
+    },
+    {
+      "id": 12,
+      "start": 18700.069864,
+      "end": 20766.296848,
+      "title": "Chapter 12: The Mirror of Erised"
+    },
+    {
+      "id": 13,
+      "start": 20766.296848,
+      "end": 21985.808844,
+      "title": "Chapter 13: Nicolas Flamel"
+    },
+    {
+      "id": 14,
+      "start": 21985.808844,
+      "end": 23265.900839,
+      "title": "Chapter 14: Norbert the Norwegian"
+    },
+    {
+      "id": 15,
+      "start": 23265.900839,
+      "end": 25329.318821,
+      "title": "Chapter 15: The Forbidden Forest"
+    },
+    {
+      "id": 16,
+      "start": 25329.318821,
+      "end": 27916.578821,
+      "title": "Chapter 16: Through the Trapdoor"
+    },
+    {
+      "id": 17,
+      "start": 27916.578821,
+      "end": 30243.98381,
+      "title": "Chapter 17: The Man with Two Faces"
+    },
+    {
+      "id": 18,
+      "start": 30243.98381,
+      "end": 30344.795011,
+      "title": "The Story Continues in Harry Potter and the Chamber of Secrets"
+    }
+  ],
+  "title": "01 Harry Potter and the Philosopher's Stone",
+  "subtitle": null,
+  "authors": [
+    "J.K. Rowling"
+  ],
+  "narrators": [
+    "Stephen Fry"
+  ],
+  "series": [
+    "Harry Potter #1"
+  ],
+  "genres": [
+    "Academy",
+    "Portal Fantasy (YA)"
+  ],
+  "publishedYear": "1997",
+  "publishedDate": null,
+  "publisher": "Pottermore Publishing",
+  "description": "Unabridged",
+  "isbn": null,
+  "asin": "B079TM3YHV",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

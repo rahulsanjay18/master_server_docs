@@ -1,0 +1,258 @@
+{
+  "tags": [
+    "Genre Fiction",
+    "Literary Fiction",
+    "Fantasy"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 94.6315,
+      "title": "Neil Gaiman - Stardust_1-01 001 Harper Audio Presents Stard"
+    },
+    {
+      "id": 1,
+      "start": 94.6315,
+      "end": 572.427,
+      "title": "Neil Gaiman - Stardust_1-02 002 Chapter One"
+    },
+    {
+      "id": 2,
+      "start": 572.427,
+      "end": 1241.177625,
+      "title": "Neil Gaiman - Stardust_1-03 003 A Loud Argument Broke Out.."
+    },
+    {
+      "id": 3,
+      "start": 1241.177625,
+      "end": 1956.661381,
+      "title": "Neil Gaiman - Stardust_1-04 004 There Was Bright Sunlight.."
+    },
+    {
+      "id": 4,
+      "start": 1956.661381,
+      "end": 2374.9761369999997,
+      "title": "Neil Gaiman - Stardust_1-05 005 _Why, Dunstan Thorn,..._"
+    },
+    {
+      "id": 5,
+      "start": 2374.9761369999997,
+      "end": 2878.3716369999997,
+      "title": "Neil Gaiman - Stardust_1-06 006 Dunstan Reached Down..."
+    },
+    {
+      "id": 6,
+      "start": 2878.3716369999997,
+      "end": 3596.4936369999996,
+      "title": "Neil Gaiman - Stardust_1-07 007 Chapter Two"
+    },
+    {
+      "id": 7,
+      "start": 3596.4936369999996,
+      "end": 4228.620637,
+      "title": "Neil Gaiman - Stardust_1-08 008 It Was A Cold, Blustery Day"
+    },
+    {
+      "id": 8,
+      "start": 4228.620637,
+      "end": 4709.812137,
+      "title": "Neil Gaiman - Stardust_1-09 009 Tristran Thorn Ran..."
+    },
+    {
+      "id": 9,
+      "start": 4709.812137,
+      "end": 5342.419484,
+      "title": "Neil Gaiman - Stardust_2-01 1"
+    },
+    {
+      "id": 10,
+      "start": 5342.419484,
+      "end": 6046.61824,
+      "title": "Neil Gaiman - Stardust_2-02 011 A Question Like _How Big Is"
+    },
+    {
+      "id": 11,
+      "start": 6046.61824,
+      "end": 6593.455365,
+      "title": "Neil Gaiman - Stardust_2-03 012 Chapter Four"
+    },
+    {
+      "id": 12,
+      "start": 6593.455365,
+      "end": 7424.844365,
+      "title": "Neil Gaiman - Stardust_2-04 013 The Little Man Stared Up At"
+    },
+    {
+      "id": 13,
+      "start": 7424.844365,
+      "end": 8082.048865,
+      "title": "Neil Gaiman - Stardust_2-05 014 At Dawn..."
+    },
+    {
+      "id": 14,
+      "start": 8082.048865,
+      "end": 9004.892620999999,
+      "title": "Neil Gaiman - Stardust_2-06 015 The Little Hairy Man..."
+    },
+    {
+      "id": 15,
+      "start": 9004.892620999999,
+      "end": 9856.395876999999,
+      "title": "Neil Gaiman - Stardust_3-01 016 Chapter Five"
+    },
+    {
+      "id": 16,
+      "start": 9856.395876999999,
+      "end": 10575.484502,
+      "title": "Neil Gaiman - Stardust_3-02 017 The Witch-Queen Drove..."
+    },
+    {
+      "id": 17,
+      "start": 10575.484502,
+      "end": 11152.179627,
+      "title": "Neil Gaiman - Stardust_3-03 018 Scaithe's Ebb Is A Small Se"
+    },
+    {
+      "id": 18,
+      "start": 11152.179627,
+      "end": 11706.409505,
+      "title": "Neil Gaiman - Stardust_3-04 019 Riding A Unicorn..."
+    },
+    {
+      "id": 19,
+      "start": 11706.409505,
+      "end": 12410.529883,
+      "title": "Neil Gaiman - Stardust_3-05 020 Chapter Six"
+    },
+    {
+      "id": 20,
+      "start": 12410.529883,
+      "end": 13129.461760999999,
+      "title": "Neil Gaiman - Stardust_3-06 021 It Was Sometimes Said..."
+    },
+    {
+      "id": 21,
+      "start": 13129.461760999999,
+      "end": 13662.062138999998,
+      "title": "Neil Gaiman - Stardust_3-07 022 Chapter Seven"
+    },
+    {
+      "id": 22,
+      "start": 13662.062138999998,
+      "end": 14377.101763999997,
+      "title": "Neil Gaiman - Stardust_4-01 023 The Light At The Inn..."
+    },
+    {
+      "id": 23,
+      "start": 14377.101763999997,
+      "end": 14987.338141999997,
+      "title": "Neil Gaiman - Stardust_4-02 024 Chapter Eight"
+    },
+    {
+      "id": 24,
+      "start": 14987.338141999997,
+      "end": 15798.560641999997,
+      "title": "Neil Gaiman - Stardust_4-03 025 Her Hair Was Mostly Grey..."
+    },
+    {
+      "id": 25,
+      "start": 15798.560641999997,
+      "end": 16279.072897999997,
+      "title": "Neil Gaiman - Stardust_4-04 026 _How's Your Hand__"
+    },
+    {
+      "id": 26,
+      "start": 16279.072897999997,
+      "end": 17243.686397999998,
+      "title": "Neil Gaiman - Stardust_4-05 027 Tristran Was Looking..."
+    },
+    {
+      "id": 27,
+      "start": 17243.686397999998,
+      "end": 17845.302398,
+      "title": "Neil Gaiman - Stardust_4-06 028 Chapter Nine"
+    },
+    {
+      "id": 28,
+      "start": 17845.302398,
+      "end": 18390.728898,
+      "title": "Neil Gaiman - Stardust_4-07 029 The Sun Was High..."
+    },
+    {
+      "id": 29,
+      "start": 18390.728898,
+      "end": 19060.456245,
+      "title": "Neil Gaiman - Stardust_5-01 Chapter Ten"
+    },
+    {
+      "id": 30,
+      "start": 19060.456245,
+      "end": 19816.439918,
+      "title": "Neil Gaiman - Stardust_5-02 The guards on the wall..."
+    },
+    {
+      "id": 31,
+      "start": 19816.439918,
+      "end": 20475.169714,
+      "title": "Neil Gaiman - Stardust_5-03 On a normal day..."
+    },
+    {
+      "id": 32,
+      "start": 20475.169714,
+      "end": 21270.937877,
+      "title": "Neil Gaiman - Stardust_5-04 The silver chain..."
+    },
+    {
+      "id": 33,
+      "start": 21270.937877,
+      "end": 21718.128081,
+      "title": "Neil Gaiman - Stardust_5-05 Epilogue"
+    },
+    {
+      "id": 34,
+      "start": 21718.128081,
+      "end": 22283.904081,
+      "title": "Neil Gaiman - Stardust_5-06 Author interview"
+    },
+    {
+      "id": 35,
+      "start": 22283.904081,
+      "end": 22998.708581,
+      "title": "Neil Gaiman - Stardust_5-07 Well, is there a form of writin"
+    },
+    {
+      "id": 36,
+      "start": 22998.708581,
+      "end": 23076.464958999997,
+      "title": "Neil Gaiman - Stardust_5-08 About audiobooks"
+    },
+    {
+      "id": 37,
+      "start": 23076.464958999997,
+      "end": 23098.580458999997,
+      "title": "Neil Gaiman - Stardust_5-09 About HarperAudio"
+    }
+  ],
+  "title": "Stardust",
+  "subtitle": null,
+  "authors": [
+    "Neil Gaiman"
+  ],
+  "narrators": [
+    "Neil Gaiman"
+  ],
+  "series": [],
+  "genres": [
+    "Books & Spoken"
+  ],
+  "publishedYear": "2006",
+  "publishedDate": null,
+  "publisher": "HarperAudio",
+  "description": "Amazon.com Review\nStardust is an utterly charming fairy tale in the tradition of The Princess \nBride and The Neverending Story. Neil Gaiman, creator of the darkly \nelegant Sandman comics and author of The Day I Swapped My Dad for Two \nGoldfish, tells the story of young Tristran Thorn and his adventures \nin the land of Faerie. One fateful night, Tristran promises his beloved \nthat he will retrieve a fallen star for her from beyond the Wall that \nstands between their rural English town (called, appropriately, Wall) \nand the Faerie realm. No one ever ventures beyond the Wall except to \nattend an enchanted flea market that is held every nine years (and during \nwhich, unbeknownst to him, Tristran was conceived). But Tristran bravely \nsets out to fetch the fallen star and thus win the hand of his love. \nHis adventures in the magical land will keep you turning pages as fast \nas you can--he and the star escape evil old witches, deadly clutching \ntrees, goblin press-gangs, and the scheming sons of the dead Lord of \nStormhold. The story is by turns thrillingly scary and very funny. You'll \nlove goofy, earnest Tristran and the talking animals, gnomes, magic \ntrees, and other irresistible denizens of Faerie that he encounters \nin his travels. Stardust is a perfect read-aloud book, a brand-new fairy \ntale you'll want to share with a kid, or maybe hoard for yourself. (If \nyou read it to kids, watch out for a couple of spicy sex bits and one \nepithet.) --Therese Littleton\n\n\nFrom Publishers Weekly\nStarred Review. Tristran Thorn falls in love with the prettiest girl \nin town and makes her a foolish promise: he says that he'll go find \nthe falling star they both watched streak across the night sky. She \nsays she'll marry him if he finds it, so he sets off, leaving his home \nof Wall, and heads out into the perilous land of faerie, where not everything \nis what it appears. Gaiman is known for his fanciful wit, sterling prose \nand wildly imaginative plots, and Stardust is no exception. Gaiman's \nsilver-tongued narration vividly brings this production to life. Like \nthe bards of old, Gaiman is equally proficient at telling tales as he \nis at writing them, and his pleasant British accent feels like a perfect \nmatch to the material. Gaiman's performance is an extraordinary achievement \nif only all authors could read their own work so well. The audiobook \nalso includes a brief, informative and enjoyable interview with Gaiman \nabout the writing of the novel and his work in the audiobook studio.",
+  "isbn": null,
+  "asin": "B0035GXQPC",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

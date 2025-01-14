@@ -1,0 +1,255 @@
+{
+  "tags": [
+    "Science Fiction",
+    "Adventure",
+    "Space Opera"
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 64.775,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 64.775,
+      "end": 455.97,
+      "title": "Introduction",
+      "id": 1
+    },
+    {
+      "start": 455.97,
+      "end": 477.6,
+      "title": "I - The Edge of a Crysknife",
+      "id": 2
+    },
+    {
+      "start": 477.6,
+      "end": 488,
+      "title": "PART ONE (I)",
+      "id": 3
+    },
+    {
+      "start": 488,
+      "end": 1269.899,
+      "title": "Chapter 01 (Edge of a Crysknife)",
+      "id": 4
+    },
+    {
+      "start": 1269.899,
+      "end": 2460.363,
+      "title": "Chapter 02 (Edge of a Crysknife)",
+      "id": 5
+    },
+    {
+      "start": 2460.363,
+      "end": 3045.204,
+      "title": "Chapter 03 (Edge of a Crysknife)",
+      "id": 6
+    },
+    {
+      "start": 3045.204,
+      "end": 4307.882,
+      "title": "Chapter 04 (Edge of a Crysknife)",
+      "id": 7
+    },
+    {
+      "start": 4307.882,
+      "end": 5369.057,
+      "title": "Chapter 05 (Edge of a Crysknife)",
+      "id": 8
+    },
+    {
+      "start": 5369.057,
+      "end": 5378.932,
+      "title": "PART TWO (I)",
+      "id": 9
+    },
+    {
+      "start": 5378.932,
+      "end": 5809.354,
+      "title": "Chapter 06 (Edge of a Crysknife)",
+      "id": 10
+    },
+    {
+      "start": 5809.354,
+      "end": 6129.324,
+      "title": "Chapter 07 (Edge of a Crysknife)",
+      "id": 11
+    },
+    {
+      "start": 6129.324,
+      "end": 6651.472,
+      "title": "Chapter 08 (Edge of a Crysknife)",
+      "id": 12
+    },
+    {
+      "start": 6651.472,
+      "end": 7518.481,
+      "title": "Chapter 09 (Edge of a Crysknife)",
+      "id": 13
+    },
+    {
+      "start": 7518.481,
+      "end": 7934.072,
+      "title": "Chapter 10 (Edge of a Crysknife)",
+      "id": 14
+    },
+    {
+      "start": 7934.072,
+      "end": 10764.84,
+      "title": "II - Blood of the Sardaukar",
+      "id": 15
+    },
+    {
+      "start": 10764.84,
+      "end": 10784.635,
+      "title": "III - The Waters of Kanly",
+      "id": 16
+    },
+    {
+      "start": 10784.635,
+      "end": 11350.633,
+      "title": "Chapter 1 (Waters of Kanly)",
+      "id": 17
+    },
+    {
+      "start": 11350.633,
+      "end": 12223.796,
+      "title": "Chapter 2 (Waters of Kanly)",
+      "id": 18
+    },
+    {
+      "start": 12223.796,
+      "end": 12710.115,
+      "title": "Chapter 3 (Waters of Kanly)",
+      "id": 19
+    },
+    {
+      "start": 12710.115,
+      "end": 13609.285,
+      "title": "Chapter 4 (Waters of Kanly)",
+      "id": 20
+    },
+    {
+      "start": 13609.285,
+      "end": 14274.351,
+      "title": "Chapter 5 (Waters of Kanly)",
+      "id": 21
+    },
+    {
+      "start": 14274.351,
+      "end": 14547.533,
+      "title": "Chapter 6 (Waters of Kanly)",
+      "id": 22
+    },
+    {
+      "start": 14547.533,
+      "end": 15372.608,
+      "title": "Chapter 7 (Waters of Kanly)",
+      "id": 23
+    },
+    {
+      "start": 15372.608,
+      "end": 15385.87,
+      "title": "IV - Imperial Court",
+      "id": 24
+    },
+    {
+      "start": 15385.87,
+      "end": 15981.389,
+      "title": "Chapter 01 (Imperial Court)",
+      "id": 25
+    },
+    {
+      "start": 15981.389,
+      "end": 16575.1,
+      "title": "Chapter 02 (Imperial Court)",
+      "id": 26
+    },
+    {
+      "start": 16575.1,
+      "end": 16933.802,
+      "title": "Chapter 03 (Imperial Court)",
+      "id": 27
+    },
+    {
+      "start": 16933.802,
+      "end": 17535.013,
+      "title": "Chapter 04 (Imperial Court)",
+      "id": 28
+    },
+    {
+      "start": 17535.013,
+      "end": 17806.849,
+      "title": "Chapter 05 (Imperial Court)",
+      "id": 29
+    },
+    {
+      "start": 17806.849,
+      "end": 18229.196,
+      "title": "Chapter 06 (Imperial Court)",
+      "id": 30
+    },
+    {
+      "start": 18229.196,
+      "end": 18722.179,
+      "title": "Chapter 07 (Imperial Court)",
+      "id": 31
+    },
+    {
+      "start": 18722.179,
+      "end": 19334.815,
+      "title": "Chapter 08 (Imperial Court)",
+      "id": 32
+    },
+    {
+      "start": 19334.815,
+      "end": 19998.069,
+      "title": "Chapter 09 (Imperial Court)",
+      "id": 33
+    },
+    {
+      "start": 19998.069,
+      "end": 20239.905,
+      "title": "Chapter 10 (Imperial Court)",
+      "id": 34
+    },
+    {
+      "start": 20239.905,
+      "end": 20584.696,
+      "title": "Chapter 11 (Imperial Court)",
+      "id": 35
+    },
+    {
+      "start": 20584.696,
+      "end": 20627.928,
+      "title": "End Credits",
+      "id": 36
+    }
+  ],
+  "title": "Navigators of Dune",
+  "subtitle": null,
+  "authors": [
+    "Brian Herbert",
+    "Kevin J. Anderson"
+  ],
+  "narrators": [
+    "Scott Brick"
+  ],
+  "series": [
+    "Dune Saga #6"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2022-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "Brian Herbert and Kevin J. Anderson's Navigators of Dune is the climactic finale of the Great Schools of Dune trilogy, set 10,000 years before Frank Herbert's classic Dune.  The story line tells the origins of the Bene Gesserit Sisterhood and its breeding program, the human-computer Mentats, and the Navigators (the Spacing Guild), as well as a crucial battle for the future of the human race, in which reason faces off against fanaticism. These events have far-reaching consequences that will set the stage for Dune, millennia later.",
+  "isbn": null,
+  "asin": "B01JYCRKFM",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

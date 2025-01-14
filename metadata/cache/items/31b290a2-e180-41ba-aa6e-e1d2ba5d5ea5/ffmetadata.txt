@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=The Terminal Experiment
+artist=Robert J. Sawyer
+album_artist=Robert J. Sawyer
+album=The Terminal Experiment
+genre=Audio Book
+date=1995
+comment=Read by Paul Hecht
+description=Read by Paul Hecht
+TRACKTOTAL=48

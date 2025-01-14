@@ -1,0 +1,101 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3.38,
+      "title": "Intro - Audible"
+    },
+    {
+      "id": 1,
+      "start": 3.38,
+      "end": 23.87,
+      "title": "Intro - Opening Credits"
+    },
+    {
+      "id": 2,
+      "start": 23.87,
+      "end": 606.946,
+      "title": "Prologue"
+    },
+    {
+      "id": 3,
+      "start": 606.946,
+      "end": 5344.862,
+      "title": "Chapter I: In Another World"
+    },
+    {
+      "id": 4,
+      "start": 5344.862,
+      "end": 11228.31,
+      "title": "Chapter II: The More the Merrier! Double the Joy, Half the Sorrow"
+    },
+    {
+      "id": 5,
+      "start": 11228.31,
+      "end": 14330.148,
+      "title": "Chapter III: The Crystal Creature"
+    },
+    {
+      "id": 6,
+      "start": 14330.148,
+      "end": 18397.309,
+      "title": "Chapter IV: The Royal Family"
+    },
+    {
+      "id": 7,
+      "start": 18397.309,
+      "end": 21553.249,
+      "title": "Chapter IV: The Royal Family"
+    },
+    {
+      "id": 8,
+      "start": 21553.249,
+      "end": 23420.993,
+      "title": "Interlude I: The Adventurers"
+    },
+    {
+      "id": 9,
+      "start": 23420.993,
+      "end": 25657.84,
+      "title": "Interlude II: A Day in the Capital"
+    },
+    {
+      "id": 10,
+      "start": 25657.84,
+      "end": 25725.191,
+      "title": "Outro - Ending Credits ☕"
+    },
+    {
+      "id": 11,
+      "start": 25725.191,
+      "end": 25729.916,
+      "title": "Outro - Audible"
+    }
+  ],
+  "title": "In Another World With My Smartphone, Vol. 01",
+  "subtitle": null,
+  "authors": [
+    "Gabriel Michael",
+    "Diana Richardson"
+  ],
+  "narrators": [
+    "Patora Fuyuhara"
+  ],
+  "series": [
+    "In Another World With My Smartphone #01"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "May 22, 2015 (05-30-23)",
+  "publishedDate": null,
+  "publisher": "Podium Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

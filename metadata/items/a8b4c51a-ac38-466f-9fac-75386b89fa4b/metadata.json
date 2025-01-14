@@ -1,0 +1,208 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 31.062,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 31.062,
+      "end": 371.605,
+      "title": "Report on the Nightmare of the Labyrinth, Part 1"
+    },
+    {
+      "id": 2,
+      "start": 371.605,
+      "end": 2170.246,
+      "title": "1: Misery Loves Company"
+    },
+    {
+      "id": 3,
+      "start": 2170.246,
+      "end": 2233.033,
+      "title": "Conversation: Meeting of the Parallel Minds #1: We’ve Got Skills!"
+    },
+    {
+      "id": 4,
+      "start": 2233.033,
+      "end": 3837.137,
+      "title": "R1: The Old Man Goes on a Journey"
+    },
+    {
+      "id": 5,
+      "start": 3837.137,
+      "end": 5382.147,
+      "title": "V1: Fortune, Misfortune"
+    },
+    {
+      "id": 6,
+      "start": 5382.147,
+      "end": 6336.58,
+      "title": "Interlude: The Servant’s Hesitation"
+    },
+    {
+      "id": 7,
+      "start": 6336.58,
+      "end": 7435.162,
+      "title": "2: The Clothes Make the Spider"
+    },
+    {
+      "id": 8,
+      "start": 7435.162,
+      "end": 8703.622,
+      "title": "R2: The Old Man Seeks an Apprenticeship"
+    },
+    {
+      "id": 9,
+      "start": 8703.622,
+      "end": 8793.529,
+      "title": "Conversation: Meeting of the Parallel Minds #2: Creepy Old Geezer"
+    },
+    {
+      "id": 10,
+      "start": 8793.529,
+      "end": 11227.143,
+      "title": "V2: Misfortune Is a Funny Thing"
+    },
+    {
+      "id": 11,
+      "start": 11227.143,
+      "end": 11444.343,
+      "title": "Interlude: The Demon Lord’s Soliloquy"
+    },
+    {
+      "id": 12,
+      "start": 11444.343,
+      "end": 13721.222,
+      "title": "3: Liquor Is the Best Medicine"
+    },
+    {
+      "id": 13,
+      "start": 13721.222,
+      "end": 14146.82,
+      "title": "Interlude: The Servant’s Dream"
+    },
+    {
+      "id": 14,
+      "start": 14146.82,
+      "end": 16351.787,
+      "title": "R3: The Old Man Challenges the Earth Dragons"
+    },
+    {
+      "id": 15,
+      "start": 16351.787,
+      "end": 16431.943,
+      "title": "Conversation: Meeting of the Parallel Minds #3: The Three Earth Dragon Brothers"
+    },
+    {
+      "id": 16,
+      "start": 16431.943,
+      "end": 17084.261,
+      "title": "Interlude: The Foul-Mouthed Girl and the Too-Friendly Boy Hero"
+    },
+    {
+      "id": 17,
+      "start": 17084.261,
+      "end": 20689.414,
+      "title": "V3: The Man Behind the Misfortune"
+    },
+    {
+      "id": 18,
+      "start": 20689.414,
+      "end": 22523.326,
+      "title": "Interlude: The Demon Lord and Immortality"
+    },
+    {
+      "id": 19,
+      "start": 22523.326,
+      "end": 23057.594,
+      "title": "R4: The Old Man Meets an Administrator"
+    },
+    {
+      "id": 20,
+      "start": 23057.594,
+      "end": 23206.155,
+      "title": "Conversation: Meeting of the Parallel Minds #4: Omgüli-Güli!"
+    },
+    {
+      "id": 21,
+      "start": 23206.155,
+      "end": 24026.145,
+      "title": "Special Chapter: The Boy Hero’s Struggle"
+    },
+    {
+      "id": 22,
+      "start": 24026.145,
+      "end": 24616.86,
+      "title": "R5: The Old Man Challenges the Spiders"
+    },
+    {
+      "id": 23,
+      "start": 24616.86,
+      "end": 26805.086,
+      "title": "4: Baby Spider Beatdown"
+    },
+    {
+      "id": 24,
+      "start": 26805.086,
+      "end": 27309.632,
+      "title": "R6: The Old Man Takes an Apprentice"
+    },
+    {
+      "id": 25,
+      "start": 27309.632,
+      "end": 27484.107,
+      "title": "Interlude: The Pontiff’s Decision"
+    },
+    {
+      "id": 26,
+      "start": 27484.107,
+      "end": 28302.75,
+      "title": "5: Spiders of the Same Stripe"
+    },
+    {
+      "id": 27,
+      "start": 28302.75,
+      "end": 28798.774,
+      "title": "V4: Leaving Misfortune Behind"
+    },
+    {
+      "id": 28,
+      "start": 28798.774,
+      "end": 29030.091,
+      "title": "Report on the Nightmare of the Labyrinth, Part 2"
+    },
+    {
+      "id": 29,
+      "start": 29030.091,
+      "end": 29146.988,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "So I'm a Spider, So What?, Vol. 06",
+  "subtitle": null,
+  "authors": [
+    "Caitlin Kelly"
+  ],
+  "narrators": [
+    "Okina Baba"
+  ],
+  "series": [
+    "So I'm a Spider, So What? #06"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "June 09, 2017 (07-11-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

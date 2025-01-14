@@ -1,0 +1,1425 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 38.12,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 38.19102,
+      "end": 246.39102,
+      "title": "Prologue - Journal of Gillian Baskin",
+      "id": 1
+    },
+    {
+      "start": 246.39102,
+      "end": 246.51102,
+      "title": "PART I - Buoyancy",
+      "id": 2
+    },
+    {
+      "start": 246.543673,
+      "end": 262.063673,
+      "title": "PART I - Buoyancy",
+      "id": 3
+    },
+    {
+      "start": 262.112653,
+      "end": 2393.5126530000002,
+      "title": "Chapter 001 - Toshio",
+      "id": 5
+    },
+    {
+      "start": 2393.5126530000002,
+      "end": 2393.6426530000003,
+      "title": "Chapter 002 - Galactics",
+      "id": 6
+    },
+    {
+      "start": 2393.678367,
+      "end": 2735.228367,
+      "title": "Chapter 002 - Galactics",
+      "id": 6
+    },
+    {
+      "start": 2735.281632,
+      "end": 3450.971632,
+      "title": "Chapter 003 - Takkata-Jim",
+      "id": 7
+    },
+    {
+      "start": 3450.971632,
+      "end": 3451.241632,
+      "title": "Chapter 004 - Creideiki",
+      "id": 8
+    },
+    {
+      "start": 3451.271836,
+      "end": 4066.391836,
+      "title": "Chapter 004 - Creideiki",
+      "id": 9
+    },
+    {
+      "start": 4066.5077539999997,
+      "end": 4955.857754,
+      "title": "Chapter 005 - Tom Orley",
+      "id": 10
+    },
+    {
+      "start": 4955.857754,
+      "end": 4956.054754,
+      "title": "Chapter 006 - Galactics",
+      "id": 11
+    },
+    {
+      "start": 4956.081631999999,
+      "end": 5397.941631999999,
+      "title": "Chapter 006 - Galactics",
+      "id": 12
+    },
+    {
+      "start": 5397.941631999999,
+      "end": 5398.161631999999,
+      "title": "Chapter 007 - Toshio",
+      "id": 13
+    },
+    {
+      "start": 5398.204081,
+      "end": 7651.914081,
+      "title": "Chapter 007 - Toshio",
+      "id": 14
+    },
+    {
+      "start": 7651.914081,
+      "end": 7652.114081,
+      "title": "Chapter 008 - Galactics",
+      "id": 15
+    },
+    {
+      "start": 7652.153469,
+      "end": 7795.713469,
+      "title": "Chapter 008 - Galactics",
+      "id": 16
+    },
+    {
+      "start": 7795.713469,
+      "end": 7795.833469,
+      "title": "Chapter 009 - Streaker",
+      "id": 17
+    },
+    {
+      "start": 7795.879183,
+      "end": 8116.489183,
+      "title": "Chapter 009 - Streaker",
+      "id": 18
+    },
+    {
+      "start": 8116.558367,
+      "end": 8480.868367,
+      "title": "Chapter 010 - Metz",
+      "id": 19
+    },
+    {
+      "start": 8480.868367,
+      "end": 8481.012367,
+      "title": "Chapter 011 - Creideiki and Orley",
+      "id": 20
+    },
+    {
+      "start": 8481.044898,
+      "end": 8704.764898,
+      "title": "Chapter 011 - Creideiki and Orley",
+      "id": 21
+    },
+    {
+      "start": 8704.888163,
+      "end": 9083.768162999999,
+      "title": "Chapter 012 - Galactics",
+      "id": 22
+    },
+    {
+      "start": 9083.898775,
+      "end": 10118.798775,
+      "title": "Chapter 013 - Toshio",
+      "id": 23
+    },
+    {
+      "start": 10118.896326,
+      "end": 10140.286326,
+      "title": "PART II - Currents",
+      "id": 24
+    },
+    {
+      "start": 10140.286326,
+      "end": 10140.510326,
+      "title": "Chapter 014 - Dennie",
+      "id": 25
+    },
+    {
+      "start": 10140.551836,
+      "end": 12792.411836000001,
+      "title": "Chapter 014 - Dennie",
+      "id": 26
+    },
+    {
+      "start": 12792.411836000001,
+      "end": 12792.641836,
+      "title": "Chapter 015 - Stenos",
+      "id": 27
+    },
+    {
+      "start": 12792.685714000001,
+      "end": 13322.165714,
+      "title": "Chapter 015 - Stenos",
+      "id": 28
+    },
+    {
+      "start": 13322.165714,
+      "end": 13322.312714000002,
+      "title": "Chapter 016 - Galactics",
+      "id": 29
+    },
+    {
+      "start": 13322.344490000001,
+      "end": 13586.72449,
+      "title": "Chapter 016 - Galactics",
+      "id": 30
+    },
+    {
+      "start": 13586.72449,
+      "end": 13587.01049,
+      "title": "Chapter 017 - Tom Orley",
+      "id": 31
+    },
+    {
+      "start": 13587.043266,
+      "end": 14632.623266,
+      "title": "Chapter 017 - Tom Orley",
+      "id": 32
+    },
+    {
+      "start": 14632.623266,
+      "end": 14632.913266,
+      "title": "Chapter 018 - Gillian",
+      "id": 33
+    },
+    {
+      "start": 14632.960001000001,
+      "end": 15397.320001000002,
+      "title": "Chapter 018 - Gillian",
+      "id": 34
+    },
+    {
+      "start": 15397.320001000002,
+      "end": 15397.533001000002,
+      "title": "Chapter 019 - Creideiki",
+      "id": 35
+    },
+    {
+      "start": 15397.564083000001,
+      "end": 16050.028083000001,
+      "title": "Chapter 019 - Creideiki",
+      "id": 36
+    },
+    {
+      "start": 16050.076736,
+      "end": 16255.344736000001,
+      "title": "Chapter 020 - Galactics",
+      "id": 37
+    },
+    {
+      "start": 16255.344736000001,
+      "end": 16255.476736,
+      "title": "Chapter 021 - Dennie and Toshio",
+      "id": 38
+    },
+    {
+      "start": 16255.503675000002,
+      "end": 17267.107675000003,
+      "title": "Chapter 021 - Dennie and Toshio",
+      "id": 39
+    },
+    {
+      "start": 17267.200002,
+      "end": 19287.253002,
+      "title": "Chapter 022 - Creideiki",
+      "id": 40
+    },
+    {
+      "start": 19287.253002,
+      "end": 19287.400002000002,
+      "title": "Chapter 023 - Gillian",
+      "id": 41
+    },
+    {
+      "start": 19287.431839,
+      "end": 20489.570839,
+      "title": "Chapter 023 - Gillian",
+      "id": 42
+    },
+    {
+      "start": 20489.570839,
+      "end": 20489.801839,
+      "title": "Chapter 024 - Galactics",
+      "id": 43
+    },
+    {
+      "start": 20489.848166,
+      "end": 20777.048166,
+      "title": "Chapter 024 - Galactics",
+      "id": 44
+    },
+    {
+      "start": 20777.126615,
+      "end": 21432.305615,
+      "title": "Chapter 025 - Thomas Orley",
+      "id": 46
+    },
+    {
+      "start": 21432.372248,
+      "end": 22070.805248,
+      "title": "Chapter 026 - Creideiki",
+      "id": 46
+    },
+    {
+      "start": 22070.805248,
+      "end": 22071.065248,
+      "title": "Chapter 027 - The Island",
+      "id": 47
+    },
+    {
+      "start": 22071.092248,
+      "end": 22737.211248,
+      "title": "Chapter 027 - The Island",
+      "id": 48
+    },
+    {
+      "start": 22737.312064,
+      "end": 22775.806064,
+      "title": "PART III - Dissonance",
+      "id": 50
+    },
+    {
+      "start": 22775.806064,
+      "end": 22775.960064000003,
+      "title": "Chapter 028 - Sah'ot",
+      "id": 51
+    },
+    {
+      "start": 22776.006533,
+      "end": 23659.193533,
+      "title": "Chapter 028 - Sah'ot",
+      "id": 51
+    },
+    {
+      "start": 23659.240655,
+      "end": 23832.207655,
+      "title": "Chapter 029 - Takkata-Jim",
+      "id": 53
+    },
+    {
+      "start": 23832.207655,
+      "end": 23832.525655,
+      "title": "Chapter 030 - Akki",
+      "id": 54
+    },
+    {
+      "start": 23832.555104,
+      "end": 24091.625104,
+      "title": "Chapter 030 - Akki",
+      "id": 54
+    },
+    {
+      "start": 24091.625104,
+      "end": 24091.755104,
+      "title": "Chapter 031 - Suessi",
+      "id": 55
+    },
+    {
+      "start": 24091.794287999997,
+      "end": 24409.057287999996,
+      "title": "Chapter 031 - Suessi",
+      "id": 56
+    },
+    {
+      "start": 24409.057287999996,
+      "end": 24409.314287999998,
+      "title": "Chapter 032 - Galactics",
+      "id": 57
+    },
+    {
+      "start": 24409.364899999997,
+      "end": 24616.441899999998,
+      "title": "Chapter 032 - Galactics",
+      "id": 58
+    },
+    {
+      "start": 24616.489797999995,
+      "end": 25040.419797999995,
+      "title": "Chapter 033 - Thomas Orley",
+      "id": 59
+    },
+    {
+      "start": 25040.513266999995,
+      "end": 25933.812266999998,
+      "title": "Chapter 034 - Creideiki",
+      "id": 61
+    },
+    {
+      "start": 25933.897144999995,
+      "end": 25958.405144999997,
+      "title": "PART IV - Leviathan",
+      "id": 61
+    },
+    {
+      "start": 25958.405144999997,
+      "end": 25958.671144999997,
+      "title": "Chapter 035 - Gillian",
+      "id": 62
+    },
+    {
+      "start": 25958.713471999996,
+      "end": 26748.466471999996,
+      "title": "Chapter 035 - Gillian",
+      "id": 63
+    },
+    {
+      "start": 26748.466471999996,
+      "end": 26748.779471999995,
+      "title": "Chapter 036 - Akki",
+      "id": 64
+    },
+    {
+      "start": 26748.813063999994,
+      "end": 27191.283063999996,
+      "title": "Chapter 036 - Akki",
+      "id": 65
+    },
+    {
+      "start": 27191.283063999996,
+      "end": 27191.573063999993,
+      "title": "Chapter 037 - Suessi",
+      "id": 66
+    },
+    {
+      "start": 27191.614696999994,
+      "end": 27543.468696999993,
+      "title": "Chapter 037 - Suessi",
+      "id": 67
+    },
+    {
+      "start": 27543.468696999993,
+      "end": 27543.721696999994,
+      "title": "Chapter 038 - Charles Dart",
+      "id": 68
+    },
+    {
+      "start": 27543.771431999994,
+      "end": 28037.154431999996,
+      "title": "Chapter 038 - Charles Dart",
+      "id": 69
+    },
+    {
+      "start": 28037.154431999996,
+      "end": 28037.278431999996,
+      "title": "Chapter 039 - Makanee",
+      "id": 70
+    },
+    {
+      "start": 28037.328982999996,
+      "end": 28769.437982999996,
+      "title": "Chapter 039 - Makanee",
+      "id": 71
+    },
+    {
+      "start": 28769.437982999996,
+      "end": 28769.621982999997,
+      "title": "Chapter 040 - Creideiki",
+      "id": 72
+    },
+    {
+      "start": 28769.671839999995,
+      "end": 28795.266839999997,
+      "title": "Chapter 040 - Creideiki",
+      "id": 73
+    },
+    {
+      "start": 28795.266839999997,
+      "end": 28795.391839999997,
+      "title": "Chapter 041 - Tom Orley",
+      "id": 74
+    },
+    {
+      "start": 28795.428574999994,
+      "end": 29341.863574999996,
+      "title": "Chapter 041 - Tom Orley",
+      "id": 75
+    },
+    {
+      "start": 29341.988574999996,
+      "end": 30016.285574999994,
+      "title": "Chapter 042 - Toshio",
+      "id": 76
+    },
+    {
+      "start": 30016.285574999994,
+      "end": 30016.468574999995,
+      "title": "Chapter 043 - Akki",
+      "id": 77
+    },
+    {
+      "start": 30016.496329999994,
+      "end": 31193.034329999995,
+      "title": "Chapter 043 - Akki",
+      "id": 78
+    },
+    {
+      "start": 31193.034329999995,
+      "end": 31193.146329999996,
+      "title": "Chapter 044 - Creideiki",
+      "id": 79
+    },
+    {
+      "start": 31193.182043999994,
+      "end": 31928.386043999995,
+      "title": "Chapter 044 - Creideiki",
+      "id": 80
+    },
+    {
+      "start": 31928.386043999995,
+      "end": 31928.542043999994,
+      "title": "Chapter 045 - Tom Orley",
+      "id": 81
+    },
+    {
+      "start": 31928.581227999995,
+      "end": 32776.840227999994,
+      "title": "Chapter 045 - Tom Orley",
+      "id": 82
+    },
+    {
+      "start": 32776.840227999994,
+      "end": 32777.181227999994,
+      "title": "PART V - Concussion",
+      "id": 83
+    },
+    {
+      "start": 32777.221227999995,
+      "end": 32809.606228,
+      "title": "PART V - Concussion",
+      "id": 84
+    },
+    {
+      "start": 32809.606228,
+      "end": 32809.861227999994,
+      "title": "Chapter 046 - Sah'ot",
+      "id": 85
+    },
+    {
+      "start": 32809.900411999995,
+      "end": 33207.408412,
+      "title": "Chapter 046 - Sah'ot",
+      "id": 86
+    },
+    {
+      "start": 33207.408412,
+      "end": 33207.527411999996,
+      "title": "Chapter 047 - Streaker",
+      "id": 87
+    },
+    {
+      "start": 33207.562453,
+      "end": 33927.630453,
+      "title": "Chapter 047 - Streaker",
+      "id": 88
+    },
+    {
+      "start": 33927.630453,
+      "end": 33927.775453,
+      "title": "Chapter 048 - Takkata-Jim",
+      "id": 89
+    },
+    {
+      "start": 33927.810615999995,
+      "end": 34359.38561599999,
+      "title": "Chapter 048 - Takkata-Jim",
+      "id": 90
+    },
+    {
+      "start": 34359.45796299999,
+      "end": 36899.939963,
+      "title": "Chapter 049 - The Psi-Bomb",
+      "id": 91
+    },
+    {
+      "start": 36899.939963,
+      "end": 36900.26796299999,
+      "title": "Chapter 050 - Streaker",
+      "id": 92
+    },
+    {
+      "start": 36900.310207999995,
+      "end": 37493.111207999995,
+      "title": "Chapter 050 - Streaker",
+      "id": 93
+    },
+    {
+      "start": 37493.18630999999,
+      "end": 39012.91230999999,
+      "title": "Chapter 051 - Thomas Orley",
+      "id": 95
+    },
+    {
+      "start": 39012.91230999999,
+      "end": 39013.14530999999,
+      "title": "Chapter 052 - Akki",
+      "id": 96
+    },
+    {
+      "start": 39013.172248999996,
+      "end": 39213.225248999996,
+      "title": "Chapter 052 - Akki",
+      "id": 96
+    },
+    {
+      "start": 39213.32245299999,
+      "end": 39441.46745299999,
+      "title": "Chapter 053 - Moki",
+      "id": 97
+    },
+    {
+      "start": 39441.46745299999,
+      "end": 39441.576452999994,
+      "title": "Chapter 054 - Keepiru",
+      "id": 98
+    },
+    {
+      "start": 39441.60653499999,
+      "end": 39696.77253499999,
+      "title": "Chapter 054 - Keepiru",
+      "id": 99
+    },
+    {
+      "start": 39696.77253499999,
+      "end": 39696.89953499999,
+      "title": "Chapter 055 - Charles Dart",
+      "id": 100
+    },
+    {
+      "start": 39696.92735099999,
+      "end": 39976.97035099999,
+      "title": "Chapter 055 - Charles Dart",
+      "id": 101
+    },
+    {
+      "start": 39976.97035099999,
+      "end": 39977.16735099999,
+      "title": "Chapter 056 - Sah'ot",
+      "id": 102
+    },
+    {
+      "start": 39977.19510599999,
+      "end": 40254.09610599999,
+      "title": "Chapter 056 - Sah'ot",
+      "id": 103
+    },
+    {
+      "start": 40254.09610599999,
+      "end": 40254.408105999995,
+      "title": "Chapter 057 - Dennie and Toshio",
+      "id": 104
+    },
+    {
+      "start": 40254.45877899999,
+      "end": 40598.47177899999,
+      "title": "Chapter 057 - Dennie and Toshio",
+      "id": 105
+    },
+    {
+      "start": 40598.58279899999,
+      "end": 40852.43179899999,
+      "title": "Chapter 058 - Galactics",
+      "id": 107
+    },
+    {
+      "start": 40852.43179899999,
+      "end": 40852.70379899999,
+      "title": "Chapter 059 - Creideiki",
+      "id": 108
+    },
+    {
+      "start": 40852.74122799999,
+      "end": 40928.60422799999,
+      "title": "Chapter 059 - Creideiki",
+      "id": 108
+    },
+    {
+      "start": 40928.70530999999,
+      "end": 41223.615309999994,
+      "title": "Chapter 060 - Gillian",
+      "id": 109
+    },
+    {
+      "start": 41223.69000399999,
+      "end": 41465.600003999985,
+      "title": "Chapter 061 - Hikahi & Suessi",
+      "id": 111
+    },
+    {
+      "start": 41465.62612599999,
+      "end": 41874.03512599999,
+      "title": "Chapter 062 - Exiles",
+      "id": 111
+    },
+    {
+      "start": 41874.03512599999,
+      "end": 41874.22612599999,
+      "title": "Chapter 063 - Tom Orley",
+      "id": 112
+    },
+    {
+      "start": 41874.25959499999,
+      "end": 42792.54259499999,
+      "title": "Chapter 063 - Tom Orley",
+      "id": 113
+    },
+    {
+      "start": 42792.54259499999,
+      "end": 42792.89959499999,
+      "title": "PART VI - Scatter",
+      "id": 114
+    },
+    {
+      "start": 42792.93388099999,
+      "end": 42822.17788099999,
+      "title": "PART VI - Scatter",
+      "id": 115
+    },
+    {
+      "start": 42822.17788099999,
+      "end": 42822.34788099999,
+      "title": "Chapter 064 - Creideiki-Sah'ot",
+      "id": 116
+    },
+    {
+      "start": 42822.40000299999,
+      "end": 43062.03700299999,
+      "title": "Chapter 064 - Creideiki-Sah'ot",
+      "id": 117
+    },
+    {
+      "start": 43062.15183999999,
+      "end": 43322.468839999994,
+      "title": "Chapter 065 - Gillian",
+      "id": 118
+    },
+    {
+      "start": 43322.468839999994,
+      "end": 43322.65783999999,
+      "title": "Chapter 066 - Akki",
+      "id": 119
+    },
+    {
+      "start": 43322.69714599999,
+      "end": 43635.27914599999,
+      "title": "Chapter 066 - Akki",
+      "id": 120
+    },
+    {
+      "start": 43635.27914599999,
+      "end": 43635.391145999994,
+      "title": "Chapter 067 - Keepiru",
+      "id": 121
+    },
+    {
+      "start": 43635.43510499999,
+      "end": 43981.83510499999,
+      "title": "Chapter 067 - Keepiru",
+      "id": 122
+    },
+    {
+      "start": 43981.91002299999,
+      "end": 44290.707022999995,
+      "title": "Chapter 068 - Tom Orley",
+      "id": 124
+    },
+    {
+      "start": 44290.707022999995,
+      "end": 44290.93702299999,
+      "title": "Chapter 069 - Toshio",
+      "id": 125
+    },
+    {
+      "start": 44290.97796199999,
+      "end": 45303.72196199999,
+      "title": "Chapter 069 - Toshio",
+      "id": 125
+    },
+    {
+      "start": 45303.72196199999,
+      "end": 45303.98796199999,
+      "title": "Chapter 070 - Hikahi",
+      "id": 126
+    },
+    {
+      "start": 45304.03265599999,
+      "end": 45532.59565599999,
+      "title": "Chapter 070 - Hikahi",
+      "id": 127
+    },
+    {
+      "start": 45532.59565599999,
+      "end": 45532.79265599999,
+      "title": "Chapter 071 - Charles Dart",
+      "id": 128
+    },
+    {
+      "start": 45532.83918699999,
+      "end": 45562.86718699999,
+      "title": "Chapter 071 - Charles Dart",
+      "id": 129
+    },
+    {
+      "start": 45562.86718699999,
+      "end": 45563.18518699999,
+      "title": "Chapter 072 - Streaker",
+      "id": 130
+    },
+    {
+      "start": 45563.21959499999,
+      "end": 46107.81659499999,
+      "title": "Chapter 072 - Streaker",
+      "id": 131
+    },
+    {
+      "start": 46107.81659499999,
+      "end": 46108.046594999985,
+      "title": "PART VII - The Food Chain",
+      "id": 132
+    },
+    {
+      "start": 46108.08163599999,
+      "end": 46129.194635999986,
+      "title": "PART VII - The Food Chain",
+      "id": 133
+    },
+    {
+      "start": 46129.194635999986,
+      "end": 46129.30863599999,
+      "title": "Chapter 073 - Akki",
+      "id": 134
+    },
+    {
+      "start": 46129.34530899999,
+      "end": 46350.57030899999,
+      "title": "Chapter 073 - Akki",
+      "id": 135
+    },
+    {
+      "start": 46350.57030899999,
+      "end": 46350.75830899999,
+      "title": "Chapter 074 - Keepiru",
+      "id": 136
+    },
+    {
+      "start": 46350.78530899999,
+      "end": 48153.03930899999,
+      "title": "Chapter 074 - Keepiru",
+      "id": 137
+    },
+    {
+      "start": 48153.03930899999,
+      "end": 48153.35530899999,
+      "title": "Chapter 075 - Hikahi",
+      "id": 138
+    },
+    {
+      "start": 48153.39102299999,
+      "end": 48320.36302299999,
+      "title": "Chapter 075 - Hikahi",
+      "id": 139
+    },
+    {
+      "start": 48320.36302299999,
+      "end": 48320.48502299999,
+      "title": "PART VIII - The ''Trojan Seahorse''",
+      "id": 140
+    },
+    {
+      "start": 48320.52245199999,
+      "end": 48345.35245199999,
+      "title": "PART VIII - The ''Trojan Seahorse''",
+      "id": 141
+    },
+    {
+      "start": 48345.35245199999,
+      "end": 48345.468451999994,
+      "title": "Chapter 076 - Galactics",
+      "id": 142
+    },
+    {
+      "start": 48345.49551299999,
+      "end": 48537.47551299999,
+      "title": "Chapter 076 - Galactics",
+      "id": 143
+    },
+    {
+      "start": 48537.600002999985,
+      "end": 49289.60800299999,
+      "title": "Chapter 077 - Toshio",
+      "id": 144
+    },
+    {
+      "start": 49289.60800299999,
+      "end": 49289.76000299999,
+      "title": "Chapter 078 - Tom Orley",
+      "id": 145
+    },
+    {
+      "start": 49289.79592099998,
+      "end": 49607.03292099998,
+      "title": "Chapter 078 - Tom Orley",
+      "id": 146
+    },
+    {
+      "start": 49607.03292099998,
+      "end": 49607.235920999985,
+      "title": "Chapter 079 - Galactics",
+      "id": 147
+    },
+    {
+      "start": 49607.26204299998,
+      "end": 49792.94804299998,
+      "title": "Chapter 079 - Galactics",
+      "id": 148
+    },
+    {
+      "start": 49792.94804299998,
+      "end": 49793.19504299998,
+      "title": "Chapter 080 - Journal of Gillian Baskin",
+      "id": 149
+    },
+    {
+      "start": 49793.22775699998,
+      "end": 50037.33475699998,
+      "title": "Chapter 080 - Journal of Gillian Baskin",
+      "id": 150
+    },
+    {
+      "start": 50037.38316499998,
+      "end": 50735.549164999975,
+      "title": "Chapter 081 - Charles Dart",
+      "id": 152
+    },
+    {
+      "start": 50735.64734899998,
+      "end": 51089.444348999976,
+      "title": "Chapter 082 - Tom Orley",
+      "id": 152
+    },
+    {
+      "start": 51089.444348999976,
+      "end": 51089.72734899998,
+      "title": "Chapter 083 - Gillian",
+      "id": 153
+    },
+    {
+      "start": 51089.76326699998,
+      "end": 51469.88926699998,
+      "title": "Chapter 083 - Gillian",
+      "id": 154
+    },
+    {
+      "start": 51469.88926699998,
+      "end": 51470.00326699998,
+      "title": "Chapter 084 - Hikahi-Keepiru",
+      "id": 155
+    },
+    {
+      "start": 51470.05387899998,
+      "end": 51627.08287899998,
+      "title": "Chapter 084 - Hikahi-Keepiru",
+      "id": 156
+    },
+    {
+      "start": 51627.08287899998,
+      "end": 51627.31987899998,
+      "title": "Chapter 085 - Gillian",
+      "id": 157
+    },
+    {
+      "start": 51627.36326699998,
+      "end": 52040.529266999976,
+      "title": "Chapter 085 - Gillian",
+      "id": 158
+    },
+    {
+      "start": 52040.529266999976,
+      "end": 52040.81726699998,
+      "title": "Chapter 086 - Toshio",
+      "id": 159
+    },
+    {
+      "start": 52040.85551199998,
+      "end": 52208.43651199998,
+      "title": "Chapter 086 - Toshio",
+      "id": 160
+    },
+    {
+      "start": 52208.43651199998,
+      "end": 52208.74851199998,
+      "title": "Chapter 087 - Gillian",
+      "id": 161
+    },
+    {
+      "start": 52208.79673599998,
+      "end": 52294.291735999985,
+      "title": "Chapter 087 - Gillian",
+      "id": 162
+    },
+    {
+      "start": 52294.291735999985,
+      "end": 52294.543735999985,
+      "title": "Chapter 088 - Toshio",
+      "id": 163
+    },
+    {
+      "start": 52294.58285799998,
+      "end": 52559.62685799998,
+      "title": "Chapter 088 - Toshio",
+      "id": 164
+    },
+    {
+      "start": 52559.62685799998,
+      "end": 52559.91585799998,
+      "title": "Chapter 089 - Gillian",
+      "id": 165
+    },
+    {
+      "start": 52559.96081699998,
+      "end": 52937.365816999976,
+      "title": "Chapter 089 - Gillian",
+      "id": 166
+    },
+    {
+      "start": 52937.365816999976,
+      "end": 52937.64081699998,
+      "title": "Chapter 090 - Creideiki",
+      "id": 167
+    },
+    {
+      "start": 52937.69142899998,
+      "end": 53441.878428999975,
+      "title": "Chapter 090 - Creideiki",
+      "id": 168
+    },
+    {
+      "start": 53441.90693899998,
+      "end": 54132.786938999976,
+      "title": "Chapter 091 - Tom Orley",
+      "id": 169
+    },
+    {
+      "start": 54132.82359199998,
+      "end": 54153.46359199998,
+      "title": "PART IX - Ascent",
+      "id": 171
+    },
+    {
+      "start": 54153.46359199998,
+      "end": 54153.67259199998,
+      "title": "Chapter 092 - Dennie and Sah'ot",
+      "id": 172
+    },
+    {
+      "start": 54153.71755099998,
+      "end": 54298.73355099998,
+      "title": "Chapter 092 - Dennie and Sah'ot",
+      "id": 172
+    },
+    {
+      "start": 54298.73355099998,
+      "end": 54299.07755099998,
+      "title": "Chapter 093 - Takkata-Jim and Metz",
+      "id": 173
+    },
+    {
+      "start": 54299.11510199998,
+      "end": 55192.07910199998,
+      "title": "Chapter 093 - Takkata-Jim and Metz",
+      "id": 174
+    },
+    {
+      "start": 55192.16326499998,
+      "end": 55773.38126499998,
+      "title": "Chapter 094 - Streaker",
+      "id": 175
+    },
+    {
+      "start": 55773.38126499998,
+      "end": 55773.49626499998,
+      "title": "Chapter 095 - Toshio",
+      "id": 176
+    },
+    {
+      "start": 55773.54448899998,
+      "end": 56156.371488999976,
+      "title": "Chapter 095 - Toshio",
+      "id": 177
+    },
+    {
+      "start": 56156.473468999975,
+      "end": 56185.257468999975,
+      "title": "Chapter 096 - Tom Orley",
+      "id": 178
+    },
+    {
+      "start": 56185.338774999975,
+      "end": 56368.306774999975,
+      "title": "Chapter 097 - The Skiff",
+      "id": 179
+    },
+    {
+      "start": 56368.35265299997,
+      "end": 56459.288652999974,
+      "title": "Chapter 098 - Tom Orley",
+      "id": 180
+    },
+    {
+      "start": 56459.36326499997,
+      "end": 56557.35626499997,
+      "title": "Chapter 099 - Gillian",
+      "id": 181
+    },
+    {
+      "start": 56557.479182999974,
+      "end": 56857.337182999974,
+      "title": "Chapter 100 - Toshio",
+      "id": 182
+    },
+    {
+      "start": 56857.469386999976,
+      "end": 57033.982386999975,
+      "title": "Chapter 101 - Galactics",
+      "id": 183
+    },
+    {
+      "start": 57033.982386999975,
+      "end": 57034.215386999975,
+      "title": "Chapter 102 - Streaker",
+      "id": 184
+    },
+    {
+      "start": 57034.26612199998,
+      "end": 57440.86312199998,
+      "title": "Chapter 102 - Streaker",
+      "id": 185
+    },
+    {
+      "start": 57440.86312199998,
+      "end": 57440.97312199998,
+      "title": "Chapter 103 - Tom Orley",
+      "id": 186
+    },
+    {
+      "start": 57441.01877499998,
+      "end": 57818.00877499998,
+      "title": "Chapter 103 - Tom Orley",
+      "id": 187
+    },
+    {
+      "start": 57818.00877499998,
+      "end": 57818.28577499998,
+      "title": "Chapter 104 - Galactics",
+      "id": 188
+    },
+    {
+      "start": 57818.33142799998,
+      "end": 58222.862427999986,
+      "title": "Chapter 104 - Galactics",
+      "id": 189
+    },
+    {
+      "start": 58222.862427999986,
+      "end": 58222.98442799998,
+      "title": "Chapter 105 - The Skiff",
+      "id": 190
+    },
+    {
+      "start": 58223.02040799998,
+      "end": 58397.75840799998,
+      "title": "Chapter 105 - The Skiff",
+      "id": 191
+    },
+    {
+      "start": 58397.75840799998,
+      "end": 58397.88740799998,
+      "title": "PART X - Rapture",
+      "id": 192
+    },
+    {
+      "start": 58397.93632599998,
+      "end": 58413.44132599998,
+      "title": "PART X - Rapture",
+      "id": 193
+    },
+    {
+      "start": 58413.44132599998,
+      "end": 58413.69632599998,
+      "title": "Chapter 106 - Toshio",
+      "id": 194
+    },
+    {
+      "start": 58413.74040799998,
+      "end": 58564.96340799998,
+      "title": "Chapter 106 - Toshio",
+      "id": 195
+    },
+    {
+      "start": 58564.96340799998,
+      "end": 58565.100407999984,
+      "title": "Chapter 107 - Takkata-Jim",
+      "id": 196
+    },
+    {
+      "start": 58565.146121999984,
+      "end": 58774.01512199998,
+      "title": "Chapter 107 - Takkata-Jim",
+      "id": 197
+    },
+    {
+      "start": 58774.01512199998,
+      "end": 58774.19912199998,
+      "title": "Chapter 108 - Streaker",
+      "id": 198
+    },
+    {
+      "start": 58774.230203999985,
+      "end": 58947.101203999984,
+      "title": "Chapter 108 - Streaker",
+      "id": 199
+    },
+    {
+      "start": 58947.101203999984,
+      "end": 58947.243203999984,
+      "title": "Chapter 109 - Takkata-Jim",
+      "id": 200
+    },
+    {
+      "start": 58947.29142799998,
+      "end": 59043.75842799998,
+      "title": "Chapter 109 - Takkata-Jim",
+      "id": 201
+    },
+    {
+      "start": 59043.78775499998,
+      "end": 59097.60575499998,
+      "title": "Chapter 110 - Streaker",
+      "id": 202
+    },
+    {
+      "start": 59097.60575499998,
+      "end": 59097.907754999986,
+      "title": "Chapter 111 - Tom",
+      "id": 203
+    },
+    {
+      "start": 59097.93959199998,
+      "end": 59135.99259199998,
+      "title": "Chapter 111 - Tom",
+      "id": 204
+    },
+    {
+      "start": 59136.10448999998,
+      "end": 59200.379489999985,
+      "title": "Chapter 112 - Takkata-Jim",
+      "id": 205
+    },
+    {
+      "start": 59200.379489999985,
+      "end": 59200.53148999999,
+      "title": "Chapter 113 - Streaker",
+      "id": 206
+    },
+    {
+      "start": 59200.57469399998,
+      "end": 59508.89769399998,
+      "title": "Chapter 113 - Streaker",
+      "id": 207
+    },
+    {
+      "start": 59509.00244899998,
+      "end": 59812.14144899998,
+      "title": "Chapter 114 - Galactics",
+      "id": 208
+    },
+    {
+      "start": 59812.14144899998,
+      "end": 59812.28244899998,
+      "title": "Chapter 115 - Streaker",
+      "id": 209
+    },
+    {
+      "start": 59812.31020399998,
+      "end": 60233.80820399998,
+      "title": "Chapter 115 - Streaker",
+      "id": 210
+    },
+    {
+      "start": 60233.80820399998,
+      "end": 60234.05620399998,
+      "title": "Chapter 116 - Galactics",
+      "id": 211
+    },
+    {
+      "start": 60234.08326499998,
+      "end": 60309.02926499998,
+      "title": "Chapter 116 - Galactics",
+      "id": 212
+    },
+    {
+      "start": 60309.13306099998,
+      "end": 60457.84706099998,
+      "title": "Chapter 117 - Takkata-Jim",
+      "id": 213
+    },
+    {
+      "start": 60457.84706099998,
+      "end": 60458.16006099998,
+      "title": "Chapter 118 - Streaker",
+      "id": 214
+    },
+    {
+      "start": 60458.18775499998,
+      "end": 60720.302754999975,
+      "title": "Chapter 118 - Streaker",
+      "id": 215
+    },
+    {
+      "start": 60720.431019999975,
+      "end": 60859.10601999998,
+      "title": "Chapter 119 - Galactics",
+      "id": 216
+    },
+    {
+      "start": 60859.14122399998,
+      "end": 61231.41422399998,
+      "title": "Chapter 120 - Streaker",
+      "id": 217
+    },
+    {
+      "start": 61231.41422399998,
+      "end": 61231.54122399998,
+      "title": "Chapter 121 - Galactics",
+      "id": 218
+    },
+    {
+      "start": 61231.568978999974,
+      "end": 61372.536978999975,
+      "title": "Chapter 121 - Galactics",
+      "id": 219
+    },
+    {
+      "start": 61372.536978999975,
+      "end": 61372.68897899998,
+      "title": "Chapter 122 - Streaker",
+      "id": 220
+    },
+    {
+      "start": 61372.73469299998,
+      "end": 61547.510692999975,
+      "title": "Chapter 122 - Streaker",
+      "id": 221
+    },
+    {
+      "start": 61547.510692999975,
+      "end": 61547.614692999974,
+      "title": "Chapter 123 - Galactics",
+      "id": 222
+    },
+    {
+      "start": 61547.650610999975,
+      "end": 61779.896610999975,
+      "title": "Chapter 123 - Galactics",
+      "id": 223
+    },
+    {
+      "start": 61779.896610999975,
+      "end": 61780.14361099998,
+      "title": "Chapter 124 - Tom Orley",
+      "id": 224
+    },
+    {
+      "start": 61780.192651999976,
+      "end": 62019.955651999975,
+      "title": "Chapter 124 - Tom Orley",
+      "id": 225
+    },
+    {
+      "start": 62019.955651999975,
+      "end": 62020.21965199998,
+      "title": "Chapter 125 - The Skiff",
+      "id": 226
+    },
+    {
+      "start": 62020.25795799997,
+      "end": 62557.45595799997,
+      "title": "Chapter 125 - The Skiff",
+      "id": 227
+    },
+    {
+      "start": 62557.54448899997,
+      "end": 62685.64848899997,
+      "title": "Postscript",
+      "id": 228
+    },
+    {
+      "start": 62685.64848899997,
+      "end": 62685.82448899997,
+      "title": "Epilogue",
+      "id": 229
+    },
+    {
+      "start": 62685.85795799997,
+      "end": 62712.73495799997,
+      "title": "Epilogue",
+      "id": 230
+    },
+    {
+      "start": 62712.86856999997,
+      "end": 62728.54856999997,
+      "title": "End Credits",
+      "id": 231
+    },
+    {
+      "start": 62728.59428399997,
+      "end": 62729.17928399997,
+      "title": "End Credits",
+      "id": 232
+    }
+  ],
+  "title": "02 Startide Rising",
+  "subtitle": null,
+  "authors": [
+    "David Brin"
+  ],
+  "narrators": [
+    "George Wilson"
+  ],
+  "series": [],
+  "genres": [
+    "Hard Sci-Fi",
+    "Space Opera"
+  ],
+  "publishedYear": "1983",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Unabridged",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

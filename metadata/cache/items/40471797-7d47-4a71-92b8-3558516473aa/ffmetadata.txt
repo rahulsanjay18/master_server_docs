@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Speed of Dark
+artist=Elizabeth Moon
+album_artist=Elizabeth Moon
+album=Speed of Dark
+genre=audiobook
+date=2004
+TRACKTOTAL=18

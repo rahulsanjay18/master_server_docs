@@ -1,0 +1,100 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 33.443,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 33.443,
+      "end": 3261.532,
+      "title": "Story 1: Enri’s Hectic, Eventful Life ~ 1"
+    },
+    {
+      "id": 2,
+      "start": 3261.532,
+      "end": 9094.919,
+      "title": "Story 1: Enri’s Hectic, Eventful Life ~ 2"
+    },
+    {
+      "id": 3,
+      "start": 9094.919,
+      "end": 13852.288,
+      "title": "Story 1: Enri’s Hectic, Eventful Life ~ 3"
+    },
+    {
+      "id": 4,
+      "start": 13852.288,
+      "end": 17102.506,
+      "title": "Story 1: Enri’s Hectic, Eventful Life ~ 4"
+    },
+    {
+      "id": 5,
+      "start": 17102.506,
+      "end": 18828.51,
+      "title": "Story 1: Enri’s Hectic, Eventful Life ~ Epilogue"
+    },
+    {
+      "id": 6,
+      "start": 18828.51,
+      "end": 19278.485,
+      "title": "Story 2: A Day Inside Nazarick ~ Prologue"
+    },
+    {
+      "id": 7,
+      "start": 19278.485,
+      "end": 22895.809,
+      "title": "Story 2: A Day Inside Nazarick ~ 1"
+    },
+    {
+      "id": 8,
+      "start": 22895.809,
+      "end": 25847.178,
+      "title": "Story 2: A Day Inside Nazarick ~ 2"
+    },
+    {
+      "id": 9,
+      "start": 25847.178,
+      "end": 32648.284,
+      "title": "Story 2: A Day Inside Nazarick ~ 3"
+    },
+    {
+      "id": 10,
+      "start": 32648.284,
+      "end": 34813.842,
+      "title": "Story 2: A Day Inside Nazarick ~ 4"
+    },
+    {
+      "id": 11,
+      "start": 34813.842,
+      "end": 34921.001,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Overlord, Vol. 08: The Two Leaders",
+  "subtitle": null,
+  "authors": [
+    "Chris Guerrero"
+  ],
+  "narrators": [
+    "Kugane Maruyama"
+  ],
+  "series": [
+    "Overlord #08"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "December 26, 2014 (04-11-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

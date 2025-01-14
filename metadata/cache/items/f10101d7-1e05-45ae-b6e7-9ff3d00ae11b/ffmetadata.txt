@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Sense and Sensibility (read by Juliet Stevenson)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Sense and Sensibility (read by Juliet Stevenson)
+date=1811
+TRACKTOTAL=22
+grouping=1811 - Sense and Sensibility (read by Juliet Stevenson) \#1

@@ -1,0 +1,760 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 37.000227,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 37.000227,
+      "end": 673.000227,
+      "title": "Movie Night, by Percy Jackson"
+    },
+    {
+      "id": 2,
+      "start": 673.000227,
+      "end": 1612.000227,
+      "title": "Three (Four?) Thousand Years and Counting, by Chiron"
+    },
+    {
+      "id": 3,
+      "start": 1612.000227,
+      "end": 1822.000227,
+      "title": "Creature Comfort:"
+    },
+    {
+      "id": 4,
+      "start": 1822.000227,
+      "end": 2882.000227,
+      "title": "- The Divine Cabins"
+    },
+    {
+      "id": 5,
+      "start": 2882.000227,
+      "end": 3241.000227,
+      "title": "- The Big House"
+    },
+    {
+      "id": 6,
+      "start": 3241.000227,
+      "end": 3381.000227,
+      "title": "- The Dining Pavilion"
+    },
+    {
+      "id": 7,
+      "start": 3381.000227,
+      "end": 3429.000227,
+      "title": "- The Amphitheater"
+    },
+    {
+      "id": 8,
+      "start": 3429.000227,
+      "end": 3854.000227,
+      "title": "- The Camp Store"
+    },
+    {
+      "id": 9,
+      "start": 3854.000227,
+      "end": 4040.000227,
+      "title": "Magical Landmarks:"
+    },
+    {
+      "id": 10,
+      "start": 4040.000227,
+      "end": 4075.000227,
+      "title": "- The Grove of Dodona"
+    },
+    {
+      "id": 11,
+      "start": 4075.000227,
+      "end": 4638.000227,
+      "title": "- The Cave of the Oracle"
+    },
+    {
+      "id": 12,
+      "start": 4638.000227,
+      "end": 4704.000227,
+      "title": "- The Magical Border"
+    },
+    {
+      "id": 13,
+      "start": 4704.000227,
+      "end": 5380.000227,
+      "title": "- Thalia’s Pine and the Golden Fleece"
+    },
+    {
+      "id": 14,
+      "start": 5380.000227,
+      "end": 5757.000227,
+      "title": "- The Athena Parthenos"
+    },
+    {
+      "id": 15,
+      "start": 5757.000227,
+      "end": 5881.000227,
+      "title": "Training Grounds:"
+    },
+    {
+      "id": 16,
+      "start": 5881.000227,
+      "end": 5921.000227,
+      "title": "- The Armory"
+    },
+    {
+      "id": 17,
+      "start": 5921.000227,
+      "end": 5961.000227,
+      "title": "- The Climbing Wall"
+    },
+    {
+      "id": 18,
+      "start": 5961.000227,
+      "end": 6424.000227,
+      "title": "- The Combat Arena and the Archery Range"
+    },
+    {
+      "id": 19,
+      "start": 6424.000227,
+      "end": 6663.000227,
+      "title": "- The Volleyball Court"
+    },
+    {
+      "id": 20,
+      "start": 6663.000227,
+      "end": 6666.000227,
+      "title": "Tinkering:"
+    },
+    {
+      "id": 21,
+      "start": 6666.000227,
+      "end": 6721.000227,
+      "title": "- The Forge"
+    },
+    {
+      "id": 22,
+      "start": 6721.000227,
+      "end": 6765.000227,
+      "title": "- The Arts and Crafts Center"
+    },
+    {
+      "id": 23,
+      "start": 6765.000227,
+      "end": 7534.000295,
+      "title": "- Bunker Nine"
+    },
+    {
+      "id": 24,
+      "start": 7534.000295,
+      "end": 7786.000295,
+      "title": "Wild Places:"
+    },
+    {
+      "id": 25,
+      "start": 7786.000295,
+      "end": 8405.000295,
+      "title": "- Grove of the Council of Cloven Elders"
+    },
+    {
+      "id": 26,
+      "start": 8405.000295,
+      "end": 8443.000295,
+      "title": "- The Pegasus Stables"
+    },
+    {
+      "id": 27,
+      "start": 8443.000295,
+      "end": 8496.000295,
+      "title": "- The Myrmekes’ Lair"
+    },
+    {
+      "id": 28,
+      "start": 8496.000295,
+      "end": 8618.000295,
+      "title": "- The Geysers"
+    },
+    {
+      "id": 29,
+      "start": 8618.000295,
+      "end": 9171.000295,
+      "title": "- The Strawberry Fields"
+    },
+    {
+      "id": 30,
+      "start": 9171.000295,
+      "end": 9509.000295,
+      "title": "Do I Get to Keep the T-shirt and Other FAQs"
+    },
+    {
+      "id": 31,
+      "start": 9509.000295,
+      "end": 9688.000295,
+      "title": "Aw, Summer’s Over"
+    },
+    {
+      "id": 32,
+      "start": 9688.000295,
+      "end": 10012.000295,
+      "title": "About the Campers"
+    },
+    {
+      "id": 33,
+      "start": 10012.000295,
+      "end": 10899.000295,
+      "title": "Glossary"
+    },
+    {
+      "id": 34,
+      "start": 10899.000295,
+      "end": 12145.197279,
+      "title": "Preview of The Trials of Apollo: Book Two: The Dark Prophecy"
+    },
+    {
+      "id": 35,
+      "start": 12145.197279,
+      "end": 12163.21737,
+      "title": "Intro"
+    },
+    {
+      "id": 36,
+      "start": 12163.21737,
+      "end": 12170.208572,
+      "title": "Dedication"
+    },
+    {
+      "id": 37,
+      "start": 12170.208572,
+      "end": 12225.21059,
+      "title": "From Reyna Avila Ramírez-Arellano"
+    },
+    {
+      "id": 38,
+      "start": 12225.21059,
+      "end": 12510.217755,
+      "title": "Day I: I Made It!"
+    },
+    {
+      "id": 39,
+      "start": 12510.217755,
+      "end": 12685.205079,
+      "title": "Day II: Um, What?"
+    },
+    {
+      "id": 40,
+      "start": 12685.205079,
+      "end": 12798.202472,
+      "title": "Day III: Ow!"
+    },
+    {
+      "id": 41,
+      "start": 12798.202472,
+      "end": 12932.197551,
+      "title": "Day IV: Nice God-Crypt, Mars"
+    },
+    {
+      "id": 42,
+      "start": 12932.197551,
+      "end": 13139.211293,
+      "title": "Day V: A Sack Full of Dead Rats"
+    },
+    {
+      "id": 43,
+      "start": 13139.211293,
+      "end": 13401.198118,
+      "title": "Day VI: Bruises and Baked Goods"
+    },
+    {
+      "id": 44,
+      "start": 13401.198118,
+      "end": 13745.207302,
+      "title": "Day VII: The Girl of My Dreams"
+    },
+    {
+      "id": 45,
+      "start": 13745.207302,
+      "end": 14002.219501,
+      "title": "Day VIII: A Thrilla on Aquila"
+    },
+    {
+      "id": 46,
+      "start": 14002.219501,
+      "end": 14123.201474,
+      "title": "Day IX: So Not Cool"
+    },
+    {
+      "id": 47,
+      "start": 14123.201474,
+      "end": 14240.216167999999,
+      "title": "Day X: Claudia the Clumsy"
+    },
+    {
+      "id": 48,
+      "start": 14240.216167999999,
+      "end": 14400.197778,
+      "title": "Day XI: Mess in the Mess"
+    },
+    {
+      "id": 49,
+      "start": 14400.197778,
+      "end": 14571.216281,
+      "title": "Day XII: Two Words: Air Freshener"
+    },
+    {
+      "id": 50,
+      "start": 14571.216281,
+      "end": 14765.199819,
+      "title": "Day XIII: Bang On!"
+    },
+    {
+      "id": 51,
+      "start": 14765.199819,
+      "end": 14927.203878,
+      "title": "Day XIV: Oh, Rats!"
+    },
+    {
+      "id": 52,
+      "start": 14927.203878,
+      "end": 15239.212789000001,
+      "title": "Day XV: Good Old-Fashioned Book Learning"
+    },
+    {
+      "id": 53,
+      "start": 15239.212789000001,
+      "end": 15428.200658,
+      "title": "Day XVI: Games Gone Wild"
+    },
+    {
+      "id": 54,
+      "start": 15428.200658,
+      "end": 15611.213991,
+      "title": "Day XVII: Target Practice"
+    },
+    {
+      "id": 55,
+      "start": 15611.213991,
+      "end": 15870.21678,
+      "title": "Day XVIII: Probably Not My Best Idea Yet"
+    },
+    {
+      "id": 56,
+      "start": 15870.21678,
+      "end": 16077.199206,
+      "title": "Day XIX: How to Summon a God in Six Easy Steps"
+    },
+    {
+      "id": 57,
+      "start": 16077.199206,
+      "end": 16368.209819,
+      "title": "Day XX: Well, That Stinks"
+    },
+    {
+      "id": 58,
+      "start": 16368.209819,
+      "end": 16650.202313,
+      "title": "Day XXI: Quest, Party of Three?"
+    },
+    {
+      "id": 59,
+      "start": 16650.202313,
+      "end": 16805.215057,
+      "title": "Day XXII: Not. So. Fast."
+    },
+    {
+      "id": 60,
+      "start": 16805.215057,
+      "end": 16996.210339999998,
+      "title": "Day XXIII: Going to the Dogs"
+    },
+    {
+      "id": 61,
+      "start": 16996.210339999998,
+      "end": 17285.214172,
+      "title": "Day XXIV: Exploding Poop Bags and Spritz Bottles, Anyone?"
+    },
+    {
+      "id": 62,
+      "start": 17285.214172,
+      "end": 17583.212426,
+      "title": "Day XXV: The End (JK!)"
+    },
+    {
+      "id": 63,
+      "start": 17583.212426,
+      "end": 17616.515193,
+      "title": "Outro"
+    },
+    {
+      "id": 64,
+      "start": 17616.515193,
+      "end": 17738.515193,
+      "title": "1 - Introduction"
+    },
+    {
+      "id": 65,
+      "start": 17738.515193,
+      "end": 19277.515193,
+      "title": "2 - The Beginning and Stuff"
+    },
+    {
+      "id": 66,
+      "start": 19277.515193,
+      "end": 21877.515193,
+      "title": "3 - The Golden Age of Cannibalism"
+    },
+    {
+      "id": 67,
+      "start": 21877.515193,
+      "end": 24598.515193,
+      "title": "4 - The Olympians Bash Some Heads"
+    },
+    {
+      "id": 68,
+      "start": 24598.515193,
+      "end": 24631.515193,
+      "title": "5 - Zeus"
+    },
+    {
+      "id": 69,
+      "start": 24631.515193,
+      "end": 26032.515193,
+      "title": "6 - Hestia Chooses Bachelor Number Zero"
+    },
+    {
+      "id": 70,
+      "start": 26032.515193,
+      "end": 27158.515193,
+      "title": "7 - Demeter Turns Into Grainzilla"
+    },
+    {
+      "id": 71,
+      "start": 27158.515193,
+      "end": 30648.515193,
+      "title": "8 - Persephone Marries Her Stalker (or, Demeter, The Sequel)"
+    },
+    {
+      "id": 72,
+      "start": 30648.515193,
+      "end": 33371.515193,
+      "title": "9 - Hera Gets a Little Cuckoo"
+    },
+    {
+      "id": 73,
+      "start": 33371.515193,
+      "end": 36084.515193,
+      "title": "10 - Hades Does Home Improvement"
+    },
+    {
+      "id": 74,
+      "start": 36084.515193,
+      "end": 39041.515193,
+      "title": "11 - Poseidon Gets Salty"
+    },
+    {
+      "id": 75,
+      "start": 39041.515193,
+      "end": 42206.515193,
+      "title": "12 - Zeus Kills Everyone"
+    },
+    {
+      "id": 76,
+      "start": 42206.515193,
+      "end": 44958.515193,
+      "title": "13 - Athena Adopts a Handkerchief"
+    },
+    {
+      "id": 77,
+      "start": 44958.515193,
+      "end": 47686.515193,
+      "title": "14 - You Gotta Love Aphrodite"
+    },
+    {
+      "id": 78,
+      "start": 47686.515193,
+      "end": 49528.515193,
+      "title": "15 - Ares, The Manly Man's Manly Man"
+    },
+    {
+      "id": 79,
+      "start": 49528.515193,
+      "end": 52226.515193,
+      "title": "16 - Hephaestus Makes Me a Golden Llama (Not Really, But He Totally Should)"
+    },
+    {
+      "id": 80,
+      "start": 52226.515193,
+      "end": 54409.515193,
+      "title": "17 - Apollo Sings and Dances and Shoots People"
+    },
+    {
+      "id": 81,
+      "start": 54409.515193,
+      "end": 56991.515193,
+      "title": "18 - Artemis Unleashes the Death Pig"
+    },
+    {
+      "id": 82,
+      "start": 56991.515193,
+      "end": 59119.515193,
+      "title": "19 - Hermes Goes to Juvie"
+    },
+    {
+      "id": 83,
+      "start": 59119.515193,
+      "end": 62146.515193,
+      "title": "20 - Dionysus Conquers the World With a Refreshing Beverage"
+    },
+    {
+      "id": 84,
+      "start": 62146.515193,
+      "end": 62225.577506,
+      "title": "21 - Afterword"
+    },
+    {
+      "id": 85,
+      "start": 62225.577506,
+      "end": 62242.577506,
+      "title": "Intro"
+    },
+    {
+      "id": 86,
+      "start": 62242.577506,
+      "end": 62489.577506,
+      "title": "Letter from Camp Half-Blood"
+    },
+    {
+      "id": 87,
+      "start": 62489.577506,
+      "end": 67695.577506,
+      "title": "The diary of Luke Castellan — read by Nick Chamian"
+    },
+    {
+      "id": 88,
+      "start": 67695.577506,
+      "end": 72302.577506,
+      "title": "Percy Jackson and the staff of Hermes — read by Jesse Bernstein"
+    },
+    {
+      "id": 89,
+      "start": 72302.577506,
+      "end": 72570.577506,
+      "title": "Interview with George and Martha, Hermes's snakes"
+    },
+    {
+      "id": 90,
+      "start": 72570.577506,
+      "end": 76412.577506,
+      "title": "Leo Valdez and the quest for Buford — read by Joshua Swanson"
+    },
+    {
+      "id": 91,
+      "start": 76412.577506,
+      "end": 76551.577506,
+      "title": "A note from Rick Riordan"
+    },
+    {
+      "id": 92,
+      "start": 76551.577506,
+      "end": 82201.240091,
+      "title": "Son of magic — read by Aaron Groben"
+    },
+    {
+      "id": 93,
+      "start": 82201.240091,
+      "end": 82212.240431,
+      "title": "Intro"
+    },
+    {
+      "id": 94,
+      "start": 82212.240431,
+      "end": 82312.240295,
+      "title": "Letter from Camp Half-Blood"
+    },
+    {
+      "id": 95,
+      "start": 82312.240295,
+      "end": 84497.240114,
+      "title": "Percy Jackson and the Stolen Chariot "
+    },
+    {
+      "id": 96,
+      "start": 84497.240114,
+      "end": 87248.240545,
+      "title": "Percy Jackson and the Bronze Dragon"
+    },
+    {
+      "id": 97,
+      "start": 87248.240545,
+      "end": 87381.240295,
+      "title": "Interview with Connor and Travis Stoll, sons of Hermes"
+    },
+    {
+      "id": 98,
+      "start": 87381.240295,
+      "end": 87475.240318,
+      "title": "Interview with Clarisse La Rue, daughter of Ares"
+    },
+    {
+      "id": 99,
+      "start": 87475.240318,
+      "end": 87633.240159,
+      "title": "Character Snapshot"
+    },
+    {
+      "id": 100,
+      "start": 87633.240159,
+      "end": 87826.240363,
+      "title": "Interview with Annabeth Chase, daughter of Athena"
+    },
+    {
+      "id": 101,
+      "start": 87826.240363,
+      "end": 87940.240136,
+      "title": "Interview with Grover Underwood, Satyr"
+    },
+    {
+      "id": 102,
+      "start": 87940.240136,
+      "end": 88114.240227,
+      "title": "Interview with Percy Jackson, son of Poseidon"
+    },
+    {
+      "id": 103,
+      "start": 88114.240227,
+      "end": 88155.240431,
+      "title": "Annabeth Chase's Camp Trunk"
+    },
+    {
+      "id": 104,
+      "start": 88155.240431,
+      "end": 92800.240295,
+      "title": "Percy Jackson and the Sword of Hades"
+    },
+    {
+      "id": 105,
+      "start": 92800.240295,
+      "end": 93383.240363,
+      "title": "Sneak Peek"
+    },
+    {
+      "id": 106,
+      "start": 93383.240363,
+      "end": 93410.232018,
+      "title": "Outro"
+    },
+    {
+      "id": 107,
+      "start": 93410.232018,
+      "end": 93420.25226699999,
+      "title": "0. Intro"
+    },
+    {
+      "id": 108,
+      "start": 93420.25226699999,
+      "end": 93554.246825,
+      "title": "1. Introduction"
+    },
+    {
+      "id": 109,
+      "start": 93554.246825,
+      "end": 98790.25122399999,
+      "title": "2. Perseus Wants a Hug"
+    },
+    {
+      "id": 110,
+      "start": 98790.25122399999,
+      "end": 105226.25415,
+      "title": "3. Psyche Ninjas a Box of Beauty Cream"
+    },
+    {
+      "id": 111,
+      "start": 105226.25415,
+      "end": 107823.23711999999,
+      "title": "4. Phaethon Fails Driver's Ed"
+    },
+    {
+      "id": 112,
+      "start": 107823.23711999999,
+      "end": 110039.237256,
+      "title": "5. Otrera Invents the Amazons (With Free Two-Day Shipping!)"
+    },
+    {
+      "id": 113,
+      "start": 110039.237256,
+      "end": 114206.242426,
+      "title": "6. Daedalus Invents Pretty Much Everything Else"
+    },
+    {
+      "id": 114,
+      "start": 114206.242426,
+      "end": 120893.245805,
+      "title": "7. Theseus Slays the Mighty- Oh, Look! A Bunny Rabbit!"
+    },
+    {
+      "id": 115,
+      "start": 120893.245805,
+      "end": 124078.802131,
+      "title": "8. Atalanta vs. Three Pieces of Fruit - the Ultimate Death Match"
+    },
+    {
+      "id": 116,
+      "start": 124078.802131,
+      "end": 126955.815714,
+      "title": "9. Whatever It Is, Bellerophon Didn't Do It"
+    },
+    {
+      "id": 117,
+      "start": 126955.815714,
+      "end": 128487.806235,
+      "title": "10. Cyrene Punches a Lion (No Actual Lions Were Harmed in the Making of This Myth)"
+    },
+    {
+      "id": 118,
+      "start": 128487.806235,
+      "end": 130944.81807200001,
+      "title": "11. Orpheus Takes a Solo"
+    },
+    {
+      "id": 119,
+      "start": 130944.81807200001,
+      "end": 141818.813287,
+      "title": "12. Hercules Does Twelve Stupid Things"
+    },
+    {
+      "id": 120,
+      "start": 141818.813287,
+      "end": 150105.81643900002,
+      "title": "13. Jason Finds a Rug that Really Ties the Kingdom Together"
+    },
+    {
+      "id": 121,
+      "start": 150105.81643900002,
+      "end": 150173.809183,
+      "title": "14. Afterword"
+    },
+    {
+      "id": 122,
+      "start": 150173.809183,
+      "end": 150202.43950100002,
+      "title": "15. Outro"
+    }
+  ],
+  "title": "Percy Jackson: Camp Half-Blood Confidential",
+  "subtitle": null,
+  "authors": [
+    "Rick Riordan"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2017",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Camp Half-Blood Confidential: Your Real Guide to the Demigod Training Camp - Juvenile Fiction/Juvenile Literature/Short Stories",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

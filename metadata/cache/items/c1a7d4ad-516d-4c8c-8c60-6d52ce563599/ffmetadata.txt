@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Dresden Files 09.5 - Heorot
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 09.5 - Heorot
+genre=Audiobook
+composer=Jim Butcher
+TRACKTOTAL=2
+grouping=Jim Butcher - Dresden Files 22GB \#9.5

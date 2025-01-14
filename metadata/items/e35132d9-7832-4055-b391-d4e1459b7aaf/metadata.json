@@ -1,0 +1,66 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5287.340408,
+      "title": "The Gods Themselves (1 of 7)"
+    },
+    {
+      "id": 1,
+      "start": 5287.340408,
+      "end": 10572.094694,
+      "title": "The Gods Themselves (2 of 7)"
+    },
+    {
+      "id": 2,
+      "start": 10572.094694,
+      "end": 15832.084898,
+      "title": "The Gods Themselves (3 of 7)"
+    },
+    {
+      "id": 3,
+      "start": 15832.084898,
+      "end": 21065.926530999997,
+      "title": "The Gods Themselves (4 of 7)"
+    },
+    {
+      "id": 4,
+      "start": 21065.926530999997,
+      "end": 26288.039183999997,
+      "title": "The Gods Themselves (5 of 7)"
+    },
+    {
+      "id": 5,
+      "start": 26288.039183999997,
+      "end": 31501.740407999998,
+      "title": "The Gods Themselves (6 of 7)"
+    },
+    {
+      "id": 6,
+      "start": 31501.740407999998,
+      "end": 36009.691428,
+      "title": "The Gods Themselves (7 of 7)"
+    }
+  ],
+  "title": "The Gods Themselves (1 of 7)",
+  "subtitle": null,
+  "authors": [
+    "Isaac Asimov"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Other"
+  ],
+  "publishedYear": "1973",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

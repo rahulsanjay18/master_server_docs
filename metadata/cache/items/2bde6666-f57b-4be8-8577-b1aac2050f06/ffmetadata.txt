@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Uprooted
+artist=Naomi Novik
+album_artist=Naomi Novik
+album=Uprooted
+genre=Fantasy
+date=2015
+comment=UNB: Read by Julia Emelin
+description=UNB: Read by Julia Emelin
+TRACKTOTAL=75

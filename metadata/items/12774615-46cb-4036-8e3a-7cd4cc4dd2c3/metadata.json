@@ -1,0 +1,646 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 14.923,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 14.923,
+      "end": 534.684,
+      "title": "Episode 1: Darkness into Light"
+    },
+    {
+      "id": 2,
+      "start": 534.684,
+      "end": 1005.654,
+      "title": "Episode 2: Emperor Daithi"
+    },
+    {
+      "id": 3,
+      "start": 1005.654,
+      "end": 1467.545,
+      "title": "Episode 3: The Mission"
+    },
+    {
+      "id": 4,
+      "start": 1467.545,
+      "end": 1996.216,
+      "title": "Episode 4: Red"
+    },
+    {
+      "id": 5,
+      "start": 1996.216,
+      "end": 2424.972,
+      "title": "Episode 5: Answers"
+    },
+    {
+      "id": 6,
+      "start": 2424.972,
+      "end": 2793.356,
+      "title": "Episode 6: Kaeda Jordilyn"
+    },
+    {
+      "id": 7,
+      "start": 2793.356,
+      "end": 3195.804,
+      "title": "Episode 7: My Jail Cell"
+    },
+    {
+      "id": 8,
+      "start": 3195.804,
+      "end": 3673.02,
+      "title": "Episode 8: The Official Deal"
+    },
+    {
+      "id": 9,
+      "start": 3673.02,
+      "end": 4156.157,
+      "title": "Episode 9: The Journey Begins"
+    },
+    {
+      "id": 10,
+      "start": 4156.157,
+      "end": 4560.95,
+      "title": "Episode 10: A Beautiful Fiancé"
+    },
+    {
+      "id": 11,
+      "start": 4560.95,
+      "end": 4976.633,
+      "title": "Episode 11: The City of Satume"
+    },
+    {
+      "id": 12,
+      "start": 4976.633,
+      "end": 5471.682,
+      "title": "Episode 12: Stop Horsin' Around"
+    },
+    {
+      "id": 13,
+      "start": 5471.682,
+      "end": 5826.761,
+      "title": "Episode 13: Freak-ing?"
+    },
+    {
+      "id": 14,
+      "start": 5826.761,
+      "end": 6354.573,
+      "title": "Episode 14: Medicine"
+    },
+    {
+      "id": 15,
+      "start": 6354.573,
+      "end": 6815.187,
+      "title": "Episode 15: Making Friends"
+    },
+    {
+      "id": 16,
+      "start": 6815.187,
+      "end": 7364.617,
+      "title": "Episode 16: An Emperor's Suspicions"
+    },
+    {
+      "id": 17,
+      "start": 7364.617,
+      "end": 7796.275,
+      "title": "Episode 17: All Aboard"
+    },
+    {
+      "id": 18,
+      "start": 7796.275,
+      "end": 8312.802,
+      "title": "Episode 18: Never Ending Questions"
+    },
+    {
+      "id": 19,
+      "start": 8312.802,
+      "end": 8717.316,
+      "title": "Episode 19: Fire vs. Water"
+    },
+    {
+      "id": 20,
+      "start": 8717.316,
+      "end": 9195.252,
+      "title": "Episode 20: Making It Weird"
+    },
+    {
+      "id": 21,
+      "start": 9195.252,
+      "end": 9611.632,
+      "title": "Episode 21: The Hidden Door"
+    },
+    {
+      "id": 22,
+      "start": 9611.632,
+      "end": 10095.21,
+      "title": "Episode 22: A Long Drop"
+    },
+    {
+      "id": 23,
+      "start": 10095.21,
+      "end": 10590.932,
+      "title": "Episode 23: The Explosion"
+    },
+    {
+      "id": 24,
+      "start": 10590.932,
+      "end": 11099.82,
+      "title": "Episode 24: Life-Saving Smack"
+    },
+    {
+      "id": 25,
+      "start": 11099.82,
+      "end": 11610.659,
+      "title": "Episode 25: Missing"
+    },
+    {
+      "id": 26,
+      "start": 11610.659,
+      "end": 12091.567,
+      "title": "Episode 26: Injured and Lost"
+    },
+    {
+      "id": 27,
+      "start": 12091.567,
+      "end": 12420.454,
+      "title": "Episode 27: Evil of All Evil"
+    },
+    {
+      "id": 28,
+      "start": 12420.454,
+      "end": 12899.597,
+      "title": "Episode 28: Arlador"
+    },
+    {
+      "id": 29,
+      "start": 12899.597,
+      "end": 13461.241,
+      "title": "Episode 29: A Distant Father"
+    },
+    {
+      "id": 30,
+      "start": 13461.241,
+      "end": 13876.274,
+      "title": "Episode 30: Decisions to Make"
+    },
+    {
+      "id": 31,
+      "start": 13876.274,
+      "end": 14342.855,
+      "title": "Episode 31: Searching"
+    },
+    {
+      "id": 32,
+      "start": 14342.855,
+      "end": 14808.879,
+      "title": "Episode 32: Out of the Caves"
+    },
+    {
+      "id": 33,
+      "start": 14808.879,
+      "end": 15198.649,
+      "title": "Episode 33: Worthy"
+    },
+    {
+      "id": 34,
+      "start": 15198.649,
+      "end": 15697.413,
+      "title": "Episode 34: Family Matters"
+    },
+    {
+      "id": 35,
+      "start": 15697.413,
+      "end": 16091.873,
+      "title": "Episode 35: The North, Part 1"
+    },
+    {
+      "id": 36,
+      "start": 16091.873,
+      "end": 16502.564,
+      "title": "Episode 36: The North, Part 2"
+    },
+    {
+      "id": 37,
+      "start": 16502.564,
+      "end": 17036.088,
+      "title": "Episode 37: New Quarters"
+    },
+    {
+      "id": 38,
+      "start": 17036.088,
+      "end": 17400.432,
+      "title": "Episode 38: Studying"
+    },
+    {
+      "id": 39,
+      "start": 17400.432,
+      "end": 17850.806,
+      "title": "Episode 39: The Allowance"
+    },
+    {
+      "id": 40,
+      "start": 17850.806,
+      "end": 18201.705,
+      "title": "Episode 40: Old Acquaintances"
+    },
+    {
+      "id": 41,
+      "start": 18201.705,
+      "end": 18612.744,
+      "title": "Episode 41: An Unexpected Meeting"
+    },
+    {
+      "id": 42,
+      "start": 18612.744,
+      "end": 19068.574,
+      "title": "Episode 42: Tea with Amelie"
+    },
+    {
+      "id": 43,
+      "start": 19068.574,
+      "end": 19444.296,
+      "title": "Episode 43: Henley's Strange Behavior"
+    },
+    {
+      "id": 44,
+      "start": 19444.296,
+      "end": 19845.025,
+      "title": "Episode 44: Learning to Dance"
+    },
+    {
+      "id": 45,
+      "start": 19845.025,
+      "end": 20250.352,
+      "title": "Episode 45: A Song"
+    },
+    {
+      "id": 46,
+      "start": 20250.352,
+      "end": 20715.447,
+      "title": "Episode 46: The Grand Ball"
+    },
+    {
+      "id": 47,
+      "start": 20715.447,
+      "end": 21103.963,
+      "title": "Episode 47: Aquilan's Spy"
+    },
+    {
+      "id": 48,
+      "start": 21103.963,
+      "end": 21510.799,
+      "title": "Episode 48: Opportunity"
+    },
+    {
+      "id": 49,
+      "start": 21510.799,
+      "end": 21978.936,
+      "title": "Episode 49: The Most Beautiful"
+    },
+    {
+      "id": 50,
+      "start": 21978.936,
+      "end": 22451.183,
+      "title": "Episode 50: Dancing with Him"
+    },
+    {
+      "id": 51,
+      "start": 22451.183,
+      "end": 22960.466,
+      "title": "Episode 51: Ladies of the Court"
+    },
+    {
+      "id": 52,
+      "start": 22960.466,
+      "end": 23475.6,
+      "title": "Episode 52: His Highness"
+    },
+    {
+      "id": 53,
+      "start": 23475.6,
+      "end": 24013.559,
+      "title": "Episode 53: A Brother's Offer"
+    },
+    {
+      "id": 54,
+      "start": 24013.559,
+      "end": 24420.117,
+      "title": "Episode 54: Unreliable Narrator"
+    },
+    {
+      "id": 55,
+      "start": 24420.117,
+      "end": 24929.562,
+      "title": "Episode 55: Warm Laughter"
+    },
+    {
+      "id": 56,
+      "start": 24929.562,
+      "end": 25405.617,
+      "title": "Episode 56: An Old Map"
+    },
+    {
+      "id": 57,
+      "start": 25405.617,
+      "end": 25945.991,
+      "title": "Episode 57: Henley's Tale, Part 1"
+    },
+    {
+      "id": 58,
+      "start": 25945.991,
+      "end": 26430.637,
+      "title": "Episode 58: Henley's Tale, Part 2"
+    },
+    {
+      "id": 59,
+      "start": 26430.637,
+      "end": 27048.566,
+      "title": "Episode 59: Henley's Tale, Part 3"
+    },
+    {
+      "id": 60,
+      "start": 27048.566,
+      "end": 27518.073,
+      "title": "Episode 60: Second Guessing"
+    },
+    {
+      "id": 61,
+      "start": 27518.073,
+      "end": 27977.549,
+      "title": "Episode 61: Practice"
+    },
+    {
+      "id": 62,
+      "start": 27977.549,
+      "end": 28440.601,
+      "title": "Episode 62: Training with Arlador"
+    },
+    {
+      "id": 63,
+      "start": 28440.601,
+      "end": 28866.919,
+      "title": "Episode 63: Another Explosion?!"
+    },
+    {
+      "id": 64,
+      "start": 28866.919,
+      "end": 29385.141,
+      "title": "Episode 64: Researching"
+    },
+    {
+      "id": 65,
+      "start": 29385.141,
+      "end": 29871.204,
+      "title": "Episode 65: When Daithi Changed"
+    },
+    {
+      "id": 66,
+      "start": 29871.204,
+      "end": 30274.929,
+      "title": "Episode 66: Behind the Stone"
+    },
+    {
+      "id": 67,
+      "start": 30274.929,
+      "end": 30672.919,
+      "title": "Episode 67: The Painting"
+    },
+    {
+      "id": 68,
+      "start": 30672.919,
+      "end": 31068.029,
+      "title": "Episode 68: Shattered Mask"
+    },
+    {
+      "id": 69,
+      "start": 31068.029,
+      "end": 31532.938,
+      "title": "Episode 69: Trust"
+    },
+    {
+      "id": 70,
+      "start": 31532.938,
+      "end": 31995.943,
+      "title": "Episode 70: The First Trial"
+    },
+    {
+      "id": 71,
+      "start": 31995.943,
+      "end": 32457.973,
+      "title": "Episode 71: Henley's Day Off, Part 1"
+    },
+    {
+      "id": 72,
+      "start": 32457.973,
+      "end": 32893.254,
+      "title": "Episode 72: Henley's Day Off, Part 2"
+    },
+    {
+      "id": 73,
+      "start": 32893.254,
+      "end": 33304.479,
+      "title": "Episode 73: Little Mouse"
+    },
+    {
+      "id": 74,
+      "start": 33304.479,
+      "end": 33809.396,
+      "title": "Episode 74: Heading into Town"
+    },
+    {
+      "id": 75,
+      "start": 33809.396,
+      "end": 34232.347,
+      "title": "Episode 75: Standing Ovation"
+    },
+    {
+      "id": 76,
+      "start": 34232.347,
+      "end": 34708.518,
+      "title": "Episode 76: Dropping Formalities"
+    },
+    {
+      "id": 77,
+      "start": 34708.518,
+      "end": 35200.432,
+      "title": "Episode 77: Friends"
+    },
+    {
+      "id": 78,
+      "start": 35200.432,
+      "end": 35672.145,
+      "title": "Episode 78: Lessons with Kaeda"
+    },
+    {
+      "id": 79,
+      "start": 35672.145,
+      "end": 36117.689,
+      "title": "Episode 79: Almost Shared"
+    },
+    {
+      "id": 80,
+      "start": 36117.689,
+      "end": 36593.024,
+      "title": "Episode 80: No More Games"
+    },
+    {
+      "id": 81,
+      "start": 36593.024,
+      "end": 37135.906,
+      "title": "Episode 81: Ungrateful!"
+    },
+    {
+      "id": 82,
+      "start": 37135.906,
+      "end": 37635.204,
+      "title": "Episode 82: Meelo"
+    },
+    {
+      "id": 83,
+      "start": 37635.204,
+      "end": 38068.209,
+      "title": "Episode 83: The Second Trial"
+    },
+    {
+      "id": 84,
+      "start": 38068.209,
+      "end": 38496.361,
+      "title": "Episode 84: Clueless Emperors"
+    },
+    {
+      "id": 85,
+      "start": 38496.361,
+      "end": 38929.807,
+      "title": "Episode 85: Gifts Galore"
+    },
+    {
+      "id": 86,
+      "start": 38929.807,
+      "end": 39372.123,
+      "title": "Episode 86: Can't Be Bought"
+    },
+    {
+      "id": 87,
+      "start": 39372.123,
+      "end": 39748.286,
+      "title": "Episode 87: Cousinly Advice"
+    },
+    {
+      "id": 88,
+      "start": 39748.286,
+      "end": 40172.003,
+      "title": "Episode 88: New Paths"
+    },
+    {
+      "id": 89,
+      "start": 40172.003,
+      "end": 40619.799,
+      "title": "Episode 89: Revenge Is Sweet"
+    },
+    {
+      "id": 90,
+      "start": 40619.799,
+      "end": 41123.161,
+      "title": "Episode 90: The Stew"
+    },
+    {
+      "id": 91,
+      "start": 41123.161,
+      "end": 41503.039,
+      "title": "Episode 91: The Third Trial"
+    },
+    {
+      "id": 92,
+      "start": 41503.039,
+      "end": 41983.483,
+      "title": "Episode 92: Her Threat"
+    },
+    {
+      "id": 93,
+      "start": 41983.483,
+      "end": 42424.661,
+      "title": "Episode 93: The Girl"
+    },
+    {
+      "id": 94,
+      "start": 42424.661,
+      "end": 42794.601,
+      "title": "Episode 94: Proof of Friendship"
+    },
+    {
+      "id": 95,
+      "start": 42794.601,
+      "end": 43251.267,
+      "title": "Episode 95: Kaeda's Dating Advice"
+    },
+    {
+      "id": 96,
+      "start": 43251.267,
+      "end": 43780.542,
+      "title": "Episode 96: Temperature Check"
+    },
+    {
+      "id": 97,
+      "start": 43780.542,
+      "end": 44309.074,
+      "title": "Episode 97: Something"
+    },
+    {
+      "id": 98,
+      "start": 44309.074,
+      "end": 44749.695,
+      "title": "Episode 98: Amelie's Challenge"
+    },
+    {
+      "id": 99,
+      "start": 44749.695,
+      "end": 45245.858,
+      "title": "Episode 99: Rehan & Amelie"
+    },
+    {
+      "id": 100,
+      "start": 45245.858,
+      "end": 45696.58,
+      "title": "Episode 100: Fire. Burn. Sear."
+    },
+    {
+      "id": 101,
+      "start": 45696.58,
+      "end": 46099.631,
+      "title": "Episode 101: Captured"
+    },
+    {
+      "id": 102,
+      "start": 46099.631,
+      "end": 46124.465,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Reborn as the Villain's Lackey, Vol. 01",
+  "subtitle": null,
+  "authors": [
+    "Nancy Wu"
+  ],
+  "narrators": [
+    "Sarah Roberts"
+  ],
+  "series": [
+    "Reborn as the Villain's Lackey #01"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "Jan 19, 2021 (08-23-22)",
+  "publishedDate": null,
+  "publisher": "Recorded Books",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

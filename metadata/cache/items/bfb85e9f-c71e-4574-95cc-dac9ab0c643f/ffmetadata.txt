@@ -1,0 +1,465 @@
+;FFMETADATA1
+title=The Old Curiosity Shop (Unabridged)
+artist=Charles Dickens
+album_artist=Charles Dickens
+album=The Old Curiosity Shop (Unabridged): The Audible Dickens Collection
+TIT3=The Audible Dickens Collection
+genre=Classics
+date=2018
+comment=In true Dickensian fashion, The Old Curiosity Shop offers a humorous yet devastating depiction of both the most honourable and most corrupt members of 19th-century English society. Hailed by Queen Victoria as being ‘interesting and cleverly written', The Old Curiosity Shop introduces listeners to the uniquely colourful characters of Nell Trent, her young friend, Kit, her doting grandfather and the evil moneylender to whom they all fall prey, Daniel Quilp.
+description=In true Dickensian fashion, The Old Curiosity Shop offers a humorous yet devastating depiction of both the most honourable and most corrupt members of 19th-century English society. Hailed by Queen Victoria as being ‘interesting and cleverly written', The Old Curiosity Shop introduces listeners to the uniquely colourful characters of Nell Trent, her young friend, Kit, her doting grandfather and the evil moneylender to whom they all fall prey, Daniel Quilp.
+composer=Jessie Buckley
+copyright=Audible Studios
+publisher=Audible Studios
+TRACKTOTAL=1
+grouping=The Audible Dickens Collection \#0
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=27531
+title=Opening Credits
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=27531
+END=2062046
+title=Chapter One
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2062046
+END=3086487
+title=Chapter Two
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3086487
+END=4254590
+title=Chapter Three
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4254590
+END=5496021
+title=Chapter Four
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5496021
+END=6461019
+title=Chapter Five
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6461019
+END=7827350
+title=Chapter Six
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7827350
+END=8789747
+title=Chapter Seven
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8789747
+END=10238950
+title=Chapter Eight
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10238950
+END=11861978
+title=Chapter Nine
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11861978
+END=12627354
+title=Chapter Ten
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12627354
+END=13784241
+title=Chapter Eleven
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13784241
+END=14839495
+title=Chapter Twelve
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14839495
+END=16153349
+title=Chapter Thirteen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16153349
+END=17063896
+title=Chapter Fourteen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17063896
+END=18363981
+title=Chapter Fifteen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18363981
+END=19148908
+title=Chapter Sixteen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19148908
+END=20226569
+title=Chapter Seventeen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20226569
+END=21303440
+title=Chapter Eighteen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21303440
+END=22786150
+title=Chapter Nineteen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22786150
+END=23448174
+title=Chapter Twenty
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23448174
+END=24798971
+title=Chapter Twenty-One
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24798971
+END=25516885
+title=Chapter Twenty-Two
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=25516885
+END=26920972
+title=Chapter Twenty-Three
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26920972
+END=27783895
+title=Chapter Twenty-Four
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=27783895
+END=28921370
+title=Chapter Twenty-Five
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=28921370
+END=29891221
+title=Chapter Twenty-Six
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=29891221
+END=31186360
+title=Chapter Twenty-Seven
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=31186360
+END=32088176
+title=Chapter Twenty-Eight
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=32088176
+END=33501597
+title=Chapter Twenty-Nine
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=33501597
+END=34286431
+title=Chapter Thirty
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=34286431
+END=35701060
+title=Chapter Thirty-One
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=35701060
+END=36451854
+title=Chapter Thirty-Two
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=36451854
+END=37845074
+title=Chapter Thirty-Three
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=37845074
+END=38652269
+title=Chapter Thirty-Four
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=38652269
+END=40059142
+title=Chapter Thirty-Five
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=40059142
+END=40781770
+title=Chapter Thirty-Six
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=40781770
+END=41786033
+title=Chapter Thirty-Seven
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=41786033
+END=43068633
+title=Chapter Thirty-Eight
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=43068633
+END=43914048
+title=Chapter Thirty-Nine
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=43914048
+END=44950749
+title=Chapter Forty
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=44950749
+END=45918858
+title=Chapter Forty-One
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=45918858
+END=47216969
+title=Chapter Forty-Two
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=47216969
+END=48064218
+title=Chapter Forty-Three
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=48064218
+END=49254310
+title=Chapter Forty-Four
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=49254310
+END=50168108
+title=Chapter Forty-Five
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=50168108
+END=51508131
+title=Chapter Forty-Six
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=51508131
+END=52289807
+title=Chapter Forty-Seven
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=52289807
+END=53591471
+title=Chapter Forty-Eight
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=53591471
+END=54426205
+title=Chapter Forty-Nine
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=54426205
+END=55748279
+title=Chapter Fifty
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=55748279
+END=56666047
+title=Chapter Fifty-One
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=56666047
+END=57997479
+title=Chapter Fifty-Two
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=57997479
+END=58827244
+title=Chapter Fifty-Three
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=58827244
+END=60152847
+title=Chapter Fifty-Four
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=60152847
+END=60886481
+title=Chapter Fifty-Five
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=60886481
+END=62229290
+title=Chapter Fifty-Six
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=62229290
+END=62964108
+title=Chapter Fifty-Seven
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=62964108
+END=64231592
+title=Chapter Fifty-Eight
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=64231592
+END=65058826
+title=Chapter Fifty-Nine
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=65058826
+END=66401380
+title=Chapter Sixty
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=66401380
+END=67195688
+title=Chapter Sixty-One
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=67195688
+END=68534759
+title=Chapter Sixty-Two
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=68534759
+END=69422968
+title=Chapter Sixty-Three
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=69422968
+END=70837365
+title=Chapter Sixty-Four
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=70837365
+END=71530527
+title=Chapter Sixty-Five
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=71530527
+END=73668156
+title=Chapter Sixty-Six
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=73668156
+END=74934015
+title=Chapter Sixty-Seven
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=74934015
+END=75842727
+title=Chapter Sixty-Eight
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=75842727
+END=77183447
+title=Chapter Sixty-Nine
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=77183447
+END=78023405
+title=Chapter Seventy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=78023405
+END=79199913
+title=Chapter Seventy-One
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=79199913
+END=80244114
+title=Chapter Seventy-Two
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=80244114
+END=81495114
+title=Chapter Seventy-Three
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=81495114
+END=81549390
+title=End Credits

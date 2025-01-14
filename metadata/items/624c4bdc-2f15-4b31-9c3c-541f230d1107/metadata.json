@@ -1,0 +1,112 @@
+{
+  "tags": [
+    "Science Fiction",
+    "Space Opera"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4624.857,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 4624.857,
+      "end": 9303.817,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 9303.817,
+      "end": 13972.096,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 13972.096,
+      "end": 18639.029,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 18639.029,
+      "end": 23306.425,
+      "title": "005"
+    },
+    {
+      "id": 5,
+      "start": 23306.425,
+      "end": 27938.249,
+      "title": "006"
+    },
+    {
+      "id": 6,
+      "start": 27938.249,
+      "end": 32201.154,
+      "title": "007"
+    },
+    {
+      "id": 7,
+      "start": 32201.154,
+      "end": 37242.578,
+      "title": "008"
+    },
+    {
+      "id": 8,
+      "start": 37242.578,
+      "end": 41917.59,
+      "title": "009"
+    },
+    {
+      "id": 9,
+      "start": 41917.59,
+      "end": 46557.82,
+      "title": "010"
+    },
+    {
+      "id": 10,
+      "start": 46557.82,
+      "end": 51226.052,
+      "title": "011"
+    },
+    {
+      "id": 11,
+      "start": 51226.052,
+      "end": 55858.758,
+      "title": "012"
+    },
+    {
+      "id": 12,
+      "start": 55858.758,
+      "end": 60149.85288,
+      "title": "013"
+    }
+  ],
+  "title": "Chapterhouse Dune",
+  "subtitle": null,
+  "authors": [
+    "Frank Herbert"
+  ],
+  "narrators": [
+    "Euan Morton",
+    "Katherine Kellgren",
+    "Scott Brick",
+    "Simon Vance"
+  ],
+  "series": [
+    "Dune #6"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2009-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "The desert planet Arrakis, called Dune, has been destroyed. Now, the Bene Gesserit, heirs to Dune's power, have colonized a green world - and are tuning it into a desert, mile by scorched mile. Chapterhouse Dune is the last book Frank Herbert wrote before his death: A stunning climax to the epic Dune legend that will live on forever.",
+  "isbn": null,
+  "asin": "B002V0K6D8",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,14 @@
+;FFMETADATA1
+title=Peter_Singer_-_Hegel_2021_Edition
+artist=Peter Singer
+album_artist=Peter Singer
+album=Peter_Singer_-_Hegel_2021_Edition: A Very Short Introduction
+TIT3=A Very Short Introduction
+genre=Politics & Social Sciences
+date=2021
+comment=Hegel is regarded as one of the most influential figures on modern political and intellectual development. After painting Hegel's life and times in broad strokes, Peter Singer goes on to tackle some of the more challenging aspects of Hegel's philosophy. Offering a broad discussion of Hegel's ideas and an account of his major works, Singer explains what have often been considered abstruse and obscure ideas in a clear and inviting manner.
+description=Hegel is regarded as one of the most influential figures on modern political and intellectual development. After painting Hegel's life and times in broad strokes, Peter Singer goes on to tackle some of the more challenging aspects of Hegel's philosophy. Offering a broad discussion of Hegel's ideas and an account of his major works, Singer explains what have often been considered abstruse and obscure ideas in a clear and inviting manner.
+composer=Christine Williams
+copyright=Tantor Audio
+publisher=Tantor Audio
+TRACKTOTAL=8

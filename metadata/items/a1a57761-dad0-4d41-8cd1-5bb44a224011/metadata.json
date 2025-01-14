@@ -1,0 +1,56 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7057.528163,
+      "title": "01: Mending the Green Pitcher"
+    },
+    {
+      "id": 1,
+      "start": 7057.528163,
+      "end": 13737.952653,
+      "title": "02: Palaces"
+    },
+    {
+      "id": 2,
+      "start": 13737.952653,
+      "end": 19118.628571,
+      "title": "03: The Dragon Council"
+    },
+    {
+      "id": 3,
+      "start": 19118.628571,
+      "end": 24882.128979,
+      "title": "04: Dolphin"
+    },
+    {
+      "id": 4,
+      "start": 24882.128979,
+      "end": 30153.064489,
+      "title": "05: Rejoining"
+    }
+  ],
+  "title": "The Other Wind",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "230mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2001",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Samuel Roukin",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

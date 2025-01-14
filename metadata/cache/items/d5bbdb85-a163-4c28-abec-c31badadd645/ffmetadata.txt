@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Pride and Prejudice (read by Emilia Fox)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Pride and Prejudice (read by Emilia Fox)
+date=1813
+TRACKTOTAL=61

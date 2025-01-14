@@ -1,0 +1,13 @@
+;FFMETADATA1
+title=The Complete Kane Chronicles
+artist=Rick Riordan
+album_artist=Rick Riordan
+album=The Complete Kane Chronicles
+genre=Juvenile Fiction
+date=2017
+comment=A collection fit for the (Egyptian) gods! All three books in the blockbuster Kane Chronicles trilogy are together at last! This series will be treasured by readers of all ages, whether they're experiencing Sadie and Carter's amazing adventures for the first time or are faithful fans eager to devour the saga all over again.
+description=A collection fit for the (Egyptian) gods! All three books in the blockbuster Kane Chronicles trilogy are together at last! This series will be treasured by readers of all ages, whether they're experiencing Sadie and Carter's amazing adventures for the first time or are faithful fans eager to devour the saga all over again.
+composer=Rick Riordan, Jesse Bernstein
+copyright=Disney Electronic Content
+publisher=Disney Electronic Content
+TRACKTOTAL=5

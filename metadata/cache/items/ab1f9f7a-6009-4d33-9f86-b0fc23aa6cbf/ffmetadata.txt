@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Dresden Files 03.0 - Grave Peril
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 03.0 - Grave Peril
+genre=Audiobook
+comment=Narrated By : James Marsters
+description=Narrated By : James Marsters
+composer=Jim Butcher
+TRACKTOTAL=47
+grouping=Jim Butcher - Dresden Files 22GB \#3

@@ -1,0 +1,333 @@
+;FFMETADATA1
+title=A Tale of Two Cities (Unabridged)
+artist=Charles Dickens, Simon Callow - introduction
+album_artist=Charles Dickens, Simon Callow - introduction
+album=A Tale of Two Cities (Unabridged): The Audible Dickens Collection
+TIT3=The Audible Dickens Collection
+genre=Classics, Literary Fiction, Historical Fiction
+date=2018
+comment=Exclusively from Audible. 'It was the best of times, it was the worst of times.' So begins Charles Dickens' most famous historical drama: a gripping tale of war, social injustice and the choice between darkness and light. After being unjustly imprisoned for 18 years, French doctor Manette is released from the Bastille jail in Paris and embarks upon a journey to London in the hope of finding the daughter he never met.
+description=Exclusively from Audible. 'It was the best of times, it was the worst of times.' So begins Charles Dickens' most famous historical drama: a gripping tale of war, social injustice and the choice between darkness and light. After being unjustly imprisoned for 18 years, French doctor Manette is released from the Bastille jail in Paris and embarks upon a journey to London in the hope of finding the daughter he never met.
+composer=Simon Callow
+copyright=Audible Studios
+publisher=Audible Studios
+TRACKTOTAL=1
+grouping=The Audible Dickens Collection \#0
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=35092
+title=Opening Credits
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=35092
+END=589653
+title=Introduction
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=589653
+END=602318
+title=Dedication
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=602318
+END=682724
+title=Preface
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=682724
+END=687839
+title=Book 1: Recalled to Life
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=687839
+END=1111698
+title=1. The Period
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1111698
+END=1880045
+title=2. The Mail
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1880045
+END=2564709
+title=3. The Night Shadows
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2564709
+END=4264061
+title=4. The Preparation
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4264061
+END=5958954
+title=5. The Wine-Shop
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5958954
+END=7754576
+title=6. The Shoemaker
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7754576
+END=7759436
+title=Book 2: The Golden Thread
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7759436
+END=8681819
+title=7. Five Years Later
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8681819
+END=9597218
+title=8. A Sight
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9597218
+END=11461618
+title=9. A Disappointment
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11461618
+END=12312466
+title=10. Congratulatory
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12312466
+END=13127347
+title=11. The Jackal
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13127347
+END=14892597
+title=12. Hundreds of People
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14892597
+END=16262690
+title=13. Monseigneur In Town
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16262690
+END=17005542
+title=14. Monseigneur in the Country
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17005542
+END=18697486
+title=15. The Gorgon’s Head
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18697486
+END=19864497
+title=16. Two Promises
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19864497
+END=20383090
+title=17. A Companion Picture
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20383090
+END=21373142
+title=18. The Fellow of Delicacy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21373142
+END=22172373
+title=19. The Fellow of No Delicacy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22172373
+END=23701452
+title=20. The Honest Tradesman
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23701452
+END=25393792
+title=21. Knitting
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=25393792
+END=26999567
+title=22. Still Knitting
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26999567
+END=27753705
+title=23. One Night
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=27753705
+END=28655730
+title=24. Nine Days
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=28655730
+END=29776649
+title=25. An Opinion
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=29776649
+END=30294036
+title=26. A Plea
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=30294036
+END=31959278
+title=27. Echoing Footsteps
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=31959278
+END=32754910
+title=28. The Sea Still Rises
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=32754910
+END=33834915
+title=29. Fire Rises
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=33834915
+END=35481837
+title=30. Drawn to the Loadstone Rock
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=35481837
+END=35487024
+title=Book 3: The Track of a Storm
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=35487024
+END=37210794
+title=31. In Secret
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=37210794
+END=38118972
+title=32. The Grindstone
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=38118972
+END=38802729
+title=33. The Shadow
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=38802729
+END=39603887
+title=34. Calm in Storm
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=39603887
+END=40482321
+title=35. The Wood-Sawyer
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=40482321
+END=41407102
+title=36. Triumph
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=41407102
+END=42110063
+title=37. A Knock at the Door
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=42110063
+END=43892936
+title=38. A Hand at Cards
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=43892936
+END=45798969
+title=39. The Game Made
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=45798969
+END=47928796
+title=40. The Substance of the Shadow
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=47928796
+END=48473791
+title=41. Dusk
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=48473791
+END=49673751
+title=42. Darkness
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=49673751
+END=51313706
+title=43. Fifty-Two
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=51313706
+END=53084482
+title=44. The Knitting Done
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=53084482
+END=53982067
+title=45. The Footsteps Die Out For Ever
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=53982067
+END=54038920
+title=End Credits

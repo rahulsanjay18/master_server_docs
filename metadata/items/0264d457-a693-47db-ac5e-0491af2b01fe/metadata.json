@@ -1,0 +1,1860 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 14.000385,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 14.000385,
+      "end": 1603.000771,
+      "title": "Chapter 1: Jason"
+    },
+    {
+      "id": 2,
+      "start": 1603.000771,
+      "end": 3134.000975,
+      "title": "Chapter 2: Jason"
+    },
+    {
+      "id": 3,
+      "start": 3134.000975,
+      "end": 4064.000998,
+      "title": "Chapter 3: Piper"
+    },
+    {
+      "id": 4,
+      "start": 4064.000998,
+      "end": 6810.001202,
+      "title": "Chapter 4: Piper"
+    },
+    {
+      "id": 5,
+      "start": 6810.001202,
+      "end": 7637.001587,
+      "title": "Chapter 5: Leo"
+    },
+    {
+      "id": 6,
+      "start": 7637.001587,
+      "end": 8594.00161,
+      "title": "Chapter 6: Leo"
+    },
+    {
+      "id": 7,
+      "start": 8594.00161,
+      "end": 9837.001814,
+      "title": "Chapter 7: Jason"
+    },
+    {
+      "id": 8,
+      "start": 9837.001814,
+      "end": 11205.001837,
+      "title": "Chapter 8: Jason"
+    },
+    {
+      "id": 9,
+      "start": 11205.001837,
+      "end": 12546.001859,
+      "title": "Chapter 9: Piper"
+    },
+    {
+      "id": 10,
+      "start": 12546.001859,
+      "end": 14400.001882,
+      "title": "Chapter 10: Piper"
+    },
+    {
+      "id": 11,
+      "start": 14400.001882,
+      "end": 15590.002268,
+      "title": "Chapter 11: Leo"
+    },
+    {
+      "id": 12,
+      "start": 15590.002268,
+      "end": 16904.00229,
+      "title": "Chapter 12: Leo"
+    },
+    {
+      "id": 13,
+      "start": 16904.00229,
+      "end": 17280.002494,
+      "title": "Chapter 13: Jason"
+    },
+    {
+      "id": 14,
+      "start": 17280.002494,
+      "end": 18595.002698,
+      "title": "Chapter 14: Jason"
+    },
+    {
+      "id": 15,
+      "start": 18595.002698,
+      "end": 19980.003084,
+      "title": "Chapter 15: Piper"
+    },
+    {
+      "id": 16,
+      "start": 19980.003084,
+      "end": 20458.003288,
+      "title": "Chapter 16: Piper"
+    },
+    {
+      "id": 17,
+      "start": 20458.003288,
+      "end": 21123.003673,
+      "title": "Chapter 17: Leo"
+    },
+    {
+      "id": 18,
+      "start": 21123.003673,
+      "end": 22533.003696,
+      "title": "Chapter 18: Leo"
+    },
+    {
+      "id": 19,
+      "start": 22533.003696,
+      "end": 22995.003719,
+      "title": "Chapter 19: Jason"
+    },
+    {
+      "id": 20,
+      "start": 22995.003719,
+      "end": 24849.003741,
+      "title": "Chapter 20: Jason"
+    },
+    {
+      "id": 21,
+      "start": 24849.003741,
+      "end": 25742.004127,
+      "title": "Chapter 21: Piper"
+    },
+    {
+      "id": 22,
+      "start": 25742.004127,
+      "end": 26989.004512,
+      "title": "Chapter 22: Piper"
+    },
+    {
+      "id": 23,
+      "start": 26989.004512,
+      "end": 27619.004535,
+      "title": "Chapter 23: Leo"
+    },
+    {
+      "id": 24,
+      "start": 27619.004535,
+      "end": 29260.004558,
+      "title": "Chapter 24: Leo"
+    },
+    {
+      "id": 25,
+      "start": 29260.004558,
+      "end": 30177.004943,
+      "title": "Chapter 25: Jason"
+    },
+    {
+      "id": 26,
+      "start": 30177.004943,
+      "end": 31843.005147,
+      "title": "Chapter 26: Jason"
+    },
+    {
+      "id": 27,
+      "start": 31843.005147,
+      "end": 32532.005533,
+      "title": "Chapter 27: Piper"
+    },
+    {
+      "id": 28,
+      "start": 32532.005533,
+      "end": 34790.27229,
+      "title": "Chapter 28: Piper"
+    },
+    {
+      "id": 29,
+      "start": 34790.27229,
+      "end": 36242.27229,
+      "title": "Chapter 29: Leo"
+    },
+    {
+      "id": 30,
+      "start": 36242.27229,
+      "end": 36858.27229,
+      "title": "Chapter 30: Leo"
+    },
+    {
+      "id": 31,
+      "start": 36858.27229,
+      "end": 37736.272313,
+      "title": "Chapter 31: Jason"
+    },
+    {
+      "id": 32,
+      "start": 37736.272313,
+      "end": 39191.272313,
+      "title": "Chapter 32: Jason"
+    },
+    {
+      "id": 33,
+      "start": 39191.272313,
+      "end": 40599.272313,
+      "title": "Chapter 33: Piper"
+    },
+    {
+      "id": 34,
+      "start": 40599.272313,
+      "end": 41582.272313,
+      "title": "Chapter 34: Piper"
+    },
+    {
+      "id": 35,
+      "start": 41582.272313,
+      "end": 42724.272335,
+      "title": "Chapter 35: Leo"
+    },
+    {
+      "id": 36,
+      "start": 42724.272335,
+      "end": 43665.272335,
+      "title": "Chapter 36: Leo"
+    },
+    {
+      "id": 37,
+      "start": 43665.272335,
+      "end": 44323.272335,
+      "title": "Chapter 37: Jason"
+    },
+    {
+      "id": 38,
+      "start": 44323.272335,
+      "end": 46132.272335,
+      "title": "Chapter 38: Jason"
+    },
+    {
+      "id": 39,
+      "start": 46132.272335,
+      "end": 47277.272358,
+      "title": "Chapter 39: Piper"
+    },
+    {
+      "id": 40,
+      "start": 47277.272358,
+      "end": 48021.272358,
+      "title": "Chapter 40: Piper"
+    },
+    {
+      "id": 41,
+      "start": 48021.272358,
+      "end": 48776.272358,
+      "title": "Chapter 41: Leo"
+    },
+    {
+      "id": 42,
+      "start": 48776.272358,
+      "end": 49831.272358,
+      "title": "Chapter 42: Leo"
+    },
+    {
+      "id": 43,
+      "start": 49831.272358,
+      "end": 50248.272358,
+      "title": "Chapter 43: Jason"
+    },
+    {
+      "id": 44,
+      "start": 50248.272358,
+      "end": 50854.272358,
+      "title": "Chapter 44: Jason"
+    },
+    {
+      "id": 45,
+      "start": 50854.272358,
+      "end": 51392.272381,
+      "title": "Chapter 45: Piper"
+    },
+    {
+      "id": 46,
+      "start": 51392.272381,
+      "end": 52084.272381,
+      "title": "Chapter 46: Piper"
+    },
+    {
+      "id": 47,
+      "start": 52084.272381,
+      "end": 52650.272381,
+      "title": "Chapter 47: Leo"
+    },
+    {
+      "id": 48,
+      "start": 52650.272381,
+      "end": 53624.272402999995,
+      "title": "Chapter 48: Leo"
+    },
+    {
+      "id": 49,
+      "start": 53624.272402999995,
+      "end": 54218.272402999995,
+      "title": "Chapter 49: Jason"
+    },
+    {
+      "id": 50,
+      "start": 54218.272402999995,
+      "end": 55513.272402999995,
+      "title": "Chapter 50: Jason"
+    },
+    {
+      "id": 51,
+      "start": 55513.272402999995,
+      "end": 56359.272402999995,
+      "title": "Chapter 51: Piper"
+    },
+    {
+      "id": 52,
+      "start": 56359.272402999995,
+      "end": 57575.272402999995,
+      "title": "Chapter 52: Piper"
+    },
+    {
+      "id": 53,
+      "start": 57575.272402999995,
+      "end": 58201.272425999996,
+      "title": "Chapter 53: Leo"
+    },
+    {
+      "id": 54,
+      "start": 58201.272425999996,
+      "end": 58360.272425999996,
+      "title": "Chapter 54: Leo"
+    },
+    {
+      "id": 55,
+      "start": 58360.272425999996,
+      "end": 59037.272425999996,
+      "title": "Chapter 55: Jason"
+    },
+    {
+      "id": 56,
+      "start": 59037.272425999996,
+      "end": 59698.272425999996,
+      "title": "Chapter 56: Jason"
+    },
+    {
+      "id": 57,
+      "start": 59698.272425999996,
+      "end": 59727.574784,
+      "title": "Outro"
+    },
+    {
+      "id": 58,
+      "start": 59727.574784,
+      "end": 59741.574784,
+      "title": "Intro"
+    },
+    {
+      "id": 59,
+      "start": 59741.574784,
+      "end": 60646.574807,
+      "title": "Chapter 1: Percy"
+    },
+    {
+      "id": 60,
+      "start": 60646.574807,
+      "end": 62241.574807,
+      "title": "Chapter 2: Percy"
+    },
+    {
+      "id": 61,
+      "start": 62241.574807,
+      "end": 63442.574807,
+      "title": "Chapter 3: Percy"
+    },
+    {
+      "id": 62,
+      "start": 63442.574807,
+      "end": 65154.574829,
+      "title": "Chapter 4: Percy"
+    },
+    {
+      "id": 63,
+      "start": 65154.574829,
+      "end": 65992.57482899999,
+      "title": "Chapter 5: Hazel"
+    },
+    {
+      "id": 64,
+      "start": 65992.57482899999,
+      "end": 67215.57482899999,
+      "title": "Chapter 6: Hazel"
+    },
+    {
+      "id": 65,
+      "start": 67215.57482899999,
+      "end": 68044.57485199999,
+      "title": "Chapter 7: Hazel"
+    },
+    {
+      "id": 66,
+      "start": 68044.57485199999,
+      "end": 69190.57485199999,
+      "title": "Chapter 8: Hazel"
+    },
+    {
+      "id": 67,
+      "start": 69190.57485199999,
+      "end": 70490.57485199999,
+      "title": "Chapter 9: Frank"
+    },
+    {
+      "id": 68,
+      "start": 70490.57485199999,
+      "end": 72179.57485199999,
+      "title": "Chapter 10: Frank"
+    },
+    {
+      "id": 69,
+      "start": 72179.57485199999,
+      "end": 72657.57485199999,
+      "title": "Chapter 11: Frank"
+    },
+    {
+      "id": 70,
+      "start": 72657.57485199999,
+      "end": 74002.57485199999,
+      "title": "Chapter 12: Frank"
+    },
+    {
+      "id": 71,
+      "start": 74002.57485199999,
+      "end": 75019.57485199999,
+      "title": "Chapter 13: Percy"
+    },
+    {
+      "id": 72,
+      "start": 75019.57485199999,
+      "end": 76581.57487499999,
+      "title": "Chapter 14: Percy"
+    },
+    {
+      "id": 73,
+      "start": 76581.57487499999,
+      "end": 77368.57487499999,
+      "title": "Chapter 15: Percy"
+    },
+    {
+      "id": 74,
+      "start": 77368.57487499999,
+      "end": 78080.57487499999,
+      "title": "Chapter 16: Percy"
+    },
+    {
+      "id": 75,
+      "start": 78080.57487499999,
+      "end": 79909.57487499999,
+      "title": "Chapter 17: Hazel"
+    },
+    {
+      "id": 76,
+      "start": 79909.57487499999,
+      "end": 80242.57487499999,
+      "title": "Chapter 18: Hazel"
+    },
+    {
+      "id": 77,
+      "start": 80242.57487499999,
+      "end": 80927.574897,
+      "title": "Chapter 19: Hazel"
+    },
+    {
+      "id": 78,
+      "start": 80927.574897,
+      "end": 81854.574897,
+      "title": "Chapter 20: Hazel"
+    },
+    {
+      "id": 79,
+      "start": 81854.574897,
+      "end": 82743.574897,
+      "title": "Chapter 21: Frank"
+    },
+    {
+      "id": 80,
+      "start": 82743.574897,
+      "end": 83672.574897,
+      "title": "Chapter 22: Frank"
+    },
+    {
+      "id": 81,
+      "start": 83672.574897,
+      "end": 83915.574897,
+      "title": "Chapter 23: Frank"
+    },
+    {
+      "id": 82,
+      "start": 83915.574897,
+      "end": 84328.57492,
+      "title": "Chapter 24: Frank"
+    },
+    {
+      "id": 83,
+      "start": 84328.57492,
+      "end": 85127.57492,
+      "title": "Chapter 25: Percy"
+    },
+    {
+      "id": 84,
+      "start": 85127.57492,
+      "end": 86068.57492,
+      "title": "Chapter 26: Percy"
+    },
+    {
+      "id": 85,
+      "start": 86068.57492,
+      "end": 87138.574943,
+      "title": "Chapter 27: Percy"
+    },
+    {
+      "id": 86,
+      "start": 87138.574943,
+      "end": 88002.574943,
+      "title": "Chapter 28: Percy"
+    },
+    {
+      "id": 87,
+      "start": 88002.574943,
+      "end": 89095.574943,
+      "title": "Chapter 29: Hazel"
+    },
+    {
+      "id": 88,
+      "start": 89095.574943,
+      "end": 90612.574943,
+      "title": "Chapter 30: Hazel"
+    },
+    {
+      "id": 89,
+      "start": 90612.574943,
+      "end": 91592.57496499999,
+      "title": "Chapter 31: Hazel"
+    },
+    {
+      "id": 90,
+      "start": 91592.57496499999,
+      "end": 92396.57496499999,
+      "title": "Chapter 32: Hazel"
+    },
+    {
+      "id": 91,
+      "start": 92396.57496499999,
+      "end": 93233.574965,
+      "title": "Chapter 33: Frank"
+    },
+    {
+      "id": 92,
+      "start": 93233.574965,
+      "end": 94477.574965,
+      "title": "Chapter 34: Frank"
+    },
+    {
+      "id": 93,
+      "start": 94477.574965,
+      "end": 95132.574965,
+      "title": "Chapter 35: Frank"
+    },
+    {
+      "id": 94,
+      "start": 95132.574965,
+      "end": 96497.574965,
+      "title": "Chapter 36: Frank"
+    },
+    {
+      "id": 95,
+      "start": 96497.574965,
+      "end": 97374.574965,
+      "title": "Chapter 37: Percy"
+    },
+    {
+      "id": 96,
+      "start": 97374.574965,
+      "end": 98350.57498800001,
+      "title": "Chapter 38: Percy"
+    },
+    {
+      "id": 97,
+      "start": 98350.57498800001,
+      "end": 98903.57498800001,
+      "title": "Chapter 39: Percy"
+    },
+    {
+      "id": 98,
+      "start": 98903.57498800001,
+      "end": 99405.57498800001,
+      "title": "Chapter 40: Percy"
+    },
+    {
+      "id": 99,
+      "start": 99405.57498800001,
+      "end": 100051.575011,
+      "title": "Chapter 41: Hazel"
+    },
+    {
+      "id": 100,
+      "start": 100051.575011,
+      "end": 100928.575011,
+      "title": "Chapter 42: Hazel"
+    },
+    {
+      "id": 101,
+      "start": 100928.575011,
+      "end": 101576.575011,
+      "title": "Chapter 43: Hazel"
+    },
+    {
+      "id": 102,
+      "start": 101576.575011,
+      "end": 102106.575011,
+      "title": "Chapter 44: Hazel"
+    },
+    {
+      "id": 103,
+      "start": 102106.575011,
+      "end": 102499.575011,
+      "title": "Chapter 45: Frank"
+    },
+    {
+      "id": 104,
+      "start": 102499.575011,
+      "end": 103253.575011,
+      "title": "Chapter 46: Frank"
+    },
+    {
+      "id": 105,
+      "start": 103253.575011,
+      "end": 104066.575011,
+      "title": "Chapter 47: Frank"
+    },
+    {
+      "id": 106,
+      "start": 104066.575011,
+      "end": 104344.575033,
+      "title": "Chapter 48: Frank"
+    },
+    {
+      "id": 107,
+      "start": 104344.575033,
+      "end": 105000.575033,
+      "title": "Chapter 49: Percy"
+    },
+    {
+      "id": 108,
+      "start": 105000.575033,
+      "end": 106206.575033,
+      "title": "Chapter 50: Percy"
+    },
+    {
+      "id": 109,
+      "start": 106206.575033,
+      "end": 107102.575033,
+      "title": "Chapter 51: Percy"
+    },
+    {
+      "id": 110,
+      "start": 107102.575033,
+      "end": 108228.575056,
+      "title": "Chapter 52: Percy"
+    },
+    {
+      "id": 111,
+      "start": 108228.575056,
+      "end": 108263.293968,
+      "title": "Outro"
+    },
+    {
+      "id": 112,
+      "start": 108263.293968,
+      "end": 108285.293968,
+      "title": "Intro"
+    },
+    {
+      "id": 113,
+      "start": 108285.293968,
+      "end": 109210.293968,
+      "title": "Chapter 1: Annabeth"
+    },
+    {
+      "id": 114,
+      "start": 109210.293968,
+      "end": 109788.293968,
+      "title": "Chapter 2: Annabeth"
+    },
+    {
+      "id": 115,
+      "start": 109788.293968,
+      "end": 111030.293968,
+      "title": "Chapter 3: Annabeth"
+    },
+    {
+      "id": 116,
+      "start": 111030.293968,
+      "end": 112641.293968,
+      "title": "Chapter 4: Annabeth"
+    },
+    {
+      "id": 117,
+      "start": 112641.293968,
+      "end": 113950.293968,
+      "title": "Chapter 5: Leo"
+    },
+    {
+      "id": 118,
+      "start": 113950.293968,
+      "end": 115148.293968,
+      "title": "Chapter 6: Leo"
+    },
+    {
+      "id": 119,
+      "start": 115148.293968,
+      "end": 116604.293968,
+      "title": "Chapter 7: Leo"
+    },
+    {
+      "id": 120,
+      "start": 116604.293968,
+      "end": 117316.293968,
+      "title": "Chapter 8: Leo"
+    },
+    {
+      "id": 121,
+      "start": 117316.293968,
+      "end": 118536.293968,
+      "title": "Chapter 9: Piper"
+    },
+    {
+      "id": 122,
+      "start": 118536.293968,
+      "end": 120269.293968,
+      "title": "Chapter 10: Piper"
+    },
+    {
+      "id": 123,
+      "start": 120269.293968,
+      "end": 121478.293968,
+      "title": "Chapter 11: Piper"
+    },
+    {
+      "id": 124,
+      "start": 121478.293968,
+      "end": 122377.293968,
+      "title": "Chapter 12: Piper"
+    },
+    {
+      "id": 125,
+      "start": 122377.293968,
+      "end": 123739.293968,
+      "title": "Chapter 13: Percy"
+    },
+    {
+      "id": 126,
+      "start": 123739.293968,
+      "end": 124437.293968,
+      "title": "Chapter 14: Percy"
+    },
+    {
+      "id": 127,
+      "start": 124437.293968,
+      "end": 126385.293968,
+      "title": "Chapter 15: Percy"
+    },
+    {
+      "id": 128,
+      "start": 126385.293968,
+      "end": 127273.293968,
+      "title": "Chapter 16: Percy"
+    },
+    {
+      "id": 129,
+      "start": 127273.293968,
+      "end": 129235.293968,
+      "title": "Chapter 17: Annabeth"
+    },
+    {
+      "id": 130,
+      "start": 129235.293968,
+      "end": 130528.293968,
+      "title": "Chapter 18: Annabeth"
+    },
+    {
+      "id": 131,
+      "start": 130528.293968,
+      "end": 131040.293968,
+      "title": "Chapter 19: Annabeth"
+    },
+    {
+      "id": 132,
+      "start": 131040.293968,
+      "end": 131987.29396799998,
+      "title": "Chapter 20: Annabeth"
+    },
+    {
+      "id": 133,
+      "start": 131987.29396799998,
+      "end": 132900.29396799998,
+      "title": "Chapter 21: Leo"
+    },
+    {
+      "id": 134,
+      "start": 132900.29396799998,
+      "end": 134131.29396799998,
+      "title": "Chapter 22: Leo"
+    },
+    {
+      "id": 135,
+      "start": 134131.29396799998,
+      "end": 135533.29396799998,
+      "title": "Chapter 23: Leo"
+    },
+    {
+      "id": 136,
+      "start": 135533.29396799998,
+      "end": 136770.157075,
+      "title": "Chapter 24: Leo"
+    },
+    {
+      "id": 137,
+      "start": 136770.157075,
+      "end": 138187.157075,
+      "title": "Chapter 25: Piper"
+    },
+    {
+      "id": 138,
+      "start": 138187.157075,
+      "end": 139387.157075,
+      "title": "Chapter 26: Piper"
+    },
+    {
+      "id": 139,
+      "start": 139387.157075,
+      "end": 140577.157075,
+      "title": "Chapter 27: Piper"
+    },
+    {
+      "id": 140,
+      "start": 140577.157075,
+      "end": 141429.157075,
+      "title": "Chapter 28: Piper"
+    },
+    {
+      "id": 141,
+      "start": 141429.157075,
+      "end": 142708.157075,
+      "title": "Chapter 29: Percy"
+    },
+    {
+      "id": 142,
+      "start": 142708.157075,
+      "end": 143348.157075,
+      "title": "Chapter 30: Percy"
+    },
+    {
+      "id": 143,
+      "start": 143348.157075,
+      "end": 144942.157075,
+      "title": "Chapter 31: Percy"
+    },
+    {
+      "id": 144,
+      "start": 144942.157075,
+      "end": 145864.157075,
+      "title": "Chapter 32: Percy"
+    },
+    {
+      "id": 145,
+      "start": 145864.157075,
+      "end": 146726.157075,
+      "title": "Chapter 33: Annabeth"
+    },
+    {
+      "id": 146,
+      "start": 146726.157075,
+      "end": 147969.157075,
+      "title": "Chapter 34: Annabeth"
+    },
+    {
+      "id": 147,
+      "start": 147969.157075,
+      "end": 148563.157075,
+      "title": "Chapter 35: Annabeth"
+    },
+    {
+      "id": 148,
+      "start": 148563.157075,
+      "end": 149545.157075,
+      "title": "Chapter 36: Annabeth"
+    },
+    {
+      "id": 149,
+      "start": 149545.157075,
+      "end": 150656.157075,
+      "title": "Chapter 37: Leo"
+    },
+    {
+      "id": 150,
+      "start": 150656.157075,
+      "end": 151509.157075,
+      "title": "Chapter 38: Leo"
+    },
+    {
+      "id": 151,
+      "start": 151509.157075,
+      "end": 152068.157075,
+      "title": "Chapter 39: Leo"
+    },
+    {
+      "id": 152,
+      "start": 152068.157075,
+      "end": 152893.157075,
+      "title": "Chapter 40: Leo"
+    },
+    {
+      "id": 153,
+      "start": 152893.157075,
+      "end": 153675.157075,
+      "title": "Chapter 41: Piper"
+    },
+    {
+      "id": 154,
+      "start": 153675.157075,
+      "end": 154587.157075,
+      "title": "Chapter 42: Piper"
+    },
+    {
+      "id": 155,
+      "start": 154587.157075,
+      "end": 154874.157075,
+      "title": "Chapter 43: Piper"
+    },
+    {
+      "id": 156,
+      "start": 154874.157075,
+      "end": 155711.157075,
+      "title": "Chapter 44: Piper"
+    },
+    {
+      "id": 157,
+      "start": 155711.157075,
+      "end": 156876.157075,
+      "title": "Chapter 45: Percy"
+    },
+    {
+      "id": 158,
+      "start": 156876.157075,
+      "end": 157504.157075,
+      "title": "Chapter 46: Percy"
+    },
+    {
+      "id": 159,
+      "start": 157504.157075,
+      "end": 157924.157075,
+      "title": "Chapter 47: Percy"
+    },
+    {
+      "id": 160,
+      "start": 157924.157075,
+      "end": 159387.157075,
+      "title": "Chapter 48: Percy"
+    },
+    {
+      "id": 161,
+      "start": 159387.157075,
+      "end": 160462.157075,
+      "title": "Chapter 49: Annabeth"
+    },
+    {
+      "id": 162,
+      "start": 160462.157075,
+      "end": 161372.157075,
+      "title": "Chapter 50: Annabeth"
+    },
+    {
+      "id": 163,
+      "start": 161372.157075,
+      "end": 162209.157075,
+      "title": "Chapter 51: Annabeth"
+    },
+    {
+      "id": 164,
+      "start": 162209.157075,
+      "end": 162775.157075,
+      "title": "Chapter 52: Leo"
+    },
+    {
+      "id": 165,
+      "start": 162775.157075,
+      "end": 162809.479093,
+      "title": "Outro"
+    },
+    {
+      "id": 166,
+      "start": 162809.479093,
+      "end": 162819.497642,
+      "title": "Intro"
+    },
+    {
+      "id": 167,
+      "start": 162819.497642,
+      "end": 163913.479093,
+      "title": "Chapter 1: Hazel"
+    },
+    {
+      "id": 168,
+      "start": 163913.479093,
+      "end": 164172.479093,
+      "title": "Chapter 2: Hazel"
+    },
+    {
+      "id": 169,
+      "start": 164172.479093,
+      "end": 164601.479093,
+      "title": "Chapter 3: Hazel"
+    },
+    {
+      "id": 170,
+      "start": 164601.479093,
+      "end": 166425.479093,
+      "title": "Chapter 4: Hazel"
+    },
+    {
+      "id": 171,
+      "start": 166425.479093,
+      "end": 166787.479093,
+      "title": "Chapter 5: Annabeth"
+    },
+    {
+      "id": 172,
+      "start": 166787.479093,
+      "end": 167569.479093,
+      "title": "Chapter 6: Annabeth"
+    },
+    {
+      "id": 173,
+      "start": 167569.479093,
+      "end": 168439.479093,
+      "title": "Chapter 7: Annabeth"
+    },
+    {
+      "id": 174,
+      "start": 168439.479093,
+      "end": 168905.479093,
+      "title": "Chapter 8: Annabeth"
+    },
+    {
+      "id": 175,
+      "start": 168905.479093,
+      "end": 169787.479093,
+      "title": "Chapter 9: Leo"
+    },
+    {
+      "id": 176,
+      "start": 169787.479093,
+      "end": 170876.479093,
+      "title": "Chapter 10: Leo"
+    },
+    {
+      "id": 177,
+      "start": 170876.479093,
+      "end": 172039.479093,
+      "title": "Chapter 11: Leo"
+    },
+    {
+      "id": 178,
+      "start": 172039.479093,
+      "end": 173178.479093,
+      "title": "Chapter 12: Leo"
+    },
+    {
+      "id": 179,
+      "start": 173178.479093,
+      "end": 173603.479093,
+      "title": "Chapter 13: Percy"
+    },
+    {
+      "id": 180,
+      "start": 173603.479093,
+      "end": 174234.479093,
+      "title": "Chapter 14: Percy"
+    },
+    {
+      "id": 181,
+      "start": 174234.479093,
+      "end": 174880.479093,
+      "title": "Chapter 15: Percy"
+    },
+    {
+      "id": 182,
+      "start": 174880.479093,
+      "end": 175164.479093,
+      "title": "Chapter 16: Percy"
+    },
+    {
+      "id": 183,
+      "start": 175164.479093,
+      "end": 176204.479093,
+      "title": "Chapter 17: Frank"
+    },
+    {
+      "id": 184,
+      "start": 176204.479093,
+      "end": 177074.479093,
+      "title": "Chapter 18: Frank"
+    },
+    {
+      "id": 185,
+      "start": 177074.479093,
+      "end": 178177.479093,
+      "title": "Chapter 19: Frank"
+    },
+    {
+      "id": 186,
+      "start": 178177.479093,
+      "end": 179887.479093,
+      "title": "Chapter 20: Frank"
+    },
+    {
+      "id": 187,
+      "start": 179887.479093,
+      "end": 180585.479093,
+      "title": "Chapter 21: Annabeth"
+    },
+    {
+      "id": 188,
+      "start": 180585.479093,
+      "end": 181541.479093,
+      "title": "Chapter 22: Annabeth"
+    },
+    {
+      "id": 189,
+      "start": 181541.479093,
+      "end": 182079.479093,
+      "title": "Chapter 23: Annabeth"
+    },
+    {
+      "id": 190,
+      "start": 182079.479093,
+      "end": 182920.479093,
+      "title": "Chapter 24: Annabeth"
+    },
+    {
+      "id": 191,
+      "start": 182920.479093,
+      "end": 183660.479093,
+      "title": "Chapter 25: Hazel"
+    },
+    {
+      "id": 192,
+      "start": 183660.479093,
+      "end": 185026.479093,
+      "title": "Chapter 26: Hazel"
+    },
+    {
+      "id": 193,
+      "start": 185026.479093,
+      "end": 186412.479093,
+      "title": "Chapter 27: Hazel"
+    },
+    {
+      "id": 194,
+      "start": 186412.479093,
+      "end": 187459.479093,
+      "title": "Chapter 28: Hazel"
+    },
+    {
+      "id": 195,
+      "start": 187459.479093,
+      "end": 188123.479093,
+      "title": "Chapter 29: Percy"
+    },
+    {
+      "id": 196,
+      "start": 188123.479093,
+      "end": 188473.479093,
+      "title": "Chapter 30: Percy"
+    },
+    {
+      "id": 197,
+      "start": 188473.479093,
+      "end": 188917.479093,
+      "title": "Chapter 31: Percy"
+    },
+    {
+      "id": 198,
+      "start": 188917.479093,
+      "end": 189387.479093,
+      "title": "Chapter 32: Percy"
+    },
+    {
+      "id": 199,
+      "start": 189387.479093,
+      "end": 190697.479093,
+      "title": "Chapter 33: Jason"
+    },
+    {
+      "id": 200,
+      "start": 190697.479093,
+      "end": 191837.479093,
+      "title": "Chapter 34: Jason"
+    },
+    {
+      "id": 201,
+      "start": 191837.479093,
+      "end": 193146.479093,
+      "title": "Chapter 35: Jason"
+    },
+    {
+      "id": 202,
+      "start": 193146.479093,
+      "end": 194725.889887,
+      "title": "Chapter 36: Jason"
+    },
+    {
+      "id": 203,
+      "start": 194725.889887,
+      "end": 195206.889887,
+      "title": "Chapter 37: Annabeth"
+    },
+    {
+      "id": 204,
+      "start": 195206.889887,
+      "end": 195611.889887,
+      "title": "Chapter 38: Annabeth"
+    },
+    {
+      "id": 205,
+      "start": 195611.889887,
+      "end": 196691.889887,
+      "title": "Chapter 39: Annabeth"
+    },
+    {
+      "id": 206,
+      "start": 196691.889887,
+      "end": 197183.889887,
+      "title": "Chapter 40: Annabeth"
+    },
+    {
+      "id": 207,
+      "start": 197183.889887,
+      "end": 197975.889887,
+      "title": "Chapter 41: Piper"
+    },
+    {
+      "id": 208,
+      "start": 197975.889887,
+      "end": 198352.889887,
+      "title": "Chapter 42: Piper"
+    },
+    {
+      "id": 209,
+      "start": 198352.889887,
+      "end": 199483.889887,
+      "title": "Chapter 43: Piper"
+    },
+    {
+      "id": 210,
+      "start": 199483.889887,
+      "end": 200319.889887,
+      "title": "Chapter 44: Piper"
+    },
+    {
+      "id": 211,
+      "start": 200319.889887,
+      "end": 200678.889887,
+      "title": "Chapter 45: Percy"
+    },
+    {
+      "id": 212,
+      "start": 200678.889887,
+      "end": 201344.889887,
+      "title": "Chapter 46: Percy"
+    },
+    {
+      "id": 213,
+      "start": 201344.889887,
+      "end": 201760.889887,
+      "title": "Chapter 47: Percy"
+    },
+    {
+      "id": 214,
+      "start": 201760.889887,
+      "end": 202419.889887,
+      "title": "Chapter 48: Percy"
+    },
+    {
+      "id": 215,
+      "start": 202419.889887,
+      "end": 203392.889887,
+      "title": "Chapter 49: Leo"
+    },
+    {
+      "id": 216,
+      "start": 203392.889887,
+      "end": 204044.889887,
+      "title": "Chapter 50: Leo"
+    },
+    {
+      "id": 217,
+      "start": 204044.889887,
+      "end": 205867.889887,
+      "title": "Chapter 51: Leo"
+    },
+    {
+      "id": 218,
+      "start": 205867.889887,
+      "end": 206872.889887,
+      "title": "Chapter 52: Leo"
+    },
+    {
+      "id": 219,
+      "start": 206872.889887,
+      "end": 207325.889887,
+      "title": "Chapter 53: Annabeth"
+    },
+    {
+      "id": 220,
+      "start": 207325.889887,
+      "end": 207805.889887,
+      "title": "Chapter 54: Annabeth"
+    },
+    {
+      "id": 221,
+      "start": 207805.889887,
+      "end": 208063.889887,
+      "title": "Chapter 55: Annabeth"
+    },
+    {
+      "id": 222,
+      "start": 208063.889887,
+      "end": 208709.889887,
+      "title": "Chapter 56: Annabeth"
+    },
+    {
+      "id": 223,
+      "start": 208709.889887,
+      "end": 209342.889887,
+      "title": "Chapter 57: Jason"
+    },
+    {
+      "id": 224,
+      "start": 209342.889887,
+      "end": 210258.889887,
+      "title": "Chapter 58: Jason"
+    },
+    {
+      "id": 225,
+      "start": 210258.889887,
+      "end": 210756.889887,
+      "title": "Chapter 59: Jason"
+    },
+    {
+      "id": 226,
+      "start": 210756.889887,
+      "end": 211385.889887,
+      "title": "Chapter 60: Jason"
+    },
+    {
+      "id": 227,
+      "start": 211385.889887,
+      "end": 211900.889887,
+      "title": "Chapter 61: Percy"
+    },
+    {
+      "id": 228,
+      "start": 211900.889887,
+      "end": 212868.889887,
+      "title": "Chapter 62: Percy"
+    },
+    {
+      "id": 229,
+      "start": 212868.889887,
+      "end": 213355.889887,
+      "title": "Chapter 63: Percy"
+    },
+    {
+      "id": 230,
+      "start": 213355.889887,
+      "end": 214141.889887,
+      "title": "Chapter 64: Percy"
+    },
+    {
+      "id": 231,
+      "start": 214141.889887,
+      "end": 215800.889887,
+      "title": "Chapter 65: Frank"
+    },
+    {
+      "id": 232,
+      "start": 215800.889887,
+      "end": 217243.889887,
+      "title": "Chapter 66: Frank"
+    },
+    {
+      "id": 233,
+      "start": 217243.889887,
+      "end": 218077.889887,
+      "title": "Chapter 67: Frank"
+    },
+    {
+      "id": 234,
+      "start": 218077.889887,
+      "end": 218437.889887,
+      "title": "Chapter 68: Frank"
+    },
+    {
+      "id": 235,
+      "start": 218437.889887,
+      "end": 218936.889887,
+      "title": "Chapter 69: Annabeth"
+    },
+    {
+      "id": 236,
+      "start": 218936.889887,
+      "end": 219462.889887,
+      "title": "Chapter 70: Annabeth"
+    },
+    {
+      "id": 237,
+      "start": 219462.889887,
+      "end": 219859.889887,
+      "title": "Chapter 71: Annabeth"
+    },
+    {
+      "id": 238,
+      "start": 219859.889887,
+      "end": 220108.889887,
+      "title": "Chapter 72: Annabeth"
+    },
+    {
+      "id": 239,
+      "start": 220108.889887,
+      "end": 221370.889887,
+      "title": "Chapter 73: Hazel"
+    },
+    {
+      "id": 240,
+      "start": 221370.889887,
+      "end": 222552.889887,
+      "title": "Chapter 74: Hazel"
+    },
+    {
+      "id": 241,
+      "start": 222552.889887,
+      "end": 223379.889887,
+      "title": "Chapter 75: Hazel"
+    },
+    {
+      "id": 242,
+      "start": 223379.889887,
+      "end": 224119.889887,
+      "title": "Chapter 76: Hazel"
+    },
+    {
+      "id": 243,
+      "start": 224119.889887,
+      "end": 225462.889887,
+      "title": "Chapter 77: Percy"
+    },
+    {
+      "id": 244,
+      "start": 225462.889887,
+      "end": 225914.889887,
+      "title": "Chapter 78: Percy"
+    },
+    {
+      "id": 245,
+      "start": 225914.889887,
+      "end": 225927.450839,
+      "title": "Outro"
+    },
+    {
+      "id": 246,
+      "start": 225927.450839,
+      "end": 225976.451111,
+      "title": "Intro"
+    },
+    {
+      "id": 247,
+      "start": 225976.451111,
+      "end": 226731.45131499998,
+      "title": "Chapter 1: Jason"
+    },
+    {
+      "id": 248,
+      "start": 226731.45131499998,
+      "end": 228800.45095199998,
+      "title": "Chapter 2: Jason"
+    },
+    {
+      "id": 249,
+      "start": 228800.45095199998,
+      "end": 229601.451111,
+      "title": "Chapter 3: Jason"
+    },
+    {
+      "id": 250,
+      "start": 229601.451111,
+      "end": 230996.451202,
+      "title": "Chapter 4: Jason"
+    },
+    {
+      "id": 251,
+      "start": 230996.451202,
+      "end": 232156.45133799998,
+      "title": "Chapter 5: Reyna"
+    },
+    {
+      "id": 252,
+      "start": 232156.45133799998,
+      "end": 233287.45095199998,
+      "title": "Chapter 6: Reyna"
+    },
+    {
+      "id": 253,
+      "start": 233287.45095199998,
+      "end": 234286.450862,
+      "title": "Chapter 7: Reyna"
+    },
+    {
+      "id": 254,
+      "start": 234286.450862,
+      "end": 234840.451179,
+      "title": "Chapter 8: Reyna"
+    },
+    {
+      "id": 255,
+      "start": 234840.451179,
+      "end": 236305.451293,
+      "title": "Chapter 9: Leo"
+    },
+    {
+      "id": 256,
+      "start": 236305.451293,
+      "end": 237150.451202,
+      "title": "Chapter 10: Leo"
+    },
+    {
+      "id": 257,
+      "start": 237150.451202,
+      "end": 238371.450907,
+      "title": "Chapter 11: Leo"
+    },
+    {
+      "id": 258,
+      "start": 238371.450907,
+      "end": 239763.45131499998,
+      "title": "Chapter 12: Leo"
+    },
+    {
+      "id": 259,
+      "start": 239763.45131499998,
+      "end": 240666.45093,
+      "title": "Chapter 13: Nico"
+    },
+    {
+      "id": 260,
+      "start": 240666.45093,
+      "end": 242022.450907,
+      "title": "Chapter 14: Nico"
+    },
+    {
+      "id": 261,
+      "start": 242022.450907,
+      "end": 242736.450907,
+      "title": "Chapter 15: Nico"
+    },
+    {
+      "id": 262,
+      "start": 242736.450907,
+      "end": 243501.450862,
+      "title": "Chapter 16: Nico"
+    },
+    {
+      "id": 263,
+      "start": 243501.450862,
+      "end": 244605.450862,
+      "title": "Chapter 17: Piper"
+    },
+    {
+      "id": 264,
+      "start": 244605.450862,
+      "end": 245803.451315,
+      "title": "Chapter 18: Piper"
+    },
+    {
+      "id": 265,
+      "start": 245803.451315,
+      "end": 246937.451088,
+      "title": "Chapter 19: Piper"
+    },
+    {
+      "id": 266,
+      "start": 246937.451088,
+      "end": 248023.45095199998,
+      "title": "Chapter 20: Piper"
+    },
+    {
+      "id": 267,
+      "start": 248023.45095199998,
+      "end": 248734.451088,
+      "title": "Chapter 21: Reyna"
+    },
+    {
+      "id": 268,
+      "start": 248734.451088,
+      "end": 249498.451315,
+      "title": "Chapter 22: Reyna"
+    },
+    {
+      "id": 269,
+      "start": 249498.451315,
+      "end": 250314.451202,
+      "title": "Chapter 23: Reyna"
+    },
+    {
+      "id": 270,
+      "start": 250314.451202,
+      "end": 251801.450884,
+      "title": "Chapter 24: Reyna"
+    },
+    {
+      "id": 271,
+      "start": 251801.450884,
+      "end": 252537.45102,
+      "title": "Chapter 25: Jason"
+    },
+    {
+      "id": 272,
+      "start": 252537.45102,
+      "end": 253199.450884,
+      "title": "Chapter 26: Jason"
+    },
+    {
+      "id": 273,
+      "start": 253199.450884,
+      "end": 253904.45102,
+      "title": "Chapter 27: Jason"
+    },
+    {
+      "id": 274,
+      "start": 253904.45102,
+      "end": 254817.114694,
+      "title": "Chapter 28: Jason"
+    },
+    {
+      "id": 275,
+      "start": 254817.114694,
+      "end": 256161.114966,
+      "title": "Chapter 29: Nico"
+    },
+    {
+      "id": 276,
+      "start": 256161.114966,
+      "end": 256753.114989,
+      "title": "Chapter 30: Nico"
+    },
+    {
+      "id": 277,
+      "start": 256753.114989,
+      "end": 257252.115057,
+      "title": "Chapter 31: Nico"
+    },
+    {
+      "id": 278,
+      "start": 257252.115057,
+      "end": 257781.11480699998,
+      "title": "Chapter 32: Nico"
+    },
+    {
+      "id": 279,
+      "start": 257781.11480699998,
+      "end": 258872.11480699998,
+      "title": "Chapter 33: Leo"
+    },
+    {
+      "id": 280,
+      "start": 258872.11480699998,
+      "end": 259895.114943,
+      "title": "Chapter 34: Leo"
+    },
+    {
+      "id": 281,
+      "start": 259895.114943,
+      "end": 261265.114717,
+      "title": "Chapter 35: Leo"
+    },
+    {
+      "id": 282,
+      "start": 261265.114717,
+      "end": 262508.115079,
+      "title": "Chapter 36: Leo"
+    },
+    {
+      "id": 283,
+      "start": 262508.115079,
+      "end": 263493.11517,
+      "title": "Chapter 37: Reyna"
+    },
+    {
+      "id": 284,
+      "start": 263493.11517,
+      "end": 264202.11483,
+      "title": "Chapter 38: Reyna"
+    },
+    {
+      "id": 285,
+      "start": 264202.11483,
+      "end": 264961.11494299996,
+      "title": "Chapter 39: Reyna"
+    },
+    {
+      "id": 286,
+      "start": 264961.11494299996,
+      "end": 265149.115148,
+      "title": "Chapter 40: Reyna"
+    },
+    {
+      "id": 287,
+      "start": 265149.115148,
+      "end": 266327.114739,
+      "title": "Chapter 41: Piper"
+    },
+    {
+      "id": 288,
+      "start": 266327.114739,
+      "end": 267605.114853,
+      "title": "Chapter 42: Piper"
+    },
+    {
+      "id": 289,
+      "start": 267605.114853,
+      "end": 268282.11505699996,
+      "title": "Chapter 43: Piper"
+    },
+    {
+      "id": 290,
+      "start": 268282.11505699996,
+      "end": 268644.114694,
+      "title": "Chapter 44: Piper"
+    },
+    {
+      "id": 291,
+      "start": 268644.114694,
+      "end": 269588.114717,
+      "title": "Chapter 45: Nico"
+    },
+    {
+      "id": 292,
+      "start": 269588.114717,
+      "end": 270022.11487499997,
+      "title": "Chapter 46: Nico"
+    },
+    {
+      "id": 293,
+      "start": 270022.11487499997,
+      "end": 270702.11498899997,
+      "title": "Chapter 47: Nico"
+    },
+    {
+      "id": 294,
+      "start": 270702.11498899997,
+      "end": 270992.115125,
+      "title": "Chapter 48: Nico"
+    },
+    {
+      "id": 295,
+      "start": 270992.115125,
+      "end": 271820.114921,
+      "title": "Chapter 49: Jason"
+    },
+    {
+      "id": 296,
+      "start": 271820.114921,
+      "end": 272725.114807,
+      "title": "Chapter 50: Jason"
+    },
+    {
+      "id": 297,
+      "start": 272725.114807,
+      "end": 273546.11483,
+      "title": "Chapter 51: Jason"
+    },
+    {
+      "id": 298,
+      "start": 273546.11483,
+      "end": 274157.114785,
+      "title": "Chapter 52: Jason"
+    },
+    {
+      "id": 299,
+      "start": 274157.114785,
+      "end": 274646.115193,
+      "title": "Chapter 53: Nico"
+    },
+    {
+      "id": 300,
+      "start": 274646.115193,
+      "end": 275329.11483,
+      "title": "Chapter 54: Nico"
+    },
+    {
+      "id": 301,
+      "start": 275329.11483,
+      "end": 275742.115011,
+      "title": "Chapter 55: Nico"
+    },
+    {
+      "id": 302,
+      "start": 275742.115011,
+      "end": 276498.11483,
+      "title": "Chapter 56: Nico"
+    },
+    {
+      "id": 303,
+      "start": 276498.11483,
+      "end": 277307.115079,
+      "title": "Chapter 57: Piper"
+    },
+    {
+      "id": 304,
+      "start": 277307.115079,
+      "end": 277880.11496599996,
+      "title": "Chapter 58: Leo"
+    },
+    {
+      "id": 305,
+      "start": 277880.11496599996,
+      "end": 277913.86426299997,
+      "title": "Outro"
+    }
+  ],
+  "title": "Heroes of Olympus",
+  "subtitle": null,
+  "authors": [
+    "Rick Riordan"
+  ],
+  "narrators": [
+    "Joshua Swanson"
+  ],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2010",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Chapter 1 to 28",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

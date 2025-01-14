@@ -1,0 +1,98 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3457.671837,
+      "title": "Lavinia 01"
+    },
+    {
+      "id": 1,
+      "start": 3457.671837,
+      "end": 6646.465306,
+      "title": "Lavinia 02"
+    },
+    {
+      "id": 2,
+      "start": 6646.465306,
+      "end": 9862.426122,
+      "title": "Lavinia 03"
+    },
+    {
+      "id": 3,
+      "start": 9862.426122,
+      "end": 12939.363265,
+      "title": "Lavinia 04"
+    },
+    {
+      "id": 4,
+      "start": 12939.363265,
+      "end": 16413.33551,
+      "title": "Lavinia 05"
+    },
+    {
+      "id": 5,
+      "start": 16413.33551,
+      "end": 19803.533061000002,
+      "title": "Lavinia 06"
+    },
+    {
+      "id": 6,
+      "start": 19803.533061000002,
+      "end": 23022.053877000002,
+      "title": "Lavinia 07"
+    },
+    {
+      "id": 7,
+      "start": 23022.053877000002,
+      "end": 26319.124897,
+      "title": "Lavinia 08"
+    },
+    {
+      "id": 8,
+      "start": 26319.124897,
+      "end": 29375.634285,
+      "title": "Lavinia 09"
+    },
+    {
+      "id": 9,
+      "start": 29375.634285,
+      "end": 32691.017142,
+      "title": "Lavinia 10"
+    },
+    {
+      "id": 10,
+      "start": 32691.017142,
+      "end": 35355.219591,
+      "title": "Lavinia 11"
+    },
+    {
+      "id": 11,
+      "start": 35355.219591,
+      "end": 36206.106122,
+      "title": "Lavinia 12"
+    }
+  ],
+  "title": "Lavinia",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "280mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2008",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Jill Fox",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,123 @@
+{
+  "tags": [
+    "Fantasy",
+    "Science Fiction",
+    "Space Opera"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4441.048,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 4441.048,
+      "end": 8580.934,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 8580.934,
+      "end": 12934.211,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 12934.211,
+      "end": 17429.78,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 17429.78,
+      "end": 21609,
+      "title": "005"
+    },
+    {
+      "id": 5,
+      "start": 21609,
+      "end": 26086.922,
+      "title": "006"
+    },
+    {
+      "id": 6,
+      "start": 26086.922,
+      "end": 30213.619,
+      "title": "007"
+    },
+    {
+      "id": 7,
+      "start": 30213.619,
+      "end": 34752.609,
+      "title": "008"
+    },
+    {
+      "id": 8,
+      "start": 34752.609,
+      "end": 39095.019,
+      "title": "009"
+    },
+    {
+      "id": 9,
+      "start": 39095.019,
+      "end": 43338.28,
+      "title": "010"
+    },
+    {
+      "id": 10,
+      "start": 43338.28,
+      "end": 47613.352,
+      "title": "011"
+    },
+    {
+      "id": 11,
+      "start": 47613.352,
+      "end": 52081.893,
+      "title": "012"
+    },
+    {
+      "id": 12,
+      "start": 52081.893,
+      "end": 56354.876,
+      "title": "013"
+    },
+    {
+      "id": 13,
+      "start": 56354.876,
+      "end": 60824.903,
+      "title": "014"
+    },
+    {
+      "id": 14,
+      "start": 60824.903,
+      "end": 65063.938322,
+      "title": "015"
+    }
+  ],
+  "title": "Heretics of Dune",
+  "subtitle": "Dune Chronicles, Book 5",
+  "authors": [
+    "Frank Herbert"
+  ],
+  "narrators": [
+    "Simon Vance",
+    "Scott Brick"
+  ],
+  "series": [
+    "Dune #5"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2008-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "Heretics of Dune, the fifth installment in Frank Herbert's classic sci-fi series. On Arrakis, now called Rakis, known to legend as Dune, 10 times 10 centuries have passed. The planet is becoming desert again. The Lost Ones are returning home from the far reaches of space. The great sandworms are dying, and the Bene Gesserit and the Bene Tleilax struggle to direct the future of Dune. The children of Dune's children awaken as from a dream, wielding the new power of a heresy called love.",
+  "isbn": null,
+  "asin": "B002V1CA2M",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

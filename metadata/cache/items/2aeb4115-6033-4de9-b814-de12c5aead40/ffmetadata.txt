@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Brave New World
+artist=Ursula K. Le Guin, Aldous Huxley
+album_artist=Ursula K. Le Guin, Aldous Huxley
+album=Brave New World
+genre=Audio Book
+date=1973
+comment=Read by Joe Peck
+description=Read by Joe Peck
+TRACKTOTAL=1

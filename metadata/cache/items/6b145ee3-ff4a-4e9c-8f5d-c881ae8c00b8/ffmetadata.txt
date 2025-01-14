@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Pride and Prejudice (read by Michael Page)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Pride and Prejudice (read by Michael Page)
+date=1813
+TRACKTOTAL=61

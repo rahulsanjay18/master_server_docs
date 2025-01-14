@@ -1,0 +1,1089 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 15.185,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 15.185,
+      "end": 26.888,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 26.888,
+      "end": 520.034,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 520.034,
+      "end": 772.202,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 772.202,
+      "end": 1019.866,
+      "title": "005"
+    },
+    {
+      "id": 5,
+      "start": 1019.866,
+      "end": 1185.192,
+      "title": "006"
+    },
+    {
+      "id": 6,
+      "start": 1185.192,
+      "end": 2003.185,
+      "title": "007"
+    },
+    {
+      "id": 7,
+      "start": 2003.185,
+      "end": 2609.458,
+      "title": "008"
+    },
+    {
+      "id": 8,
+      "start": 2609.458,
+      "end": 2862.509,
+      "title": "009"
+    },
+    {
+      "id": 9,
+      "start": 2862.509,
+      "end": 3150.251,
+      "title": "010"
+    },
+    {
+      "id": 10,
+      "start": 3150.251,
+      "end": 5549.336,
+      "title": "011"
+    },
+    {
+      "id": 11,
+      "start": 5549.336,
+      "end": 7034.02,
+      "title": "012"
+    },
+    {
+      "id": 12,
+      "start": 7034.02,
+      "end": 8673.767,
+      "title": "013"
+    },
+    {
+      "id": 13,
+      "start": 8673.767,
+      "end": 8925.193,
+      "title": "014"
+    },
+    {
+      "id": 14,
+      "start": 8925.193,
+      "end": 9043.893,
+      "title": "015"
+    },
+    {
+      "id": 15,
+      "start": 9043.893,
+      "end": 10271.393,
+      "title": "016"
+    },
+    {
+      "id": 16,
+      "start": 10271.393,
+      "end": 13609.679,
+      "title": "017"
+    },
+    {
+      "id": 17,
+      "start": 13609.679,
+      "end": 14265.225,
+      "title": "018"
+    },
+    {
+      "id": 18,
+      "start": 14265.225,
+      "end": 16933.244,
+      "title": "019"
+    },
+    {
+      "id": 19,
+      "start": 16933.244,
+      "end": 16947.408,
+      "title": "020"
+    },
+    {
+      "id": 20,
+      "start": 16947.408,
+      "end": 17655.292,
+      "title": "021"
+    },
+    {
+      "id": 21,
+      "start": 17655.292,
+      "end": 17745.571,
+      "title": "022"
+    },
+    {
+      "id": 22,
+      "start": 17745.571,
+      "end": 19282.361,
+      "title": "023"
+    },
+    {
+      "id": 23,
+      "start": 19282.361,
+      "end": 19370.364,
+      "title": "024"
+    },
+    {
+      "id": 24,
+      "start": 19370.364,
+      "end": 19795.382,
+      "title": "025"
+    },
+    {
+      "id": 25,
+      "start": 19795.382,
+      "end": 20454.365,
+      "title": "026"
+    },
+    {
+      "id": 26,
+      "start": 20454.365,
+      "end": 21431.275,
+      "title": "027"
+    },
+    {
+      "id": 27,
+      "start": 21431.275,
+      "end": 25430.68,
+      "title": "028"
+    },
+    {
+      "id": 28,
+      "start": 25430.68,
+      "end": 29332.003,
+      "title": "029"
+    },
+    {
+      "id": 29,
+      "start": 29332.003,
+      "end": 30606.407,
+      "title": "030"
+    },
+    {
+      "id": 30,
+      "start": 30606.407,
+      "end": 33857.944,
+      "title": "031"
+    },
+    {
+      "id": 31,
+      "start": 33857.944,
+      "end": 37991.7,
+      "title": "032"
+    },
+    {
+      "id": 32,
+      "start": 37991.7,
+      "end": 39413.876,
+      "title": "033"
+    },
+    {
+      "id": 33,
+      "start": 39413.876,
+      "end": 39429.804989,
+      "title": "Closing"
+    },
+    {
+      "id": 34,
+      "start": 39429.804989,
+      "end": 40976.48598899999,
+      "title": "001"
+    },
+    {
+      "id": 35,
+      "start": 40976.48598899999,
+      "end": 42378.691989,
+      "title": "002"
+    },
+    {
+      "id": 36,
+      "start": 42378.691989,
+      "end": 45798.712989,
+      "title": "003"
+    },
+    {
+      "id": 37,
+      "start": 45798.712989,
+      "end": 47658.073989,
+      "title": "004"
+    },
+    {
+      "id": 38,
+      "start": 47658.073989,
+      "end": 50710.893989,
+      "title": "005"
+    },
+    {
+      "id": 39,
+      "start": 50710.893989,
+      "end": 54422.882989,
+      "title": "006"
+    },
+    {
+      "id": 40,
+      "start": 54422.882989,
+      "end": 60245.703989,
+      "title": "007"
+    },
+    {
+      "id": 41,
+      "start": 60245.703989,
+      "end": 61731.223989,
+      "title": "008"
+    },
+    {
+      "id": 42,
+      "start": 61731.223989,
+      "end": 63290.304989,
+      "title": "009"
+    },
+    {
+      "id": 43,
+      "start": 63290.304989,
+      "end": 65336.864988999994,
+      "title": "010"
+    },
+    {
+      "id": 44,
+      "start": 65336.864988999994,
+      "end": 69897.728989,
+      "title": "011"
+    },
+    {
+      "id": 45,
+      "start": 69897.728989,
+      "end": 73516.233989,
+      "title": "012"
+    },
+    {
+      "id": 46,
+      "start": 73516.233989,
+      "end": 77593.517989,
+      "title": "013"
+    },
+    {
+      "id": 47,
+      "start": 77593.517989,
+      "end": 81985.618989,
+      "title": "014"
+    },
+    {
+      "id": 48,
+      "start": 81985.618989,
+      "end": 82001.548481,
+      "title": "Closing"
+    },
+    {
+      "id": 49,
+      "start": 82001.548481,
+      "end": 86550.615481,
+      "title": "001"
+    },
+    {
+      "id": 50,
+      "start": 86550.615481,
+      "end": 90812.17448100001,
+      "title": "002"
+    },
+    {
+      "id": 51,
+      "start": 90812.17448100001,
+      "end": 92434.459481,
+      "title": "003"
+    },
+    {
+      "id": 52,
+      "start": 92434.459481,
+      "end": 94273.433481,
+      "title": "004"
+    },
+    {
+      "id": 53,
+      "start": 94273.433481,
+      "end": 94792.631481,
+      "title": "005"
+    },
+    {
+      "id": 54,
+      "start": 94792.631481,
+      "end": 95880.11448100001,
+      "title": "006"
+    },
+    {
+      "id": 55,
+      "start": 95880.11448100001,
+      "end": 96874.718481,
+      "title": "007"
+    },
+    {
+      "id": 56,
+      "start": 96874.718481,
+      "end": 97832.77348100001,
+      "title": "008"
+    },
+    {
+      "id": 57,
+      "start": 97832.77348100001,
+      "end": 98609.759481,
+      "title": "009"
+    },
+    {
+      "id": 58,
+      "start": 98609.759481,
+      "end": 100718.596481,
+      "title": "010"
+    },
+    {
+      "id": 59,
+      "start": 100718.596481,
+      "end": 105447.804481,
+      "title": "011"
+    },
+    {
+      "id": 60,
+      "start": 105447.804481,
+      "end": 109790.586481,
+      "title": "012"
+    },
+    {
+      "id": 61,
+      "start": 109790.586481,
+      "end": 113692.42048100001,
+      "title": "013"
+    },
+    {
+      "id": 62,
+      "start": 113692.42048100001,
+      "end": 117565.555481,
+      "title": "014"
+    },
+    {
+      "id": 63,
+      "start": 117565.555481,
+      "end": 121337.869481,
+      "title": "015"
+    },
+    {
+      "id": 64,
+      "start": 121337.869481,
+      "end": 122934.519481,
+      "title": "016"
+    },
+    {
+      "id": 65,
+      "start": 122934.519481,
+      "end": 123496.72148100002,
+      "title": "017"
+    },
+    {
+      "id": 66,
+      "start": 123496.72148100002,
+      "end": 123512.65088500001,
+      "title": "Closing"
+    },
+    {
+      "id": 67,
+      "start": 123512.65088500001,
+      "end": 125459.36488500002,
+      "title": "001"
+    },
+    {
+      "id": 68,
+      "start": 125459.36488500002,
+      "end": 126641.67888500002,
+      "title": "002"
+    },
+    {
+      "id": 69,
+      "start": 126641.67888500002,
+      "end": 126865.054885,
+      "title": "003"
+    },
+    {
+      "id": 70,
+      "start": 126865.054885,
+      "end": 127478.71188500001,
+      "title": "004"
+    },
+    {
+      "id": 71,
+      "start": 127478.71188500001,
+      "end": 129190.671885,
+      "title": "005"
+    },
+    {
+      "id": 72,
+      "start": 129190.671885,
+      "end": 129674.01888500001,
+      "title": "006"
+    },
+    {
+      "id": 73,
+      "start": 129674.01888500001,
+      "end": 131083.376885,
+      "title": "007"
+    },
+    {
+      "id": 74,
+      "start": 131083.376885,
+      "end": 131096.333885,
+      "title": "008"
+    },
+    {
+      "id": 75,
+      "start": 131096.333885,
+      "end": 134394.77488500002,
+      "title": "009"
+    },
+    {
+      "id": 76,
+      "start": 134394.77488500002,
+      "end": 136788.101885,
+      "title": "010"
+    },
+    {
+      "id": 77,
+      "start": 136788.101885,
+      "end": 141370.65288500002,
+      "title": "011"
+    },
+    {
+      "id": 78,
+      "start": 141370.65288500002,
+      "end": 145911.314885,
+      "title": "012"
+    },
+    {
+      "id": 79,
+      "start": 145911.314885,
+      "end": 148778.83988500002,
+      "title": "013"
+    },
+    {
+      "id": 80,
+      "start": 148778.83988500002,
+      "end": 152619.699885,
+      "title": "014"
+    },
+    {
+      "id": 81,
+      "start": 152619.699885,
+      "end": 153931.022885,
+      "title": "015"
+    },
+    {
+      "id": 82,
+      "start": 153931.022885,
+      "end": 157686.014885,
+      "title": "016"
+    },
+    {
+      "id": 83,
+      "start": 157686.014885,
+      "end": 158353.03088500001,
+      "title": "017"
+    },
+    {
+      "id": 84,
+      "start": 158353.03088500001,
+      "end": 162967.950885,
+      "title": "018"
+    },
+    {
+      "id": 85,
+      "start": 162967.950885,
+      "end": 162983.88027300002,
+      "title": "Closing"
+    },
+    {
+      "id": 86,
+      "start": 162983.88027300002,
+      "end": 164025.99127300002,
+      "title": "001"
+    },
+    {
+      "id": 87,
+      "start": 164025.99127300002,
+      "end": 168704.905273,
+      "title": "002"
+    },
+    {
+      "id": 88,
+      "start": 168704.905273,
+      "end": 170956.962273,
+      "title": "003"
+    },
+    {
+      "id": 89,
+      "start": 170956.962273,
+      "end": 172773.50527300002,
+      "title": "004"
+    },
+    {
+      "id": 90,
+      "start": 172773.50527300002,
+      "end": 174628.780273,
+      "title": "005"
+    },
+    {
+      "id": 91,
+      "start": 174628.780273,
+      "end": 176076.451273,
+      "title": "006"
+    },
+    {
+      "id": 92,
+      "start": 176076.451273,
+      "end": 179736.89127300002,
+      "title": "007"
+    },
+    {
+      "id": 93,
+      "start": 179736.89127300002,
+      "end": 183138.24327300003,
+      "title": "008"
+    },
+    {
+      "id": 94,
+      "start": 183138.24327300003,
+      "end": 185619.85227300003,
+      "title": "009"
+    },
+    {
+      "id": 95,
+      "start": 185619.85227300003,
+      "end": 188005.145273,
+      "title": "010"
+    },
+    {
+      "id": 96,
+      "start": 188005.145273,
+      "end": 190717.329273,
+      "title": "011"
+    },
+    {
+      "id": 97,
+      "start": 190717.329273,
+      "end": 193493.13527300002,
+      "title": "012"
+    },
+    {
+      "id": 98,
+      "start": 193493.13527300002,
+      "end": 194846.951273,
+      "title": "013"
+    },
+    {
+      "id": 99,
+      "start": 194846.951273,
+      "end": 197869.261273,
+      "title": "014"
+    },
+    {
+      "id": 100,
+      "start": 197869.261273,
+      "end": 200712.63727300003,
+      "title": "015"
+    },
+    {
+      "id": 101,
+      "start": 200712.63727300003,
+      "end": 204410.090273,
+      "title": "016"
+    },
+    {
+      "id": 102,
+      "start": 204410.090273,
+      "end": 204426.01941100002,
+      "title": "Closing"
+    },
+    {
+      "id": 103,
+      "start": 204426.01941100002,
+      "end": 208157.419411,
+      "title": "001"
+    },
+    {
+      "id": 104,
+      "start": 208157.419411,
+      "end": 212108.898411,
+      "title": "002"
+    },
+    {
+      "id": 105,
+      "start": 212108.898411,
+      "end": 215876.47541100002,
+      "title": "003"
+    },
+    {
+      "id": 106,
+      "start": 215876.47541100002,
+      "end": 219855.86441100002,
+      "title": "004"
+    },
+    {
+      "id": 107,
+      "start": 219855.86441100002,
+      "end": 223692.40441100002,
+      "title": "005"
+    },
+    {
+      "id": 108,
+      "start": 223692.40441100002,
+      "end": 227141.58941100002,
+      "title": "006"
+    },
+    {
+      "id": 109,
+      "start": 227141.58941100002,
+      "end": 227158.12241100002,
+      "title": "007"
+    },
+    {
+      "id": 110,
+      "start": 227158.12241100002,
+      "end": 230668.60841100002,
+      "title": "008"
+    },
+    {
+      "id": 111,
+      "start": 230668.60841100002,
+      "end": 233322.23041100003,
+      "title": "009"
+    },
+    {
+      "id": 112,
+      "start": 233322.23041100003,
+      "end": 234742.50241100002,
+      "title": "010"
+    },
+    {
+      "id": 113,
+      "start": 234742.50241100002,
+      "end": 239467.39141100002,
+      "title": "011"
+    },
+    {
+      "id": 114,
+      "start": 239467.39141100002,
+      "end": 241012.169411,
+      "title": "012"
+    },
+    {
+      "id": 115,
+      "start": 241012.169411,
+      "end": 243663.841411,
+      "title": "013"
+    },
+    {
+      "id": 116,
+      "start": 243663.841411,
+      "end": 246238.841411,
+      "title": "014"
+    },
+    {
+      "id": 117,
+      "start": 246238.841411,
+      "end": 246254.770794,
+      "title": "Closing"
+    },
+    {
+      "id": 118,
+      "start": 246254.770794,
+      "end": 249415.65579400002,
+      "title": "001"
+    },
+    {
+      "id": 119,
+      "start": 249415.65579400002,
+      "end": 252473.398794,
+      "title": "002"
+    },
+    {
+      "id": 120,
+      "start": 252473.398794,
+      "end": 253122.118794,
+      "title": "003"
+    },
+    {
+      "id": 121,
+      "start": 253122.118794,
+      "end": 255374.03579400002,
+      "title": "004"
+    },
+    {
+      "id": 122,
+      "start": 255374.03579400002,
+      "end": 259116.999794,
+      "title": "005"
+    },
+    {
+      "id": 123,
+      "start": 259116.999794,
+      "end": 263543.883794,
+      "title": "006"
+    },
+    {
+      "id": 124,
+      "start": 263543.883794,
+      "end": 264516.939794,
+      "title": "007"
+    },
+    {
+      "id": 125,
+      "start": 264516.939794,
+      "end": 265571.310794,
+      "title": "008"
+    },
+    {
+      "id": 126,
+      "start": 265571.310794,
+      "end": 269576.660794,
+      "title": "009"
+    },
+    {
+      "id": 127,
+      "start": 269576.660794,
+      "end": 271114.09979400004,
+      "title": "010"
+    },
+    {
+      "id": 128,
+      "start": 271114.09979400004,
+      "end": 273511.560794,
+      "title": "011"
+    },
+    {
+      "id": 129,
+      "start": 273511.560794,
+      "end": 275900.104794,
+      "title": "012"
+    },
+    {
+      "id": 130,
+      "start": 275900.104794,
+      "end": 278207.09979400004,
+      "title": "013"
+    },
+    {
+      "id": 131,
+      "start": 278207.09979400004,
+      "end": 282106.519794,
+      "title": "014"
+    },
+    {
+      "id": 132,
+      "start": 282106.519794,
+      "end": 284310.928794,
+      "title": "015"
+    },
+    {
+      "id": 133,
+      "start": 284310.928794,
+      "end": 285429.155794,
+      "title": "016"
+    },
+    {
+      "id": 134,
+      "start": 285429.155794,
+      "end": 287646.428794,
+      "title": "017"
+    },
+    {
+      "id": 135,
+      "start": 287646.428794,
+      "end": 287662.35864,
+      "title": "Closing"
+    },
+    {
+      "id": 136,
+      "start": 287662.35864,
+      "end": 291192.39464,
+      "title": "001"
+    },
+    {
+      "id": 137,
+      "start": 291192.39464,
+      "end": 293049.20164,
+      "title": "002"
+    },
+    {
+      "id": 138,
+      "start": 293049.20164,
+      "end": 296678.38764,
+      "title": "003"
+    },
+    {
+      "id": 139,
+      "start": 296678.38764,
+      "end": 298240.67264,
+      "title": "004"
+    },
+    {
+      "id": 140,
+      "start": 298240.67264,
+      "end": 301513.43264,
+      "title": "005"
+    },
+    {
+      "id": 141,
+      "start": 301513.43264,
+      "end": 305597.63664,
+      "title": "006"
+    },
+    {
+      "id": 142,
+      "start": 305597.63664,
+      "end": 306666.35864,
+      "title": "007"
+    },
+    {
+      "id": 143,
+      "start": 306666.35864,
+      "end": 309743.97764,
+      "title": "008"
+    },
+    {
+      "id": 144,
+      "start": 309743.97764,
+      "end": 311773.40164,
+      "title": "009"
+    },
+    {
+      "id": 145,
+      "start": 311773.40164,
+      "end": 314944.87564,
+      "title": "010"
+    },
+    {
+      "id": 146,
+      "start": 314944.87564,
+      "end": 316874.12964,
+      "title": "011"
+    },
+    {
+      "id": 147,
+      "start": 316874.12964,
+      "end": 319548.83564,
+      "title": "012"
+    },
+    {
+      "id": 148,
+      "start": 319548.83564,
+      "end": 322186.43663999997,
+      "title": "013"
+    },
+    {
+      "id": 149,
+      "start": 322186.43663999997,
+      "end": 324897.08764,
+      "title": "014"
+    },
+    {
+      "id": 150,
+      "start": 324897.08764,
+      "end": 328756.70863999997,
+      "title": "015"
+    },
+    {
+      "id": 151,
+      "start": 328756.70863999997,
+      "end": 328772.638186,
+      "title": "Closing"
+    },
+    {
+      "id": 152,
+      "start": 328772.638186,
+      "end": 331487.561186,
+      "title": "001"
+    },
+    {
+      "id": 153,
+      "start": 331487.561186,
+      "end": 334063.304186,
+      "title": "002"
+    },
+    {
+      "id": 154,
+      "start": 334063.304186,
+      "end": 337676.933186,
+      "title": "003"
+    },
+    {
+      "id": 155,
+      "start": 337676.933186,
+      "end": 342084.777186,
+      "title": "004"
+    },
+    {
+      "id": 156,
+      "start": 342084.777186,
+      "end": 343648.966186,
+      "title": "005"
+    },
+    {
+      "id": 157,
+      "start": 343648.966186,
+      "end": 346101.783186,
+      "title": "006"
+    },
+    {
+      "id": 158,
+      "start": 346101.783186,
+      "end": 348573.686186,
+      "title": "007"
+    },
+    {
+      "id": 159,
+      "start": 348573.686186,
+      "end": 350668.079186,
+      "title": "008"
+    },
+    {
+      "id": 160,
+      "start": 350668.079186,
+      "end": 352372.610186,
+      "title": "009"
+    },
+    {
+      "id": 161,
+      "start": 352372.610186,
+      "end": 355993.251186,
+      "title": "010"
+    },
+    {
+      "id": 162,
+      "start": 355993.251186,
+      "end": 359563.969186,
+      "title": "011"
+    },
+    {
+      "id": 163,
+      "start": 359563.969186,
+      "end": 363430.09218599997,
+      "title": "012"
+    },
+    {
+      "id": 164,
+      "start": 363430.09218599997,
+      "end": 365246.635186,
+      "title": "013"
+    },
+    {
+      "id": 165,
+      "start": 365246.635186,
+      "end": 369852.035186,
+      "title": "014"
+    },
+    {
+      "id": 166,
+      "start": 369852.035186,
+      "end": 371297.57018599997,
+      "title": "015"
+    },
+    {
+      "id": 167,
+      "start": 371297.57018599997,
+      "end": 371313.499138,
+      "title": "Closing"
+    },
+    {
+      "id": 168,
+      "start": 371313.499138,
+      "end": 374207.494138,
+      "title": "001"
+    },
+    {
+      "id": 169,
+      "start": 374207.494138,
+      "end": 377077.434138,
+      "title": "002"
+    },
+    {
+      "id": 170,
+      "start": 377077.434138,
+      "end": 380324.327138,
+      "title": "003"
+    },
+    {
+      "id": 171,
+      "start": 380324.327138,
+      "end": 383654.161138,
+      "title": "004"
+    },
+    {
+      "id": 172,
+      "start": 383654.161138,
+      "end": 388296.480138,
+      "title": "005"
+    },
+    {
+      "id": 173,
+      "start": 388296.480138,
+      "end": 389533.593138,
+      "title": "006"
+    },
+    {
+      "id": 174,
+      "start": 389533.593138,
+      "end": 389711.690138,
+      "title": "007"
+    },
+    {
+      "id": 175,
+      "start": 389711.690138,
+      "end": 393239.869138,
+      "title": "008"
+    },
+    {
+      "id": 176,
+      "start": 393239.869138,
+      "end": 393270.752653,
+      "title": "End Credits"
+    }
+  ],
+  "title": "Capital",
+  "subtitle": "All Volumes & The Communist Manifesto Part 1",
+  "authors": [
+    "Karl Marx",
+    "Frederich Engels"
+  ],
+  "narrators": [
+    "Malk Williams"
+  ],
+  "series": [],
+  "genres": [
+    "Non-Fiction > Politics & Social Sciences > Politics & Government > Socialism"
+  ],
+  "publishedYear": "2023",
+  "publishedDate": null,
+  "publisher": "SNR Audio",
+  "description": "This audiobook contains all 3 volumes of Capital, as well as Marx and Engel's most renowned work, The Communist Manifesto.\n\nOne of the most notorious and influential works of modern times, Capital is an incisive critique of private property and the social relations it generates. It rapidly acquired readership throughout the world when published, to become a work described by Marx's collaborator Friedrich Engels as 'the Bible of the working class'.\n\nVolume 1: Living in exile in England, where this work was largely written, Marx drew on a wide-ranging knowledge of its society to support his analysis. Arguing that capitalism would cause an ever-increasing division in wealth and welfare, he predicted its abolition and replacement by a system with common ownership of the means of production. Capital rapidly acquired readership throughout the world, to become a work described by Marx's collaborator Friedrich Engels as 'the Bible of the working class'.\n\nVolume 2: The \"forgotten\" second volume of Capital, Marx's world-shaking analysis of economics, politics, and history. This volume also contains the vital discussion of commodity - the cornerstone to Marx's theories.\n\nVolume 3: Unfinished at the time of Marx's death in 1883 and first published with a preface by Frederick Engels in 1894, the third volume of Das Kapital strove to combine the theories and concepts of the two previous volumes in order to prove conclusively that capitalism is inherently unworkable as a permanent system for society. Here, Marx asserts that - regardless of the efforts of individual capitalists, public authorities or even generous philanthropists - any market economy is inevitably doomed to endure a series of worsening, explosive crises leading finally to complete collapse. But he also offers an inspirational and compelling prediction: that the end of capitalism will culminate, ultimately, in the birth of a far greater form of society.\n\nThe Communist Manifesto contains the seeds of Marx's more comprehensive philosophy, which continues to inspire influential economic, political, social, and literary theories. But the Manifesto is most valuable as an historical document, one that led to the greatest political upheaveals of the nineteenth and twentieth centuries and to the establishment of the Communist governments that until recently ruled half the globe.\n\nPublic Domain (P)2023 SNR Audio",
+  "isbn": null,
+  "asin": "B0C1P8BQDP",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

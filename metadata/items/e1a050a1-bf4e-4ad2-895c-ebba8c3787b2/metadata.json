@@ -1,0 +1,164 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3171.056327,
+      "title": "01: Aegon's Conquest"
+    },
+    {
+      "id": 1,
+      "start": 3171.056327,
+      "end": 4767.582041,
+      "title": "02: Reign of the Dragon: The Wars of King Aegon I"
+    },
+    {
+      "id": 2,
+      "start": 4767.582041,
+      "end": 6145.645714,
+      "title": "03: Three Heads Had the Dragon: Governance Under King Aegon I"
+    },
+    {
+      "id": 3,
+      "start": 6145.645714,
+      "end": 13637.564081,
+      "title": "04: The Sons of the Dragon"
+    },
+    {
+      "id": 4,
+      "start": 13637.564081,
+      "end": 15614.484897,
+      "title": "05: Prince into King: The Ascension of Jaehaerys I"
+    },
+    {
+      "id": 5,
+      "start": 15614.484897,
+      "end": 18345.71755,
+      "title": "06: The Year of The Three Brides: 49 AC"
+    },
+    {
+      "id": 6,
+      "start": 18345.71755,
+      "end": 22997.211428000002,
+      "title": "07: A Surfeit of Rulers"
+    },
+    {
+      "id": 7,
+      "start": 22997.211428000002,
+      "end": 25288.672652,
+      "title": "08: A Time of Testing: The Realm Remade"
+    },
+    {
+      "id": 8,
+      "start": 25288.672652,
+      "end": 29863.15755,
+      "title": "09: Birth, Death, and Betrayal Under King Jaehaerys I"
+    },
+    {
+      "id": 9,
+      "start": 29863.15755,
+      "end": 35955.017142,
+      "title": "10: Jaehaerys and Alysanne: Their Triumphs and Tragedies"
+    },
+    {
+      "id": 10,
+      "start": 35955.017142,
+      "end": 45337.234285,
+      "title": "11: The Long Reign: Jaehaerys and Alysanneâ€”Policy, Progeny, and Pain"
+    },
+    {
+      "id": 11,
+      "start": 45337.234285,
+      "end": 52203.755101,
+      "title": "12: Heirs of the Dragon: A Question of Succession"
+    },
+    {
+      "id": 12,
+      "start": 52203.755101,
+      "end": 54997.368162,
+      "title": "13: The Dying of the Dragons 01: The Blacks and the Greens"
+    },
+    {
+      "id": 13,
+      "start": 54997.368162,
+      "end": 57016.267754,
+      "title": "14: The Dying of the Dragons 02: A Son for a Son"
+    },
+    {
+      "id": 14,
+      "start": 57016.267754,
+      "end": 61257.221223,
+      "title": "15: The Dying of the Dragons 03: The Red Dragon and the Gold"
+    },
+    {
+      "id": 15,
+      "start": 61257.221223,
+      "end": 67155.72244700001,
+      "title": "16: The Dying of the Dragons 04: Rhaenyra Triumphant"
+    },
+    {
+      "id": 16,
+      "start": 67155.72244700001,
+      "end": 73143.37959000001,
+      "title": "17: The Dying of the Dragons 05: Rhaenyra Overthrown"
+    },
+    {
+      "id": 17,
+      "start": 73143.37959000001,
+      "end": 75852.643263,
+      "title": "18: The Dying of the Dragons 06: The Short, Sad Reign of Aegon II"
+    },
+    {
+      "id": 18,
+      "start": 75852.643263,
+      "end": 78785.880814,
+      "title": "19: Aftermath: The Hour of the Wolf"
+    },
+    {
+      "id": 19,
+      "start": 78785.880814,
+      "end": 82727.15754900001,
+      "title": "20: Under the Regents 01: The Hooded Hand"
+    },
+    {
+      "id": 20,
+      "start": 82727.15754900001,
+      "end": 86852.59754900001,
+      "title": "21: Under the Regents 02: War and Peace and Cattle Shows"
+    },
+    {
+      "id": 21,
+      "start": 86852.59754900001,
+      "end": 89194.71020200002,
+      "title": "22: Under the Regents 03: The Voyage of Alyn Oakenfist"
+    },
+    {
+      "id": 22,
+      "start": 89194.71020200002,
+      "end": 95088.95346700001,
+      "title": "23: The Lysene Spring and the End of Regency"
+    }
+  ],
+  "title": "Fire & Blood",
+  "subtitle": null,
+  "authors": [
+    "George R. R. Martin"
+  ],
+  "narrators": [
+    "733mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2018",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Simon Vance",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Dresden Files 05.0 - Death Masks
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 05.0 - Death Masks
+genre=Audiobook
+composer=Jim Butcher
+TRACKTOTAL=109
+grouping=Jim Butcher - Dresden Files 22GB \#5

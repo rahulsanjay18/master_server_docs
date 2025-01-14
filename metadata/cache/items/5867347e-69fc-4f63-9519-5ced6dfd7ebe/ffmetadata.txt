@@ -1,0 +1,14 @@
+;FFMETADATA1
+title=Two Plays for Voices
+artist=Neil Gaiman's Murder Mysteries
+album_artist=Neil Gaiman's Murder Mysteries
+album=Two Plays for Voices: Snow Glass Apples and Murder Mysteries
+TIT3=Snow Glass Apples and Murder Mysteries
+genre=Literature & Fiction\; Science Fiction & Fantasy
+date=2002
+comment=These are two original plays for voices from the critically-acclaimed, best-selling, and award-winning author of American Gods.   In Snow Glass Apples, once upon a time there lived a young princess with skin as white as snow, with hair as black as coal, with lips redder than blood. Most people think they know what happens to this young unfortunate girl. Most people are wrong. Tony-award winning actress Bebe Neuwirth stars as a wise queen who wants nothing more than to reign over her kingdom peacefully but is forced to match wits with an inhuman child who has an unnatural taste for blood. In Murder Mysteries, a mystery noir set in heaven's City of Angels before the fall, the first crime has been committed. It is an awful one. While the angelic hosts labor to create the world and its workings, one of their number is mysteriously slain by one of their own. Brian Dennehy stars as Raguel, Angel of Vengeance, who is mandated by Lucifer to discover both motive and murderer in this holy dominion that had so recently known no sin.
+description=These are two original plays for voices from the critically-acclaimed, best-selling, and award-winning author of American Gods.   In Snow Glass Apples, once upon a time there lived a young princess with skin as white as snow, with hair as black as coal, with lips redder than blood. Most people think they know what happens to this young unfortunate girl. Most people are wrong. Tony-award winning actress Bebe Neuwirth stars as a wise queen who wants nothing more than to reign over her kingdom peacefully but is forced to match wits with an inhuman child who has an unnatural taste for blood. In Murder Mysteries, a mystery noir set in heaven's City of Angels before the fall, the first crime has been committed. It is an awful one. While the angelic hosts labor to create the world and its workings, one of their number is mysteriously slain by one of their own. Brian Dennehy stars as Raguel, Angel of Vengeance, who is mandated by Lucifer to discover both motive and murderer in this holy dominion that had so recently known no sin.
+composer=Brian Dennehy, Bebe Neuwirth, full cast
+copyright=Caedmon
+publisher=Caedmon
+TRACKTOTAL=4

@@ -1,0 +1,356 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 16.248163,
+      "title": "[01]  Intro"
+    },
+    {
+      "id": 1,
+      "start": 16.248163,
+      "end": 103.52326500000001,
+      "title": "[02]  An Exerpt"
+    },
+    {
+      "id": 2,
+      "start": 103.52326500000001,
+      "end": 2113.880816,
+      "title": "[03]  Prologue - In the Shadow"
+    },
+    {
+      "id": 3,
+      "start": 2113.880816,
+      "end": 3651.970612,
+      "title": "[04]  Chapter 1 - The Flame of Tar Valon"
+    },
+    {
+      "id": 4,
+      "start": 3651.970612,
+      "end": 5243.689796000001,
+      "title": "[05]  Chapter 2 - The Welcome"
+    },
+    {
+      "id": 5,
+      "start": 5243.689796000001,
+      "end": 8271.203265,
+      "title": "[06]  Chapter 3 - Friends and Enemies"
+    },
+    {
+      "id": 6,
+      "start": 8271.203265,
+      "end": 10645.629387,
+      "title": "[07]  Chapter 4 - Summoned"
+    },
+    {
+      "id": 7,
+      "start": 10645.629387,
+      "end": 13554.599183,
+      "title": "[08]  Chapter 5 - The Shadow in Shienar"
+    },
+    {
+      "id": 8,
+      "start": 13554.599183,
+      "end": 16155.924897,
+      "title": "[09]  Chapter 6 - Dark Prophecy"
+    },
+    {
+      "id": 9,
+      "start": 16155.924897,
+      "end": 18676.349387000002,
+      "title": "[10]  Chapter 7 - Blood Calls Blood"
+    },
+    {
+      "id": 10,
+      "start": 18676.349387000002,
+      "end": 22197.786122,
+      "title": "[11]  Chapter 8 - The Dragon Reborn"
+    },
+    {
+      "id": 11,
+      "start": 22197.786122,
+      "end": 25077.812244,
+      "title": "[12]  Chapter 9 - Leavetakings"
+    },
+    {
+      "id": 12,
+      "start": 25077.812244,
+      "end": 28143.934693,
+      "title": "[13]  Chapter 10 - The Hunt Begins"
+    },
+    {
+      "id": 13,
+      "start": 28143.934693,
+      "end": 29800.594285,
+      "title": "[14]  Chapter 11 - Glimmers of the Pattern"
+    },
+    {
+      "id": 14,
+      "start": 29800.594285,
+      "end": 31962.749387,
+      "title": "[15]  Chapter 12 - Woven in the Pattern"
+    },
+    {
+      "id": 15,
+      "start": 31962.749387,
+      "end": 33201.658775,
+      "title": "[16]  Chapter 13 - From Stone to Stone"
+    },
+    {
+      "id": 16,
+      "start": 33201.658775,
+      "end": 34521.808979,
+      "title": "[17]  Chapter 14 - Wolf Brother"
+    },
+    {
+      "id": 17,
+      "start": 34521.808979,
+      "end": 36312.764081,
+      "title": "[18]  Chapter 15 - Kinslayer"
+    },
+    {
+      "id": 18,
+      "start": 36312.764081,
+      "end": 38752.365714,
+      "title": "[19]  Chapter 16 - In the Mirror of Darkness"
+    },
+    {
+      "id": 19,
+      "start": 38752.365714,
+      "end": 39983.412245,
+      "title": "[20]  Chapter 17 - Choices"
+    },
+    {
+      "id": 20,
+      "start": 39983.412245,
+      "end": 41711.725714,
+      "title": "[21]  Chapter 18 - To the White Tower"
+    },
+    {
+      "id": 21,
+      "start": 41711.725714,
+      "end": 43780.649796,
+      "title": "[22]  Chapter 19 - Beneath the Dagger"
+    },
+    {
+      "id": 22,
+      "start": 43780.649796,
+      "end": 44777.273469,
+      "title": "[23]  Chapter 20 - Saidin"
+    },
+    {
+      "id": 23,
+      "start": 44777.273469,
+      "end": 46381.008979,
+      "title": "[24]  Chapter 21 - The Nine Rings"
+    },
+    {
+      "id": 24,
+      "start": 46381.008979,
+      "end": 48326.608979,
+      "title": "[25]  Chapter 22 - Watchers"
+    },
+    {
+      "id": 25,
+      "start": 48326.608979,
+      "end": 51219.35673399999,
+      "title": "[26]  Chapter 23 - The Testing"
+    },
+    {
+      "id": 26,
+      "start": 51219.35673399999,
+      "end": 52827.19346899999,
+      "title": "[27]  Chapter 24 - New Friends and Old Enemies"
+    },
+    {
+      "id": 27,
+      "start": 52827.19346899999,
+      "end": 54477.11346899999,
+      "title": "[28]  Chapter 25 - Cairhien"
+    },
+    {
+      "id": 28,
+      "start": 54477.11346899999,
+      "end": 56283.53306099999,
+      "title": "[29]  Chapter 26 - Discord"
+    },
+    {
+      "id": 29,
+      "start": 56283.53306099999,
+      "end": 58130.57306099999,
+      "title": "[30]  Chapter 27 - The Shadow in the Night"
+    },
+    {
+      "id": 30,
+      "start": 58130.57306099999,
+      "end": 59170.87346899999,
+      "title": "[31]  Chapter 28 - A New Thread in the Pattern"
+    },
+    {
+      "id": 31,
+      "start": 59170.87346899999,
+      "end": 61841.00571399999,
+      "title": "[32]  Chapter 29 - Seanchan"
+    },
+    {
+      "id": 32,
+      "start": 61841.00571399999,
+      "end": 63414.02122399999,
+      "title": "[33]  Chapter 30 - Daes Dae'mar"
+    },
+    {
+      "id": 33,
+      "start": 63414.02122399999,
+      "end": 65150.69387699999,
+      "title": "[34]  Chapter 31 - On the Scent"
+    },
+    {
+      "id": 34,
+      "start": 65150.69387699999,
+      "end": 66607.90857099999,
+      "title": "[35]  Chapter 32 - Dangerous Words"
+    },
+    {
+      "id": 35,
+      "start": 66607.90857099999,
+      "end": 68709.77306099999,
+      "title": "[36]  Chapter 33 - A Message From the Dark"
+    },
+    {
+      "id": 36,
+      "start": 68709.77306099999,
+      "end": 70896.61387699998,
+      "title": "[37]  Chapter 34 - The Wheel Weaves"
+    },
+    {
+      "id": 37,
+      "start": 70896.61387699998,
+      "end": 72634.93224399998,
+      "title": "[38]  Chapter 35 - Stedding Tsofu"
+    },
+    {
+      "id": 38,
+      "start": 72634.93224399998,
+      "end": 73926.66122399998,
+      "title": "[39]  Chapter 36 - Among the Elders"
+    },
+    {
+      "id": 39,
+      "start": 73926.66122399998,
+      "end": 75700.34938699998,
+      "title": "[40]  Chapter 37 - What Might Be"
+    },
+    {
+      "id": 40,
+      "start": 75700.34938699998,
+      "end": 77462.41305999998,
+      "title": "[41]  Chapter 38 - Practice"
+    },
+    {
+      "id": 41,
+      "start": 77462.41305999998,
+      "end": 79361.64571299998,
+      "title": "[42]  Chapter 39 - Flight From the White Tower"
+    },
+    {
+      "id": 42,
+      "start": 79361.64571299998,
+      "end": 81791.58203999998,
+      "title": "[43]  Chapter 40 - Damane"
+    },
+    {
+      "id": 43,
+      "start": 81791.58203999998,
+      "end": 83120.37877499998,
+      "title": "[44]  Chapter 41 - Disagreements"
+    },
+    {
+      "id": 44,
+      "start": 83120.37877499998,
+      "end": 84702.30203999998,
+      "title": "[45]  Chapter 42 - Falme"
+    },
+    {
+      "id": 45,
+      "start": 84702.30203999998,
+      "end": 85856.65305999998,
+      "title": "[46]  Chapter 43 - A Plan"
+    },
+    {
+      "id": 46,
+      "start": 85856.65305999998,
+      "end": 87197.20489699999,
+      "title": "[47]  Chapter 44 - Five Will Ride Forth"
+    },
+    {
+      "id": 47,
+      "start": 87197.20489699999,
+      "end": 90060.06856999999,
+      "title": "[48]  Chapter 45 - Blademaster"
+    },
+    {
+      "id": 48,
+      "start": 90060.06856999999,
+      "end": 91949.45305999999,
+      "title": "[49]  Chapter 46 - To Come Out of the Shadow"
+    },
+    {
+      "id": 49,
+      "start": 91949.45305999999,
+      "end": 93506.35101899998,
+      "title": "[50]  Chapter 47 - The Grave Is No Bar to My Call"
+    },
+    {
+      "id": 50,
+      "start": 93506.35101899998,
+      "end": 94224.97958999997,
+      "title": "[51]  Chapter 48 - First Claiming"
+    },
+    {
+      "id": 51,
+      "start": 94224.97958999997,
+      "end": 95156.27101899998,
+      "title": "[52]  Chapter 49 - What Was Meant to Be"
+    },
+    {
+      "id": 52,
+      "start": 95156.27101899998,
+      "end": 95268.17958999999,
+      "title": "[53]  Chapter 50 - After"
+    },
+    {
+      "id": 53,
+      "start": 95268.17958999999,
+      "end": 95643.92489599998,
+      "title": "[54]  An Interview With Robert Jordan"
+    },
+    {
+      "id": 54,
+      "start": 95643.92489599998,
+      "end": 95655.05305899998,
+      "title": "[55]  Outro"
+    }
+  ],
+  "title": "The Great Hunt (The Wheel of Time #2)",
+  "subtitle": null,
+  "authors": [
+    "Robert Jordan"
+  ],
+  "narrators": [],
+  "series": [
+    "Robert Jordan - The Wheel of Time 12GB"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1990-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

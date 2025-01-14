@@ -1,0 +1,323 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1906.544,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 1906.544,
+      "end": 3480.393,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 3480.393,
+      "end": 4909.952,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 4909.952,
+      "end": 6347.964,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 6347.964,
+      "end": 8024.352,
+      "title": "005"
+    },
+    {
+      "id": 5,
+      "start": 8024.352,
+      "end": 9694.006,
+      "title": "006"
+    },
+    {
+      "id": 6,
+      "start": 9694.006,
+      "end": 11679.405,
+      "title": "007"
+    },
+    {
+      "id": 7,
+      "start": 11679.405,
+      "end": 13288.826,
+      "title": "008"
+    },
+    {
+      "id": 8,
+      "start": 13288.826,
+      "end": 14413.555,
+      "title": "009"
+    },
+    {
+      "id": 9,
+      "start": 14413.555,
+      "end": 15729.569,
+      "title": "010"
+    },
+    {
+      "id": 10,
+      "start": 15729.569,
+      "end": 17097.271,
+      "title": "011"
+    },
+    {
+      "id": 11,
+      "start": 17097.271,
+      "end": 18255.018,
+      "title": "012"
+    },
+    {
+      "id": 12,
+      "start": 18255.018,
+      "end": 19468.446,
+      "title": "013"
+    },
+    {
+      "id": 13,
+      "start": 19468.446,
+      "end": 20722.556,
+      "title": "014"
+    },
+    {
+      "id": 14,
+      "start": 20722.556,
+      "end": 22057.935,
+      "title": "015"
+    },
+    {
+      "id": 15,
+      "start": 22057.935,
+      "end": 23577.356,
+      "title": "016"
+    },
+    {
+      "id": 16,
+      "start": 23577.356,
+      "end": 24424.977,
+      "title": "017"
+    },
+    {
+      "id": 17,
+      "start": 24424.977,
+      "end": 26364.308,
+      "title": "018"
+    },
+    {
+      "id": 18,
+      "start": 26364.308,
+      "end": 27358.494,
+      "title": "019"
+    },
+    {
+      "id": 19,
+      "start": 27358.494,
+      "end": 28810.762,
+      "title": "020"
+    },
+    {
+      "id": 20,
+      "start": 28810.762,
+      "end": 30632.275,
+      "title": "021"
+    },
+    {
+      "id": 21,
+      "start": 30632.275,
+      "end": 31957.624,
+      "title": "022"
+    },
+    {
+      "id": 22,
+      "start": 31957.624,
+      "end": 33048.126,
+      "title": "023"
+    },
+    {
+      "id": 23,
+      "start": 33048.126,
+      "end": 34769.049,
+      "title": "024"
+    },
+    {
+      "id": 24,
+      "start": 34769.049,
+      "end": 36017.958,
+      "title": "025"
+    },
+    {
+      "id": 25,
+      "start": 36017.958,
+      "end": 37610.429,
+      "title": "026"
+    },
+    {
+      "id": 26,
+      "start": 37610.429,
+      "end": 39337.529,
+      "title": "027"
+    },
+    {
+      "id": 27,
+      "start": 39337.529,
+      "end": 40901.439,
+      "title": "028"
+    },
+    {
+      "id": 28,
+      "start": 40901.439,
+      "end": 42027.7,
+      "title": "029"
+    },
+    {
+      "id": 29,
+      "start": 42027.7,
+      "end": 43118.713,
+      "title": "030"
+    },
+    {
+      "id": 30,
+      "start": 43118.713,
+      "end": 44330.701,
+      "title": "031"
+    },
+    {
+      "id": 31,
+      "start": 44330.701,
+      "end": 45516.777,
+      "title": "032"
+    },
+    {
+      "id": 32,
+      "start": 45516.777,
+      "end": 46707.496,
+      "title": "033"
+    },
+    {
+      "id": 33,
+      "start": 46707.496,
+      "end": 48093.774,
+      "title": "034"
+    },
+    {
+      "id": 34,
+      "start": 48093.774,
+      "end": 49231.087,
+      "title": "035"
+    },
+    {
+      "id": 35,
+      "start": 49231.087,
+      "end": 50922.893,
+      "title": "036"
+    },
+    {
+      "id": 36,
+      "start": 50922.893,
+      "end": 52313.211,
+      "title": "037"
+    },
+    {
+      "id": 37,
+      "start": 52313.211,
+      "end": 53492.599,
+      "title": "038"
+    },
+    {
+      "id": 38,
+      "start": 53492.599,
+      "end": 54770.672,
+      "title": "039"
+    },
+    {
+      "id": 39,
+      "start": 54770.672,
+      "end": 56498.654,
+      "title": "040"
+    },
+    {
+      "id": 40,
+      "start": 56498.654,
+      "end": 58646.361,
+      "title": "041"
+    },
+    {
+      "id": 41,
+      "start": 58646.361,
+      "end": 60036.54,
+      "title": "042"
+    },
+    {
+      "id": 42,
+      "start": 60036.54,
+      "end": 61337.739,
+      "title": "043"
+    },
+    {
+      "id": 43,
+      "start": 61337.739,
+      "end": 62999.684,
+      "title": "044"
+    },
+    {
+      "id": 44,
+      "start": 62999.684,
+      "end": 64610.035,
+      "title": "045"
+    },
+    {
+      "id": 45,
+      "start": 64610.035,
+      "end": 65634.545,
+      "title": "046"
+    },
+    {
+      "id": 46,
+      "start": 65634.545,
+      "end": 66796.704,
+      "title": "047"
+    },
+    {
+      "id": 47,
+      "start": 66796.704,
+      "end": 68319.701,
+      "title": "048"
+    },
+    {
+      "id": 48,
+      "start": 68319.701,
+      "end": 69585.049252,
+      "title": "049"
+    }
+  ],
+  "title": "01 - Crown of Slaves",
+  "subtitle": null,
+  "authors": [
+    "David Weber",
+    "Eric Flint"
+  ],
+  "narrators": [
+    "Peter Larkin"
+  ],
+  "series": [
+    "Crown of Slaves #1"
+  ],
+  "genres": [
+    "Space Opera, Military SF, Science Fiction"
+  ],
+  "publishedYear": "2003-08-25T21:43:16Z",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "The Star Kingdom's ally Erewhon is growing increasingly restive in the alliance because the new High Ridge regime ignores its needs....",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

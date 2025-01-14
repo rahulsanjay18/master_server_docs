@@ -1,0 +1,88 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3.397,
+      "title": "Intro - Audible Credits"
+    },
+    {
+      "id": 1,
+      "start": 3.397,
+      "end": 19.713,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 2,
+      "start": 19.713,
+      "end": 24.245,
+      "title": "Epigraph"
+    },
+    {
+      "id": 3,
+      "start": 24.245,
+      "end": 4988.18,
+      "title": "Chapter 1: A Gray and Desolate Landscape"
+    },
+    {
+      "id": 4,
+      "start": 4988.18,
+      "end": 11502.515,
+      "title": "Chapter 2: Before the Snow Stops"
+    },
+    {
+      "id": 5,
+      "start": 11502.515,
+      "end": 16931.99,
+      "title": "Chapter 3: No Dreams of His First Love"
+    },
+    {
+      "id": 6,
+      "start": 16931.99,
+      "end": 18753.085,
+      "title": "Chapter 4: Kindness, and a Hand Offered in Kind"
+    },
+    {
+      "id": 7,
+      "start": 18753.085,
+      "end": 18774.749,
+      "title": "Afterword"
+    },
+    {
+      "id": 8,
+      "start": 18774.749,
+      "end": 18876.666,
+      "title": "Outro - Ending Credits ☕"
+    },
+    {
+      "id": 9,
+      "start": 18876.666,
+      "end": 18876.667,
+      "title": "Outro - Audible Credits"
+    }
+  ],
+  "title": "Rascal Does Not Dream of His First Love",
+  "subtitle": null,
+  "authors": [
+    "Andrew Grace"
+  ],
+  "narrators": [
+    "Hajime Kamoshida"
+  ],
+  "series": [
+    "Rascal Does Not Dream of #07"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "October 8, 2016 (12-12-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

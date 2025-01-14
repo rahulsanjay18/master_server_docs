@@ -1,0 +1,625 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 16,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 16,
+      "end": 3508.030567,
+      "title": "1. The Son of Sobek"
+    },
+    {
+      "id": 2,
+      "start": 3508.030567,
+      "end": 9612,
+      "title": "2. The Staff of Serapis"
+    },
+    {
+      "id": 3,
+      "start": 9612,
+      "end": 16320,
+      "title": "3. The Crown of Ptolemy"
+    },
+    {
+      "id": 4,
+      "start": 16320,
+      "end": 16325.671474,
+      "title": "Outro"
+    },
+    {
+      "id": 5,
+      "start": 16325.671474,
+      "end": 16383.671474,
+      "title": "Intro"
+    },
+    {
+      "id": 6,
+      "start": 16383.671474,
+      "end": 17901.671474000002,
+      "title": "1. A Death at the Needle"
+    },
+    {
+      "id": 7,
+      "start": 17901.671474000002,
+      "end": 19087.671474000002,
+      "title": "2. An Explosion for Christmas"
+    },
+    {
+      "id": 8,
+      "start": 19087.671474000002,
+      "end": 19960.671474000002,
+      "title": "3. Imprisoned with My Cat"
+    },
+    {
+      "id": 9,
+      "start": 19960.671474000002,
+      "end": 20908.671474000002,
+      "title": "4. Kidnapped by a Not-So-Stranger"
+    },
+    {
+      "id": 10,
+      "start": 20908.671474000002,
+      "end": 22192.671474000002,
+      "title": "5. We Meet the Monkey"
+    },
+    {
+      "id": 11,
+      "start": 22192.671474000002,
+      "end": 24561.671474000002,
+      "title": "6. Breakfast with a Crocodile"
+    },
+    {
+      "id": 12,
+      "start": 24561.671474000002,
+      "end": 26509.671474000002,
+      "title": "7. I Drop A Little Man on His Head"
+    },
+    {
+      "id": 13,
+      "start": 26509.671474000002,
+      "end": 27379.671474000002,
+      "title": "8. Muffin Plays with Knives"
+    },
+    {
+      "id": 14,
+      "start": 27379.671474000002,
+      "end": 28150.671474000002,
+      "title": "9. We Run From Four Guys in Skirts"
+    },
+    {
+      "id": 15,
+      "start": 28150.671474000002,
+      "end": 28933.671474000002,
+      "title": "10. Bast Goes Green"
+    },
+    {
+      "id": 16,
+      "start": 28933.671474000002,
+      "end": 29931.671474000002,
+      "title": "11. We Meet the Human Flamethrower"
+    },
+    {
+      "id": 17,
+      "start": 29931.671474000002,
+      "end": 30417.671474000002,
+      "title": "12. A Jump Through the Hourglass"
+    },
+    {
+      "id": 18,
+      "start": 30417.671474000002,
+      "end": 31593.671474000002,
+      "title": "13. I Face the Killer Turkey"
+    },
+    {
+      "id": 19,
+      "start": 31593.671474000002,
+      "end": 32792.671474,
+      "title": "14. A French Guy Almost Kills Us"
+    },
+    {
+      "id": 20,
+      "start": 32792.671474,
+      "end": 34444.671474,
+      "title": "15. A Godly Birthday Party"
+    },
+    {
+      "id": 21,
+      "start": 34444.671474,
+      "end": 36208.671474,
+      "title": "16. How Zia Lost Her Eyebrows"
+    },
+    {
+      "id": 22,
+      "start": 36208.671474,
+      "end": 37500.671474,
+      "title": "17. A Bad Trip to Paris"
+    },
+    {
+      "id": 23,
+      "start": 37500.671474,
+      "end": 39832.671474,
+      "title": "18. When Fruit Bats Go Bad"
+    },
+    {
+      "id": 24,
+      "start": 39832.671474,
+      "end": 41106.671474,
+      "title": "19. A Picnic in the Sky"
+    },
+    {
+      "id": 25,
+      "start": 41106.671474,
+      "end": 42058.671474,
+      "title": "20. I Visit the Star-Spangled Goddess"
+    },
+    {
+      "id": 26,
+      "start": 42058.671474,
+      "end": 43089.671474,
+      "title": "21. Aunt Kitty to the Rescue"
+    },
+    {
+      "id": 27,
+      "start": 43089.671474,
+      "end": 44163.703583,
+      "title": "22. Leroy Meets the Locker of Doom"
+    },
+    {
+      "id": 28,
+      "start": 44163.703583,
+      "end": 46082.703583,
+      "title": "23. Professor Thoth's Final Exam"
+    },
+    {
+      "id": 29,
+      "start": 46082.703583,
+      "end": 47497.703583,
+      "title": "24. I Blow Up Some Blue Suede Shoes"
+    },
+    {
+      "id": 30,
+      "start": 47497.703583,
+      "end": 48277.703583,
+      "title": "25. We Win An All-Expenses-Paid Trip to Death"
+    },
+    {
+      "id": 31,
+      "start": 48277.703583,
+      "end": 50112.703583,
+      "title": "26. Aboard the Egyptian Queen"
+    },
+    {
+      "id": 32,
+      "start": 50112.703583,
+      "end": 51207.703583,
+      "title": "27. A Demon with Free Samples"
+    },
+    {
+      "id": 33,
+      "start": 51207.703583,
+      "end": 53442.703583,
+      "title": "28. I Have a Date with the God of Toilet Paper"
+    },
+    {
+      "id": 34,
+      "start": 53442.703583,
+      "end": 54457.703583,
+      "title": "29. Zia Sets a Rendezvous"
+    },
+    {
+      "id": 35,
+      "start": 54457.703583,
+      "end": 56036.703583,
+      "title": "30. Bast Keeps a Promise"
+    },
+    {
+      "id": 36,
+      "start": 56036.703583,
+      "end": 56878.703583,
+      "title": "31. I Deliver a Love Note"
+    },
+    {
+      "id": 37,
+      "start": 56878.703583,
+      "end": 58344.703583,
+      "title": "32. The Place of Crosses"
+    },
+    {
+      "id": 38,
+      "start": 58344.703583,
+      "end": 59434.703583,
+      "title": "33. We Go Into the Salsa Business"
+    },
+    {
+      "id": 39,
+      "start": 59434.703583,
+      "end": 60002.703583,
+      "title": "34. Doughboy Gives Us a Ride"
+    },
+    {
+      "id": 40,
+      "start": 60002.703583,
+      "end": 60720.703583,
+      "title": "35. Men Ask for Directions (and Other Signs of the Apocalypse)"
+    },
+    {
+      "id": 41,
+      "start": 60720.703583,
+      "end": 61841.703583,
+      "title": "36. Our Family Is Vaporized"
+    },
+    {
+      "id": 42,
+      "start": 61841.703583,
+      "end": 62656.703583,
+      "title": "37. Leroy Gets His Revenge"
+    },
+    {
+      "id": 43,
+      "start": 62656.703583,
+      "end": 63287.703583,
+      "title": "38. The House Is in the House"
+    },
+    {
+      "id": 44,
+      "start": 63287.703583,
+      "end": 64372.703583,
+      "title": "39. Zia Tells Me a Secret"
+    },
+    {
+      "id": 45,
+      "start": 64372.703583,
+      "end": 66334.703583,
+      "title": "40. I Ruin a Rather Important Spell"
+    },
+    {
+      "id": 46,
+      "start": 66334.703583,
+      "end": 68774.703583,
+      "title": "41. We Stop the Recording, for Now."
+    },
+    {
+      "id": 47,
+      "start": 68774.703583,
+      "end": 68866.703583,
+      "title": "Author's Note"
+    },
+    {
+      "id": 48,
+      "start": 68866.703583,
+      "end": 68915.26966,
+      "title": "Outro"
+    },
+    {
+      "id": 49,
+      "start": 68915.26966,
+      "end": 68985.26966,
+      "title": "Intro"
+    },
+    {
+      "id": 50,
+      "start": 68985.26966,
+      "end": 70407.26966,
+      "title": "1. Fun With Spontaneous Combustion"
+    },
+    {
+      "id": 51,
+      "start": 70407.26966,
+      "end": 71788.26966,
+      "title": "2. We Tame a Seven-Thousand-Pound Humming Bird"
+    },
+    {
+      "id": 52,
+      "start": 71788.26966,
+      "end": 73504.26966,
+      "title": "3. The Ice-cream Man Plots Our Death"
+    },
+    {
+      "id": 53,
+      "start": 73504.26966,
+      "end": 75704.26966,
+      "title": "4. A Birthday Invitation To Armageddon"
+    },
+    {
+      "id": 54,
+      "start": 75704.26966,
+      "end": 77517.26966,
+      "title": "5. I Learn To Really Hate Dung Beetles"
+    },
+    {
+      "id": 55,
+      "start": 77517.26966,
+      "end": 78930.26966,
+      "title": "6. A Birdbath Almost Kills Me"
+    },
+    {
+      "id": 56,
+      "start": 78930.26966,
+      "end": 80431.26966,
+      "title": "7. A Gift From The Dog Headed Boy"
+    },
+    {
+      "id": 57,
+      "start": 80431.26966,
+      "end": 83129.26966,
+      "title": "8. Major Delays At Waterloo Station (We Apologise For The Giant Baboon)"
+    },
+    {
+      "id": 58,
+      "start": 83129.26966,
+      "end": 84802.26966,
+      "title": "9. We Get A Vertically Challenged Tour of Russia"
+    },
+    {
+      "id": 59,
+      "start": 84802.26966,
+      "end": 87006.26966,
+      "title": "10. An Old Red Friend Comes To Visit"
+    },
+    {
+      "id": 60,
+      "start": 87006.26966,
+      "end": 88579.26966,
+      "title": "11. Carter Does Something Incredibly Stupid (and No One Is Surprised)"
+    },
+    {
+      "id": 61,
+      "start": 88579.26966,
+      "end": 91485.26966,
+      "title": "12. I Master The Fine Art of Name Calling"
+    },
+    {
+      "id": 62,
+      "start": 91485.26966,
+      "end": 93246.26966,
+      "title": "13. I Get a Demon Up My Nose"
+    },
+    {
+      "id": 63,
+      "start": 93246.26966,
+      "end": 94577.26966,
+      "title": "14. At the Tomb of Zia Rashid"
+    },
+    {
+      "id": 64,
+      "start": 94577.26966,
+      "end": 96008.26966,
+      "title": "15. Camels Are Evil..."
+    },
+    {
+      "id": 65,
+      "start": 96008.26966,
+      "end": 98915.281315,
+      "title": "16. ...But Not as Evil as Romans"
+    },
+    {
+      "id": 66,
+      "start": 98915.281315,
+      "end": 101194.28585,
+      "title": "17. Menshikov Hires a Happy Death Squad"
+    },
+    {
+      "id": 67,
+      "start": 101194.28585,
+      "end": 103087.26966,
+      "title": "18. Gambling on Doomsday Eve"
+    },
+    {
+      "id": 68,
+      "start": 103087.26966,
+      "end": 105150.26966,
+      "title": "19. The Revenge of Bullwinkle the Moose God"
+    },
+    {
+      "id": 69,
+      "start": 105150.26966,
+      "end": 107282.26966,
+      "title": "20. We Visit the House of the Helpful Hippo"
+    },
+    {
+      "id": 70,
+      "start": 107282.26966,
+      "end": 110188.26966,
+      "title": "21. We Buy Some Time"
+    },
+    {
+      "id": 71,
+      "start": 110188.26966,
+      "end": 112275.26966,
+      "title": "22. Friends in the Strangest Places"
+    },
+    {
+      "id": 72,
+      "start": 112275.26966,
+      "end": 113338.26966,
+      "title": "23. We Throw a Wild House Party"
+    },
+    {
+      "id": 73,
+      "start": 113338.26966,
+      "end": 115208.26966,
+      "title": "24. I Make an Impossible Promise"
+    },
+    {
+      "id": 74,
+      "start": 115208.26966,
+      "end": 115256.47093000001,
+      "title": "Outro"
+    },
+    {
+      "id": 75,
+      "start": 115256.47093000001,
+      "end": 115292.47093000001,
+      "title": "Intro"
+    },
+    {
+      "id": 76,
+      "start": 115292.47093000001,
+      "end": 115328.47093000001,
+      "title": "Author's Note"
+    },
+    {
+      "id": 77,
+      "start": 115328.47093000001,
+      "end": 116720.47093000001,
+      "title": "1. We Crash and Burn a Party"
+    },
+    {
+      "id": 78,
+      "start": 116720.47093000001,
+      "end": 118303.47093000001,
+      "title": "2. I Have a Word with Chaos"
+    },
+    {
+      "id": 79,
+      "start": 118303.47093000001,
+      "end": 120486.47093000001,
+      "title": "3. We Win a Box Full of Nothing"
+    },
+    {
+      "id": 80,
+      "start": 120486.47093000001,
+      "end": 123154.47093000001,
+      "title": "4. I Consult the Pigeon of War"
+    },
+    {
+      "id": 81,
+      "start": 123154.47093000001,
+      "end": 125100.47093000001,
+      "title": "5. A Dance with Death"
+    },
+    {
+      "id": 82,
+      "start": 125100.47093000001,
+      "end": 126810.47093000001,
+      "title": "6. Amos Plays with Action Figures"
+    },
+    {
+      "id": 83,
+      "start": 126810.47093000001,
+      "end": 129236.47093000001,
+      "title": "7. I Get Strangled by an Old Friend"
+    },
+    {
+      "id": 84,
+      "start": 129236.47093000001,
+      "end": 130811.47093000001,
+      "title": "8. My Sister, The Flowerpot"
+    },
+    {
+      "id": 85,
+      "start": 130811.47093000001,
+      "end": 132859.47093,
+      "title": "9. Zia Breaks Up a Lava Fight"
+    },
+    {
+      "id": 86,
+      "start": 132859.47093,
+      "end": 135683.47093,
+      "title": "10. “Take Your Daughter to Work Day” Goes Horribly Wrong"
+    },
+    {
+      "id": 87,
+      "start": 135683.47093,
+      "end": 137952.47093,
+      "title": "11. Don't Worry, Be Hapi"
+    },
+    {
+      "id": 88,
+      "start": 137952.47093,
+      "end": 140366.47093,
+      "title": "12. Bulls with Freaking Laser Beams"
+    },
+    {
+      "id": 89,
+      "start": 140366.47093,
+      "end": 142233.47093,
+      "title": "13. A Friendly Game of Hide-and-Seek (with Bonus Points for Painful Death!)"
+    },
+    {
+      "id": 90,
+      "start": 142233.47093,
+      "end": 143351.47093,
+      "title": "14. Fun with Split Personalities"
+    },
+    {
+      "id": 91,
+      "start": 143351.47093,
+      "end": 145824.47093,
+      "title": "15. I Become a Purple Chimpanzee"
+    },
+    {
+      "id": 92,
+      "start": 145824.47093,
+      "end": 147835.47093,
+      "title": "16. Sadie Rides Shotgun (Worst. Idea. Ever.)"
+    },
+    {
+      "id": 93,
+      "start": 147835.47093,
+      "end": 149719.47093,
+      "title": "17. Brooklyn House Goes to War"
+    },
+    {
+      "id": 94,
+      "start": 149719.47093,
+      "end": 151180.47093,
+      "title": "18. Death Boy to the Rescue"
+    },
+    {
+      "id": 95,
+      "start": 151180.47093,
+      "end": 152693.47093,
+      "title": "19. Welcome to the Fun House of Evil"
+    },
+    {
+      "id": 96,
+      "start": 152693.47093,
+      "end": 154688.47093,
+      "title": "20. I Take a Chair"
+    },
+    {
+      "id": 97,
+      "start": 154688.47093,
+      "end": 155879.47093,
+      "title": "21. The Gods Are Sorted; My Feelings Are Not"
+    },
+    {
+      "id": 98,
+      "start": 155879.47093,
+      "end": 156360.47093,
+      "title": "22. The Last Waltz (for Now)"
+    },
+    {
+      "id": 99,
+      "start": 156360.47093,
+      "end": 156411.98294800002,
+      "title": "Outro"
+    }
+  ],
+  "title": "Kane Chronicles & Percy Jackson",
+  "subtitle": null,
+  "authors": [
+    "Rick Riordan"
+  ],
+  "narrators": [
+    "Rick Riordan",
+    "Jesse Bernstein"
+  ],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2017",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Demigods and Magicians: Three Stories from the World of Percy Jackson and the Kane Chronicles",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

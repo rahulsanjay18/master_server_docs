@@ -1,0 +1,369 @@
+{
+  "tags": [
+    "Science Fiction",
+    "Adventure",
+    "Space Opera"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1789.884082,
+      "title": "The Machine Crusade_Part 01"
+    },
+    {
+      "id": 1,
+      "start": 1789.884082,
+      "end": 3589.9297960000004,
+      "title": "The Machine Crusade_Part 02"
+    },
+    {
+      "id": 2,
+      "start": 3589.9297960000004,
+      "end": 5389.97551,
+      "title": "The Machine Crusade_Part 03"
+    },
+    {
+      "id": 3,
+      "start": 5389.97551,
+      "end": 7190.021224,
+      "title": "The Machine Crusade_Part 04"
+    },
+    {
+      "id": 4,
+      "start": 7190.021224,
+      "end": 8990.066938,
+      "title": "The Machine Crusade_Part 05"
+    },
+    {
+      "id": 5,
+      "start": 8990.066938,
+      "end": 10790.112652,
+      "title": "The Machine Crusade_Part 06"
+    },
+    {
+      "id": 6,
+      "start": 10790.112652,
+      "end": 12590.158366,
+      "title": "The Machine Crusade_Part 07"
+    },
+    {
+      "id": 7,
+      "start": 12590.158366,
+      "end": 14390.20408,
+      "title": "The Machine Crusade_Part 08"
+    },
+    {
+      "id": 8,
+      "start": 14390.20408,
+      "end": 16190.249794,
+      "title": "The Machine Crusade_Part 09"
+    },
+    {
+      "id": 9,
+      "start": 16190.249794,
+      "end": 17990.295508,
+      "title": "The Machine Crusade_Part 10"
+    },
+    {
+      "id": 10,
+      "start": 17990.295508,
+      "end": 19790.341222,
+      "title": "The Machine Crusade_Part 11"
+    },
+    {
+      "id": 11,
+      "start": 19790.341222,
+      "end": 21590.386936,
+      "title": "The Machine Crusade_Part 12"
+    },
+    {
+      "id": 12,
+      "start": 21590.386936,
+      "end": 23390.43265,
+      "title": "The Machine Crusade_Part 13"
+    },
+    {
+      "id": 13,
+      "start": 23390.43265,
+      "end": 25190.478364,
+      "title": "The Machine Crusade_Part 14"
+    },
+    {
+      "id": 14,
+      "start": 25190.478364,
+      "end": 26990.524078,
+      "title": "The Machine Crusade_Part 15"
+    },
+    {
+      "id": 15,
+      "start": 26990.524078,
+      "end": 28790.569792,
+      "title": "The Machine Crusade_Part 16"
+    },
+    {
+      "id": 16,
+      "start": 28790.569792,
+      "end": 30590.615506,
+      "title": "The Machine Crusade_Part 17"
+    },
+    {
+      "id": 17,
+      "start": 30590.615506,
+      "end": 32390.661219999998,
+      "title": "The Machine Crusade_Part 18"
+    },
+    {
+      "id": 18,
+      "start": 32390.661219999998,
+      "end": 34190.706934,
+      "title": "The Machine Crusade_Part 19"
+    },
+    {
+      "id": 19,
+      "start": 34190.706934,
+      "end": 35990.752648,
+      "title": "The Machine Crusade_Part 20"
+    },
+    {
+      "id": 20,
+      "start": 35990.752648,
+      "end": 37790.798362,
+      "title": "The Machine Crusade_Part 21"
+    },
+    {
+      "id": 21,
+      "start": 37790.798362,
+      "end": 39590.844076,
+      "title": "The Machine Crusade_Part 22"
+    },
+    {
+      "id": 22,
+      "start": 39590.844076,
+      "end": 41390.88979,
+      "title": "The Machine Crusade_Part 23"
+    },
+    {
+      "id": 23,
+      "start": 41390.88979,
+      "end": 43190.935504,
+      "title": "The Machine Crusade_Part 24"
+    },
+    {
+      "id": 24,
+      "start": 43190.935504,
+      "end": 44990.981218,
+      "title": "The Machine Crusade_Part 25"
+    },
+    {
+      "id": 25,
+      "start": 44990.981218,
+      "end": 46791.026932,
+      "title": "The Machine Crusade_Part 26"
+    },
+    {
+      "id": 26,
+      "start": 46791.026932,
+      "end": 48591.072646,
+      "title": "The Machine Crusade_Part 27"
+    },
+    {
+      "id": 27,
+      "start": 48591.072646,
+      "end": 50391.11836,
+      "title": "The Machine Crusade_Part 28"
+    },
+    {
+      "id": 28,
+      "start": 50391.11836,
+      "end": 52191.164074,
+      "title": "The Machine Crusade_Part 29"
+    },
+    {
+      "id": 29,
+      "start": 52191.164074,
+      "end": 53991.209788,
+      "title": "The Machine Crusade_Part 30"
+    },
+    {
+      "id": 30,
+      "start": 53991.209788,
+      "end": 55791.255502,
+      "title": "The Machine Crusade_Part 31"
+    },
+    {
+      "id": 31,
+      "start": 55791.255502,
+      "end": 57591.301216,
+      "title": "The Machine Crusade_Part 32"
+    },
+    {
+      "id": 32,
+      "start": 57591.301216,
+      "end": 59391.34693,
+      "title": "The Machine Crusade_Part 33"
+    },
+    {
+      "id": 33,
+      "start": 59391.34693,
+      "end": 61191.392644,
+      "title": "The Machine Crusade_Part 34"
+    },
+    {
+      "id": 34,
+      "start": 61191.392644,
+      "end": 62991.438358,
+      "title": "The Machine Crusade_Part 35"
+    },
+    {
+      "id": 35,
+      "start": 62991.438358,
+      "end": 64791.484072,
+      "title": "The Machine Crusade_Part 36"
+    },
+    {
+      "id": 36,
+      "start": 64791.484072,
+      "end": 66591.529786,
+      "title": "The Machine Crusade_Part 37"
+    },
+    {
+      "id": 37,
+      "start": 66591.529786,
+      "end": 68391.5755,
+      "title": "The Machine Crusade_Part 38"
+    },
+    {
+      "id": 38,
+      "start": 68391.5755,
+      "end": 70191.62121400001,
+      "title": "The Machine Crusade_Part 39"
+    },
+    {
+      "id": 39,
+      "start": 70191.62121400001,
+      "end": 71991.66692800002,
+      "title": "The Machine Crusade_Part 40"
+    },
+    {
+      "id": 40,
+      "start": 71991.66692800002,
+      "end": 73791.71264200003,
+      "title": "The Machine Crusade_Part 41"
+    },
+    {
+      "id": 41,
+      "start": 73791.71264200003,
+      "end": 75591.75835600003,
+      "title": "The Machine Crusade_Part 42"
+    },
+    {
+      "id": 42,
+      "start": 75591.75835600003,
+      "end": 77391.80407000004,
+      "title": "The Machine Crusade_Part 43"
+    },
+    {
+      "id": 43,
+      "start": 77391.80407000004,
+      "end": 79191.84978400005,
+      "title": "The Machine Crusade_Part 44"
+    },
+    {
+      "id": 44,
+      "start": 79191.84978400005,
+      "end": 80991.89549800006,
+      "title": "The Machine Crusade_Part 45"
+    },
+    {
+      "id": 45,
+      "start": 80991.89549800006,
+      "end": 82791.94121200006,
+      "title": "The Machine Crusade_Part 46"
+    },
+    {
+      "id": 46,
+      "start": 82791.94121200006,
+      "end": 84591.98692600007,
+      "title": "The Machine Crusade_Part 47"
+    },
+    {
+      "id": 47,
+      "start": 84591.98692600007,
+      "end": 86392.03264000008,
+      "title": "The Machine Crusade_Part 48"
+    },
+    {
+      "id": 48,
+      "start": 86392.03264000008,
+      "end": 88192.07835400008,
+      "title": "The Machine Crusade_Part 49"
+    },
+    {
+      "id": 49,
+      "start": 88192.07835400008,
+      "end": 89992.12406800009,
+      "title": "The Machine Crusade_Part 50"
+    },
+    {
+      "id": 50,
+      "start": 89992.12406800009,
+      "end": 91792.1697820001,
+      "title": "The Machine Crusade_Part 51"
+    },
+    {
+      "id": 51,
+      "start": 91792.1697820001,
+      "end": 93592.2154960001,
+      "title": "The Machine Crusade_Part 52"
+    },
+    {
+      "id": 52,
+      "start": 93592.2154960001,
+      "end": 95392.26121000011,
+      "title": "The Machine Crusade_Part 53"
+    },
+    {
+      "id": 53,
+      "start": 95392.26121000011,
+      "end": 97192.30692400012,
+      "title": "The Machine Crusade_Part 54"
+    },
+    {
+      "id": 54,
+      "start": 97192.30692400012,
+      "end": 98974.87672000012,
+      "title": "The Machine Crusade_Part 55"
+    },
+    {
+      "id": 55,
+      "start": 98974.87672000012,
+      "end": 99380.29712800012,
+      "title": "The Machine Crusade_Part 56"
+    }
+  ],
+  "title": "Dune: The Machine Crusade",
+  "subtitle": null,
+  "authors": [
+    "Brian Herbert",
+    "Kevin J. Anderson"
+  ],
+  "narrators": [
+    "Scott Brick"
+  ],
+  "series": [
+    "Dune Saga #2"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2002-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "The breathtaking vision and incomparable storytelling of Brian Herbert and Kevin Anderson's Dune: The Butlerian Jihad, a prequel to Frank Herbert's classic Dune, propelled it to the ranks of speculative fiction's classics in its own right. Now, with all the color, scope, and fascination of the prior novel, comes Dune: The Machine Crusade. More than two decades have passed since the events chronicled in The Butlerian Jihad. The crusade against thinking robots has ground on for years, but the forces led by Serena Butler and Irbis Ginjo have made only slight gains; the human worlds grow weary of war, of the bloody, inconclusive swing from victory to defeat.  The fearsome cymeks, led by Agamemnon, hatch new plots to regain their lost power from Omnius, as their numbers dwindle and time begins to run out. The fighters of Ginaz, led by Jool Noret, forge themselves into an elite warrior class, a weapon against the machine-dominated worlds. Aurelius Venport and Norma Cenva are on the verge of the most important discovery in human history: a way to \"fold\" space and travel instantaneously to any place in the galaxy. And on the faraway, nearly worthless planet of Arrakis, Selim Wormrider and his band of outlaws take the first steps to making themselves the feared fighters who will change the course of history: the Fremen.  Here is the unrivaled imaginative power that has put Brian Herbert and Kevin Anderson on best seller lists everywhere and earned them the high regard of readers around the globe. The fantastic saga of Dune continues in Dune: The Machine Crusade.",
+  "isbn": null,
+  "asin": "B002V59YJU",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

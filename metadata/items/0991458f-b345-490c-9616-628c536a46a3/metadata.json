@@ -1,0 +1,106 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 29.99,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 29.99,
+      "end": 2726.318,
+      "title": " Prologue: An Outline of the History of the Galaxy "
+    },
+    {
+      "id": 2,
+      "start": 2726.318,
+      "end": 6804.021,
+      "title": " Chapter 01: In Eternal Night "
+    },
+    {
+      "id": 3,
+      "start": 6804.021,
+      "end": 10853.953,
+      "title": " Chapter 02: The Battle of Astarte "
+    },
+    {
+      "id": 4,
+      "start": 10853.953,
+      "end": 14151.697,
+      "title": " Chapter 03: The Empire's Fading Glow "
+    },
+    {
+      "id": 5,
+      "start": 14151.697,
+      "end": 18348.148,
+      "title": " Chapter 04: The Birth of the Thirteenth Fleet "
+    },
+    {
+      "id": 6,
+      "start": 18348.148,
+      "end": 22420.789,
+      "title": " Chapter 05: Attack on Iserlohn "
+    },
+    {
+      "id": 7,
+      "start": 22420.789,
+      "end": 27617.136,
+      "title": " Chapter 06: To Every Man His Star "
+    },
+    {
+      "id": 8,
+      "start": 27617.136,
+      "end": 30867.233,
+      "title": " Chapter 07: A Farce Between the Acts "
+    },
+    {
+      "id": 9,
+      "start": 30867.233,
+      "end": 35127.491,
+      "title": " Chapter 08: Lines of Death "
+    },
+    {
+      "id": 10,
+      "start": 35127.491,
+      "end": 37819.38,
+      "title": " Chapter 09: Amritsar "
+    },
+    {
+      "id": 11,
+      "start": 37819.38,
+      "end": 40431.434,
+      "title": " Chapter 10: A New Prologue "
+    },
+    {
+      "id": 12,
+      "start": 40431.434,
+      "end": 40486.258,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Legend of the Galactic Heroes, Vol. 01: Dawn",
+  "subtitle": null,
+  "authors": [
+    "Tim Gerard Reynolds"
+  ],
+  "narrators": [
+    "Yoshiki Tanaka"
+  ],
+  "series": [
+    "Legend of the Galactic Heroes #01"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "November 30, 1982 (03-08-16)",
+  "publishedDate": null,
+  "publisher": "Simon & Schuster Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

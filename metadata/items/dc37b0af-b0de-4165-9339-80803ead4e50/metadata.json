@@ -1,0 +1,322 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 19.714,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 19.714,
+      "end": 33.75,
+      "title": "Epigraph"
+    },
+    {
+      "id": 2,
+      "start": 33.75,
+      "end": 458.249,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 1"
+    },
+    {
+      "id": 3,
+      "start": 458.249,
+      "end": 874.312,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 2"
+    },
+    {
+      "id": 4,
+      "start": 874.312,
+      "end": 1331.523,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 3"
+    },
+    {
+      "id": 5,
+      "start": 1331.523,
+      "end": 1706.588,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 4"
+    },
+    {
+      "id": 6,
+      "start": 1706.588,
+      "end": 1982.124,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 5"
+    },
+    {
+      "id": 7,
+      "start": 1982.124,
+      "end": 2537.308,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 6"
+    },
+    {
+      "id": 8,
+      "start": 2537.308,
+      "end": 2956.746,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 7"
+    },
+    {
+      "id": 9,
+      "start": 2956.746,
+      "end": 3369.391,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 8"
+    },
+    {
+      "id": 10,
+      "start": 3369.391,
+      "end": 3783.426,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 9"
+    },
+    {
+      "id": 11,
+      "start": 3783.426,
+      "end": 4203.243,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 10"
+    },
+    {
+      "id": 12,
+      "start": 4203.243,
+      "end": 4616.255,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 11"
+    },
+    {
+      "id": 13,
+      "start": 4616.255,
+      "end": 5034.709,
+      "title": "Chapter 1: Mystery Calls to Mystery ~ 12"
+    },
+    {
+      "id": 14,
+      "start": 5034.709,
+      "end": 5465.718,
+      "title": "Chapter 2: Youth Is a Paradox ~ 1"
+    },
+    {
+      "id": 15,
+      "start": 5465.718,
+      "end": 5893.898,
+      "title": "Chapter 2: Youth Is a Paradox ~ 2"
+    },
+    {
+      "id": 16,
+      "start": 5893.898,
+      "end": 6193.934,
+      "title": "Chapter 2: Youth Is a Paradox ~ 3"
+    },
+    {
+      "id": 17,
+      "start": 6193.934,
+      "end": 6762.095,
+      "title": "Chapter 2: Youth Is a Paradox ~ 4"
+    },
+    {
+      "id": 18,
+      "start": 6762.095,
+      "end": 7190.725,
+      "title": "Chapter 2: Youth Is a Paradox ~ 5"
+    },
+    {
+      "id": 19,
+      "start": 7190.725,
+      "end": 7566.761,
+      "title": "Chapter 2: Youth Is a Paradox ~ 6"
+    },
+    {
+      "id": 20,
+      "start": 7566.761,
+      "end": 8049.295,
+      "title": "Chapter 2: Youth Is a Paradox ~ 7"
+    },
+    {
+      "id": 21,
+      "start": 8049.295,
+      "end": 8586.831,
+      "title": "Chapter 2: Youth Is a Paradox ~ 8"
+    },
+    {
+      "id": 22,
+      "start": 8586.831,
+      "end": 8916.481,
+      "title": "Chapter 2: Youth Is a Paradox ~ 9"
+    },
+    {
+      "id": 23,
+      "start": 8916.481,
+      "end": 9491.779,
+      "title": "Chapter 2: Youth Is a Paradox ~ 10"
+    },
+    {
+      "id": 24,
+      "start": 9491.779,
+      "end": 9850.315,
+      "title": "Chapter 2: Youth Is a Paradox ~ 11"
+    },
+    {
+      "id": 25,
+      "start": 9850.315,
+      "end": 10213.15,
+      "title": "Chapter 2: Youth Is a Paradox ~ 12"
+    },
+    {
+      "id": 26,
+      "start": 10213.15,
+      "end": 10627.185,
+      "title": "Chapter 2: Youth Is a Paradox ~ 13"
+    },
+    {
+      "id": 27,
+      "start": 10627.185,
+      "end": 11078.349,
+      "title": "Chapter 2: Youth Is a Paradox ~ 14"
+    },
+    {
+      "id": 28,
+      "start": 11078.349,
+      "end": 11508.971,
+      "title": "Chapter 2: Youth Is a Paradox ~ 15"
+    },
+    {
+      "id": 29,
+      "start": 11508.971,
+      "end": 11918.409,
+      "title": "Chapter 3: Friendship Travels at 25 mph ~ 1"
+    },
+    {
+      "id": 30,
+      "start": 11918.409,
+      "end": 12325.373,
+      "title": "Chapter 3: Friendship Travels at 25 mph ~ 2"
+    },
+    {
+      "id": 31,
+      "start": 12325.373,
+      "end": 12731.547,
+      "title": "Chapter 3: Friendship Travels at 25 mph ~ 3"
+    },
+    {
+      "id": 32,
+      "start": 12731.547,
+      "end": 12993.583,
+      "title": "Chapter 3: Friendship Travels at 25 mph ~ 4"
+    },
+    {
+      "id": 33,
+      "start": 12993.583,
+      "end": 13546.361,
+      "title": "Chapter 3: Friendship Travels at 25 mph ~ 5"
+    },
+    {
+      "id": 34,
+      "start": 13546.361,
+      "end": 13957.208,
+      "title": "Chapter 3: Friendship Travels at 25 mph ~ 6"
+    },
+    {
+      "id": 35,
+      "start": 13957.208,
+      "end": 14365.223,
+      "title": "Chapter 3: Friendship Travels at 25 mph ~ 7"
+    },
+    {
+      "id": 36,
+      "start": 14365.223,
+      "end": 14768.434,
+      "title": "Chapter 3: Friendship Travels at 25 mph ~ 8"
+    },
+    {
+      "id": 37,
+      "start": 14768.434,
+      "end": 15179.902,
+      "title": "Chapter 3: Friendship Travels at 25 mph ~ 9"
+    },
+    {
+      "id": 38,
+      "start": 15179.902,
+      "end": 15586.864,
+      "title": "Chapter 3: Friendship Travels at 25 mph ~ 10"
+    },
+    {
+      "id": 39,
+      "start": 15586.864,
+      "end": 16001.897,
+      "title": "Chapter 4: A Night of Rain Washes It All Away ~ 1"
+    },
+    {
+      "id": 40,
+      "start": 16001.897,
+      "end": 16413.694,
+      "title": "Chapter 4: A Night of Rain Washes It All Away ~ 2"
+    },
+    {
+      "id": 41,
+      "start": 16413.694,
+      "end": 16719.73,
+      "title": "Chapter 4: A Night of Rain Washes It All Away ~ 3"
+    },
+    {
+      "id": 42,
+      "start": 16719.73,
+      "end": 17244.065,
+      "title": "Chapter 4: A Night of Rain Washes It All Away ~ 4"
+    },
+    {
+      "id": 43,
+      "start": 17244.065,
+      "end": 17657.526,
+      "title": "Chapter 4: A Night of Rain Washes It All Away ~ 5"
+    },
+    {
+      "id": 44,
+      "start": 17657.526,
+      "end": 18071.155,
+      "title": "Chapter 4: A Night of Rain Washes It All Away ~ 6"
+    },
+    {
+      "id": 45,
+      "start": 18071.155,
+      "end": 18500.863,
+      "title": "Last Chapter: All That Remains After the Fireworks Are Summer Memories ~ 1"
+    },
+    {
+      "id": 46,
+      "start": 18500.863,
+      "end": 18936.093,
+      "title": "Last Chapter: All That Remains After the Fireworks Are Summer Memories ~ 2"
+    },
+    {
+      "id": 47,
+      "start": 18936.093,
+      "end": 19036.565,
+      "title": "Afterword"
+    },
+    {
+      "id": 48,
+      "start": 19036.565,
+      "end": 19137,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Rascal Does Not Dream of Logical Witch",
+  "subtitle": null,
+  "authors": [
+    "Andrew Grace"
+  ],
+  "narrators": [
+    "Hajime Kamoshida"
+  ],
+  "series": [
+    "Rascal Does Not Dream of #03"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "January 10, 2015 (12-13-22)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

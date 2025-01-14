@@ -1,0 +1,302 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2611.513469,
+      "title": "00: Prologue"
+    },
+    {
+      "id": 1,
+      "start": 2611.513469,
+      "end": 5181.02204,
+      "title": "01: The Prophet"
+    },
+    {
+      "id": 2,
+      "start": 5181.02204,
+      "end": 8172.799999,
+      "title": "02: The Captain of Guards"
+    },
+    {
+      "id": 3,
+      "start": 8172.799999,
+      "end": 9943.69306,
+      "title": "03: Cersei"
+    },
+    {
+      "id": 4,
+      "start": 9943.69306,
+      "end": 12586.396733,
+      "title": "04: Bienne"
+    },
+    {
+      "id": 5,
+      "start": 12586.396733,
+      "end": 15619.369794,
+      "title": "05: Samwell"
+    },
+    {
+      "id": 6,
+      "start": 15619.369794,
+      "end": 17778.285712,
+      "title": "06: Arya"
+    },
+    {
+      "id": 7,
+      "start": 17778.285712,
+      "end": 20952.346120000002,
+      "title": "07: Cersei"
+    },
+    {
+      "id": 8,
+      "start": 20952.346120000002,
+      "end": 23588.414691,
+      "title": "08: Jaime"
+    },
+    {
+      "id": 9,
+      "start": 23588.414691,
+      "end": 26400.548569000002,
+      "title": "09: Brienne"
+    },
+    {
+      "id": 10,
+      "start": 26400.548569000002,
+      "end": 28797.753467000002,
+      "title": "10: Sansa"
+    },
+    {
+      "id": 11,
+      "start": 28797.753467000002,
+      "end": 31112.881630000003,
+      "title": "11: The Kraken's Daughter"
+    },
+    {
+      "id": 12,
+      "start": 31112.881630000003,
+      "end": 33420.564895,
+      "title": "12: Cersei"
+    },
+    {
+      "id": 13,
+      "start": 33420.564895,
+      "end": 35959.092242000006,
+      "title": "13: The Soiled Knight"
+    },
+    {
+      "id": 14,
+      "start": 35959.092242000006,
+      "end": 38689.384487,
+      "title": "14: Brienne"
+    },
+    {
+      "id": 15,
+      "start": 38689.384487,
+      "end": 40663.562446,
+      "title": "15: Samwell"
+    },
+    {
+      "id": 16,
+      "start": 40663.562446,
+      "end": 42611.748568,
+      "title": "16: Jaime"
+    },
+    {
+      "id": 17,
+      "start": 42611.748568,
+      "end": 45616.509384000005,
+      "title": "17: Cersei"
+    },
+    {
+      "id": 18,
+      "start": 45616.509384000005,
+      "end": 47698.285711000004,
+      "title": "18: The Iron Captain"
+    },
+    {
+      "id": 19,
+      "start": 47698.285711000004,
+      "end": 50242.246527,
+      "title": "19: The Drowned Man"
+    },
+    {
+      "id": 20,
+      "start": 50242.246527,
+      "end": 53441.959180000005,
+      "title": "20: Brienne"
+    },
+    {
+      "id": 21,
+      "start": 53441.959180000005,
+      "end": 55847.183670000006,
+      "title": "21: The Queenmaker"
+    },
+    {
+      "id": 22,
+      "start": 55847.183670000006,
+      "end": 58838.33469,
+      "title": "22:  Arya"
+    },
+    {
+      "id": 23,
+      "start": 58838.33469,
+      "end": 61741.818772000006,
+      "title": "23: Alayne"
+    },
+    {
+      "id": 24,
+      "start": 61741.818772000006,
+      "end": 65017.730609000006,
+      "title": "24: Cersei"
+    },
+    {
+      "id": 25,
+      "start": 65017.730609000006,
+      "end": 67385.495507,
+      "title": "25: Brienne"
+    },
+    {
+      "id": 26,
+      "start": 67385.495507,
+      "end": 69812.479997,
+      "title": "26: Samwell"
+    },
+    {
+      "id": 27,
+      "start": 69812.479997,
+      "end": 73109.603262,
+      "title": "27: Jaime"
+    },
+    {
+      "id": 28,
+      "start": 73109.603262,
+      "end": 76055.196731,
+      "title": "28: Cersei"
+    },
+    {
+      "id": 29,
+      "start": 76055.196731,
+      "end": 79389.178772,
+      "title": "29: The Reaver"
+    },
+    {
+      "id": 30,
+      "start": 79389.178772,
+      "end": 82062.889792,
+      "title": "30: Jaime"
+    },
+    {
+      "id": 31,
+      "start": 82062.889792,
+      "end": 84339.644078,
+      "title": "31: Brienne"
+    },
+    {
+      "id": 32,
+      "start": 84339.644078,
+      "end": 86782.58938399999,
+      "title": "32: Cersei"
+    },
+    {
+      "id": 33,
+      "start": 86782.58938399999,
+      "end": 89677.08734299999,
+      "title": "33: Jaime"
+    },
+    {
+      "id": 34,
+      "start": 89677.08734299999,
+      "end": 92338.886527,
+      "title": "34: Cat of the Canals"
+    },
+    {
+      "id": 35,
+      "start": 92338.886527,
+      "end": 94123.337139,
+      "title": "35: Samwell"
+    },
+    {
+      "id": 36,
+      "start": 94123.337139,
+      "end": 97147.062853,
+      "title": "36: Cersei"
+    },
+    {
+      "id": 37,
+      "start": 97147.062853,
+      "end": 99829.81224099999,
+      "title": "37: Brienne"
+    },
+    {
+      "id": 38,
+      "start": 99829.81224099999,
+      "end": 102087.105302,
+      "title": "38: Jaime"
+    },
+    {
+      "id": 39,
+      "start": 102087.105302,
+      "end": 104321.671833,
+      "title": "39: Cersei"
+    },
+    {
+      "id": 40,
+      "start": 104321.671833,
+      "end": 107654.426119,
+      "title": "40: The Princess in the Tower"
+    },
+    {
+      "id": 41,
+      "start": 107654.426119,
+      "end": 111807.92162899999,
+      "title": "41: Alayne"
+    },
+    {
+      "id": 42,
+      "start": 111807.92162899999,
+      "end": 114312.17632299999,
+      "title": "42: Brienne"
+    },
+    {
+      "id": 43,
+      "start": 114312.17632299999,
+      "end": 117124.54530299999,
+      "title": "43: Cersei"
+    },
+    {
+      "id": 44,
+      "start": 117124.54530299999,
+      "end": 119559.810609,
+      "title": "44: Jaime"
+    },
+    {
+      "id": 45,
+      "start": 119559.810609,
+      "end": 121891.03020099999,
+      "title": "45: Samwell"
+    }
+  ],
+  "title": "A Feast for Crows",
+  "subtitle": null,
+  "authors": [
+    "George R. R. Martin"
+  ],
+  "narrators": [
+    "946mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2005",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Roy Dotrice",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

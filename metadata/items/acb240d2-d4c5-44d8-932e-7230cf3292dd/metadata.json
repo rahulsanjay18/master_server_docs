@@ -1,0 +1,76 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 840.986122,
+      "title": "1"
+    },
+    {
+      "id": 1,
+      "start": 840.986122,
+      "end": 3376.509387,
+      "title": "2"
+    },
+    {
+      "id": 2,
+      "start": 3376.509387,
+      "end": 4848.718367,
+      "title": "3"
+    },
+    {
+      "id": 3,
+      "start": 4848.718367,
+      "end": 7738.357551000001,
+      "title": "4"
+    },
+    {
+      "id": 4,
+      "start": 7738.357551000001,
+      "end": 10069.185306000001,
+      "title": "5"
+    },
+    {
+      "id": 5,
+      "start": 10069.185306000001,
+      "end": 12182.857143000001,
+      "title": "6"
+    },
+    {
+      "id": 6,
+      "start": 12182.857143000001,
+      "end": 14497.776327000001,
+      "title": "7"
+    },
+    {
+      "id": 7,
+      "start": 14497.776327000001,
+      "end": 16401.371429000003,
+      "title": "8"
+    },
+    {
+      "id": 8,
+      "start": 16401.371429000003,
+      "end": 18307.160817000004,
+      "title": "9"
+    }
+  ],
+  "title": "VSI - Reagan-Revolution",
+  "subtitle": null,
+  "authors": [
+    "Oxford-VSI-Pack-History"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

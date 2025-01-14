@@ -1,0 +1,346 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2400.432,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 2400.432,
+      "end": 4308.741,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 4308.741,
+      "end": 6297.855,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 6297.855,
+      "end": 8010.42,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 8010.42,
+      "end": 10579.244,
+      "title": "005"
+    },
+    {
+      "id": 5,
+      "start": 10579.244,
+      "end": 12723.003,
+      "title": "006"
+    },
+    {
+      "id": 6,
+      "start": 12723.003,
+      "end": 14724.284,
+      "title": "007"
+    },
+    {
+      "id": 7,
+      "start": 14724.284,
+      "end": 17391.839,
+      "title": "008"
+    },
+    {
+      "id": 8,
+      "start": 17391.839,
+      "end": 19502.347,
+      "title": "009"
+    },
+    {
+      "id": 9,
+      "start": 19502.347,
+      "end": 22304.996,
+      "title": "010"
+    },
+    {
+      "id": 10,
+      "start": 22304.996,
+      "end": 24673.57,
+      "title": "011"
+    },
+    {
+      "id": 11,
+      "start": 24673.57,
+      "end": 26465.919,
+      "title": "012"
+    },
+    {
+      "id": 12,
+      "start": 26465.919,
+      "end": 29697.579,
+      "title": "013"
+    },
+    {
+      "id": 13,
+      "start": 29697.579,
+      "end": 32833.527,
+      "title": "014"
+    },
+    {
+      "id": 14,
+      "start": 32833.527,
+      "end": 35310.353,
+      "title": "015"
+    },
+    {
+      "id": 15,
+      "start": 35310.353,
+      "end": 36516.351,
+      "title": "016"
+    },
+    {
+      "id": 16,
+      "start": 36516.351,
+      "end": 39163.333,
+      "title": "017"
+    },
+    {
+      "id": 17,
+      "start": 39163.333,
+      "end": 40551.7,
+      "title": "018"
+    },
+    {
+      "id": 18,
+      "start": 40551.7,
+      "end": 43206.623,
+      "title": "019"
+    },
+    {
+      "id": 19,
+      "start": 43206.623,
+      "end": 44634.093,
+      "title": "020"
+    },
+    {
+      "id": 20,
+      "start": 44634.093,
+      "end": 46177.059,
+      "title": "021"
+    },
+    {
+      "id": 21,
+      "start": 46177.059,
+      "end": 48390.107,
+      "title": "022"
+    },
+    {
+      "id": 22,
+      "start": 48390.107,
+      "end": 50171.217,
+      "title": "023"
+    },
+    {
+      "id": 23,
+      "start": 50171.217,
+      "end": 51808.131,
+      "title": "024"
+    },
+    {
+      "id": 24,
+      "start": 51808.131,
+      "end": 53552.506,
+      "title": "025"
+    },
+    {
+      "id": 25,
+      "start": 53552.506,
+      "end": 55132.392,
+      "title": "026"
+    },
+    {
+      "id": 26,
+      "start": 55132.392,
+      "end": 57142.544,
+      "title": "027"
+    },
+    {
+      "id": 27,
+      "start": 57142.544,
+      "end": 59043.097,
+      "title": "028"
+    },
+    {
+      "id": 28,
+      "start": 59043.097,
+      "end": 60572.085,
+      "title": "029"
+    },
+    {
+      "id": 29,
+      "start": 60572.085,
+      "end": 61891.257,
+      "title": "030"
+    },
+    {
+      "id": 30,
+      "start": 61891.257,
+      "end": 63616.917,
+      "title": "031"
+    },
+    {
+      "id": 31,
+      "start": 63616.917,
+      "end": 64980.3,
+      "title": "032"
+    },
+    {
+      "id": 32,
+      "start": 64980.3,
+      "end": 67230.174,
+      "title": "033"
+    },
+    {
+      "id": 33,
+      "start": 67230.174,
+      "end": 68917.801,
+      "title": "034"
+    },
+    {
+      "id": 34,
+      "start": 68917.801,
+      "end": 70627.393,
+      "title": "035"
+    },
+    {
+      "id": 35,
+      "start": 70627.393,
+      "end": 72293.936,
+      "title": "036"
+    },
+    {
+      "id": 36,
+      "start": 72293.936,
+      "end": 74844.601,
+      "title": "037"
+    },
+    {
+      "id": 37,
+      "start": 74844.601,
+      "end": 76196.792,
+      "title": "038"
+    },
+    {
+      "id": 38,
+      "start": 76196.792,
+      "end": 78999.023,
+      "title": "039"
+    },
+    {
+      "id": 39,
+      "start": 78999.023,
+      "end": 80443.025,
+      "title": "040"
+    },
+    {
+      "id": 40,
+      "start": 80443.025,
+      "end": 82933.272,
+      "title": "041"
+    },
+    {
+      "id": 41,
+      "start": 82933.272,
+      "end": 84555,
+      "title": "042"
+    },
+    {
+      "id": 42,
+      "start": 84555,
+      "end": 86746.5,
+      "title": "043"
+    },
+    {
+      "id": 43,
+      "start": 86746.5,
+      "end": 89094.269,
+      "title": "044"
+    },
+    {
+      "id": 44,
+      "start": 89094.269,
+      "end": 90429.835,
+      "title": "045"
+    },
+    {
+      "id": 45,
+      "start": 90429.835,
+      "end": 93405.054,
+      "title": "046"
+    },
+    {
+      "id": 46,
+      "start": 93405.054,
+      "end": 96438.787,
+      "title": "047"
+    },
+    {
+      "id": 47,
+      "start": 96438.787,
+      "end": 99009.701,
+      "title": "048"
+    },
+    {
+      "id": 48,
+      "start": 99009.701,
+      "end": 101003.459,
+      "title": "049"
+    },
+    {
+      "id": 49,
+      "start": 101003.459,
+      "end": 102755.823,
+      "title": "050"
+    },
+    {
+      "id": 50,
+      "start": 102755.823,
+      "end": 105278.392,
+      "title": "051"
+    },
+    {
+      "id": 51,
+      "start": 105278.392,
+      "end": 107203.466,
+      "title": "052"
+    },
+    {
+      "id": 52,
+      "start": 107203.466,
+      "end": 111206.817959,
+      "title": "053"
+    }
+  ],
+  "title": "01 - The Shadow of Saganami",
+  "subtitle": null,
+  "authors": [
+    "David Weber"
+  ],
+  "narrators": [
+    "Jay Snyder"
+  ],
+  "series": [
+    "Saganami Island #1"
+  ],
+  "genres": [
+    "Space Opera, Military SF, Science Fiction"
+  ],
+  "publishedYear": "2004-10-25T21:50:33Z",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "The Star Kingdom has a new generation of officers! And this elite group hand-picked and trained by Honor Harrington herself is going to be needed immediately....",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

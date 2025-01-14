@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=War Crimes and Imperial Fantasies (Alternative Radio)
+artist=Noam Chomsky
+album_artist=Noam Chomsky
+album=War Crimes and Imperial Fantasies (Alternative Radio)
+genre=Books & Spoken
+TRACKTOTAL=2
+grouping=Various Interviews and Talks

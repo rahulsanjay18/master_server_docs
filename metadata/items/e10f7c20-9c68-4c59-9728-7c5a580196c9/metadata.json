@@ -1,0 +1,96 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2634.1515,
+      "title": "Neuromancer 01-12"
+    },
+    {
+      "id": 1,
+      "start": 2634.1515,
+      "end": 5340.7405,
+      "title": "Neuromancer 02-12"
+    },
+    {
+      "id": 2,
+      "start": 5340.7405,
+      "end": 8010.91475,
+      "title": "Neuromancer 03-12"
+    },
+    {
+      "id": 3,
+      "start": 8010.91475,
+      "end": 10653.60825,
+      "title": "Neuromancer 04-12"
+    },
+    {
+      "id": 4,
+      "start": 10653.60825,
+      "end": 13351.65525,
+      "title": "Neuromancer 05-12"
+    },
+    {
+      "id": 5,
+      "start": 13351.65525,
+      "end": 16023.68425,
+      "title": "Neuromancer 06-12"
+    },
+    {
+      "id": 6,
+      "start": 16023.68425,
+      "end": 18744.77125,
+      "title": "Neuromancer 07-12"
+    },
+    {
+      "id": 7,
+      "start": 18744.77125,
+      "end": 21435.765125,
+      "title": "Neuromancer 08-12"
+    },
+    {
+      "id": 8,
+      "start": 21435.765125,
+      "end": 24106.697,
+      "title": "Neuromancer 09-12"
+    },
+    {
+      "id": 9,
+      "start": 24106.697,
+      "end": 26760.518625,
+      "title": "Neuromancer 10-12"
+    },
+    {
+      "id": 10,
+      "start": 26760.518625,
+      "end": 29458.550625,
+      "title": "Neuromancer 11-12"
+    },
+    {
+      "id": 11,
+      "start": 29458.550625,
+      "end": 31647.9935,
+      "title": "Neuromancer 12-12"
+    }
+  ],
+  "title": "Neuromancer",
+  "subtitle": null,
+  "authors": [
+    "William Gibson"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Speech"
+  ],
+  "publishedYear": "1985",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

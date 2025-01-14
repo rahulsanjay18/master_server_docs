@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Powers
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Powers
+genre=Audio Book
+date=2007
+comment=Read by Andy Paris
+description=Read by Andy Paris
+TRACKTOTAL=15

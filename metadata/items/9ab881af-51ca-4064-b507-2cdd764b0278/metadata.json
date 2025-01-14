@@ -1,0 +1,100 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 36,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 36,
+      "end": 657,
+      "title": "PROLOGUE"
+    },
+    {
+      "id": 2,
+      "start": 657,
+      "end": 3527,
+      "title": "CHAPTER 01: THE ROAD OF STAKES"
+    },
+    {
+      "id": 3,
+      "start": 3527,
+      "end": 5452,
+      "title": "CHAPTER 02: ROSE MANOR"
+    },
+    {
+      "id": 4,
+      "start": 5452,
+      "end": 8400,
+      "title": "CHAPTER 03: A WISH CLOAKED IN DARKNESS"
+    },
+    {
+      "id": 5,
+      "start": 8400,
+      "end": 10836,
+      "title": "CHAPTER 04: INTO THE FOREST OF DEATH"
+    },
+    {
+      "id": 6,
+      "start": 10836,
+      "end": 13108,
+      "title": "CHAPTER 05: DANCE OF THE ROSES"
+    },
+    {
+      "id": 7,
+      "start": 13108,
+      "end": 15894,
+      "title": "CHAPTER 06: THE WRAITH KNIGHTS"
+    },
+    {
+      "id": 8,
+      "start": 15894,
+      "end": 18531,
+      "title": "CHAPTER 07: THE FALLEN ONES"
+    },
+    {
+      "id": 9,
+      "start": 18531,
+      "end": 20021,
+      "title": "CHAPTER 08: THE ROSE GARDEN"
+    },
+    {
+      "id": 10,
+      "start": 20021,
+      "end": 20115,
+      "title": "Outro - Ending Credits ☕"
+    },
+    {
+      "id": 11,
+      "start": 20115,
+      "end": 20353,
+      "title": "Outro - Advertisements"
+    }
+  ],
+  "title": "Vampire Hunter D, Vol 09: The Rose Princess",
+  "subtitle": null,
+  "authors": [
+    "Full Cast"
+  ],
+  "narrators": [
+    "Hideyuki Kikuchi"
+  ],
+  "series": [
+    "Vampire Hunter D #09"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1994 (02-01-23)",
+  "publishedDate": null,
+  "publisher": "Graphic Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

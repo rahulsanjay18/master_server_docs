@@ -1,0 +1,128 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 256.10449,
+      "title": "Voices 00"
+    },
+    {
+      "id": 1,
+      "start": 256.10449,
+      "end": 1495.719184,
+      "title": "Voices 01"
+    },
+    {
+      "id": 2,
+      "start": 1495.719184,
+      "end": 2727.288164,
+      "title": "Voices 02"
+    },
+    {
+      "id": 3,
+      "start": 2727.288164,
+      "end": 4288.026123,
+      "title": "Voices 03"
+    },
+    {
+      "id": 4,
+      "start": 4288.026123,
+      "end": 6231.3273469999995,
+      "title": "Voices 04"
+    },
+    {
+      "id": 5,
+      "start": 6231.3273469999995,
+      "end": 8113.6848979999995,
+      "title": "Voices 05"
+    },
+    {
+      "id": 6,
+      "start": 8113.6848979999995,
+      "end": 9856.809796,
+      "title": "Voices 06"
+    },
+    {
+      "id": 7,
+      "start": 9856.809796,
+      "end": 11413.812245,
+      "title": "Voices 07"
+    },
+    {
+      "id": 8,
+      "start": 11413.812245,
+      "end": 14052.127347,
+      "title": "Voices 08"
+    },
+    {
+      "id": 9,
+      "start": 14052.127347,
+      "end": 16020.871836999999,
+      "title": "Voices 09"
+    },
+    {
+      "id": 10,
+      "start": 16020.871836999999,
+      "end": 17970.860408,
+      "title": "Voices 10"
+    },
+    {
+      "id": 11,
+      "start": 17970.860408,
+      "end": 19958.282449000002,
+      "title": "Voices 11"
+    },
+    {
+      "id": 12,
+      "start": 19958.282449000002,
+      "end": 21471.111837000004,
+      "title": "Voices 12"
+    },
+    {
+      "id": 13,
+      "start": 21471.111837000004,
+      "end": 23295.164082000003,
+      "title": "Voices 13"
+    },
+    {
+      "id": 14,
+      "start": 23295.164082000003,
+      "end": 25347.239184000002,
+      "title": "Voices 14"
+    },
+    {
+      "id": 15,
+      "start": 25347.239184000002,
+      "end": 27420.238368000002,
+      "title": "Voices 15"
+    },
+    {
+      "id": 16,
+      "start": 27420.238368000002,
+      "end": 29380.310205,
+      "title": "Voices 16"
+    }
+  ],
+  "title": "Voices",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "227mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2006",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Lindsay Ellison",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

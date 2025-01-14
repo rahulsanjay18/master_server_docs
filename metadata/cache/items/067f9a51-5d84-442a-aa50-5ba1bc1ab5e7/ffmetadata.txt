@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=The Obelisk Gate (Unabridged)
+artist=N. K. Jemisin
+album_artist=N. K. Jemisin
+album=The Obelisk Gate (Unabridged)
+date=2016-01-01
+comment=This is the way the world ends, for the last time. The season of endings grows darker, as civilization fades into the long cold night. Essun - once Damaya, once Syenite, now avenger - has found shelter, but not her daughter. Instead there is Alabaster Tenring, destroyer of the world, with a request. But if Essun does what he asks, it would seal the fate of the Stillness forever. Far away, her daughter Nassun is growing in power - and her choices will break the world.
+description=This is the way the world ends, for the last time. The season of endings grows darker, as civilization fades into the long cold night. Essun - once Damaya, once Syenite, now avenger - has found shelter, but not her daughter. Instead there is Alabaster Tenring, destroyer of the world, with a request. But if Essun does what he asks, it would seal the fate of the Stillness forever. Far away, her daughter Nassun is growing in power - and her choices will break the world.
+composer=Robin Miles
+TRACKTOTAL=20

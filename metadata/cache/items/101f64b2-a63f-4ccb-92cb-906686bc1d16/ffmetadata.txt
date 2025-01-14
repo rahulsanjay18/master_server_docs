@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Tales from Earthsea
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Tales from Earthsea
+genre=Audio Book
+date=2001
+comment=Read by Madelyn Buzzard
+description=Read by Madelyn Buzzard
+composer=293mb
+TRACKTOTAL=9

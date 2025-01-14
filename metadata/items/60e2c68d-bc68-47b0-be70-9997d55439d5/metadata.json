@@ -1,0 +1,106 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 30.65,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 30.65,
+      "end": 112.105,
+      "title": "0. Prologue"
+    },
+    {
+      "id": 2,
+      "start": 112.105,
+      "end": 1829.592,
+      "title": "1. E-Rank Hunter"
+    },
+    {
+      "id": 3,
+      "start": 1829.592,
+      "end": 3702.374,
+      "title": "2. First Blood"
+    },
+    {
+      "id": 4,
+      "start": 3702.374,
+      "end": 7575.694,
+      "title": "3. The Final Test"
+    },
+    {
+      "id": 5,
+      "start": 7575.694,
+      "end": 11298.038,
+      "title": "4. Daily Quest"
+    },
+    {
+      "id": 6,
+      "start": 11298.038,
+      "end": 13822.186,
+      "title": "5. Boss Round"
+    },
+    {
+      "id": 7,
+      "start": 13822.186,
+      "end": 17984.409,
+      "title": "6. The Lizards"
+    },
+    {
+      "id": 8,
+      "start": 17984.409,
+      "end": 21387.014,
+      "title": "7. A Proposal"
+    },
+    {
+      "id": 9,
+      "start": 21387.014,
+      "end": 24089.352,
+      "title": "8. The Demon’s Castle"
+    },
+    {
+      "id": 10,
+      "start": 24089.352,
+      "end": 27460.239,
+      "title": "9. B-Rank Taesik Kang"
+    },
+    {
+      "id": 11,
+      "start": 27460.239,
+      "end": 29464.074,
+      "title": "10. The Strange Raids"
+    },
+    {
+      "id": 12,
+      "start": 29464.074,
+      "end": 29582.099,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Solo Leveling, Vol. 01",
+  "subtitle": null,
+  "authors": [
+    "Ki Hong Lee"
+  ],
+  "narrators": [
+    "Chugong"
+  ],
+  "series": [
+    "Solo Leveling #01"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "November 4, 2016 (07-13-21)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

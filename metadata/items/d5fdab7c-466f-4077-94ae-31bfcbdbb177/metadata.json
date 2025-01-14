@@ -1,0 +1,86 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1861.198367,
+      "title": "01: Warriors in the Mist"
+    },
+    {
+      "id": 1,
+      "start": 1861.198367,
+      "end": 4117.968978999999,
+      "title": "02: The Shadow"
+    },
+    {
+      "id": 2,
+      "start": 4117.968978999999,
+      "end": 6996.532243999999,
+      "title": "03: The School for Wizards"
+    },
+    {
+      "id": 3,
+      "start": 6996.532243999999,
+      "end": 10278.373876999998,
+      "title": "04: The Loosing of the Shadow"
+    },
+    {
+      "id": 4,
+      "start": 10278.373876999998,
+      "end": 12853.629386999997,
+      "title": "05: The Dragon of Pendor"
+    },
+    {
+      "id": 5,
+      "start": 12853.629386999997,
+      "end": 15079.000815999996,
+      "title": "06: Hunted"
+    },
+    {
+      "id": 6,
+      "start": 15079.000815999996,
+      "end": 18342.948570999997,
+      "title": "07: The Hawk's Flight"
+    },
+    {
+      "id": 7,
+      "start": 18342.948570999997,
+      "end": 21241.756734,
+      "title": "08: Hunting"
+    },
+    {
+      "id": 8,
+      "start": 21241.756734,
+      "end": 23560.43755,
+      "title": "09: Iffish"
+    },
+    {
+      "id": 9,
+      "start": 23560.43755,
+      "end": 26254.132244,
+      "title": "10: The Open Sea"
+    }
+  ],
+  "title": "A Wizard of Earthsea",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "202mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1968",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Rob Inglis",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

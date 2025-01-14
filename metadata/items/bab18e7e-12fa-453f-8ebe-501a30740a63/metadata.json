@@ -1,0 +1,82 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 42,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 42,
+      "end": 3306,
+      "title": "CHAPTER 01: THE GIRL THE SLEEP-BRINGER LOVED"
+    },
+    {
+      "id": 2,
+      "start": 3306,
+      "end": 6151,
+      "title": "CHAPTER 02: WHEN THE DREAM COMES"
+    },
+    {
+      "id": 3,
+      "start": 6151,
+      "end": 9340,
+      "title": "CHAPTER 03: THE SHERIFF"
+    },
+    {
+      "id": 4,
+      "start": 9340,
+      "end": 12069,
+      "title": "CHAPTER 04: THE DREAM ASSASSIN"
+    },
+    {
+      "id": 5,
+      "start": 12069,
+      "end": 14956,
+      "title": "CHAPTER 05: THE AWAKENED"
+    },
+    {
+      "id": 6,
+      "start": 14956,
+      "end": 19306,
+      "title": "CHAPTER 06: DAYS THAT WILL NEVER COME AGAIN"
+    },
+    {
+      "id": 7,
+      "start": 19306,
+      "end": 19407,
+      "title": "Outro - Ending Credits ☕"
+    },
+    {
+      "id": 8,
+      "start": 19407,
+      "end": 19727.11,
+      "title": "Outro - Advertisements"
+    }
+  ],
+  "title": "Vampire Hunter D, Vol. 05: The Stuff of Dreams",
+  "subtitle": null,
+  "authors": [
+    "Full Cast"
+  ],
+  "narrators": [
+    "Hideyuki Kikuchi"
+  ],
+  "series": [
+    "Vampire Hunter D #05"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1986 (07-15-22)",
+  "publishedDate": null,
+  "publisher": "Graphic Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

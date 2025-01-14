@@ -1,0 +1,320 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 402.520816,
+      "title": "01 Intro Vol I"
+    },
+    {
+      "id": 1,
+      "start": 402.520816,
+      "end": 1274.540408,
+      "title": "02 George R. R. Martin"
+    },
+    {
+      "id": 2,
+      "start": 1274.540408,
+      "end": 3470.8897960000004,
+      "title": "03 One; A Four-Color Fanboy"
+    },
+    {
+      "id": 3,
+      "start": 3470.8897960000004,
+      "end": 6309.355102,
+      "title": "04 Only Kids Are Afraid of the Dark"
+    },
+    {
+      "id": 4,
+      "start": 6309.355102,
+      "end": 9754.592653,
+      "title": "05 The Fortress"
+    },
+    {
+      "id": 5,
+      "start": 9754.592653,
+      "end": 11582.354286,
+      "title": "06 And Death His Legacy"
+    },
+    {
+      "id": 6,
+      "start": 11582.354286,
+      "end": 12982.099592,
+      "title": "07 Two; The Filthy Pro"
+    },
+    {
+      "id": 7,
+      "start": 12982.099592,
+      "end": 15042.037551000001,
+      "title": "08 The Hero"
+    },
+    {
+      "id": 8,
+      "start": 15042.037551000001,
+      "end": 17253.459592,
+      "title": "09 The Exit to San Breta"
+    },
+    {
+      "id": 9,
+      "start": 17253.459592,
+      "end": 19784.933878,
+      "title": "10 The Second Kind of Loneliness"
+    },
+    {
+      "id": 10,
+      "start": 19784.933878,
+      "end": 22796.120817,
+      "title": "11 With Morning Comes Mistfall"
+    },
+    {
+      "id": 11,
+      "start": 22796.120817,
+      "end": 24716.878367999998,
+      "title": "12 Three; The Light of Distant Stars"
+    },
+    {
+      "id": 12,
+      "start": 24716.878367999998,
+      "end": 36247.849796999995,
+      "title": "13 A Song for Lya"
+    },
+    {
+      "id": 13,
+      "start": 36247.849796999995,
+      "end": 39365.015511,
+      "title": "14 This Tower of Ashes"
+    },
+    {
+      "id": 14,
+      "start": 39365.015511,
+      "end": 46325.995102999994,
+      "title": "15 And Seven Times Never Kill Man"
+    },
+    {
+      "id": 15,
+      "start": 46325.995102999994,
+      "end": 52740.519185,
+      "title": "16 The Stone City"
+    },
+    {
+      "id": 16,
+      "start": 52740.519185,
+      "end": 57374.798369,
+      "title": "17 Bitterblooms"
+    },
+    {
+      "id": 17,
+      "start": 57374.798369,
+      "end": 60688.561634,
+      "title": "18 The Way of Cross and Dragon"
+    },
+    {
+      "id": 18,
+      "start": 60688.561634,
+      "end": 62399.085716,
+      "title": "19 Four; The Heirs of Turtle Castle"
+    },
+    {
+      "id": 19,
+      "start": 62399.085716,
+      "end": 66002.128981,
+      "title": "20 The Lonely Songs of Laren Dorr"
+    },
+    {
+      "id": 20,
+      "start": 66002.128981,
+      "end": 69241.05143,
+      "title": "21 The Ice Dragon"
+    },
+    {
+      "id": 21,
+      "start": 69241.05143,
+      "end": 72549.302859,
+      "title": "22 In the Lost Lands"
+    },
+    {
+      "id": 22,
+      "start": 72549.302859,
+      "end": 74254.57632800001,
+      "title": "23 Five; Hybrids and Horrors"
+    },
+    {
+      "id": 23,
+      "start": 74254.57632800001,
+      "end": 79189.890614,
+      "title": "24 Meathouse Man"
+    },
+    {
+      "id": 24,
+      "start": 79189.890614,
+      "end": 82220.5649,
+      "title": "25 Remembering Melody"
+    },
+    {
+      "id": 25,
+      "start": 82220.5649,
+      "end": 89571.761635,
+      "title": "26 Sandkings"
+    },
+    {
+      "id": 26,
+      "start": 89571.761635,
+      "end": 105960.59428800001,
+      "title": "27 Nightflyers"
+    },
+    {
+      "id": 27,
+      "start": 105960.59428800001,
+      "end": 110833.00571700001,
+      "title": "28 The Monkey Treatment"
+    },
+    {
+      "id": 28,
+      "start": 110833.00571700001,
+      "end": 116162.89959500001,
+      "title": "29 The Pear-Shaped Man"
+    },
+    {
+      "id": 29,
+      "start": 116162.89959500001,
+      "end": 116207.516738,
+      "title": "30 End Vol I"
+    },
+    {
+      "id": 30,
+      "start": 116207.516738,
+      "end": 116579.239187,
+      "title": "31 Intro Vol II"
+    },
+    {
+      "id": 31,
+      "start": 116579.239187,
+      "end": 117555.252248,
+      "title": "32 Six; A Taste of Tuf"
+    },
+    {
+      "id": 32,
+      "start": 117555.252248,
+      "end": 122395.219595,
+      "title": "33 A Beast for Norn (Expanded)"
+    },
+    {
+      "id": 33,
+      "start": 122395.219595,
+      "end": 130131.983677,
+      "title": "34 Guardians"
+    },
+    {
+      "id": 34,
+      "start": 130131.983677,
+      "end": 132163.448167,
+      "title": "35 Seven; The Siren Song of Hollywood"
+    },
+    {
+      "id": 35,
+      "start": 132163.448167,
+      "end": 134996.297147,
+      "title": "36 The Twilight Zone; The Road Less Traveled"
+    },
+    {
+      "id": 36,
+      "start": 134996.297147,
+      "end": 144220.395106,
+      "title": "37 Doorways"
+    },
+    {
+      "id": 37,
+      "start": 144220.395106,
+      "end": 145619.069392,
+      "title": "38 Eight; Doing the Wild Card Shuffle"
+    },
+    {
+      "id": 38,
+      "start": 145619.069392,
+      "end": 154654.119188,
+      "title": "39 Shell Games"
+    },
+    {
+      "id": 39,
+      "start": 154654.119188,
+      "end": 164726.177964,
+      "title": "40 From the Journal of Xavier Desmond"
+    },
+    {
+      "id": 40,
+      "start": 164726.177964,
+      "end": 166739.461229,
+      "title": "41 Nine; The Heart in Conflict"
+    },
+    {
+      "id": 41,
+      "start": 166739.461229,
+      "end": 172812.46041300002,
+      "title": "42 Under Siege"
+    },
+    {
+      "id": 42,
+      "start": 172812.46041300002,
+      "end": 188807.810617,
+      "title": "43 The Skin Trade"
+    },
+    {
+      "id": 43,
+      "start": 188807.810617,
+      "end": 198747.50694400002,
+      "title": "44 Unsound Variations"
+    },
+    {
+      "id": 44,
+      "start": 198747.50694400002,
+      "end": 207162.43592400002,
+      "title": "45 The Glass Flower"
+    },
+    {
+      "id": 45,
+      "start": 207162.43592400002,
+      "end": 221119.84327100002,
+      "title": "46 The Hedge Knight"
+    },
+    {
+      "id": 46,
+      "start": 221119.84327100002,
+      "end": 228009.09061800002,
+      "title": "47 Portraits of His Children"
+    },
+    {
+      "id": 47,
+      "start": 228009.09061800002,
+      "end": 233052.31674,
+      "title": "48 George R. R. Martin; A RRetrospective Fiction Checklist"
+    },
+    {
+      "id": 48,
+      "start": 233052.31674,
+      "end": 233097.87429100001,
+      "title": "49 End Vol II"
+    }
+  ],
+  "title": "Dreamsongs: GRRM: A RRetrospective",
+  "subtitle": null,
+  "authors": [
+    "George R. R. Martin"
+  ],
+  "narrators": [
+    "1.75gb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2003",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Eric Sandvold",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

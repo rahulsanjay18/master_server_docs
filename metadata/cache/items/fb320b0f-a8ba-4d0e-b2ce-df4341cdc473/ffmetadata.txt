@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Saturns Children
+artist=Charles Stross
+album_artist=Charles Stross
+album=Saturns Children
+genre=Sci Fi
+date=2008
+comment=unabridged
+description=unabridged
+TRACKTOTAL=25
+grouping=Charles Stross - Freyaverse

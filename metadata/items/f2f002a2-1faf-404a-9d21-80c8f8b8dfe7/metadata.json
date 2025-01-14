@@ -1,0 +1,263 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 27.923991,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 27.923991,
+      "end": 1594.861973,
+      "title": "Chapter 1: The Dark Lord Ascending"
+    },
+    {
+      "id": 2,
+      "start": 1594.861973,
+      "end": 3413.819955,
+      "title": "Chapter 2: In Memoriam"
+    },
+    {
+      "id": 3,
+      "start": 3413.819955,
+      "end": 4908.046939,
+      "title": "Chapter 3: The Dursleys Departing"
+    },
+    {
+      "id": 4,
+      "start": 4908.046939,
+      "end": 7246.481927,
+      "title": "Chapter 4: The Seven Potters"
+    },
+    {
+      "id": 5,
+      "start": 7246.481927,
+      "end": 9886.659909,
+      "title": "Chapter 5: Fallen Warrior"
+    },
+    {
+      "id": 6,
+      "start": 9886.659909,
+      "end": 12679.694898,
+      "title": "Chapter 6: The Ghoul in Pyjamas"
+    },
+    {
+      "id": 7,
+      "start": 12679.694898,
+      "end": 15461.444898,
+      "title": "Chapter 7: The Will of Albus Dumbledore"
+    },
+    {
+      "id": 8,
+      "start": 15461.444898,
+      "end": 18162.41288,
+      "title": "Chapter 8: The Wedding"
+    },
+    {
+      "id": 9,
+      "start": 18162.41288,
+      "end": 19912.917868,
+      "title": "Chapter 9: A Place to Hide"
+    },
+    {
+      "id": 10,
+      "start": 19912.917868,
+      "end": 22836.309864,
+      "title": "Chapter 10: Kreacher's Tale"
+    },
+    {
+      "id": 11,
+      "start": 22836.309864,
+      "end": 25291.28585,
+      "title": "Chapter 11: The Bribe"
+    },
+    {
+      "id": 12,
+      "start": 25291.28585,
+      "end": 27839.88483,
+      "title": "Chapter 12: Magic Is Might"
+    },
+    {
+      "id": 13,
+      "start": 27839.88483,
+      "end": 30357.019819,
+      "title": "Chapter 13: The Muggle-Born Registration Commission"
+    },
+    {
+      "id": 14,
+      "start": 30357.019819,
+      "end": 32093.639819,
+      "title": "Chapter 14: The Thief"
+    },
+    {
+      "id": 15,
+      "start": 32093.639819,
+      "end": 34979.76381,
+      "title": "Chapter 15: The Goblin's Revenge"
+    },
+    {
+      "id": 16,
+      "start": 34979.76381,
+      "end": 37165.921791,
+      "title": "Chapter 16: Godric's Hollow"
+    },
+    {
+      "id": 17,
+      "start": 37165.921791,
+      "end": 39592.893787,
+      "title": "Chapter 17: Bathilda's Secret"
+    },
+    {
+      "id": 18,
+      "start": 39592.893787,
+      "end": 41008.404785,
+      "title": "Chapter 18: The Life and Lies of Albus Dumbledore"
+    },
+    {
+      "id": 19,
+      "start": 41008.404785,
+      "end": 43802.600771,
+      "title": "Chapter 19: The Silver Doe"
+    },
+    {
+      "id": 20,
+      "start": 43802.600771,
+      "end": 45628.129751,
+      "title": "Chapter 20: Xenophilius Lovegood"
+    },
+    {
+      "id": 21,
+      "start": 45628.129751,
+      "end": 47681.980748,
+      "title": "Chapter 21: The Tale of the Three Brothers"
+    },
+    {
+      "id": 22,
+      "start": 47681.980748,
+      "end": 50107.745737,
+      "title": "Chapter 22: The Deathly Hallows"
+    },
+    {
+      "id": 23,
+      "start": 50107.745737,
+      "end": 53706.721723,
+      "title": "Chapter 23: Malfoy Manor"
+    },
+    {
+      "id": 24,
+      "start": 53706.721723,
+      "end": 56617.435714,
+      "title": "Chapter 24: The Wandmaker"
+    },
+    {
+      "id": 25,
+      "start": 56617.435714,
+      "end": 58413.568707,
+      "title": "Chapter 25: Shell Cottage"
+    },
+    {
+      "id": 26,
+      "start": 58413.568707,
+      "end": 61283.415692,
+      "title": "Chapter 26: Gringotts"
+    },
+    {
+      "id": 27,
+      "start": 61283.415692,
+      "end": 62457.764671,
+      "title": "Chapter 27: The Final Hiding Place"
+    },
+    {
+      "id": 28,
+      "start": 62457.764671,
+      "end": 64354.648662,
+      "title": "Chapter 28: The Missing Mirror"
+    },
+    {
+      "id": 29,
+      "start": 64354.648662,
+      "end": 66176.067642,
+      "title": "Chapter 29: The Lost Diadem"
+    },
+    {
+      "id": 30,
+      "start": 66176.067642,
+      "end": 68260.591633,
+      "title": "Chapter 30: The Sacking of Severus Snape"
+    },
+    {
+      "id": 31,
+      "start": 68260.591633,
+      "end": 71679.798617,
+      "title": "Chapter 31: The Battle of Hogwarts"
+    },
+    {
+      "id": 32,
+      "start": 71679.798617,
+      "end": 74218.923605,
+      "title": "Chapter 32: The Elder Wand"
+    },
+    {
+      "id": 33,
+      "start": 74218.923605,
+      "end": 77980.253605,
+      "title": "Chapter 33: The Prince's Tale"
+    },
+    {
+      "id": 34,
+      "start": 77980.253605,
+      "end": 79742.322585,
+      "title": "Chapter 34: The Forest Again"
+    },
+    {
+      "id": 35,
+      "start": 79742.322585,
+      "end": 82129.960567,
+      "title": "Chapter 35: King's Cross"
+    },
+    {
+      "id": 36,
+      "start": 82129.960567,
+      "end": 85550.839546,
+      "title": "Chapter 36: The Flaw in the Plan"
+    },
+    {
+      "id": 37,
+      "start": 85550.839546,
+      "end": 86278.839546,
+      "title": "Nineteen Years Later"
+    },
+    {
+      "id": 38,
+      "start": 86278.839546,
+      "end": 86387.346667,
+      "title": "End Credits"
+    }
+  ],
+  "title": "07 Harry Potter and the Deathly Hallows",
+  "subtitle": null,
+  "authors": [
+    "J.K. Rowling"
+  ],
+  "narrators": [
+    "Stephen Fry"
+  ],
+  "series": [
+    "Harry Potter #7"
+  ],
+  "genres": [
+    "Academy",
+    "Portal Fantasy (YA)"
+  ],
+  "publishedYear": "2007",
+  "publishedDate": null,
+  "publisher": "Pottermore Publishing",
+  "description": "Unabridged",
+  "isbn": null,
+  "asin": "B079TM3HFQ",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

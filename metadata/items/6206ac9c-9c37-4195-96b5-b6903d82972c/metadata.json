@@ -1,0 +1,104 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 187.141224,
+      "title": "00: Prologue"
+    },
+    {
+      "id": 1,
+      "start": 187.141224,
+      "end": 918.93551,
+      "title": "01: The Eaten One"
+    },
+    {
+      "id": 2,
+      "start": 918.93551,
+      "end": 2960.822857,
+      "title": "02: The Wall Around the Place"
+    },
+    {
+      "id": 3,
+      "start": 2960.822857,
+      "end": 4846.706939,
+      "title": "03: The Prisoners"
+    },
+    {
+      "id": 4,
+      "start": 4846.706939,
+      "end": 7043.343674,
+      "title": "04: Dreams and Tales"
+    },
+    {
+      "id": 5,
+      "start": 7043.343674,
+      "end": 8883.826939,
+      "title": "05: Light Under the Hill"
+    },
+    {
+      "id": 6,
+      "start": 8883.826939,
+      "end": 11186.285715,
+      "title": "06: The Man Trap"
+    },
+    {
+      "id": 7,
+      "start": 11186.285715,
+      "end": 13005.479184,
+      "title": "07: The Great Treasure"
+    },
+    {
+      "id": 8,
+      "start": 13005.479184,
+      "end": 13938.782041,
+      "title": "08: Names"
+    },
+    {
+      "id": 9,
+      "start": 13938.782041,
+      "end": 15861.995102,
+      "title": "09: The Ring of Erreth-Akbe"
+    },
+    {
+      "id": 10,
+      "start": 15861.995102,
+      "end": 17170.625306,
+      "title": "10: The Anger of the Dark"
+    },
+    {
+      "id": 11,
+      "start": 17170.625306,
+      "end": 18851.683265000003,
+      "title": "11: The Western Mountains"
+    },
+    {
+      "id": 12,
+      "start": 18851.683265000003,
+      "end": 20467.330612000005,
+      "title": "12: Voyage"
+    }
+  ],
+  "title": "The Tombs of Atuan",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "319mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1971",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Aysha Kala",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

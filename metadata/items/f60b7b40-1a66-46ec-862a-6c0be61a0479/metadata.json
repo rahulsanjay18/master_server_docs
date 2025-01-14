@@ -1,0 +1,338 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 443.350204,
+      "title": "01 Intro"
+    },
+    {
+      "id": 1,
+      "start": 443.350204,
+      "end": 968.4897960000001,
+      "title": "02 Introduction"
+    },
+    {
+      "id": 2,
+      "start": 968.4897960000001,
+      "end": 1108.0620410000001,
+      "title": "03 A Note at the Beginning"
+    },
+    {
+      "id": 3,
+      "start": 1108.0620410000001,
+      "end": 1112.7640820000001,
+      "title": "04 Going Over Eighty"
+    },
+    {
+      "id": 4,
+      "start": 1112.7640820000001,
+      "end": 1742.4457150000003,
+      "title": "05 In Your Spare Time"
+    },
+    {
+      "id": 5,
+      "start": 1742.4457150000003,
+      "end": 2104.3722460000004,
+      "title": "06 The Sissy Strikes Back"
+    },
+    {
+      "id": 6,
+      "start": 2104.3722460000004,
+      "end": 2801.3975520000004,
+      "title": "07 The Diminshed Thing"
+    },
+    {
+      "id": 7,
+      "start": 2801.3975520000004,
+      "end": 3067.7681640000005,
+      "title": "08 Catching Up, Ha Ha"
+    },
+    {
+      "id": 8,
+      "start": 3067.7681640000005,
+      "end": 3071.3991840000003,
+      "title": "09 The Annals of Pard"
+    },
+    {
+      "id": 9,
+      "start": 3071.3991840000003,
+      "end": 3801.782857,
+      "title": "10 Choosing a Cat"
+    },
+    {
+      "id": 10,
+      "start": 3801.782857,
+      "end": 4218.67102,
+      "title": "11 Chosen by a Cat"
+    },
+    {
+      "id": 11,
+      "start": 4218.67102,
+      "end": 4222.537142,
+      "title": "12 The Lit Biz"
+    },
+    {
+      "id": 12,
+      "start": 4222.537142,
+      "end": 4663.327346,
+      "title": "13 Would You Please Fucking Stop."
+    },
+    {
+      "id": 13,
+      "start": 4663.327346,
+      "end": 5223.601632,
+      "title": "14 Readers' Questions"
+    },
+    {
+      "id": 14,
+      "start": 5223.601632,
+      "end": 5708.042448,
+      "title": "15 Kids' Letters"
+    },
+    {
+      "id": 15,
+      "start": 5708.042448,
+      "end": 6335.738775,
+      "title": "16 Having My Cake"
+    },
+    {
+      "id": 16,
+      "start": 6335.738775,
+      "end": 7088.117550999999,
+      "title": "17 Papa H"
+    },
+    {
+      "id": 17,
+      "start": 7088.117550999999,
+      "end": 7575.797551,
+      "title": "18 A Much-Needed Literary Award"
+    },
+    {
+      "id": 18,
+      "start": 7575.797551,
+      "end": 8210.599183999999,
+      "title": "19 TGAN and TGOW"
+    },
+    {
+      "id": 19,
+      "start": 8210.599183999999,
+      "end": 8736.626938999998,
+      "title": "20 TGAN Again"
+    },
+    {
+      "id": 20,
+      "start": 8736.626938999998,
+      "end": 9437.884081999999,
+      "title": "21 The Narrative Gift as a Moral Conundrum"
+    },
+    {
+      "id": 21,
+      "start": 9437.884081999999,
+      "end": 10064.143673999999,
+      "title": "22 It Doesn't Have to Be the Way It Is"
+    },
+    {
+      "id": 22,
+      "start": 10064.143673999999,
+      "end": 10457.965714999998,
+      "title": "23 Utopiyin, Utopiyang"
+    },
+    {
+      "id": 23,
+      "start": 10457.965714999998,
+      "end": 10461.518368,
+      "title": "24 The Annals of Pard"
+    },
+    {
+      "id": 24,
+      "start": 10461.518368,
+      "end": 10874.801633,
+      "title": "25 The Trouble"
+    },
+    {
+      "id": 25,
+      "start": 10874.801633,
+      "end": 11323.29796,
+      "title": "26 Pard and the Time Machine"
+    },
+    {
+      "id": 26,
+      "start": 11323.29796,
+      "end": 11328.31347,
+      "title": "27 Trying to Make Sense of It"
+    },
+    {
+      "id": 27,
+      "start": 11328.31347,
+      "end": 11830.987755999999,
+      "title": "28 A Band of Brothers, a Stream of Sisters"
+    },
+    {
+      "id": 28,
+      "start": 11830.987755999999,
+      "end": 11972.571428999998,
+      "title": "29 Exorcists"
+    },
+    {
+      "id": 29,
+      "start": 11972.571428999998,
+      "end": 12432.587755999997,
+      "title": "30 Uniforms"
+    },
+    {
+      "id": 30,
+      "start": 12432.587755999997,
+      "end": 12941.374694999997,
+      "title": "31 Clinging Desperately to a Metaphor"
+    },
+    {
+      "id": 31,
+      "start": 12941.374694999997,
+      "end": 13578.292245999997,
+      "title": "32 Lying It All Away"
+    },
+    {
+      "id": 32,
+      "start": 13578.292245999997,
+      "end": 14549.890612999998,
+      "title": "33 The Inner Child and the Nude Politician"
+    },
+    {
+      "id": 33,
+      "start": 14549.890612999998,
+      "end": 14908.839183999999,
+      "title": "34 A Modest Proposal; Vegempathy"
+    },
+    {
+      "id": 34,
+      "start": 14908.839183999999,
+      "end": 15525.825305999999,
+      "title": "35 Belief in Belief"
+    },
+    {
+      "id": 35,
+      "start": 15525.825305999999,
+      "end": 16512.522449,
+      "title": "36 About Anger"
+    },
+    {
+      "id": 36,
+      "start": 16512.522449,
+      "end": 16515.94449,
+      "title": "37 The Annals of Pard"
+    },
+    {
+      "id": 37,
+      "start": 16515.94449,
+      "end": 16708.780408000002,
+      "title": "38 An Unfinished Education"
+    },
+    {
+      "id": 38,
+      "start": 16708.780408000002,
+      "end": 17173.603265,
+      "title": "39 An Unfinished Education, Continued"
+    },
+    {
+      "id": 39,
+      "start": 17173.603265,
+      "end": 17211.533061000002,
+      "title": "40 Doggerel for My Cat"
+    },
+    {
+      "id": 40,
+      "start": 17211.533061000002,
+      "end": 17215.164081000003,
+      "title": "41 Rewards"
+    },
+    {
+      "id": 41,
+      "start": 17215.164081000003,
+      "end": 17747.095510000003,
+      "title": "42 The Circling Stars, the Sea Surrounding; Philip Glass and John Luther Adams"
+    },
+    {
+      "id": 42,
+      "start": 17747.095510000003,
+      "end": 17926.217143,
+      "title": "43 Rehearsal"
+    },
+    {
+      "id": 43,
+      "start": 17926.217143,
+      "end": 18765.374694000002,
+      "title": "44 Someone Named Delores"
+    },
+    {
+      "id": 44,
+      "start": 18765.374694000002,
+      "end": 19539.382857,
+      "title": "45 Without Egg"
+    },
+    {
+      "id": 45,
+      "start": 19539.382857,
+      "end": 20032.470204,
+      "title": "46 Notre-Dame de la Faim"
+    },
+    {
+      "id": 46,
+      "start": 20032.470204,
+      "end": 20464.065306,
+      "title": "47 The Tree"
+    },
+    {
+      "id": 47,
+      "start": 20464.065306,
+      "end": 21505.985306000002,
+      "title": "48 The Horsies Upstairs"
+    },
+    {
+      "id": 48,
+      "start": 21505.985306000002,
+      "end": 21961.717551,
+      "title": "49 First Contact"
+    },
+    {
+      "id": 49,
+      "start": 21961.717551,
+      "end": 23127.118367000003,
+      "title": "50 The Lynx"
+    },
+    {
+      "id": 50,
+      "start": 23127.118367000003,
+      "end": 23706.801632000002,
+      "title": "51 Notes from a Week at a Ranch in the Oregon High Desert"
+    },
+    {
+      "id": 51,
+      "start": 23706.801632000002,
+      "end": 23766.439183000002,
+      "title": "52 End"
+    }
+  ],
+  "title": "No Time to Spare: Thinking About What Matters",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "191mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2017",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Kerry Dukin",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

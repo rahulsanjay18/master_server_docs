@@ -1,0 +1,6 @@
+;FFMETADATA1
+title=VSI - Palestinian-Israeli-Conflict
+artist=Oxford-VSI-Pack-History
+album_artist=Oxford-VSI-Pack-History
+album=VSI - Palestinian-Israeli-Conflict
+TRACKTOTAL=1

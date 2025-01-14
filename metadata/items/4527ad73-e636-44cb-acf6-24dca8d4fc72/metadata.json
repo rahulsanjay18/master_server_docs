@@ -1,0 +1,112 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 862.127125,
+      "title": "1-01 Coraline ch1"
+    },
+    {
+      "id": 1,
+      "start": 862.127125,
+      "end": 1526.716314,
+      "title": "1-02 Coraline ch2"
+    },
+    {
+      "id": 2,
+      "start": 1526.716314,
+      "end": 2390.933252,
+      "title": "1-03 Coraline ch3"
+    },
+    {
+      "id": 3,
+      "start": 2390.933252,
+      "end": 3507.1012519999995,
+      "title": "1-04 Coraline ch4"
+    },
+    {
+      "id": 4,
+      "start": 3507.1012519999995,
+      "end": 4588.291251999999,
+      "title": "1-05 Coraline ch5"
+    },
+    {
+      "id": 5,
+      "start": 4588.291251999999,
+      "end": 5129.164507999999,
+      "title": "2-01 Coraline ch5 cont'd"
+    },
+    {
+      "id": 6,
+      "start": 5129.164507999999,
+      "end": 6221.926763999999,
+      "title": "2-02 Coraline ch6"
+    },
+    {
+      "id": 7,
+      "start": 6221.926763999999,
+      "end": 6794.669452999999,
+      "title": "2-03 Coraline ch7"
+    },
+    {
+      "id": 8,
+      "start": 6794.669452999999,
+      "end": 8122.794952999999,
+      "title": "2-04 Coraline ch8"
+    },
+    {
+      "id": 9,
+      "start": 8122.794952999999,
+      "end": 9114.750708999998,
+      "title": "2-05 Coraline ch9"
+    },
+    {
+      "id": 10,
+      "start": 9114.750708999998,
+      "end": 10141.815021999999,
+      "title": "3-01 Coraline ch10"
+    },
+    {
+      "id": 11,
+      "start": 10141.815021999999,
+      "end": 11032.441777999999,
+      "title": "3-02 Coraline ch11"
+    },
+    {
+      "id": 12,
+      "start": 11032.441777999999,
+      "end": 11824.874215999998,
+      "title": "3-03 Coraline ch12"
+    },
+    {
+      "id": 13,
+      "start": 11824.874215999998,
+      "end": 13038.740154,
+      "title": "3-04 Coraline ch13"
+    }
+  ],
+  "title": "Coraline",
+  "subtitle": null,
+  "authors": [
+    "Neil Gaiman"
+  ],
+  "narrators": [
+    "Neil Gaiman"
+  ],
+  "series": [
+    "Books & Spoken Word"
+  ],
+  "genres": [
+    "Audiobooks"
+  ],
+  "publishedYear": "2002-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "HarperCollins ISBN: 0-06-051048-X",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

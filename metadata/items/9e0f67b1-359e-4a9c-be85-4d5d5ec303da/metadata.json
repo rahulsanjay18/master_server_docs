@@ -1,0 +1,86 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2804.715102,
+      "title": "City of Illusions 01"
+    },
+    {
+      "id": 1,
+      "start": 2804.715102,
+      "end": 5792.7314289999995,
+      "title": "City of Illusions 02"
+    },
+    {
+      "id": 2,
+      "start": 5792.7314289999995,
+      "end": 8192.10449,
+      "title": "City of Illusions 03"
+    },
+    {
+      "id": 3,
+      "start": 8192.10449,
+      "end": 10587.219592,
+      "title": "City of Illusions 04"
+    },
+    {
+      "id": 4,
+      "start": 10587.219592,
+      "end": 13105.371428999999,
+      "title": "City of Illusions 05"
+    },
+    {
+      "id": 5,
+      "start": 13105.371428999999,
+      "end": 15887.072653,
+      "title": "City of Illusions 06"
+    },
+    {
+      "id": 6,
+      "start": 15887.072653,
+      "end": 18065.946122,
+      "title": "City of Illusions 07"
+    },
+    {
+      "id": 7,
+      "start": 18065.946122,
+      "end": 21219.317551,
+      "title": "City of Illusions 08"
+    },
+    {
+      "id": 8,
+      "start": 21219.317551,
+      "end": 24168.202449,
+      "title": "City of Illusions 09"
+    },
+    {
+      "id": 9,
+      "start": 24168.202449,
+      "end": 26549.002449,
+      "title": "City of Illusions 10"
+    }
+  ],
+  "title": "City of Illusions",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "205mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1967",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Stefan Rudnicki",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

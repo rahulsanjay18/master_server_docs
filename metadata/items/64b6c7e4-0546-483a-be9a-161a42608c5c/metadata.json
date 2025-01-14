@@ -1,0 +1,162 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 320.835918,
+      "title": "Volume 1 - Chapter 01"
+    },
+    {
+      "id": 1,
+      "start": 320.835918,
+      "end": 608.9404079999999,
+      "title": "Volume 1 - Chapter 02"
+    },
+    {
+      "id": 2,
+      "start": 608.9404079999999,
+      "end": 1237.054694,
+      "title": "Volume 1 - Chapter 03"
+    },
+    {
+      "id": 3,
+      "start": 1237.054694,
+      "end": 1635.448163,
+      "title": "Volume 1 - Chapter 04"
+    },
+    {
+      "id": 4,
+      "start": 1635.448163,
+      "end": 1987.918367,
+      "title": "Volume 1 - Chapter 05"
+    },
+    {
+      "id": 5,
+      "start": 1987.918367,
+      "end": 2833.867755,
+      "title": "Volume 1 - Chapter 06"
+    },
+    {
+      "id": 6,
+      "start": 2833.867755,
+      "end": 3546.6448980000005,
+      "title": "Volume 1 - Chapter 07"
+    },
+    {
+      "id": 7,
+      "start": 3546.6448980000005,
+      "end": 4254.066939,
+      "title": "Volume 1 - Chapter 08"
+    },
+    {
+      "id": 8,
+      "start": 4254.066939,
+      "end": 4864.444082,
+      "title": "Volume 1 - Chapter 09"
+    },
+    {
+      "id": 9,
+      "start": 4864.444082,
+      "end": 5650.207347,
+      "title": "Volume 1 - Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 5650.207347,
+      "end": 6207.660408,
+      "title": "Volume 1 - Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 6207.660408,
+      "end": 6461.33551,
+      "title": "Volume 1 - Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 6461.33551,
+      "end": 7052.355918,
+      "title": "Volume 1 - Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 7052.355918,
+      "end": 7488.653061,
+      "title": "Volume 1 - Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 7488.653061,
+      "end": 8119.405714,
+      "title": "Volume 1 - Chapter 15"
+    },
+    {
+      "id": 15,
+      "start": 8119.405714,
+      "end": 9321.508571,
+      "title": "Volume 1 - Chapter 16"
+    },
+    {
+      "id": 16,
+      "start": 9321.508571,
+      "end": 9783.90204,
+      "title": "Volume 1 - Chapter 17"
+    },
+    {
+      "id": 17,
+      "start": 9783.90204,
+      "end": 11622.269387,
+      "title": "Volume 1 - Chapter 18"
+    },
+    {
+      "id": 18,
+      "start": 11622.269387,
+      "end": 12266.657958,
+      "title": "Volume 1 - Chapter 19"
+    },
+    {
+      "id": 19,
+      "start": 12266.657958,
+      "end": 12847.80408,
+      "title": "Volume 1 - Chapter 20"
+    },
+    {
+      "id": 20,
+      "start": 12847.80408,
+      "end": 13560.058774,
+      "title": "Volume 1 - Chapter 21"
+    },
+    {
+      "id": 21,
+      "start": 13560.058774,
+      "end": 14198.386937,
+      "title": "Volume 1 - Chapter 22"
+    },
+    {
+      "id": 22,
+      "start": 14198.386937,
+      "end": 14796.225304,
+      "title": "Volume 1 - Chapter 23"
+    }
+  ],
+  "title": "Pride and Prejudice (read by Lindsay Duncan)",
+  "subtitle": null,
+  "authors": [
+    "Jane Austen"
+  ],
+  "narrators": [],
+  "series": [
+    "1813 - Pride and Prejudice (read by Lindsay Duncan) #1"
+  ],
+  "genres": [],
+  "publishedYear": "1813",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

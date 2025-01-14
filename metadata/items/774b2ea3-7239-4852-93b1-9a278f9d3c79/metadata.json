@@ -1,0 +1,360 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 19,
+      "title": "Intro",
+      "id": 0
+    },
+    {
+      "start": 19,
+      "end": 1106.667,
+      "title": "Prologue",
+      "id": 1
+    },
+    {
+      "start": 1106.667,
+      "end": 3549.12,
+      "title": "The Eye of the World  (01 of 53)",
+      "id": 2
+    },
+    {
+      "start": 3549.12,
+      "end": 5262.24,
+      "title": "The Eye of the World  (02 of 53)",
+      "id": 3
+    },
+    {
+      "start": 5262.24,
+      "end": 7092.52,
+      "title": "The Eye of the World  (03 of 53)",
+      "id": 4
+    },
+    {
+      "start": 7092.52,
+      "end": 9203.187,
+      "title": "The Eye of the World  (04 of 53)",
+      "id": 5
+    },
+    {
+      "start": 9203.187,
+      "end": 11565.187,
+      "title": "The Eye of the World  (05 of 53)",
+      "id": 6
+    },
+    {
+      "start": 11565.187,
+      "end": 12676.693,
+      "title": "The Eye of the World  (06 of 53)",
+      "id": 7
+    },
+    {
+      "start": 12676.693,
+      "end": 14612.067,
+      "title": "The Eye of the World  (07 of 53)",
+      "id": 8
+    },
+    {
+      "start": 14612.067,
+      "end": 16748.093,
+      "title": "The Eye of the World  (08 of 53)",
+      "id": 9
+    },
+    {
+      "start": 16748.093,
+      "end": 19261.507,
+      "title": "The Eye of the World  (09 of 53)",
+      "id": 10
+    },
+    {
+      "start": 19261.507,
+      "end": 20606.707,
+      "title": "The Eye of the World  (10 of 53)",
+      "id": 11
+    },
+    {
+      "start": 20606.707,
+      "end": 21801.587,
+      "title": "The Eye of the World  (11 of 53)",
+      "id": 12
+    },
+    {
+      "start": 21801.587,
+      "end": 23623.72,
+      "title": "The Eye of the World  (12 of 53)",
+      "id": 13
+    },
+    {
+      "start": 23623.72,
+      "end": 26111.747,
+      "title": "The Eye of the World  (13 of 53)",
+      "id": 14
+    },
+    {
+      "start": 26111.747,
+      "end": 28244.187,
+      "title": "The Eye of the World  (14 of 53)",
+      "id": 15
+    },
+    {
+      "start": 28244.187,
+      "end": 31473.16,
+      "title": "The Eye of the World  (15 of 53)",
+      "id": 16
+    },
+    {
+      "start": 31473.16,
+      "end": 33015.053,
+      "title": "The Eye of the World  (16 of 53)",
+      "id": 17
+    },
+    {
+      "start": 33015.053,
+      "end": 35387.2,
+      "title": "The Eye of the World  (17 of 53)",
+      "id": 18
+    },
+    {
+      "start": 35387.2,
+      "end": 37396.12,
+      "title": "The Eye of the World  (18 of 53)",
+      "id": 19
+    },
+    {
+      "start": 37396.12,
+      "end": 39994.307,
+      "title": "The Eye of the World  (19 of 53)",
+      "id": 20
+    },
+    {
+      "start": 39994.307,
+      "end": 42702.707,
+      "title": "The Eye of the World  (20 of 53)",
+      "id": 21
+    },
+    {
+      "start": 42702.707,
+      "end": 44549.093,
+      "title": "The Eye of the World  (21 of 53)",
+      "id": 22
+    },
+    {
+      "start": 44549.093,
+      "end": 45351.053,
+      "title": "The Eye of the World  (22 of 53)",
+      "id": 23
+    },
+    {
+      "start": 45351.053,
+      "end": 47607.12,
+      "title": "The Eye of the World  (23 of 53)",
+      "id": 24
+    },
+    {
+      "start": 47607.12,
+      "end": 49519.707,
+      "title": "The Eye of the World  (24 of 53)",
+      "id": 25
+    },
+    {
+      "start": 49519.707,
+      "end": 51850.04,
+      "title": "The Eye of the World  (25 of 53)",
+      "id": 26
+    },
+    {
+      "start": 51850.04,
+      "end": 55011.28,
+      "title": "The Eye of the World  (26 of 53)",
+      "id": 27
+    },
+    {
+      "start": 55011.28,
+      "end": 56777.48,
+      "title": "The Eye of the World  (27 of 53)",
+      "id": 28
+    },
+    {
+      "start": 56777.48,
+      "end": 57926.533,
+      "title": "The Eye of the World  (28 of 53)",
+      "id": 29
+    },
+    {
+      "start": 57926.533,
+      "end": 60129.413,
+      "title": "The Eye of the World  (29 of 53)",
+      "id": 30
+    },
+    {
+      "start": 60129.413,
+      "end": 62457.693,
+      "title": "The Eye of the World  (30 of 53)",
+      "id": 31
+    },
+    {
+      "start": 62457.693,
+      "end": 63970.667,
+      "title": "The Eye of the World  (31 of 53)",
+      "id": 32
+    },
+    {
+      "start": 63970.667,
+      "end": 66670.027,
+      "title": "The Eye of the World  (32 of 53)",
+      "id": 33
+    },
+    {
+      "start": 66670.027,
+      "end": 70260.147,
+      "title": "The Eye of the World  (33 of 53)",
+      "id": 34
+    },
+    {
+      "start": 70260.147,
+      "end": 72271.693,
+      "title": "The Eye of the World  (34 of 53)",
+      "id": 35
+    },
+    {
+      "start": 72271.693,
+      "end": 74135.36,
+      "title": "The Eye of the World  (35 of 53)",
+      "id": 36
+    },
+    {
+      "start": 74135.36,
+      "end": 76281.253,
+      "title": "The Eye of the World  (36 of 53)",
+      "id": 37
+    },
+    {
+      "start": 76281.253,
+      "end": 77410.747,
+      "title": "The Eye of the World  (37 of 53)",
+      "id": 38
+    },
+    {
+      "start": 77410.747,
+      "end": 79576.907,
+      "title": "The Eye of the World  (38 of 53)",
+      "id": 39
+    },
+    {
+      "start": 79576.907,
+      "end": 81115.653,
+      "title": "The Eye of the World  (39 of 53)",
+      "id": 40
+    },
+    {
+      "start": 81115.653,
+      "end": 84568.987,
+      "title": "The Eye of the World  (40 of 53)",
+      "id": 41
+    },
+    {
+      "start": 84568.987,
+      "end": 86631.147,
+      "title": "The Eye of the World  (41 of 53)",
+      "id": 42
+    },
+    {
+      "start": 86631.147,
+      "end": 88455.187,
+      "title": "The Eye of the World  (42 of 53)",
+      "id": 43
+    },
+    {
+      "start": 88455.187,
+      "end": 90382.96,
+      "title": "The Eye of the World  (43 of 53)",
+      "id": 44
+    },
+    {
+      "start": 90382.96,
+      "end": 92262,
+      "title": "The Eye of the World  (44 of 53)",
+      "id": 45
+    },
+    {
+      "start": 92262,
+      "end": 94255.76,
+      "title": "The Eye of the World  (45 of 53)",
+      "id": 46
+    },
+    {
+      "start": 94255.76,
+      "end": 96816.307,
+      "title": "The Eye of the World  (46 of 53)",
+      "id": 47
+    },
+    {
+      "start": 96816.307,
+      "end": 98752.773,
+      "title": "The Eye of the World  (47 of 53)",
+      "id": 48
+    },
+    {
+      "start": 98752.773,
+      "end": 100426.013,
+      "title": "The Eye of the World  (48 of 53)",
+      "id": 49
+    },
+    {
+      "start": 100426.013,
+      "end": 101720.293,
+      "title": "The Eye of the World  (49 of 53)",
+      "id": 50
+    },
+    {
+      "start": 101720.293,
+      "end": 103386.093,
+      "title": "The Eye of the World  (50 of 53)",
+      "id": 51
+    },
+    {
+      "start": 103386.093,
+      "end": 104748.427,
+      "title": "The Eye of the World  (51 of 53)",
+      "id": 52
+    },
+    {
+      "start": 104748.427,
+      "end": 106228.92,
+      "title": "The Eye of the World  (52 of 53)",
+      "id": 53
+    },
+    {
+      "start": 106228.92,
+      "end": 107447.747,
+      "title": "The Eye of the World  (53 of 53)",
+      "id": 54
+    },
+    {
+      "start": 107447.747,
+      "end": 107839,
+      "title": "An Interview with the Author",
+      "id": 55
+    }
+  ],
+  "title": "[Wheel of Time, Book 1] The Eye of the World",
+  "subtitle": null,
+  "authors": [
+    "Robert Jordan"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Fantasy, Epic"
+  ],
+  "publishedYear": "1996-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "When their village is attacked by trollocs, monsters thought to be only legends, three young men, Rand, Matt, and Perrin, flee in the company of the Lady Moiraine, a sinister visitor of unsuspected powers. Thus begins an epic adventure set in a world of wonders and horror, where what was, what will be, and what is, may yet fall under the Shadow.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

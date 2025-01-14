@@ -1,0 +1,388 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 17.003,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 17.003,
+      "end": 23.001,
+      "title": "Book 3: Beckoning Fates"
+    },
+    {
+      "id": 2,
+      "start": 23.001,
+      "end": 1069.584,
+      "title": "1. Xyrus Academy"
+    },
+    {
+      "id": 3,
+      "start": 1069.584,
+      "end": 2006.881,
+      "title": "2. You Dare?"
+    },
+    {
+      "id": 4,
+      "start": 2006.881,
+      "end": 2882.529,
+      "title": "3. Not Quite as Planned"
+    },
+    {
+      "id": 5,
+      "start": 2882.529,
+      "end": 3644.491,
+      "title": "4. Wiser Than the Wise"
+    },
+    {
+      "id": 6,
+      "start": 3644.491,
+      "end": 4395.541,
+      "title": "5. Attention"
+    },
+    {
+      "id": 7,
+      "start": 4395.541,
+      "end": 5292.412,
+      "title": "6. Reminisce"
+    },
+    {
+      "id": 8,
+      "start": 5292.412,
+      "end": 6158.423,
+      "title": "7. Disciplinary Committee"
+    },
+    {
+      "id": 9,
+      "start": 6158.423,
+      "end": 7200.488,
+      "title": "8. Classes and Professors"
+    },
+    {
+      "id": 10,
+      "start": 7200.488,
+      "end": 7938.232,
+      "title": "9. Classes and Professors II"
+    },
+    {
+      "id": 11,
+      "start": 7938.232,
+      "end": 8828.695,
+      "title": "10. Classes and Professors III"
+    },
+    {
+      "id": 12,
+      "start": 8828.695,
+      "end": 9741.587,
+      "title": "11. It's a Pleasure"
+    },
+    {
+      "id": 13,
+      "start": 9741.587,
+      "end": 10583.218,
+      "title": "12. Match Start"
+    },
+    {
+      "id": 14,
+      "start": 10583.218,
+      "end": 11567.465,
+      "title": "13. This Is Going to Hurt"
+    },
+    {
+      "id": 15,
+      "start": 11567.465,
+      "end": 12566.155,
+      "title": "14. Family Gathering"
+    },
+    {
+      "id": 16,
+      "start": 12566.155,
+      "end": 13265.331,
+      "title": "15. Feelings and Old Memories"
+    },
+    {
+      "id": 17,
+      "start": 13265.331,
+      "end": 14139.679,
+      "title": "16. First Day on the Job"
+    },
+    {
+      "id": 18,
+      "start": 14139.679,
+      "end": 15317.464,
+      "title": "17. Confrontation"
+    },
+    {
+      "id": 19,
+      "start": 15317.464,
+      "end": 16657.488,
+      "title": "18. Romantic Idiot"
+    },
+    {
+      "id": 20,
+      "start": 16657.488,
+      "end": 17895.228,
+      "title": "19. My Team"
+    },
+    {
+      "id": 21,
+      "start": 17895.228,
+      "end": 18744.544,
+      "title": "20. Baby Steps"
+    },
+    {
+      "id": 22,
+      "start": 18744.544,
+      "end": 19673.644,
+      "title": "21. Field Trip"
+    },
+    {
+      "id": 23,
+      "start": 19673.644,
+      "end": 20596.103,
+      "title": "22. Widow's Crypt"
+    },
+    {
+      "id": 24,
+      "start": 20596.103,
+      "end": 21296.603,
+      "title": "23. Widow's Crypt II"
+    },
+    {
+      "id": 25,
+      "start": 21296.603,
+      "end": 22333.2,
+      "title": "24. Widow's Crypt III"
+    },
+    {
+      "id": 26,
+      "start": 22333.2,
+      "end": 23323.264,
+      "title": "25. Widow's Crypt IV"
+    },
+    {
+      "id": 27,
+      "start": 23323.264,
+      "end": 24225.004,
+      "title": "26. Widow's Crypt V"
+    },
+    {
+      "id": 28,
+      "start": 24225.004,
+      "end": 24231.069,
+      "title": "Book 4: Horizon's Edge"
+    },
+    {
+      "id": 29,
+      "start": 24231.069,
+      "end": 25035.712,
+      "title": "27. An Unfamiliar Burden"
+    },
+    {
+      "id": 30,
+      "start": 25035.712,
+      "end": 25848.39,
+      "title": "28. Course of Breakthrough"
+    },
+    {
+      "id": 31,
+      "start": 25848.39,
+      "end": 26712.7,
+      "title": "29. A Confusing Day"
+    },
+    {
+      "id": 32,
+      "start": 26712.7,
+      "end": 27434.728,
+      "title": "30. One Fallen"
+    },
+    {
+      "id": 33,
+      "start": 27434.728,
+      "end": 28131.838,
+      "title": "31. A Will's Last Breath"
+    },
+    {
+      "id": 34,
+      "start": 28131.838,
+      "end": 28902.508,
+      "title": "32. Order of Power"
+    },
+    {
+      "id": 35,
+      "start": 28902.508,
+      "end": 29617.938,
+      "title": "33. Manifest Destinies"
+    },
+    {
+      "id": 36,
+      "start": 29617.938,
+      "end": 30429.173,
+      "title": "34. Good to See You"
+    },
+    {
+      "id": 37,
+      "start": 30429.173,
+      "end": 30911.847,
+      "title": "35. Allies?"
+    },
+    {
+      "id": 38,
+      "start": 30911.847,
+      "end": 31057.552,
+      "title": "Interlude: Voices"
+    },
+    {
+      "id": 39,
+      "start": 31057.552,
+      "end": 31739.87,
+      "title": "36. Meanwhile"
+    },
+    {
+      "id": 40,
+      "start": 31739.87,
+      "end": 32306.507,
+      "title": "37. Meanwhile II"
+    },
+    {
+      "id": 41,
+      "start": 32306.507,
+      "end": 32986.921,
+      "title": "38. Meanwhile III"
+    },
+    {
+      "id": 42,
+      "start": 32986.921,
+      "end": 33612.351,
+      "title": "39. At Last"
+    },
+    {
+      "id": 43,
+      "start": 33612.351,
+      "end": 34293.44,
+      "title": "40. Benefactor"
+    },
+    {
+      "id": 44,
+      "start": 34293.44,
+      "end": 35146.772,
+      "title": "41. A Greater Scale"
+    },
+    {
+      "id": 45,
+      "start": 35146.772,
+      "end": 35894.57,
+      "title": "42. Lineage"
+    },
+    {
+      "id": 46,
+      "start": 35894.57,
+      "end": 36734.413,
+      "title": "43. Elven Kingdom"
+    },
+    {
+      "id": 47,
+      "start": 36734.413,
+      "end": 37410.276,
+      "title": "44. Winding Down"
+    },
+    {
+      "id": 48,
+      "start": 37410.276,
+      "end": 38094.15,
+      "title": "45. A Will's Unwillingness"
+    },
+    {
+      "id": 49,
+      "start": 38094.15,
+      "end": 38812.877,
+      "title": "46. A Stroll"
+    },
+    {
+      "id": 50,
+      "start": 38812.877,
+      "end": 39666.327,
+      "title": "47. A Cursed Blessing"
+    },
+    {
+      "id": 51,
+      "start": 39666.327,
+      "end": 40496.719,
+      "title": "48. The Start"
+    },
+    {
+      "id": 52,
+      "start": 40496.719,
+      "end": 41156.955,
+      "title": "49. Collapse of Xyrus"
+    },
+    {
+      "id": 53,
+      "start": 41156.955,
+      "end": 42110.88,
+      "title": "50. Bird's Cage"
+    },
+    {
+      "id": 54,
+      "start": 42110.88,
+      "end": 43138.244,
+      "title": "51. Chosen Ones"
+    },
+    {
+      "id": 55,
+      "start": 43138.244,
+      "end": 44405.9,
+      "title": "52. Arrival"
+    },
+    {
+      "id": 56,
+      "start": 44405.9,
+      "end": 45000.9,
+      "title": "53. The Calm Before"
+    },
+    {
+      "id": 57,
+      "start": 45000.9,
+      "end": 45570.836,
+      "title": "54. The Storm"
+    },
+    {
+      "id": 58,
+      "start": 45570.836,
+      "end": 46518.25,
+      "title": "55. Outcome"
+    },
+    {
+      "id": 59,
+      "start": 46518.25,
+      "end": 46569,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Volume 03–04 - Beckoning Fates–Horizon's Edge",
+  "subtitle": null,
+  "authors": [
+    "Travis Baldree"
+  ],
+  "narrators": [
+    "Tae Ha Lee"
+  ],
+  "series": [
+    "The Beginning After the End"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "April 2, 2016 (04-07-20)",
+  "publishedDate": null,
+  "publisher": "Podium Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,110 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 542.2035,
+      "title": "01: A Bad Thing"
+    },
+    {
+      "id": 1,
+      "start": 542.2035,
+      "end": 1983.985756,
+      "title": "02: Going to the Falcon's Nest"
+    },
+    {
+      "id": 2,
+      "start": 1983.985756,
+      "end": 3143.985012,
+      "title": "03: Ogion"
+    },
+    {
+      "id": 3,
+      "start": 3143.985012,
+      "end": 5182.299512,
+      "title": "04: Kalessin"
+    },
+    {
+      "id": 4,
+      "start": 5182.299512,
+      "end": 7924.849012,
+      "title": "05: Bettering"
+    },
+    {
+      "id": 5,
+      "start": 7924.849012,
+      "end": 9261.697268,
+      "title": "06: Worsening"
+    },
+    {
+      "id": 6,
+      "start": 9261.697268,
+      "end": 11277.128524,
+      "title": "07: Mice"
+    },
+    {
+      "id": 7,
+      "start": 11277.128524,
+      "end": 13480.066524,
+      "title": "08: Hawks"
+    },
+    {
+      "id": 8,
+      "start": 13480.066524,
+      "end": 15522.534524,
+      "title": "09: Finding Words"
+    },
+    {
+      "id": 9,
+      "start": 15522.534524,
+      "end": 17701.753524,
+      "title": "10: The Dolphin"
+    },
+    {
+      "id": 10,
+      "start": 17701.753524,
+      "end": 21316.97578,
+      "title": "11: Home"
+    },
+    {
+      "id": 11,
+      "start": 21316.97578,
+      "end": 24142.20278,
+      "title": "12: Winter"
+    },
+    {
+      "id": 12,
+      "start": 24142.20278,
+      "end": 26046.66578,
+      "title": "13: The Master"
+    },
+    {
+      "id": 13,
+      "start": 26046.66578,
+      "end": 26977.70178,
+      "title": "14: Tehanu"
+    }
+  ],
+  "title": "Tehanu",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "106mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1990",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by David Banks",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=The Dresden Files 04.0 - Summer Knight
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 04.0 - Summer Knight
+genre=Audiobook
+date=2007-01-01
+comment=Narrated By : James Marsters
+description=Narrated By : James Marsters
+composer=Jim Butcher
+TRACKTOTAL=1
+grouping=Jim Butcher - Dresden Files 22GB \#4

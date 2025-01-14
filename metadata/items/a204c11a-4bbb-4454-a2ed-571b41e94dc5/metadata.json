@@ -1,0 +1,390 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1157.642449,
+      "title": "1.  Bob Version 1.0"
+    },
+    {
+      "id": 1,
+      "start": 1157.642449,
+      "end": 2422.752653,
+      "title": "2.  Bob Version 2.0"
+    },
+    {
+      "id": 2,
+      "start": 2422.752653,
+      "end": 3071.0073469999998,
+      "title": "3.  Bob – June 25, 2133"
+    },
+    {
+      "id": 3,
+      "start": 3071.0073469999998,
+      "end": 3302.4261229999997,
+      "title": "4.  Bob – July 15, 2133"
+    },
+    {
+      "id": 4,
+      "start": 3302.4261229999997,
+      "end": 3846.086531,
+      "title": "5.  Bob – July 18, 2133"
+    },
+    {
+      "id": 5,
+      "start": 3846.086531,
+      "end": 4186.958368,
+      "title": "6.  Bob – July 19, 2133"
+    },
+    {
+      "id": 6,
+      "start": 4186.958368,
+      "end": 4785.711020999999,
+      "title": "7.  Bob – July 25, 2133"
+    },
+    {
+      "id": 7,
+      "start": 4785.711020999999,
+      "end": 5513.456326999999,
+      "title": "8.  Bob – August 4, 2133"
+    },
+    {
+      "id": 8,
+      "start": 5513.456326999999,
+      "end": 5804.669387999999,
+      "title": "9.  Bob – August 6, 2133"
+    },
+    {
+      "id": 9,
+      "start": 5804.669387999999,
+      "end": 6285.740408,
+      "title": "10.  Bob – August 10, 2133"
+    },
+    {
+      "id": 10,
+      "start": 6285.740408,
+      "end": 6562.847347,
+      "title": "11.  Bob – August 15, 2133"
+    },
+    {
+      "id": 11,
+      "start": 6562.847347,
+      "end": 7479.301225,
+      "title": "12.  Bob – August 17, 2133"
+    },
+    {
+      "id": 12,
+      "start": 7479.301225,
+      "end": 9293.740409,
+      "title": "13.  Bob – August 17, 2133 – En Route"
+    },
+    {
+      "id": 13,
+      "start": 9293.740409,
+      "end": 9790.223674,
+      "title": "14.  Bob – August 2144 – Epsilon Eridani"
+    },
+    {
+      "id": 14,
+      "start": 9790.223674,
+      "end": 10534.426123000001,
+      "title": "15.  Bob – September 2144 – Epsilon Eridani"
+    },
+    {
+      "id": 15,
+      "start": 10534.426123000001,
+      "end": 11140.179592,
+      "title": "16.  Bob – September 2144 – Epsilon Eridani"
+    },
+    {
+      "id": 16,
+      "start": 11140.179592,
+      "end": 12441.887347,
+      "title": "17.  Bob – July 2145 – Epsilon Eridani"
+    },
+    {
+      "id": 17,
+      "start": 12441.887347,
+      "end": 12663.588571,
+      "title": "18.  Bill – September 2145 – Epsilon Eridani"
+    },
+    {
+      "id": 18,
+      "start": 12663.588571,
+      "end": 13456.117551,
+      "title": "19.  Milo – July 2152 – Omicron² Eridani"
+    },
+    {
+      "id": 19,
+      "start": 13456.117551,
+      "end": 13676.094694,
+      "title": "20.  Bill – December 2145 – Epsilon Eridani"
+    },
+    {
+      "id": 20,
+      "start": 13676.094694,
+      "end": 14321.737143,
+      "title": "21.  Riker – January 2157 – Sol"
+    },
+    {
+      "id": 21,
+      "start": 14321.737143,
+      "end": 14551.327347,
+      "title": "22.  Bill – September 2150 – Epsilon Eridani"
+    },
+    {
+      "id": 22,
+      "start": 14551.327347,
+      "end": 14716.186123,
+      "title": "23.  Milo – February 2153 – Omicron² Eridani"
+    },
+    {
+      "id": 23,
+      "start": 14716.186123,
+      "end": 16404.819592,
+      "title": "24.  Riker – April 2157 – Sol"
+    },
+    {
+      "id": 24,
+      "start": 16404.819592,
+      "end": 16617.012244999998,
+      "title": "25.  Bill – September 2151 – Epsilon Eridani"
+    },
+    {
+      "id": 25,
+      "start": 16617.012244999998,
+      "end": 17108.401632999998,
+      "title": "26.  Riker – April 2157 – Sol"
+    },
+    {
+      "id": 26,
+      "start": 17108.401632999998,
+      "end": 18001.893878,
+      "title": "27.  Bob – April 2165 – Delta Eridani"
+    },
+    {
+      "id": 27,
+      "start": 18001.893878,
+      "end": 18719.764897999998,
+      "title": "28.  Calvin – November 2163 – Alpha Centauri"
+    },
+    {
+      "id": 28,
+      "start": 18719.764897999998,
+      "end": 19120.901224999998,
+      "title": "29.  Riker – September 2157 – Sol"
+    },
+    {
+      "id": 29,
+      "start": 19120.901224999998,
+      "end": 19583.895511,
+      "title": "30.  Bob – April 2165 – Delta Eridani"
+    },
+    {
+      "id": 30,
+      "start": 19583.895511,
+      "end": 20073.038367999998,
+      "title": "31.  Riker – January 2158 – Sol"
+    },
+    {
+      "id": 31,
+      "start": 20073.038367999998,
+      "end": 20293.668572,
+      "title": "32.  Bill – October 2158 – Epsilon Eridani"
+    },
+    {
+      "id": 32,
+      "start": 20293.668572,
+      "end": 21215.346939,
+      "title": "33.  Riker – March 2158 – Sol"
+    },
+    {
+      "id": 33,
+      "start": 21215.346939,
+      "end": 21317.407347,
+      "title": "34.  Homer – September 2158 – Sol"
+    },
+    {
+      "id": 34,
+      "start": 21317.407347,
+      "end": 22868.767347,
+      "title": "35.  Bob – July 2165 – Delta Eridani"
+    },
+    {
+      "id": 35,
+      "start": 22868.767347,
+      "end": 23307.206531,
+      "title": "36.  Riker – September 2158 – Sol"
+    },
+    {
+      "id": 36,
+      "start": 23307.206531,
+      "end": 24015.229388,
+      "title": "37.  Bob – August 2165 – Delta Eridani"
+    },
+    {
+      "id": 37,
+      "start": 24015.229388,
+      "end": 24397.792653,
+      "title": "38.  Riker – November 2158 – Sol"
+    },
+    {
+      "id": 38,
+      "start": 24397.792653,
+      "end": 24707.813877,
+      "title": "39.  Bob – October 2165 – Delta Eridani"
+    },
+    {
+      "id": 39,
+      "start": 24707.813877,
+      "end": 25407.294693,
+      "title": "40.  Linus – April 2165 – Epsilon Indi"
+    },
+    {
+      "id": 40,
+      "start": 25407.294693,
+      "end": 25826.795101,
+      "title": "41.  Riker – May 2162 – Sol"
+    },
+    {
+      "id": 41,
+      "start": 25826.795101,
+      "end": 26146.951836,
+      "title": "42.  Bill – April 2162 – Epsilon Eridani"
+    },
+    {
+      "id": 42,
+      "start": 26146.951836,
+      "end": 26567.235918,
+      "title": "43.  Riker – September 2164 – Sol"
+    },
+    {
+      "id": 43,
+      "start": 26567.235918,
+      "end": 26992.43102,
+      "title": "44.  Bob – January 2166 – Delta Eridani"
+    },
+    {
+      "id": 44,
+      "start": 26992.43102,
+      "end": 27206.608979,
+      "title": "45.  Bill – January 2165 – Epsilon Eridani"
+    },
+    {
+      "id": 45,
+      "start": 27206.608979,
+      "end": 27392.182857,
+      "title": "46.  Milo – August 2165 – 82 Eridani"
+    },
+    {
+      "id": 46,
+      "start": 27392.182857,
+      "end": 27668.871837,
+      "title": "47.  Riker – January 2166 – Sol"
+    },
+    {
+      "id": 47,
+      "start": 27668.871837,
+      "end": 28349.44,
+      "title": "48.  Bob – May 2166 – Delta Eridani"
+    },
+    {
+      "id": 48,
+      "start": 28349.44,
+      "end": 28991.791019999997,
+      "title": "49.  Riker – May 2166 – Sol"
+    },
+    {
+      "id": 49,
+      "start": 28991.791019999997,
+      "end": 29613.008979,
+      "title": "50.  Bob – June 2166 – Delta Eridani"
+    },
+    {
+      "id": 50,
+      "start": 29613.008979,
+      "end": 29746.834284999997,
+      "title": "51.  Bill – January 2174 – Epsilon Eridani"
+    },
+    {
+      "id": 51,
+      "start": 29746.834284999997,
+      "end": 29973.603264999998,
+      "title": "52.  Riker – January 2168 – Sol"
+    },
+    {
+      "id": 52,
+      "start": 29973.603264999998,
+      "end": 30334.61551,
+      "title": "53.  Bob – June 2166 – Delta Eridani"
+    },
+    {
+      "id": 53,
+      "start": 30334.61551,
+      "end": 30560.130612,
+      "title": "54.  Riker – October 2170 – Sol"
+    },
+    {
+      "id": 54,
+      "start": 30560.130612,
+      "end": 30857.247347,
+      "title": "55.  Bob – July 2166 – Delta Eridani"
+    },
+    {
+      "id": 55,
+      "start": 30857.247347,
+      "end": 31321.652245,
+      "title": "56.  Bill - March 2167 - Epsilon Eridani"
+    },
+    {
+      "id": 56,
+      "start": 31321.652245,
+      "end": 32352.470204,
+      "title": "57.  Mario – August 2169 – Beta Hydri"
+    },
+    {
+      "id": 57,
+      "start": 32352.470204,
+      "end": 32645.328980000002,
+      "title": "58.  Riker – April 2171 – Sol"
+    },
+    {
+      "id": 58,
+      "start": 32645.328980000002,
+      "end": 32748.800000000003,
+      "title": "59.  Bill – May 2172 – Epsilon Eridani"
+    },
+    {
+      "id": 59,
+      "start": 32748.800000000003,
+      "end": 33864.515918000005,
+      "title": "60.  Khan – April 2185 – 82 Eridani"
+    },
+    {
+      "id": 60,
+      "start": 33864.515918000005,
+      "end": 34268.342857,
+      "title": "61. Howard – September 2188 – Omicron² Eridani"
+    }
+  ],
+  "title": "We are Legion (We are Bob)",
+  "subtitle": null,
+  "authors": [
+    "Dennis E. Taylor"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2016",
+  "publishedDate": null,
+  "publisher": "Worldbuilders Press",
+  "description": "Read by Ray Porter. Book 2 of the Bobiverse Series",
+  "isbn": "9781680680324",
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

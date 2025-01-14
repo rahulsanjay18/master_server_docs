@@ -1,0 +1,480 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 621.374694,
+      "title": "1. Face-Off"
+    },
+    {
+      "id": 1,
+      "start": 621.374694,
+      "end": 782.576327,
+      "title": "2. We’ve Lost"
+    },
+    {
+      "id": 2,
+      "start": 782.576327,
+      "end": 1027.996735,
+      "title": "3. Trouble Brewing"
+    },
+    {
+      "id": 3,
+      "start": 1027.996735,
+      "end": 1424.9273469999998,
+      "title": "4. Attitude"
+    },
+    {
+      "id": 4,
+      "start": 1424.9273469999998,
+      "end": 1665.4889799999999,
+      "title": "5. Bushwhacked"
+    },
+    {
+      "id": 5,
+      "start": 1665.4889799999999,
+      "end": 1835.6767349999998,
+      "title": "6. Launch"
+    },
+    {
+      "id": 6,
+      "start": 1835.6767349999998,
+      "end": 2218.762449,
+      "title": "7. Date"
+    },
+    {
+      "id": 7,
+      "start": 2218.762449,
+      "end": 3181.818776,
+      "title": "8. Revolutionaries"
+    },
+    {
+      "id": 8,
+      "start": 3181.818776,
+      "end": 3583.4775520000003,
+      "title": "9. Tension"
+    },
+    {
+      "id": 9,
+      "start": 3583.4775520000003,
+      "end": 4032.6530620000003,
+      "title": "10. Hunted"
+    },
+    {
+      "id": 10,
+      "start": 4032.6530620000003,
+      "end": 4216.372246,
+      "title": "11. Remains"
+    },
+    {
+      "id": 11,
+      "start": 4216.372246,
+      "end": 4714.710205,
+      "title": "12. Funeral for Julia"
+    },
+    {
+      "id": 12,
+      "start": 4714.710205,
+      "end": 5361.606532000001,
+      "title": "13. Flying Cities"
+    },
+    {
+      "id": 13,
+      "start": 5361.606532000001,
+      "end": 5830.269389000001,
+      "title": "14. Friends"
+    },
+    {
+      "id": 14,
+      "start": 5830.269389000001,
+      "end": 6294.674287000001,
+      "title": "15. Enclaves"
+    },
+    {
+      "id": 15,
+      "start": 6294.674287000001,
+      "end": 6637.766532000001,
+      "title": "16. The Departed"
+    },
+    {
+      "id": 16,
+      "start": 6637.766532000001,
+      "end": 6832.19592,
+      "title": "17. Underway"
+    },
+    {
+      "id": 17,
+      "start": 6832.19592,
+      "end": 7520.052247,
+      "title": "18. Arrival at 82 Eridani"
+    },
+    {
+      "id": 18,
+      "start": 7520.052247,
+      "end": 7818.422858999999,
+      "title": "19. Cities Attacked"
+    },
+    {
+      "id": 19,
+      "start": 7818.422858999999,
+      "end": 8304.457144999998,
+      "title": "20. Life"
+    },
+    {
+      "id": 20,
+      "start": 8304.457144999998,
+      "end": 9452.721634999998,
+      "title": "21. The Return"
+    },
+    {
+      "id": 21,
+      "start": 9452.721634999998,
+      "end": 9830.739593999999,
+      "title": "22. Derelict"
+    },
+    {
+      "id": 22,
+      "start": 9830.739593999999,
+      "end": 10229.83837,
+      "title": "23. Death"
+    },
+    {
+      "id": 23,
+      "start": 10229.83837,
+      "end": 10657.593471999999,
+      "title": "24. Explorations"
+    },
+    {
+      "id": 24,
+      "start": 10657.593471999999,
+      "end": 11592.280819,
+      "title": "25. Battle"
+    },
+    {
+      "id": 25,
+      "start": 11592.280819,
+      "end": 12198.26939,
+      "title": "26. Cities in Fight"
+    },
+    {
+      "id": 26,
+      "start": 12198.26939,
+      "end": 12542.537145,
+      "title": "27. Repairs"
+    },
+    {
+      "id": 27,
+      "start": 12542.537145,
+      "end": 12896.261227,
+      "title": "28. Payback"
+    },
+    {
+      "id": 28,
+      "start": 12896.261227,
+      "end": 13062.661227,
+      "title": "29. Looming Storm"
+    },
+    {
+      "id": 29,
+      "start": 13062.661227,
+      "end": 13822.093064,
+      "title": "30. Armageddon"
+    },
+    {
+      "id": 30,
+      "start": 13822.093064,
+      "end": 14375.784493000001,
+      "title": "31. Cleanup"
+    },
+    {
+      "id": 31,
+      "start": 14375.784493000001,
+      "end": 14509.165717000002,
+      "title": "32. Found"
+    },
+    {
+      "id": 32,
+      "start": 14509.165717000002,
+      "end": 14990.236737000001,
+      "title": "33. Project"
+    },
+    {
+      "id": 33,
+      "start": 14990.236737000001,
+      "end": 15572.532247000001,
+      "title": "34. Kidnapping"
+    },
+    {
+      "id": 34,
+      "start": 15572.532247000001,
+      "end": 15860.819594,
+      "title": "35. Cities Victorious"
+    },
+    {
+      "id": 35,
+      "start": 15860.819594,
+      "end": 16151.431839,
+      "title": "36. Announcement"
+    },
+    {
+      "id": 36,
+      "start": 16151.431839,
+      "end": 16481.802451,
+      "title": "37. Court Battle"
+    },
+    {
+      "id": 37,
+      "start": 16481.802451,
+      "end": 16886.935512,
+      "title": "38. Travelling"
+    },
+    {
+      "id": 38,
+      "start": 16886.935512,
+      "end": 17121.071022,
+      "title": "39. Retirement"
+    },
+    {
+      "id": 39,
+      "start": 17121.071022,
+      "end": 17341.2049,
+      "title": "40. Recovery"
+    },
+    {
+      "id": 40,
+      "start": 17341.2049,
+      "end": 17822.328165,
+      "title": "41. Resurrection"
+    },
+    {
+      "id": 41,
+      "start": 17822.328165,
+      "end": 17997.035104,
+      "title": "42. Results Negative"
+    },
+    {
+      "id": 42,
+      "start": 17997.035104,
+      "end": 18047.425307999998,
+      "title": "43. Course Correction"
+    },
+    {
+      "id": 43,
+      "start": 18047.425307999998,
+      "end": 18515.173878999998,
+      "title": "44. Debut"
+    },
+    {
+      "id": 44,
+      "start": 18515.173878999998,
+      "end": 18735.751837999996,
+      "title": "45. Pav Arrival"
+    },
+    {
+      "id": 45,
+      "start": 18735.751837999996,
+      "end": 18889.691429999995,
+      "title": "46. City"
+    },
+    {
+      "id": 46,
+      "start": 18889.691429999995,
+      "end": 19115.572245999996,
+      "title": "47. Foreboding"
+    },
+    {
+      "id": 47,
+      "start": 19115.572245999996,
+      "end": 19774.589388999997,
+      "title": "48. Pav Decanting"
+    },
+    {
+      "id": 48,
+      "start": 19774.589388999997,
+      "end": 19899.271837999997,
+      "title": "49. Surveillance"
+    },
+    {
+      "id": 49,
+      "start": 19899.271837999997,
+      "end": 20130.481633999996,
+      "title": "50. A Space Odyssey"
+    },
+    {
+      "id": 50,
+      "start": 20130.481633999996,
+      "end": 20553.168980999995,
+      "title": "51. Moot"
+    },
+    {
+      "id": 51,
+      "start": 20553.168980999995,
+      "end": 20769.149388999995,
+      "title": "52. Waiting"
+    },
+    {
+      "id": 52,
+      "start": 20769.149388999995,
+      "end": 21178.331429999995,
+      "title": "53. Protection"
+    },
+    {
+      "id": 53,
+      "start": 21178.331429999995,
+      "end": 21527.823674999996,
+      "title": "54. Party"
+    },
+    {
+      "id": 54,
+      "start": 21527.823674999996,
+      "end": 21781.577143999995,
+      "title": "55. Offsite"
+    },
+    {
+      "id": 55,
+      "start": 21781.577143999995,
+      "end": 22044.003265999996,
+      "title": "56. City In The Clouds"
+    },
+    {
+      "id": 56,
+      "start": 22044.003265999996,
+      "end": 22479.046530999996,
+      "title": "57. Detection"
+    },
+    {
+      "id": 57,
+      "start": 22479.046530999996,
+      "end": 22773.655510999997,
+      "title": "58. Arrival"
+    },
+    {
+      "id": 58,
+      "start": 22773.655510999997,
+      "end": 23086.236735,
+      "title": "59. Reconciliation"
+    },
+    {
+      "id": 59,
+      "start": 23086.236735,
+      "end": 23408.195918999998,
+      "title": "60. Sneak Attack"
+    },
+    {
+      "id": 60,
+      "start": 23408.195918999998,
+      "end": 23602.625307,
+      "title": "61. Foreshadowing"
+    },
+    {
+      "id": 61,
+      "start": 23602.625307,
+      "end": 23925.106939999998,
+      "title": "62. Life in the Clouds"
+    },
+    {
+      "id": 62,
+      "start": 23925.106939999998,
+      "end": 24508.656327999997,
+      "title": "63. Well, Hold On"
+    },
+    {
+      "id": 63,
+      "start": 24508.656327999997,
+      "end": 24930.690613999996,
+      "title": "64. Battle Begins"
+    },
+    {
+      "id": 64,
+      "start": 24930.690613999996,
+      "end": 25045.524899999997,
+      "title": "65. Facilities"
+    },
+    {
+      "id": 65,
+      "start": 25045.524899999997,
+      "end": 25313.985307999996,
+      "title": "66. Battle Continues"
+    },
+    {
+      "id": 66,
+      "start": 25313.985307999996,
+      "end": 25702.739593999995,
+      "title": "67. Running"
+    },
+    {
+      "id": 67,
+      "start": 25702.739593999995,
+      "end": 26195.591838999993,
+      "title": "68. The Battle"
+    },
+    {
+      "id": 68,
+      "start": 26195.591838999993,
+      "end": 26451.513471999995,
+      "title": "69. Ending"
+    },
+    {
+      "id": 69,
+      "start": 26451.513471999995,
+      "end": 26743.666940999996,
+      "title": "70. Extermination"
+    },
+    {
+      "id": 70,
+      "start": 26743.666940999996,
+      "end": 27059.722450999994,
+      "title": "71. Victory"
+    },
+    {
+      "id": 71,
+      "start": 27059.722450999994,
+      "end": 27407.542858999994,
+      "title": "72. Recovery"
+    },
+    {
+      "id": 72,
+      "start": 27407.542858999994,
+      "end": 27750.556736999995,
+      "title": "73. Moot"
+    },
+    {
+      "id": 73,
+      "start": 27750.556736999995,
+      "end": 28074.370614999996,
+      "title": "74. Pav Announcement"
+    },
+    {
+      "id": 74,
+      "start": 28074.370614999996,
+      "end": 28211.513471999995,
+      "title": "75. Rebuilding"
+    },
+    {
+      "id": 75,
+      "start": 28211.513471999995,
+      "end": 28604.630206999995,
+      "title": "76. Pilgrimage"
+    }
+  ],
+  "title": "All These Worlds",
+  "subtitle": null,
+  "authors": [
+    "Dennis E. Taylor"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2017",
+  "publishedDate": null,
+  "publisher": "Worldbuilders Press",
+  "description": "Read by Ray Porter. Book 3 of the Bobiverse Series",
+  "isbn": "9781680680607",
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

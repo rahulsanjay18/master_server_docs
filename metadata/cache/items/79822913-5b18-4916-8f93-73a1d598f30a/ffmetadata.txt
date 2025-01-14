@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Tehanu
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Tehanu
+genre=Audio Book
+date=1990
+comment=Read by David Banks
+description=Read by David Banks
+composer=106mb
+TRACKTOTAL=14

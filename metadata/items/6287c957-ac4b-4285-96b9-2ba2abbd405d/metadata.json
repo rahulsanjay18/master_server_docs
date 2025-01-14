@@ -1,0 +1,280 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 39.105,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 39.105,
+      "end": 255.306,
+      "title": "Chapter 1:  The Structure of Japanese Society"
+    },
+    {
+      "id": 2,
+      "start": 255.306,
+      "end": 537.382,
+      "title": "Chapter 2: Welcome to the School Life of Your Dreams"
+    },
+    {
+      "id": 3,
+      "start": 537.382,
+      "end": 1242.526,
+      "title": "   ~ 2.1"
+    },
+    {
+      "id": 4,
+      "start": 1242.526,
+      "end": 3086.91,
+      "title": "   ~ 2.2"
+    },
+    {
+      "id": 5,
+      "start": 3086.91,
+      "end": 4428.071,
+      "title": "   ~ 2.3"
+    },
+    {
+      "id": 6,
+      "start": 4428.071,
+      "end": 4633.266,
+      "title": "   ~ 2.4"
+    },
+    {
+      "id": 7,
+      "start": 4633.266,
+      "end": 5146.45,
+      "title": "Chapter 3: The Students of D Class"
+    },
+    {
+      "id": 8,
+      "start": 5146.45,
+      "end": 5586.515,
+      "title": "   ~ 3.1"
+    },
+    {
+      "id": 9,
+      "start": 5586.515,
+      "end": 6502.937,
+      "title": "   ~ 3.2"
+    },
+    {
+      "id": 10,
+      "start": 6502.937,
+      "end": 6966.43,
+      "title": "Chapter 4: Ladies and Gentlemen, Thank You for Waiting"
+    },
+    {
+      "id": 11,
+      "start": 6966.43,
+      "end": 8456.966,
+      "title": "   ~ 4.1"
+    },
+    {
+      "id": 12,
+      "start": 8456.966,
+      "end": 8710.295,
+      "title": "Chapter 5: Friends"
+    },
+    {
+      "id": 13,
+      "start": 8710.295,
+      "end": 9180.592,
+      "title": "   ~ 5.1"
+    },
+    {
+      "id": 14,
+      "start": 9180.592,
+      "end": 10027.308,
+      "title": "   ~ 5.2"
+    },
+    {
+      "id": 15,
+      "start": 10027.308,
+      "end": 10285.375,
+      "title": "Chapter 6: The End of Everyday Life"
+    },
+    {
+      "id": 16,
+      "start": 10285.375,
+      "end": 10478.24,
+      "title": "   ~ 6.1"
+    },
+    {
+      "id": 17,
+      "start": 10478.24,
+      "end": 11066.03,
+      "title": "   ~ 6.2"
+    },
+    {
+      "id": 18,
+      "start": 11066.03,
+      "end": 12004.65,
+      "title": "   ~ 6.3"
+    },
+    {
+      "id": 19,
+      "start": 12004.65,
+      "end": 13244.897,
+      "title": "Chapter 7: Classroom of the Elite"
+    },
+    {
+      "id": 20,
+      "start": 13244.897,
+      "end": 13960.745,
+      "title": "   ~ 7.1"
+    },
+    {
+      "id": 21,
+      "start": 13960.745,
+      "end": 15855.563,
+      "title": "   ~ 7.2"
+    },
+    {
+      "id": 22,
+      "start": 15855.563,
+      "end": 16110.332,
+      "title": "Chapter 8: The Association of Failures"
+    },
+    {
+      "id": 23,
+      "start": 16110.332,
+      "end": 16589.941,
+      "title": "   ~ 8.1"
+    },
+    {
+      "id": 24,
+      "start": 16589.941,
+      "end": 17005.624,
+      "title": "   ~ 8.2"
+    },
+    {
+      "id": 25,
+      "start": 17005.624,
+      "end": 17300.262,
+      "title": "   ~ 8.3"
+    },
+    {
+      "id": 26,
+      "start": 17300.262,
+      "end": 17833.926,
+      "title": "   ~ 8.4"
+    },
+    {
+      "id": 27,
+      "start": 17833.926,
+      "end": 18946,
+      "title": "   ~ 8.5"
+    },
+    {
+      "id": 28,
+      "start": 18946,
+      "end": 19775.742,
+      "title": "   ~ 8.6"
+    },
+    {
+      "id": 29,
+      "start": 19775.742,
+      "end": 20078.994,
+      "title": "   ~ 8.7"
+    },
+    {
+      "id": 30,
+      "start": 20078.994,
+      "end": 21310.256,
+      "title": "   ~ 8.8"
+    },
+    {
+      "id": 31,
+      "start": 21310.256,
+      "end": 22439.721,
+      "title": "Chapter 9: The Failures Mobilize Once Again"
+    },
+    {
+      "id": 32,
+      "start": 22439.721,
+      "end": 23179.485,
+      "title": "   ~ 9.1"
+    },
+    {
+      "id": 33,
+      "start": 23179.485,
+      "end": 23827.09,
+      "title": "   ~ 9.2"
+    },
+    {
+      "id": 34,
+      "start": 23827.09,
+      "end": 24256.055,
+      "title": "   ~ 9.3"
+    },
+    {
+      "id": 35,
+      "start": 24256.055,
+      "end": 25053.87,
+      "title": "   ~ 9.4"
+    },
+    {
+      "id": 36,
+      "start": 25053.87,
+      "end": 25420.188,
+      "title": "Chapter 10: Midterm Exam"
+    },
+    {
+      "id": 37,
+      "start": 25420.188,
+      "end": 25803.595,
+      "title": "   ~ 10.1"
+    },
+    {
+      "id": 38,
+      "start": 25803.595,
+      "end": 26070.555,
+      "title": "   ~ 10.2"
+    },
+    {
+      "id": 39,
+      "start": 26070.555,
+      "end": 27330.911,
+      "title": "Chapter 11: The Beginning"
+    },
+    {
+      "id": 40,
+      "start": 27330.911,
+      "end": 27937.3,
+      "title": "Chapter 12: Victory Celebration"
+    },
+    {
+      "id": 41,
+      "start": 27937.3,
+      "end": 28009.721,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Classroom of the Elite, Vol. 01",
+  "subtitle": null,
+  "authors": [
+    "Eddy Lee"
+  ],
+  "narrators": [
+    "Syougo Kinugasa"
+  ],
+  "series": [
+    "Classroom of the Elite #01"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "May 25, 2015 (06-10-23)",
+  "publishedDate": null,
+  "publisher": "Seven Seas Siren",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

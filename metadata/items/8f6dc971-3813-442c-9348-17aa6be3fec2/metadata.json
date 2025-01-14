@@ -1,0 +1,92 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 316.290612,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 316.290612,
+      "end": 1755.245714,
+      "title": "Introduction"
+    },
+    {
+      "id": 2,
+      "start": 1755.245714,
+      "end": 2795.911836,
+      "title": "The First Contact with the Gorgonids"
+    },
+    {
+      "id": 3,
+      "start": 2795.911836,
+      "end": 6748.760816,
+      "title": "Newton's Sleep"
+    },
+    {
+      "id": 4,
+      "start": 6748.760816,
+      "end": 7195.689796,
+      "title": "The Ascent of the North Face"
+    },
+    {
+      "id": 5,
+      "start": 7195.689796,
+      "end": 8670.641633,
+      "title": "The Rock That Changed Things"
+    },
+    {
+      "id": 6,
+      "start": 8670.641633,
+      "end": 9250.612244999998,
+      "title": "The Kerastion"
+    },
+    {
+      "id": 7,
+      "start": 9250.612244999998,
+      "end": 13308.36898,
+      "title": "The Shobies' Story"
+    },
+    {
+      "id": 8,
+      "start": 13308.36898,
+      "end": 18706.207347,
+      "title": "Dancing to Ganam"
+    },
+    {
+      "id": 9,
+      "start": 18706.207347,
+      "end": 24803.73551,
+      "title": "Another Story or A Fisherman of the Inland Sea"
+    },
+    {
+      "id": 10,
+      "start": 24803.73551,
+      "end": 24916.349388,
+      "title": "End"
+    }
+  ],
+  "title": "A Fisherman of the Inland Sea",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "192mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1994",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Ted Stoddard",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

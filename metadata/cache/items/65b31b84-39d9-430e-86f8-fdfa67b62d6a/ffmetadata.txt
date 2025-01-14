@@ -1,0 +1,89 @@
+;FFMETADATA1
+title=Stardust
+artist=Neil Gaiman
+album_artist=Neil Gaiman
+album=Stardust
+genre=Books & Spoken
+date=2006
+comment=Amazon.com Review\
+Stardust is an utterly charming fairy tale in the tradition of The Princess \
+Bride and The Neverending Story. Neil Gaiman, creator of the darkly \
+elegant Sandman comics and author of The Day I Swapped My Dad for Two \
+Goldfish, tells the story of young Tristran Thorn and his adventures \
+in the land of Faerie. One fateful night, Tristran promises his beloved \
+that he will retrieve a fallen star for her from beyond the Wall that \
+stands between their rural English town (called, appropriately, Wall) \
+and the Faerie realm. No one ever ventures beyond the Wall except to \
+attend an enchanted flea market that is held every nine years (and during \
+which, unbeknownst to him, Tristran was conceived). But Tristran bravely \
+sets out to fetch the fallen star and thus win the hand of his love. \
+His adventures in the magical land will keep you turning pages as fast \
+as you can--he and the star escape evil old witches, deadly clutching \
+trees, goblin press-gangs, and the scheming sons of the dead Lord of \
+Stormhold. The story is by turns thrillingly scary and very funny. You'll \
+love goofy, earnest Tristran and the talking animals, gnomes, magic \
+trees, and other irresistible denizens of Faerie that he encounters \
+in his travels. Stardust is a perfect read-aloud book, a brand-new fairy \
+tale you'll want to share with a kid, or maybe hoard for yourself. (If \
+you read it to kids, watch out for a couple of spicy sex bits and one \
+epithet.) --Therese Littleton\
+\
+\
+From Publishers Weekly\
+Starred Review. Tristran Thorn falls in love with the prettiest girl \
+in town and makes her a foolish promise: he says that he'll go find \
+the falling star they both watched streak across the night sky. She \
+says she'll marry him if he finds it, so he sets off, leaving his home \
+of Wall, and heads out into the perilous land of faerie, where not everything \
+is what it appears. Gaiman is known for his fanciful wit, sterling prose \
+and wildly imaginative plots, and Stardust is no exception. Gaiman's \
+silver-tongued narration vividly brings this production to life. Like \
+the bards of old, Gaiman is equally proficient at telling tales as he \
+is at writing them, and his pleasant British accent feels like a perfect \
+match to the material. Gaiman's performance is an extraordinary achievement \
+if only all authors could read their own work so well. The audiobook \
+also includes a brief, informative and enjoyable interview with Gaiman \
+about the writing of the novel and his work in the audiobook studio.
+description=Amazon.com Review\
+Stardust is an utterly charming fairy tale in the tradition of The Princess \
+Bride and The Neverending Story. Neil Gaiman, creator of the darkly \
+elegant Sandman comics and author of The Day I Swapped My Dad for Two \
+Goldfish, tells the story of young Tristran Thorn and his adventures \
+in the land of Faerie. One fateful night, Tristran promises his beloved \
+that he will retrieve a fallen star for her from beyond the Wall that \
+stands between their rural English town (called, appropriately, Wall) \
+and the Faerie realm. No one ever ventures beyond the Wall except to \
+attend an enchanted flea market that is held every nine years (and during \
+which, unbeknownst to him, Tristran was conceived). But Tristran bravely \
+sets out to fetch the fallen star and thus win the hand of his love. \
+His adventures in the magical land will keep you turning pages as fast \
+as you can--he and the star escape evil old witches, deadly clutching \
+trees, goblin press-gangs, and the scheming sons of the dead Lord of \
+Stormhold. The story is by turns thrillingly scary and very funny. You'll \
+love goofy, earnest Tristran and the talking animals, gnomes, magic \
+trees, and other irresistible denizens of Faerie that he encounters \
+in his travels. Stardust is a perfect read-aloud book, a brand-new fairy \
+tale you'll want to share with a kid, or maybe hoard for yourself. (If \
+you read it to kids, watch out for a couple of spicy sex bits and one \
+epithet.) --Therese Littleton\
+\
+\
+From Publishers Weekly\
+Starred Review. Tristran Thorn falls in love with the prettiest girl \
+in town and makes her a foolish promise: he says that he'll go find \
+the falling star they both watched streak across the night sky. She \
+says she'll marry him if he finds it, so he sets off, leaving his home \
+of Wall, and heads out into the perilous land of faerie, where not everything \
+is what it appears. Gaiman is known for his fanciful wit, sterling prose \
+and wildly imaginative plots, and Stardust is no exception. Gaiman's \
+silver-tongued narration vividly brings this production to life. Like \
+the bards of old, Gaiman is equally proficient at telling tales as he \
+is at writing them, and his pleasant British accent feels like a perfect \
+match to the material. Gaiman's performance is an extraordinary achievement \
+if only all authors could read their own work so well. The audiobook \
+also includes a brief, informative and enjoyable interview with Gaiman \
+about the writing of the novel and his work in the audiobook studio.
+composer=Neil Gaiman
+copyright=HarperAudio
+publisher=HarperAudio
+TRACKTOTAL=38

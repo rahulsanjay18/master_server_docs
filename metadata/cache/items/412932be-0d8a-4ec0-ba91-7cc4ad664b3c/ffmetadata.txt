@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=Winter's Heart (The Wheel of Time \#9)
+artist=Robert Jordan
+album_artist=Robert Jordan
+album=Winter's Heart (The Wheel of Time \#9)
+genre=Audiobook
+date=2000
+TRACKTOTAL=40
+grouping=Robert Jordan - The Wheel of Time 12GB

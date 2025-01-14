@@ -1,0 +1,108 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 417.82,
+      "title": "track01"
+    },
+    {
+      "id": 1,
+      "start": 417.82,
+      "end": 714.48,
+      "title": "track02"
+    },
+    {
+      "id": 2,
+      "start": 714.48,
+      "end": 1054.924,
+      "title": "track03"
+    },
+    {
+      "id": 3,
+      "start": 1054.924,
+      "end": 1293.422,
+      "title": "track04"
+    },
+    {
+      "id": 4,
+      "start": 1293.422,
+      "end": 1540.656,
+      "title": "track05"
+    },
+    {
+      "id": 5,
+      "start": 1540.656,
+      "end": 1835.106,
+      "title": "track06"
+    },
+    {
+      "id": 6,
+      "start": 1835.106,
+      "end": 2140.944,
+      "title": "track07"
+    },
+    {
+      "id": 7,
+      "start": 2140.944,
+      "end": 2437.604,
+      "title": "track08"
+    },
+    {
+      "id": 8,
+      "start": 2437.604,
+      "end": 2668.874,
+      "title": "track09"
+    },
+    {
+      "id": 9,
+      "start": 2668.874,
+      "end": 2977.4939999999997,
+      "title": "track10"
+    },
+    {
+      "id": 10,
+      "start": 2977.4939999999997,
+      "end": 3258.0339999999997,
+      "title": "track11"
+    },
+    {
+      "id": 11,
+      "start": 3258.0339999999997,
+      "end": 3606.798,
+      "title": "track12"
+    },
+    {
+      "id": 12,
+      "start": 3606.798,
+      "end": 3984.1879999999996,
+      "title": "track13"
+    },
+    {
+      "id": 13,
+      "start": 3984.1879999999996,
+      "end": 4362.566,
+      "title": "track14"
+    }
+  ],
+  "title": "disc 5",
+  "subtitle": null,
+  "authors": [
+    "Haruki Murakami"
+  ],
+  "narrators": [],
+  "series": [
+    "Haruki Murakami - Kafka on the Shore"
+  ],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

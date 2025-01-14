@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Tuf Voyaging
+artist=George R. R. Martin
+album_artist=George R. R. Martin
+album=Tuf Voyaging
+genre=Audio Book
+date=1986
+comment=Read by Stephen Van Doren
+description=Read by Stephen Van Doren
+composer=409mb
+TRACKTOTAL=10

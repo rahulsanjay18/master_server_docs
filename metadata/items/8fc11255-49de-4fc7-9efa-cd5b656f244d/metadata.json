@@ -1,0 +1,728 @@
+{
+  "tags": [
+    "Action & Adventure",
+    "Classics",
+    "Fantasy",
+    "Fairy Tales",
+    "Paranormal & Urban",
+    "Contemporary"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 610.168125,
+      "title": "001 American Gods 10th Anniversary"
+    },
+    {
+      "id": 1,
+      "start": 610.168125,
+      "end": 1239.875881,
+      "title": "002 American Gods 10th Anniversary"
+    },
+    {
+      "id": 2,
+      "start": 1239.875881,
+      "end": 1872.561506,
+      "title": "003 American Gods 10th Anniversary"
+    },
+    {
+      "id": 3,
+      "start": 1872.561506,
+      "end": 2473.769631,
+      "title": "004 American Gods 10th Anniversary"
+    },
+    {
+      "id": 4,
+      "start": 2473.769631,
+      "end": 3083.833256,
+      "title": "005 American Gods 10th Anniversary"
+    },
+    {
+      "id": 5,
+      "start": 3083.833256,
+      "end": 3700.8715119999997,
+      "title": "006 American Gods 10th Anniversary"
+    },
+    {
+      "id": 6,
+      "start": 3700.8715119999997,
+      "end": 4334.262511999999,
+      "title": "007 American Gods 10th Anniversary"
+    },
+    {
+      "id": 7,
+      "start": 4334.262511999999,
+      "end": 4938.161268,
+      "title": "008 American Gods 10th Anniversary"
+    },
+    {
+      "id": 8,
+      "start": 4938.161268,
+      "end": 5546.918768,
+      "title": "009 American Gods 10th Anniversary"
+    },
+    {
+      "id": 9,
+      "start": 5546.918768,
+      "end": 6166.647645999999,
+      "title": "010 American Gods 10th Anniversary"
+    },
+    {
+      "id": 10,
+      "start": 6166.647645999999,
+      "end": 6777.651645999999,
+      "title": "011 American Gods 10th Anniversary"
+    },
+    {
+      "id": 11,
+      "start": 6777.651645999999,
+      "end": 7411.7217709999995,
+      "title": "012 American Gods 10th Anniversary"
+    },
+    {
+      "id": 12,
+      "start": 7411.7217709999995,
+      "end": 8026.435149,
+      "title": "013 American Gods 10th Anniversary"
+    },
+    {
+      "id": 13,
+      "start": 8026.435149,
+      "end": 8627.643274,
+      "title": "014 American Gods 10th Anniversary"
+    },
+    {
+      "id": 14,
+      "start": 8627.643274,
+      "end": 9258.709274,
+      "title": "015 American Gods 10th Anniversary"
+    },
+    {
+      "id": 15,
+      "start": 9258.709274,
+      "end": 9864.279774,
+      "title": "016 American Gods 10th Anniversary"
+    },
+    {
+      "id": 16,
+      "start": 9864.279774,
+      "end": 10470.73853,
+      "title": "017 American Gods 10th Anniversary"
+    },
+    {
+      "id": 17,
+      "start": 10470.73853,
+      "end": 11083.414408,
+      "title": "018 American Gods 10th Anniversary"
+    },
+    {
+      "id": 18,
+      "start": 11083.414408,
+      "end": 11689.246164,
+      "title": "019 American Gods 10th Anniversary"
+    },
+    {
+      "id": 19,
+      "start": 11689.246164,
+      "end": 12297.794664000001,
+      "title": "020 American Gods 10th Anniversary"
+    },
+    {
+      "id": 20,
+      "start": 12297.794664000001,
+      "end": 12900.622420000002,
+      "title": "021 American Gods 10th Anniversary"
+    },
+    {
+      "id": 21,
+      "start": 12900.622420000002,
+      "end": 13506.689298000001,
+      "title": "022 American Gods 10th Anniversary"
+    },
+    {
+      "id": 22,
+      "start": 13506.689298000001,
+      "end": 14107.897423,
+      "title": "023 American Gods 10th Anniversary"
+    },
+    {
+      "id": 23,
+      "start": 14107.897423,
+      "end": 14713.650801,
+      "title": "024 American Gods 10th Anniversary"
+    },
+    {
+      "id": 24,
+      "start": 14713.650801,
+      "end": 15322.277678999999,
+      "title": "025 American Gods 10th Anniversary"
+    },
+    {
+      "id": 25,
+      "start": 15322.277678999999,
+      "end": 15932.915934999999,
+      "title": "026 American Gods 10th Anniversary"
+    },
+    {
+      "id": 26,
+      "start": 15932.915934999999,
+      "end": 16538.982813,
+      "title": "027 American Gods 10th Anniversary"
+    },
+    {
+      "id": 27,
+      "start": 16538.982813,
+      "end": 17152.860312999997,
+      "title": "028 American Gods 10th Anniversary"
+    },
+    {
+      "id": 28,
+      "start": 17152.860312999997,
+      "end": 17778.257812999997,
+      "title": "029 American Gods 10th Anniversary"
+    },
+    {
+      "id": 29,
+      "start": 17778.257812999997,
+      "end": 18383.462690999997,
+      "title": "030 American Gods 10th Anniversary"
+    },
+    {
+      "id": 30,
+      "start": 18383.462690999997,
+      "end": 18996.634815999998,
+      "title": "031 American Gods 10th Anniversary"
+    },
+    {
+      "id": 31,
+      "start": 18996.634815999998,
+      "end": 19600.585816,
+      "title": "032 American Gods 10th Anniversary"
+    },
+    {
+      "id": 32,
+      "start": 19600.585816,
+      "end": 20211.302441,
+      "title": "033 American Gods 10th Anniversary"
+    },
+    {
+      "id": 33,
+      "start": 20211.302441,
+      "end": 20814.025697,
+      "title": "034 American Gods 10th Anniversary"
+    },
+    {
+      "id": 34,
+      "start": 20814.025697,
+      "end": 21425.526075,
+      "title": "035 American Gods 10th Anniversary"
+    },
+    {
+      "id": 35,
+      "start": 21425.526075,
+      "end": 22051.393831,
+      "title": "036 American Gods 10th Anniversary"
+    },
+    {
+      "id": 36,
+      "start": 22051.393831,
+      "end": 22668.980709,
+      "title": "037 American Gods 10th Anniversary"
+    },
+    {
+      "id": 37,
+      "start": 22668.980709,
+      "end": 23105.538965,
+      "title": "038 American Gods 10th Anniversary"
+    },
+    {
+      "id": 38,
+      "start": 23105.538965,
+      "end": 23709.568343,
+      "title": "039 American Gods 10th Anniversary"
+    },
+    {
+      "id": 39,
+      "start": 23709.568343,
+      "end": 24312.526599,
+      "title": "040 American Gods 10th Anniversary"
+    },
+    {
+      "id": 40,
+      "start": 24312.526599,
+      "end": 24914.100477,
+      "title": "041 American Gods 10th Anniversary"
+    },
+    {
+      "id": 41,
+      "start": 24914.100477,
+      "end": 25524.451477,
+      "title": "042 American Gods 10th Anniversary"
+    },
+    {
+      "id": 42,
+      "start": 25524.451477,
+      "end": 26132.843233,
+      "title": "043 American Gods 10th Anniversary"
+    },
+    {
+      "id": 43,
+      "start": 26132.843233,
+      "end": 26735.070111,
+      "title": "044 American Gods 10th Anniversary"
+    },
+    {
+      "id": 44,
+      "start": 26735.070111,
+      "end": 27368.173736,
+      "title": "045 American Gods 10th Anniversary"
+    },
+    {
+      "id": 45,
+      "start": 27368.173736,
+      "end": 27975.834114,
+      "title": "046 American Gods 10th Anniversary"
+    },
+    {
+      "id": 46,
+      "start": 27975.834114,
+      "end": 28609.06837,
+      "title": "047 American Gods 10th Anniversary"
+    },
+    {
+      "id": 47,
+      "start": 28609.06837,
+      "end": 29220.49037,
+      "title": "048 American Gods 10th Anniversary"
+    },
+    {
+      "id": 48,
+      "start": 29220.49037,
+      "end": 29829.953126,
+      "title": "049 American Gods 10th Anniversary"
+    },
+    {
+      "id": 49,
+      "start": 29829.953126,
+      "end": 30442.629004000002,
+      "title": "050 American Gods 10th Anniversary"
+    },
+    {
+      "id": 50,
+      "start": 30442.629004000002,
+      "end": 31048.042882,
+      "title": "051 American Gods 10th Anniversary"
+    },
+    {
+      "id": 51,
+      "start": 31048.042882,
+      "end": 31655.415882,
+      "title": "052 American Gods 10th Anniversary"
+    },
+    {
+      "id": 52,
+      "start": 31655.415882,
+      "end": 32265.21826,
+      "title": "053 American Gods 10th Anniversary"
+    },
+    {
+      "id": 53,
+      "start": 32265.21826,
+      "end": 33025.66876,
+      "title": "054 American Gods 10th Anniversary"
+    },
+    {
+      "id": 54,
+      "start": 33025.66876,
+      "end": 33640.904638,
+      "title": "055 American Gods 10th Anniversary"
+    },
+    {
+      "id": 55,
+      "start": 33640.904638,
+      "end": 34243.601763,
+      "title": "056 American Gods 10th Anniversary"
+    },
+    {
+      "id": 56,
+      "start": 34243.601763,
+      "end": 34848.179640999995,
+      "title": "057 American Gods 10th Anniversary"
+    },
+    {
+      "id": 57,
+      "start": 34848.179640999995,
+      "end": 35468.849018999994,
+      "title": "058 American Gods 10th Anniversary"
+    },
+    {
+      "id": 58,
+      "start": 35468.849018999994,
+      "end": 36085.93951899999,
+      "title": "059 American Gods 10th Anniversary"
+    },
+    {
+      "id": 59,
+      "start": 36085.93951899999,
+      "end": 36708.41127499999,
+      "title": "060 American Gods 10th Anniversary"
+    },
+    {
+      "id": 60,
+      "start": 36708.41127499999,
+      "end": 37313.328774999994,
+      "title": "061 American Gods 10th Anniversary"
+    },
+    {
+      "id": 61,
+      "start": 37313.328774999994,
+      "end": 37938.308274999996,
+      "title": "062 American Gods 10th Anniversary"
+    },
+    {
+      "id": 62,
+      "start": 37938.308274999996,
+      "end": 38542.677153,
+      "title": "063 American Gods 10th Anniversary"
+    },
+    {
+      "id": 63,
+      "start": 38542.677153,
+      "end": 39161.883653,
+      "title": "064 American Gods 10th Anniversary"
+    },
+    {
+      "id": 64,
+      "start": 39161.883653,
+      "end": 39768.551409,
+      "title": "065 American Gods 10th Anniversary"
+    },
+    {
+      "id": 65,
+      "start": 39768.551409,
+      "end": 40385.354665,
+      "title": "066 American Gods 10th Anniversary"
+    },
+    {
+      "id": 66,
+      "start": 40385.354665,
+      "end": 40989.749664999996,
+      "title": "067 American Gods 10th Anniversary"
+    },
+    {
+      "id": 67,
+      "start": 40989.749664999996,
+      "end": 41605.612421,
+      "title": "068 American Gods 10th Anniversary"
+    },
+    {
+      "id": 68,
+      "start": 41605.612421,
+      "end": 42212.907046,
+      "title": "069 American Gods 10th Anniversary"
+    },
+    {
+      "id": 69,
+      "start": 42212.907046,
+      "end": 42814.115171,
+      "title": "070 American Gods 10th Anniversary"
+    },
+    {
+      "id": 70,
+      "start": 42814.115171,
+      "end": 43420.417171,
+      "title": "071 American Gods 10th Anniversary"
+    },
+    {
+      "id": 71,
+      "start": 43420.417171,
+      "end": 44037.115927,
+      "title": "072 American Gods 10th Anniversary"
+    },
+    {
+      "id": 72,
+      "start": 44037.115927,
+      "end": 44649.426051999995,
+      "title": "073 American Gods 10th Anniversary"
+    },
+    {
+      "id": 73,
+      "start": 44649.426051999995,
+      "end": 45262.833307999994,
+      "title": "074 American Gods 10th Anniversary"
+    },
+    {
+      "id": 74,
+      "start": 45262.833307999994,
+      "end": 46083.025933,
+      "title": "075 American Gods 10th Anniversary"
+    },
+    {
+      "id": 75,
+      "start": 46083.025933,
+      "end": 46693.664188999996,
+      "title": "076 American Gods 10th Anniversary"
+    },
+    {
+      "id": 76,
+      "start": 46693.664188999996,
+      "end": 47299.28694499999,
+      "title": "077 American Gods 10th Anniversary"
+    },
+    {
+      "id": 77,
+      "start": 47299.28694499999,
+      "end": 47912.38082299999,
+      "title": "078 American Gods 10th Anniversary"
+    },
+    {
+      "id": 78,
+      "start": 47912.38082299999,
+      "end": 48547.521947999994,
+      "title": "079 American Gods 10th Anniversary"
+    },
+    {
+      "id": 79,
+      "start": 48547.521947999994,
+      "end": 49170.359447999996,
+      "title": "080 American Gods 10th Anniversary"
+    },
+    {
+      "id": 80,
+      "start": 49170.359447999996,
+      "end": 49779.95282599999,
+      "title": "081 American Gods 10th Anniversary"
+    },
+    {
+      "id": 81,
+      "start": 49779.95282599999,
+      "end": 50397.17395099999,
+      "title": "082 American Gods 10th Anniversary"
+    },
+    {
+      "id": 82,
+      "start": 50397.17395099999,
+      "end": 51002.27432899999,
+      "title": "083 American Gods 10th Anniversary"
+    },
+    {
+      "id": 83,
+      "start": 51002.27432899999,
+      "end": 51604.030953999994,
+      "title": "084 American Gods 10th Anniversary"
+    },
+    {
+      "id": 84,
+      "start": 51604.030953999994,
+      "end": 52206.492953999994,
+      "title": "085 American Gods 10th Anniversary"
+    },
+    {
+      "id": 85,
+      "start": 52206.492953999994,
+      "end": 52819.90020999999,
+      "title": "086 American Gods 10th Anniversary"
+    },
+    {
+      "id": 86,
+      "start": 52819.90020999999,
+      "end": 53582.70183499999,
+      "title": "087 American Gods 10th Anniversary"
+    },
+    {
+      "id": 87,
+      "start": 53582.70183499999,
+      "end": 54186.130334999994,
+      "title": "088 American Gods 10th Anniversary"
+    },
+    {
+      "id": 88,
+      "start": 54186.130334999994,
+      "end": 54796.115590999994,
+      "title": "089 American Gods 10th Anniversary"
+    },
+    {
+      "id": 89,
+      "start": 54796.115590999994,
+      "end": 55404.08946899999,
+      "title": "090 American Gods 10th Anniversary"
+    },
+    {
+      "id": 90,
+      "start": 55404.08946899999,
+      "end": 56018.51546899999,
+      "title": "091 American Gods 10th Anniversary"
+    },
+    {
+      "id": 91,
+      "start": 56018.51546899999,
+      "end": 56648.74559399999,
+      "title": "092 American Gods 10th Anniversary"
+    },
+    {
+      "id": 92,
+      "start": 56648.74559399999,
+      "end": 57254.91697199999,
+      "title": "093 American Gods 10th Anniversary"
+    },
+    {
+      "id": 93,
+      "start": 57254.91697199999,
+      "end": 57870.518596999995,
+      "title": "094 American Gods 10th Anniversary"
+    },
+    {
+      "id": 94,
+      "start": 57870.518596999995,
+      "end": 58480.16422199999,
+      "title": "095 American Gods 10th Anniversary"
+    },
+    {
+      "id": 95,
+      "start": 58480.16422199999,
+      "end": 59088.66047799999,
+      "title": "096 American Gods 10th Anniversary"
+    },
+    {
+      "id": 96,
+      "start": 59088.66047799999,
+      "end": 59703.50447799999,
+      "title": "097 American Gods 10th Anniversary"
+    },
+    {
+      "id": 97,
+      "start": 59703.50447799999,
+      "end": 60317.01623399999,
+      "title": "098 American Gods 10th Anniversary"
+    },
+    {
+      "id": 98,
+      "start": 60317.01623399999,
+      "end": 60925.407989999985,
+      "title": "099 American Gods 10th Anniversary"
+    },
+    {
+      "id": 99,
+      "start": 60925.407989999985,
+      "end": 61534.13936799998,
+      "title": "100 American Gods 10th Anniversary"
+    },
+    {
+      "id": 100,
+      "start": 61534.13936799998,
+      "end": 62149.45362399998,
+      "title": "101 American Gods 10th Anniversary"
+    },
+    {
+      "id": 101,
+      "start": 62149.45362399998,
+      "end": 62752.46412399998,
+      "title": "102 American Gods 10th Anniversary"
+    },
+    {
+      "id": 102,
+      "start": 62752.46412399998,
+      "end": 63353.69837999998,
+      "title": "103 American Gods 10th Anniversary"
+    },
+    {
+      "id": 103,
+      "start": 63353.69837999998,
+      "end": 63975.75225799998,
+      "title": "104 American Gods 10th Anniversary"
+    },
+    {
+      "id": 104,
+      "start": 63975.75225799998,
+      "end": 64580.98325799998,
+      "title": "105 American Gods 10th Anniversary"
+    },
+    {
+      "id": 105,
+      "start": 64580.98325799998,
+      "end": 65187.75538299998,
+      "title": "106 American Gods 10th Anniversary"
+    },
+    {
+      "id": 106,
+      "start": 65187.75538299998,
+      "end": 65789.93000799998,
+      "title": "107 American Gods 10th Anniversary"
+    },
+    {
+      "id": 107,
+      "start": 65789.93000799998,
+      "end": 66391.73888599998,
+      "title": "108 American Gods 10th Anniversary"
+    },
+    {
+      "id": 108,
+      "start": 66391.73888599998,
+      "end": 67000.05226399998,
+      "title": "109 American Gods 10th Anniversary"
+    },
+    {
+      "id": 109,
+      "start": 67000.05226399998,
+      "end": 67622.39338899999,
+      "title": "110 American Gods 10th Anniversary"
+    },
+    {
+      "id": 110,
+      "start": 67622.39338899999,
+      "end": 68226.00476699999,
+      "title": "111 American Gods 10th Anniversary"
+    },
+    {
+      "id": 111,
+      "start": 68226.00476699999,
+      "end": 68846.856892,
+      "title": "112 American Gods 10th Anniversary"
+    },
+    {
+      "id": 112,
+      "start": 68846.856892,
+      "end": 69451.64377,
+      "title": "113 American Gods 10th Anniversary"
+    },
+    {
+      "id": 113,
+      "start": 69451.64377,
+      "end": 70058.128648,
+      "title": "114 American Gods 10th Anniversary"
+    },
+    {
+      "id": 114,
+      "start": 70058.128648,
+      "end": 70933.28290399999,
+      "title": "115 American Gods 10th Anniversary"
+    }
+  ],
+  "title": "American Gods: The Tenth Anniversary Edition (A Full Cast Production)",
+  "subtitle": null,
+  "authors": [
+    "Neil Gaiman"
+  ],
+  "narrators": [
+    "Ron McLarty",
+    "Daniel Oreskes",
+    "Full Cast"
+  ],
+  "series": [
+    "American Gods #1"
+  ],
+  "genres": [
+    "Literature & Fiction",
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2011-01-01",
+  "publishedDate": null,
+  "publisher": "HarperAudio",
+  "description": "Now a STARZ® Original Series produced by FremantleMedia North America starring Ricky Whittle, Ian McShane, Emily Browning, and Pablo Schreiber.  Locked behind bars for three years, Shadow did his time, quietly waiting for the day when he could return to Eagle Point, Indiana. A man no longer scared of what tomorrow might bring, all he wanted was to be with Laura, the wife he deeply loved, and start a new life.  But just days before his release, Laura and Shadow's best friend are killed in an accident. With his life in pieces and nothing to keep him tethered, Shadow accepts a job from a beguiling stranger he meets on the way home, an enigmatic man who calls himself Mr. Wednesday. A trickster and a rogue, Wednesday seems to know more about Shadow than Shadow does himself.  Life as Wednesday's bodyguard, driver, and errand boy is far more interesting and dangerous than Shadow ever imagined. Soon Shadow learns that the past never dies . . . and that beneath the placid surface of everyday life a storm is brewing—an epic war for the very soul of America—and that he is standing squarely in its path.  \"Mystery, satire, sex, horror, poetic prose—American Gods uses all these to keep the reader turning the pages.\"—Washington Post",
+  "isbn": null,
+  "asin": "B0055274U2",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

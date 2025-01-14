@@ -1,0 +1,92 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3343.046531,
+      "title": "00: Prologue: The Necklace"
+    },
+    {
+      "id": 1,
+      "start": 3343.046531,
+      "end": 4328.672653,
+      "title": "01: The Starlord 01"
+    },
+    {
+      "id": 2,
+      "start": 4328.672653,
+      "end": 6694.765713999999,
+      "title": "02: The Starlord 02"
+    },
+    {
+      "id": 3,
+      "start": 6694.765713999999,
+      "end": 8341.054693999999,
+      "title": "03: The Starlord 03"
+    },
+    {
+      "id": 4,
+      "start": 8341.054693999999,
+      "end": 9711.020407999998,
+      "title": "04: The Starlord 04"
+    },
+    {
+      "id": 5,
+      "start": 9711.020407999998,
+      "end": 12056.607346999997,
+      "title": "05: The Starlord 05"
+    },
+    {
+      "id": 6,
+      "start": 12056.607346999997,
+      "end": 13949.361632999997,
+      "title": "06: The Wanderer 01"
+    },
+    {
+      "id": 7,
+      "start": 13949.361632999997,
+      "end": 15519.085714999997,
+      "title": "07: The Wanderer 02"
+    },
+    {
+      "id": 8,
+      "start": 15519.085714999997,
+      "end": 16995.395919,
+      "title": "08: The Wanderer 03"
+    },
+    {
+      "id": 9,
+      "start": 16995.395919,
+      "end": 18427.506939,
+      "title": "09: The Wanderer 04"
+    },
+    {
+      "id": 10,
+      "start": 18427.506939,
+      "end": 18701.322449,
+      "title": "10: Epilogue"
+    }
+  ],
+  "title": "Rocannon's World",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "287mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1966",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Stefan Rudnicki",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

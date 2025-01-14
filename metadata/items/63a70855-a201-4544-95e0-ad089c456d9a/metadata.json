@@ -1,0 +1,80 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2733.113469,
+      "title": "The Telling 01"
+    },
+    {
+      "id": 1,
+      "start": 2733.113469,
+      "end": 4201.090612,
+      "title": "The Telling 02"
+    },
+    {
+      "id": 2,
+      "start": 4201.090612,
+      "end": 7466.318367,
+      "title": "The Telling 03"
+    },
+    {
+      "id": 3,
+      "start": 7466.318367,
+      "end": 11910.530611999999,
+      "title": "The Telling 04"
+    },
+    {
+      "id": 4,
+      "start": 11910.530611999999,
+      "end": 14885.511835999998,
+      "title": "The Telling 05"
+    },
+    {
+      "id": 5,
+      "start": 14885.511835999998,
+      "end": 18335.373059999998,
+      "title": "The Telling 06"
+    },
+    {
+      "id": 6,
+      "start": 18335.373059999998,
+      "end": 20625.946120999997,
+      "title": "The Telling 07"
+    },
+    {
+      "id": 7,
+      "start": 20625.946120999997,
+      "end": 24509.675100999997,
+      "title": "The Telling 08"
+    },
+    {
+      "id": 8,
+      "start": 24509.675100999997,
+      "end": 25051.324081,
+      "title": "The Telling 09"
+    }
+  ],
+  "title": "The Telling",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "192mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2004",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Gabra Zackman",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

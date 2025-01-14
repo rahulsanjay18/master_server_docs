@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Wave in the Mind: Talks and Essays on the Writer, the Reader, and the Imagination
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=The Wave in the Mind: Talks and Essays on the Writer, the Reader, and the Imagination
+genre=Audio Book
+date=2004
+comment=Read by Christina Moore
+description=Read by Christina Moore
+composer=287mb
+TRACKTOTAL=36

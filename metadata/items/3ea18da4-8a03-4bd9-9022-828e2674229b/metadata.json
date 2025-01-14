@@ -1,0 +1,83 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 39.682,
+      "title": "Intro - Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 39.682,
+      "end": 119.025,
+      "title": "Epigraph"
+    },
+    {
+      "id": 2,
+      "start": 119.025,
+      "end": 6234.743,
+      "title": "Chapter 5"
+    },
+    {
+      "id": 3,
+      "start": 6234.743,
+      "end": 8461.908,
+      "title": "Chapter 6"
+    },
+    {
+      "id": 4,
+      "start": 8461.908,
+      "end": 14827.101,
+      "title": "Chapter 7"
+    },
+    {
+      "id": 5,
+      "start": 14827.101,
+      "end": 19210.17,
+      "title": "Chapter 8"
+    },
+    {
+      "id": 6,
+      "start": 19210.17,
+      "end": 22507.519,
+      "title": "Chapter 8"
+    },
+    {
+      "id": 7,
+      "start": 22507.519,
+      "end": 25861.502,
+      "title": "Chapter 9"
+    },
+    {
+      "id": 8,
+      "start": 25861.502,
+      "end": 25987.516,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Sword Art Online, Vol. 04: Fairy Dance",
+  "subtitle": null,
+  "authors": [
+    "Bryce Papenbrook",
+    "Cherami Leigh"
+  ],
+  "narrators": [
+    "Reki Kawahara"
+  ],
+  "series": [
+    "Sword Art Online #04"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "April 10, 2010 (03-02-22)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,412 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 11.447007,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 11.447007,
+      "end": 36.988027,
+      "title": "Dedication",
+      "id": 1
+    },
+    {
+      "start": 36.988027,
+      "end": 1550.650045,
+      "title": "Prologue: Flamecrest, Spire Aurora",
+      "id": 2
+    },
+    {
+      "start": 1550.650045,
+      "end": 4037.94805,
+      "title": "Chapter 1: AMS Predator, Colony Spire Dependence",
+      "id": 3
+    },
+    {
+      "start": 4037.94805,
+      "end": 5764.11907,
+      "title": "Chapter 2: AMS Predator, Colony Spire Dependence",
+      "id": 4
+    },
+    {
+      "start": 5764.11907,
+      "end": 6902.77907,
+      "title": "Chapter 3: Skyport, Spire Albion",
+      "id": 5
+    },
+    {
+      "start": 6902.77907,
+      "end": 8469.266077,
+      "title": "Chapter 4: AMS Predator, Skyport, Spire Albion",
+      "id": 6
+    },
+    {
+      "start": 8469.266077,
+      "end": 9854.289093,
+      "title": "Chapter 5: Hinton Manor, Habble Morning, Spire Albion",
+      "id": 7
+    },
+    {
+      "start": 9854.289093,
+      "end": 11188.252109,
+      "title": "Chapter 6: Skyport, Spire Albion",
+      "id": 8
+    },
+    {
+      "start": 11188.252109,
+      "end": 12571.302109,
+      "title": "Chapter 7: Silent Paws Territory, Habble Morning, Spire Albion",
+      "id": 9
+    },
+    {
+      "start": 12571.302109,
+      "end": 14289.71712,
+      "title": "Chapter 8: IAS Mistshark, Somewhere over the Sea of Trees",
+      "id": 10
+    },
+    {
+      "start": 14289.71712,
+      "end": 15617.666122,
+      "title": "Chapter 9: AMS Predator, near Spire Olympia",
+      "id": 11
+    },
+    {
+      "start": 15617.666122,
+      "end": 16306.764127,
+      "title": "Chapter 10: AMS Predator, Skyport, Spire Olympia",
+      "id": 12
+    },
+    {
+      "start": 16306.764127,
+      "end": 17542.204127,
+      "title": "Chapter 11: AFS Belligerent, Skyport, Spire Olympia",
+      "id": 13
+    },
+    {
+      "start": 17542.204127,
+      "end": 18206.387143,
+      "title": "Chapter 12: Skyport, Spire Albion",
+      "id": 14
+    },
+    {
+      "start": 18206.387143,
+      "end": 19529.599161,
+      "title": "Chapter 13: Hinton Apartments, Habble Profit, Spire Olympia",
+      "id": 15
+    },
+    {
+      "start": 19529.599161,
+      "end": 21817.043175,
+      "title": "Chapter 14: PAS Stormmaiden, Skyport, Spire Olympia",
+      "id": 16
+    },
+    {
+      "start": 21817.043175,
+      "end": 22758.194195,
+      "title": "Chapter 15: The Surface, Spire Albion",
+      "id": 17
+    },
+    {
+      "start": 22758.194195,
+      "end": 23778.176213,
+      "title": "Chapter 16: IAS Mistshark, Coordinates Unknown",
+      "id": 18
+    },
+    {
+      "start": 23778.176213,
+      "end": 24781.53322,
+      "title": "Chapter 17: Habble Profit, Spire Olympia",
+      "id": 19
+    },
+    {
+      "start": 24781.53322,
+      "end": 26009.380227,
+      "title": "Chapter 18: The Spectral Tea, Habble Profit, Spire Olympia",
+      "id": 20
+    },
+    {
+      "start": 26009.380227,
+      "end": 27572.38424,
+      "title": "Chapter 19: The Spectral Tea, Habble Profit, Spire Olympia",
+      "id": 21
+    },
+    {
+      "start": 27572.38424,
+      "end": 28468.836259,
+      "title": "Chapter 20: IAS Mistshark, Coordinates Unknown",
+      "id": 22
+    },
+    {
+      "start": 28468.836259,
+      "end": 29802.079274,
+      "title": "Chapter 21: The Surface, Spire Albion",
+      "id": 23
+    },
+    {
+      "start": 29802.079274,
+      "end": 30841.264286,
+      "title": "Chapter 22: Habble Profit, Spire Olympia",
+      "id": 24
+    },
+    {
+      "start": 30841.264286,
+      "end": 31789.775306,
+      "title": "Chapter 23: The Surface, near Spire Albion",
+      "id": 25
+    },
+    {
+      "start": 31789.775306,
+      "end": 32727.768322,
+      "title": "Chapter 24: IAS Mistshark, Coordinates Unknown",
+      "id": 26
+    },
+    {
+      "start": 32727.768322,
+      "end": 33724.322336,
+      "title": "Chapter 25: Auroran Embassy, Habble Profit, Spire Olympia",
+      "id": 27
+    },
+    {
+      "start": 33724.322336,
+      "end": 34810.296349,
+      "title": "Chapter 26: The Surface, near Spire Albion",
+      "id": 28
+    },
+    {
+      "start": 34810.296349,
+      "end": 36009.536349,
+      "title": "Chapter 27: The Surface, near Spire Albion",
+      "id": 29
+    },
+    {
+      "start": 36009.536349,
+      "end": 36559.709365,
+      "title": "Chapter 28: IAS Mistshark, Coordinates Unknown",
+      "id": 30
+    },
+    {
+      "start": 36559.709365,
+      "end": 38248.426372,
+      "title": "Chapter 29: Dueling Platform, Habble Profit, Spire Olympia",
+      "id": 31
+    },
+    {
+      "start": 38248.426372,
+      "end": 39619.355374,
+      "title": "Chapter 30: AFS Belligerent, Skyport, Habble Olympia",
+      "id": 32
+    },
+    {
+      "start": 39619.355374,
+      "end": 40711.505374,
+      "title": "Chapter 31: Skyport, Spire Olympia",
+      "id": 33
+    },
+    {
+      "start": 40711.505374,
+      "end": 41544.93839,
+      "title": "Chapter 32: Spirearch's Chambers, Habble Morning, Spire Albion",
+      "id": 34
+    },
+    {
+      "start": 41544.93839,
+      "end": 42717.243401,
+      "title": "Chapter 33: AFS Belligerent, Skyport, Spire Olympia",
+      "id": 35
+    },
+    {
+      "start": 42717.243401,
+      "end": 44109.906417,
+      "title": "Chapter 34: IAS Mistshark, Coordinates Unknown",
+      "id": 36
+    },
+    {
+      "start": 44109.906417,
+      "end": 44632.308435,
+      "title": "Chapter 35: PAS Stormmaiden, Skyport, Spire Olympia",
+      "id": 37
+    },
+    {
+      "start": 44632.308435,
+      "end": 45741.664444,
+      "title": "Chapter 36: Hinton Apartments, Habble Profit, Spire Olympia",
+      "id": 38
+    },
+    {
+      "start": 45741.664444,
+      "end": 46816.631451,
+      "title": "Chapter 37: ACS Sunhawk, Bound for Spire Olympia",
+      "id": 39
+    },
+    {
+      "start": 46816.631451,
+      "end": 47849.315465,
+      "title": "Chapter 38: Dueling Platform, Skyport, Spire Olympia",
+      "id": 40
+    },
+    {
+      "start": 47849.315465,
+      "end": 48832.540476,
+      "title": "Chapter 39: Dueling Platform, Habble Profit, Spire Olympia",
+      "id": 41
+    },
+    {
+      "start": 48832.540476,
+      "end": 50068.816485,
+      "title": "Chapter 40: Dueling Platform, Habble Profit, Spire Olympia",
+      "id": 42
+    },
+    {
+      "start": 50068.816485,
+      "end": 50797.690499,
+      "title": "Chapter 41: IAS Mistshark, Bound for Spire Olympia",
+      "id": 43
+    },
+    {
+      "start": 50797.690499,
+      "end": 52148.348503,
+      "title": "Chapter 42: Dueling Platform, Skyport, Spire Olympia",
+      "id": 44
+    },
+    {
+      "start": 52148.348503,
+      "end": 53185.606508,
+      "title": "Chapter 43: IAS Mistshark, Bound for Spire Olympia",
+      "id": 45
+    },
+    {
+      "start": 53185.606508,
+      "end": 53929.108526,
+      "title": "Chapter 44: ACS Sunhawk, near Spire Olympia",
+      "id": 46
+    },
+    {
+      "start": 53929.108526,
+      "end": 54685.521542,
+      "title": "Chapter 45: AMS Predator, Skyport, Spire Olympia",
+      "id": 47
+    },
+    {
+      "start": 54685.521542,
+      "end": 55745.488549,
+      "title": "Chapter 46: Warren Manor, Habble Profit, Spire Olympia",
+      "id": 48
+    },
+    {
+      "start": 55745.488549,
+      "end": 57344.715556,
+      "title": "Chapter 47: AMS Predator, Skyport, Spire Olympia",
+      "id": 49
+    },
+    {
+      "start": 57344.715556,
+      "end": 58454.744558,
+      "title": "Chapter 48: AMS Predator, near Spire Olympia",
+      "id": 50
+    },
+    {
+      "start": 58454.744558,
+      "end": 59301.738571,
+      "title": "Chapter 49: IAS Mistshark, near Spire Olympia",
+      "id": 51
+    },
+    {
+      "start": 59301.738571,
+      "end": 60099.296576,
+      "title": "Chapter 50: ACS Sunhawk, Skyport, Spire Olympia",
+      "id": 52
+    },
+    {
+      "start": 60099.296576,
+      "end": 61261.686576,
+      "title": "Chapter 51: AMS Predator, near Spire Olympia",
+      "id": 53
+    },
+    {
+      "start": 61261.686576,
+      "end": 62052.905578,
+      "title": "Chapter 52: Warren Manor, Habble Profit, Spire Olympia",
+      "id": 54
+    },
+    {
+      "start": 62052.905578,
+      "end": 63070.635578,
+      "title": "Chapter 53: AMS Predator, near Spire Olympia",
+      "id": 55
+    },
+    {
+      "start": 63070.635578,
+      "end": 63896.94059,
+      "title": "Chapter 54: Skyport, Spire Olympia",
+      "id": 56
+    },
+    {
+      "start": 63896.94059,
+      "end": 64610.00161,
+      "title": "Chapter 55: IAS Mistshark, near Spire Olympia",
+      "id": 57
+    },
+    {
+      "start": 64610.00161,
+      "end": 66129.793628,
+      "title": "Chapter 56: IAS Mistshark, near Spire Olympia",
+      "id": 58
+    },
+    {
+      "start": 66129.793628,
+      "end": 67513.353628,
+      "title": "Chapter 57: Skyport, Spire Olympia",
+      "id": 59
+    },
+    {
+      "start": 67513.353628,
+      "end": 69344.641633,
+      "title": "Chapter 58: IAS Mistshark, near Spire Olympia",
+      "id": 60
+    },
+    {
+      "start": 69344.641633,
+      "end": 72348.142653,
+      "title": "Chapter 59: AFS Belligerent, Skyport, Spire Olympia",
+      "id": 61
+    },
+    {
+      "start": 72348.142653,
+      "end": 73372.908662,
+      "title": "Epilogue: Spirearch's Chambers, Habble Morning, Spire Albion",
+      "id": 62
+    },
+    {
+      "start": 73372.908662,
+      "end": 73402,
+      "title": "End Credits",
+      "id": 63
+    }
+  ],
+  "title": "The Cinder Spires 2: The Olympian Affair",
+  "subtitle": null,
+  "authors": [
+    "Jim Butcher"
+  ],
+  "narrators": [
+    "Euan Morton"
+  ],
+  "series": [
+    "Jim Butcher - The Cinder Spires #2"
+  ],
+  "genres": [
+    "Action & Abenteuer, Epic Fantasy, Steampunk"
+  ],
+  "publishedYear": "2023-01-01",
+  "publishedDate": null,
+  "publisher": "Penguin Audio",
+  "description": "For centuries the Cinder Spires have safeguarded humanity, rising far above the deadly surface world. Within their halls, aristocratic houses rule, developing scientific marvels and building fleets of airships for defense and trade. Now, the Spires hover on the brink of open war.",
+  "isbn": null,
+  "asin": "B0C37RR84N",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,474 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 556.016327,
+      "title": "A Time of Changes 00"
+    },
+    {
+      "id": 1,
+      "start": 556.016327,
+      "end": 748.303674,
+      "title": "A Time of Changes 01"
+    },
+    {
+      "id": 2,
+      "start": 748.303674,
+      "end": 845.557552,
+      "title": "A Time of Changes 02"
+    },
+    {
+      "id": 3,
+      "start": 845.557552,
+      "end": 976.613879,
+      "title": "A Time of Changes 03"
+    },
+    {
+      "id": 4,
+      "start": 976.613879,
+      "end": 1182.197552,
+      "title": "A Time of Changes 04"
+    },
+    {
+      "id": 5,
+      "start": 1182.197552,
+      "end": 2504.907756,
+      "title": "A Time of Changes 05"
+    },
+    {
+      "id": 6,
+      "start": 2504.907756,
+      "end": 3137.933062,
+      "title": "A Time of Changes 06"
+    },
+    {
+      "id": 7,
+      "start": 3137.933062,
+      "end": 3317.342042,
+      "title": "A Time of Changes 07"
+    },
+    {
+      "id": 8,
+      "start": 3317.342042,
+      "end": 3787.702858,
+      "title": "A Time of Changes 08"
+    },
+    {
+      "id": 9,
+      "start": 3787.702858,
+      "end": 4429.32245,
+      "title": "A Time of Changes 09"
+    },
+    {
+      "id": 10,
+      "start": 4429.32245,
+      "end": 5615.542858,
+      "title": "A Time of Changes 10"
+    },
+    {
+      "id": 11,
+      "start": 5615.542858,
+      "end": 5934.106123,
+      "title": "A Time of Changes 11"
+    },
+    {
+      "id": 12,
+      "start": 5934.106123,
+      "end": 6684.708572,
+      "title": "A Time of Changes 12"
+    },
+    {
+      "id": 13,
+      "start": 6684.708572,
+      "end": 7118.811428999999,
+      "title": "A Time of Changes 13"
+    },
+    {
+      "id": 14,
+      "start": 7118.811428999999,
+      "end": 7341.766530999999,
+      "title": "A Time of Changes 14"
+    },
+    {
+      "id": 15,
+      "start": 7341.766530999999,
+      "end": 7910.086530999999,
+      "title": "A Time of Changes 15"
+    },
+    {
+      "id": 16,
+      "start": 7910.086530999999,
+      "end": 8167.157550999999,
+      "title": "A Time of Changes 16"
+    },
+    {
+      "id": 17,
+      "start": 8167.157550999999,
+      "end": 8991.242449,
+      "title": "A Time of Changes 17"
+    },
+    {
+      "id": 18,
+      "start": 8991.242449,
+      "end": 9562.67102,
+      "title": "A Time of Changes 18"
+    },
+    {
+      "id": 19,
+      "start": 9562.67102,
+      "end": 9890.324897999999,
+      "title": "A Time of Changes 19"
+    },
+    {
+      "id": 20,
+      "start": 9890.324897999999,
+      "end": 10146.899592,
+      "title": "A Time of Changes 20"
+    },
+    {
+      "id": 21,
+      "start": 10146.899592,
+      "end": 10563.265306,
+      "title": "A Time of Changes 21"
+    },
+    {
+      "id": 22,
+      "start": 10563.265306,
+      "end": 10869.916734999999,
+      "title": "A Time of Changes 22"
+    },
+    {
+      "id": 23,
+      "start": 10869.916734999999,
+      "end": 10944.548572,
+      "title": "A Time of Changes 23"
+    },
+    {
+      "id": 24,
+      "start": 10944.548572,
+      "end": 11247.595103,
+      "title": "A Time of Changes 24"
+    },
+    {
+      "id": 25,
+      "start": 11247.595103,
+      "end": 11799.196736,
+      "title": "A Time of Changes 25"
+    },
+    {
+      "id": 26,
+      "start": 11799.196736,
+      "end": 12059.846532,
+      "title": "A Time of Changes 26"
+    },
+    {
+      "id": 27,
+      "start": 12059.846532,
+      "end": 12574.354287,
+      "title": "A Time of Changes 27"
+    },
+    {
+      "id": 28,
+      "start": 12574.354287,
+      "end": 13813.00245,
+      "title": "A Time of Changes 28"
+    },
+    {
+      "id": 29,
+      "start": 13813.00245,
+      "end": 14076.943674,
+      "title": "A Time of Changes 29"
+    },
+    {
+      "id": 30,
+      "start": 14076.943674,
+      "end": 14717.204898,
+      "title": "A Time of Changes 30"
+    },
+    {
+      "id": 31,
+      "start": 14717.204898,
+      "end": 15130.906122,
+      "title": "A Time of Changes 31"
+    },
+    {
+      "id": 32,
+      "start": 15130.906122,
+      "end": 15900.943673,
+      "title": "A Time of Changes 32"
+    },
+    {
+      "id": 33,
+      "start": 15900.943673,
+      "end": 16006.452244,
+      "title": "A Time of Changes 33"
+    },
+    {
+      "id": 34,
+      "start": 16006.452244,
+      "end": 16354.612244,
+      "title": "A Time of Changes 34"
+    },
+    {
+      "id": 35,
+      "start": 16354.612244,
+      "end": 16966.844081,
+      "title": "A Time of Changes 35"
+    },
+    {
+      "id": 36,
+      "start": 16966.844081,
+      "end": 17141.472652,
+      "title": "A Time of Changes 36"
+    },
+    {
+      "id": 37,
+      "start": 17141.472652,
+      "end": 17861.903672,
+      "title": "A Time of Changes 37"
+    },
+    {
+      "id": 38,
+      "start": 17861.903672,
+      "end": 17934.027754,
+      "title": "A Time of Changes 38"
+    },
+    {
+      "id": 39,
+      "start": 17934.027754,
+      "end": 18353.919998999998,
+      "title": "A Time of Changes 39"
+    },
+    {
+      "id": 40,
+      "start": 18353.919998999998,
+      "end": 19211.337141999997,
+      "title": "A Time of Changes 40"
+    },
+    {
+      "id": 41,
+      "start": 19211.337141999997,
+      "end": 19603.879182999997,
+      "title": "A Time of Changes 41"
+    },
+    {
+      "id": 42,
+      "start": 19603.879182999997,
+      "end": 19959.039998999997,
+      "title": "A Time of Changes 42"
+    },
+    {
+      "id": 43,
+      "start": 19959.039998999997,
+      "end": 20203.676733999997,
+      "title": "A Time of Changes 43"
+    },
+    {
+      "id": 44,
+      "start": 20203.676733999997,
+      "end": 20329.325714,
+      "title": "A Time of Changes 44"
+    },
+    {
+      "id": 45,
+      "start": 20329.325714,
+      "end": 20585.273469,
+      "title": "A Time of Changes 45"
+    },
+    {
+      "id": 46,
+      "start": 20585.273469,
+      "end": 20831.555918,
+      "title": "A Time of Changes 46"
+    },
+    {
+      "id": 47,
+      "start": 20831.555918,
+      "end": 20889.364898,
+      "title": "A Time of Changes 47"
+    },
+    {
+      "id": 48,
+      "start": 20889.364898,
+      "end": 20962.873469,
+      "title": "A Time of Changes 48"
+    },
+    {
+      "id": 49,
+      "start": 20962.873469,
+      "end": 20989.387755,
+      "title": "A Time of Changes 49"
+    },
+    {
+      "id": 50,
+      "start": 20989.387755,
+      "end": 21160.045714,
+      "title": "A Time of Changes 50"
+    },
+    {
+      "id": 51,
+      "start": 21160.045714,
+      "end": 21195.102041,
+      "title": "A Time of Changes 51"
+    },
+    {
+      "id": 52,
+      "start": 21195.102041,
+      "end": 21260.695509999998,
+      "title": "A Time of Changes 52"
+    },
+    {
+      "id": 53,
+      "start": 21260.695509999998,
+      "end": 22006.569795999996,
+      "title": "A Time of Changes 53"
+    },
+    {
+      "id": 54,
+      "start": 22006.569795999996,
+      "end": 22267.794285999997,
+      "title": "A Time of Changes 54"
+    },
+    {
+      "id": 55,
+      "start": 22267.794285999997,
+      "end": 22402.168163999995,
+      "title": "A Time of Changes 55"
+    },
+    {
+      "id": 56,
+      "start": 22402.168163999995,
+      "end": 22476.146939999995,
+      "title": "A Time of Changes 56"
+    },
+    {
+      "id": 57,
+      "start": 22476.146939999995,
+      "end": 22810.409796999997,
+      "title": "A Time of Changes 57"
+    },
+    {
+      "id": 58,
+      "start": 22810.409796999997,
+      "end": 23271.888980999996,
+      "title": "A Time of Changes 58"
+    },
+    {
+      "id": 59,
+      "start": 23271.888980999996,
+      "end": 23626.318368999997,
+      "title": "A Time of Changes 59"
+    },
+    {
+      "id": 60,
+      "start": 23626.318368999997,
+      "end": 23677.570613999997,
+      "title": "A Time of Changes 60"
+    },
+    {
+      "id": 61,
+      "start": 23677.570613999997,
+      "end": 23941.093878999996,
+      "title": "A Time of Changes 61"
+    },
+    {
+      "id": 62,
+      "start": 23941.093878999996,
+      "end": 24065.332245999998,
+      "title": "A Time of Changes 62"
+    },
+    {
+      "id": 63,
+      "start": 24065.332245999998,
+      "end": 24275.591837999997,
+      "title": "A Time of Changes 63"
+    },
+    {
+      "id": 64,
+      "start": 24275.591837999997,
+      "end": 24798.667755999995,
+      "title": "A Time of Changes 64"
+    },
+    {
+      "id": 65,
+      "start": 24798.667755999995,
+      "end": 25357.844898999996,
+      "title": "A Time of Changes 65"
+    },
+    {
+      "id": 66,
+      "start": 25357.844898999996,
+      "end": 25460.453878999997,
+      "title": "A Time of Changes 66"
+    },
+    {
+      "id": 67,
+      "start": 25460.453878999997,
+      "end": 25573.720817999998,
+      "title": "A Time of Changes 67"
+    },
+    {
+      "id": 68,
+      "start": 25573.720817999998,
+      "end": 25717.707756999996,
+      "title": "A Time of Changes 68"
+    },
+    {
+      "id": 69,
+      "start": 25717.707756999996,
+      "end": 25968.326532999996,
+      "title": "A Time of Changes 69"
+    },
+    {
+      "id": 70,
+      "start": 25968.326532999996,
+      "end": 26236.133879999998,
+      "title": "A Time of Changes 70"
+    },
+    {
+      "id": 71,
+      "start": 26236.133879999998,
+      "end": 26593.593471999997,
+      "title": "A Time of Changes 71"
+    },
+    {
+      "id": 72,
+      "start": 26593.593471999997,
+      "end": 26659.108573999998,
+      "title": "A Time of Changes 72"
+    },
+    {
+      "id": 73,
+      "start": 26659.108573999998,
+      "end": 27094.961635,
+      "title": "A Time of Changes 73"
+    },
+    {
+      "id": 74,
+      "start": 27094.961635,
+      "end": 27407.621227,
+      "title": "A Time of Changes 74"
+    }
+  ],
+  "title": "A Time of Changes",
+  "subtitle": null,
+  "authors": [
+    "Robert Silverberg"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1971",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Todd Curless",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

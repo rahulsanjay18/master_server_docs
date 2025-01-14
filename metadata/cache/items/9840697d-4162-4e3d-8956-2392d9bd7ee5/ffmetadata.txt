@@ -1,0 +1,130 @@
+;FFMETADATA1
+title=One Hundred Years of Solitude (Unabridged)
+artist=Gabriel García Márquez, Gregory Rabassa - translator
+album_artist=Gabriel García Márquez, Gregory Rabassa - translator
+album=One Hundred Years of Solitude (Unabridged)
+genre=Audiobook
+date=2014
+comment=One of the 20th century's enduring works, One Hundred Years of Solitude is a widely beloved and acclaimed novel known throughout the world and the ultimate achievement in a Nobel Prize-winning career....
+description=One of the 20th century's enduring works, One Hundred Years of Solitude is a widely beloved and acclaimed novel known throughout the world and the ultimate achievement in a Nobel Prize-winning career....
+TRACKTOTAL=1
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2275648
+title=Chapter 1
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2275648
+END=4548836
+title=Chapter 2
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4548836
+END=7303558
+title=Chapter 3
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7303558
+END=9920726
+title=Chapter 4
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9920726
+END=12829071
+title=Chapter 5
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12829071
+END=15049781
+title=Chapter 6
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15049781
+END=17515230
+title=Chapter 7
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17515230
+END=19852643
+title=Chapter 8
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19852643
+END=22291760
+title=Chapter 9
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22291760
+END=24845955
+title=Chapter 10
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24845955
+END=27310707
+title=Chapter 11
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=27310707
+END=29855939
+title=Chapter 12
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=29855939
+END=32742969
+title=Chapter 13
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=32742969
+END=35634225
+title=Chapter 14
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=35634225
+END=38168172
+title=Chapter 15
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=38168172
+END=40478790
+title=Chapter 16
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=40478790
+END=43094610
+title=Chapter 17
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=43094610
+END=45591406
+title=Chapter 18
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=45591406
+END=48231515
+title=Chapter 19
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=48231515
+END=50658312
+title=Chapter 20

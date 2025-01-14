@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Sense and Sensibility (read by Donada Peters)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Sense and Sensibility (read by Donada Peters)
+date=1811
+TRACKTOTAL=50

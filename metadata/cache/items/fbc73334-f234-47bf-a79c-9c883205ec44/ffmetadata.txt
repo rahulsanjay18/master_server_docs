@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Trials of Apollo
+artist=Rick Riordan
+album_artist=Rick Riordan
+album=The Trials of Apollo
+genre=Kids & Young Adults
+date=2016
+comment=After angering his father, Zeus, the god Apollo is cast down from Olympus. Weak and disoriented, he lands in New York City as a regular teenage boy. Now, without his godly powers, the 4,000-year-old deity must learn to survive in the modern world until h
+description=After angering his father, Zeus, the god Apollo is cast down from Olympus. Weak and disoriented, he lands in New York City as a regular teenage boy. Now, without his godly powers, the 4,000-year-old deity must learn to survive in the modern world until h
+composer=Robbie Daymond
+TRACKTOTAL=5

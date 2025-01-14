@@ -1,0 +1,82 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 57.423,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 57.423,
+      "end": 6237.205,
+      "title": "Chapter I: Winter Operation: Limited Offensive "
+    },
+    {
+      "id": 2,
+      "start": 6237.205,
+      "end": 12259.997,
+      "title": "Chapter II: Paradox "
+    },
+    {
+      "id": 3,
+      "start": 12259.997,
+      "end": 15920.321,
+      "title": "Chapter III: Lull in the Wind "
+    },
+    {
+      "id": 4,
+      "start": 15920.321,
+      "end": 19606.117,
+      "title": "Chapter IV: Diplomatic Deal "
+    },
+    {
+      "id": 5,
+      "start": 19606.117,
+      "end": 23222.787,
+      "title": "Chapter IV: Diplomatic Deal "
+    },
+    {
+      "id": 6,
+      "start": 23222.787,
+      "end": 28524.553,
+      "title": "Chapter V: Portent "
+    },
+    {
+      "id": 7,
+      "start": 28524.553,
+      "end": 32505.498,
+      "title": "Chapter VI: Structural Problems "
+    },
+    {
+      "id": 8,
+      "start": 32505.498,
+      "end": 32647.067,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "The Saga of Tanya the Evil, Vol. 06: Nil Admirari",
+  "subtitle": null,
+  "authors": [
+    "Shiromi Arserio"
+  ],
+  "narrators": [
+    "Carlo Zen"
+  ],
+  "series": [
+    "The Saga of Tanya the Evil #06"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "July 30, 2016 (02-14-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

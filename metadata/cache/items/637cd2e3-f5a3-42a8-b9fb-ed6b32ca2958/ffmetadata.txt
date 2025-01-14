@@ -1,0 +1,74 @@
+;FFMETADATA1
+title=The Witness for the Dead
+artist=Katherine Addison
+album_artist=Katherine Addison
+album=The Witness for the Dead
+genre=Audiobook
+date=2021
+comment=When the young half-goblin emperor Maia sought to learn who had set the bombs that killed his father and half-brothers, he turned to an obscure resident of his Court, a Prelate of Ulis and a Witness for the Dead. Thara Celehar found the truth, though it did him no good to discover it. Now he lives in the City of Amalo, far from the Court though not exactly in exile. He has not escaped from politics, but his position gives him the ability to serve the common people of the city, which is his preference.
+description=When the young half-goblin emperor Maia sought to learn who had set the bombs that killed his father and half-brothers, he turned to an obscure resident of his Court, a Prelate of Ulis and a Witness for the Dead. Thara Celehar found the truth, though it did him no good to discover it. Now he lives in the City of Amalo, far from the Court though not exactly in exile. He has not escaped from politics, but his position gives him the ability to serve the common people of the city, which is his preference.
+composer=Liam Gerrard
+copyright=Penguin Audio
+publisher=Penguin Audio
+TRACKTOTAL=1
+grouping=Katherine Addison - The Chronicles of Osreth
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=32557
+title=001
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=32557
+END=3394992
+title=002
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3394992
+END=7115642
+title=003
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7115642
+END=10964651
+title=004
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10964651
+END=14019910
+title=005
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14019910
+END=17646658
+title=006
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17646658
+END=21139705
+title=007
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21139705
+END=24848280
+title=008
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24848280
+END=29520692
+title=009
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=29520692
+END=29556149
+title=010

@@ -1,0 +1,1316 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 12,
+      "title": "0 — Intro"
+    },
+    {
+      "id": 1,
+      "start": 12,
+      "end": 718.00059,
+      "title": "1 — Hoodlums punch my face / I would smite them if I could / Mortality blows"
+    },
+    {
+      "id": 2,
+      "start": 718.00059,
+      "end": 1814.000862,
+      "title": "2 — A girl from nowhere / Completes my embarrassment / Stupid bananas"
+    },
+    {
+      "id": 3,
+      "start": 1814.000862,
+      "end": 2809.001451,
+      "title": "3 — Used to be goddy / Now uptown feeling shoddy / Bah, haiku don’t rhyme"
+    },
+    {
+      "id": 4,
+      "start": 2809.001451,
+      "end": 3769.001451,
+      "title": "4 — Casa de Jackson / No gold-plated throne for guests / Seriously, dude?"
+    },
+    {
+      "id": 5,
+      "start": 3769.001451,
+      "end": 4647.000907,
+      "title": "5 — Seven-layer dip / Chocolate chip cookies in blue / I love this woman"
+    },
+    {
+      "id": 6,
+      "start": 4647.000907,
+      "end": 5523.000862,
+      "title": "6 — Aquaman driving / Couldn’t possibly be worse / Oh, wait, now it is"
+    },
+    {
+      "id": 7,
+      "start": 5523.000862,
+      "end": 6092.000091,
+      "title": "7 — Tag with plague spirits / You’re it, and you’re infectious / Have fun with that, LOL"
+    },
+    {
+      "id": 8,
+      "start": 6092.000091,
+      "end": 7249.000862,
+      "title": "8 — Peaches in combat / I am hanging it up now / My brain exploded"
+    },
+    {
+      "id": 9,
+      "start": 7249.000862,
+      "end": 8089.001723,
+      "title": "9 — A walk through the woods / Voices driving me bonkers / I hate spaghetti"
+    },
+    {
+      "id": 10,
+      "start": 8089.001723,
+      "end": 9551.001088,
+      "title": "10 — My bus is in flames / My son is older than me / Please, Zeus, make it stop"
+    },
+    {
+      "id": 11,
+      "start": 9551.001088,
+      "end": 11254.001179,
+      "title": "11 — Check your spam folder / The prophecies might be there / No? Well, I’m stumped. Bye"
+    },
+    {
+      "id": 12,
+      "start": 11254.001179,
+      "end": 12266.000181,
+      "title": "12 — Ode to a hot dog / With bug juice and tater chips / I got nothing, man"
+    },
+    {
+      "id": 13,
+      "start": 12266.000181,
+      "end": 13370.00127,
+      "title": "13 — Three-legged death race / Five terrible syllables / Oh, gods. Please not Meg"
+    },
+    {
+      "id": 14,
+      "start": 13370.00127,
+      "end": 14219.002041,
+      "title": "14 — You’ve got to be kid— / Well, crud, what just happened there? / I ran out of syl—"
+    },
+    {
+      "id": 15,
+      "start": 14219.002041,
+      "end": 15524.000227,
+      "title": "15 — Practice makes perfect / Ha, ha, ha, I don’t think so / Ignore my sobbing"
+    },
+    {
+      "id": 16,
+      "start": 15524.000227,
+      "end": 16585.001995,
+      "title": "16 — Tied to McCaffrey / We might end up in Lima / Harley is evil"
+    },
+    {
+      "id": 17,
+      "start": 16585.001995,
+      "end": 17182.000045,
+      "title": "17 — Bowling balls of death / Rolling toward my enemies / I’ll trade you problems"
+    },
+    {
+      "id": 18,
+      "start": 17182.000045,
+      "end": 18129.000272,
+      "title": "18 — The Beast is calling / Tell him I’m not here. Let’s hide / Where? In garbage. Natch"
+    },
+    {
+      "id": 19,
+      "start": 18129.000272,
+      "end": 19619.000091,
+      "title": "19 — They have gone missing? / No, no, no, no, no, no, no / No, et cetera"
+    },
+    {
+      "id": 20,
+      "start": 19619.000091,
+      "end": 20829.000181,
+      "title": "20 — Don’t paint over gods / If you’re redecorating / That’s, like, common sense"
+    },
+    {
+      "id": 21,
+      "start": 20829.000181,
+      "end": 21642.000816,
+      "title": "21 — Up in my business / Always burning Oracles / Romans gonna hate"
+    },
+    {
+      "id": 22,
+      "start": 21642.000816,
+      "end": 22534.001723,
+      "title": "22 — Armed to the eyeballs: / A combat ukulele / Magic Brazil scarf"
+    },
+    {
+      "id": 23,
+      "start": 22534.001723,
+      "end": 23477.001995,
+      "title": "23 — Scale of one to ten / How would you rate your demise? / Thanks for your input"
+    },
+    {
+      "id": 24,
+      "start": 23477.001995,
+      "end": 24061.000998,
+      "title": "24 — Breaking my promise / Spectacularly failing / I blame Neil Diamond"
+    },
+    {
+      "id": 25,
+      "start": 24061.000998,
+      "end": 25125.000227,
+      "title": "25 — I’m on a roll now / Boiling, burning, throwing up / Lions? Hey, why not?"
+    },
+    {
+      "id": 26,
+      "start": 25125.000227,
+      "end": 25977.000181,
+      "title": "26 — Imperators here? / Gag me with a peace symbol / Not groovy, Mama"
+    },
+    {
+      "id": 27,
+      "start": 25977.000181,
+      "end": 27130.001361,
+      "title": "27 — I apologize / For pretty much everything / Wow, I’m a good guy"
+    },
+    {
+      "id": 28,
+      "start": 27130.001361,
+      "end": 27824.001179,
+      "title": "28 — Parenting advice: / Mamas, don’t let your larvae / Grow up to be ants"
+    },
+    {
+      "id": 29,
+      "start": 27824.001179,
+      "end": 28956.00195,
+      "title": "29 — Nightmares of torches / And a man in purple clothes / But that’s not the worst"
+    },
+    {
+      "id": 30,
+      "start": 28956.00195,
+      "end": 29783.001315,
+      "title": "30 — I school McCaffrey / Yo, girl, your stepdad is wack / Why won’t she listen?"
+    },
+    {
+      "id": 31,
+      "start": 29783.001315,
+      "end": 30379.001723,
+      "title": "31 — Listen to the trees / The trees know what is up, yo / They know all the things"
+    },
+    {
+      "id": 32,
+      "start": 30379.001723,
+      "end": 31569.000408,
+      "title": "32 — It takes a Village / People to protect your mind / “Y.M.C.A.” Yeah"
+    },
+    {
+      "id": 33,
+      "start": 31569.000408,
+      "end": 32335.000091,
+      "title": "33 — Parting is sorrow / Nothing about it is sweet / Don’t step on my face"
+    },
+    {
+      "id": 34,
+      "start": 32335.000091,
+      "end": 33213.001995,
+      "title": "34 — Uber’s got nothing / Lyft is weak. And taxis? Nah / My ride is da mom"
+    },
+    {
+      "id": 35,
+      "start": 33213.001995,
+      "end": 33903.001905,
+      "title": "35 — Buck-naked statue / A Neurotic Colossus / Where art thy undies?"
+    },
+    {
+      "id": 36,
+      "start": 33903.001905,
+      "end": 34647.001361,
+      "title": "36 — I love me some plague / When it’s on the right arrow / Ka-bam! You dead, bro?"
+    },
+    {
+      "id": 37,
+      "start": 34647.001361,
+      "end": 35700.000272,
+      "title": "37 — Hey, look! It’s Percy / Least he could do was help out / Taught him everything"
+    },
+    {
+      "id": 38,
+      "start": 35700.000272,
+      "end": 36804,
+      "title": "38 — After the sneezing / Healing peeps, parsing limericks / Worst God Award? Me"
+    },
+    {
+      "id": 39,
+      "start": 36804,
+      "end": 38056.112472,
+      "title": "39 — Want to hit Leo? / That is understandable / Hunk Muffin earned it"
+    },
+    {
+      "id": 40,
+      "start": 38056.112472,
+      "end": 38077.112472,
+      "title": "0 — Intro"
+    },
+    {
+      "id": 41,
+      "start": 38077.112472,
+      "end": 39292.113923,
+      "title": "1 — Lester (Apollo) / Still human; thanks for asking / Gods, I hate my life"
+    },
+    {
+      "id": 42,
+      "start": 39292.113923,
+      "end": 40409.113288,
+      "title": "2 — Headless guys and gals / Not loving the Midwest vibe / Oh, look—a cheese ghost"
+    },
+    {
+      "id": 43,
+      "start": 40409.113288,
+      "end": 41547.113288,
+      "title": "3 — My last performance / Some old lady drops the mic / And kills everyone"
+    },
+    {
+      "id": 44,
+      "start": 41547.113288,
+      "end": 42839.113606,
+      "title": "4 — No building should be / A secret from Apollo / Or drop bricks on him"
+    },
+    {
+      "id": 45,
+      "start": 42839.113606,
+      "end": 43930.113243,
+      "title": "5 — Tell you a story? / Or I could just, like, pass out / And twitch on the couch"
+    },
+    {
+      "id": 46,
+      "start": 43930.113243,
+      "end": 44912.114241,
+      "title": "6 — Oh, Magic 8 Ball / Epic fail at prophecies / Leo’s ear’s on fire"
+    },
+    {
+      "id": 47,
+      "start": 44912.114241,
+      "end": 46118.114241,
+      "title": "7 — I chopped those onions / With my own ex-godly hands / You’d better eat them"
+    },
+    {
+      "id": 48,
+      "start": 46118.114241,
+      "end": 46841.112835,
+      "title": "8 — Lovebirds arguing / Trouble in Elysium? / I’ll just scrub these plates"
+    },
+    {
+      "id": 49,
+      "start": 46841.112835,
+      "end": 48051.112835,
+      "title": "9 — Of course it’s a trap / With her, it always is one / Trappy McTrapface"
+    },
+    {
+      "id": 50,
+      "start": 48051.112835,
+      "end": 48595.11356,
+      "title": "10 — Scrubbing toilets now / At least there’s a great reward / Leftover tofu"
+    },
+    {
+      "id": 51,
+      "start": 48595.11356,
+      "end": 49835.11288,
+      "title": "11 — Four beheaded dudes / Are too much for one nightmare / Why me? Sob. Sob. Sob."
+    },
+    {
+      "id": 52,
+      "start": 49835.11288,
+      "end": 50942.113651,
+      "title": "12 — I sing of taters! / Chili, sweet potato, blue! / Why? Ask my arrow"
+    },
+    {
+      "id": 53,
+      "start": 50942.113651,
+      "end": 52171.113969,
+      "title": "13 — Fast-food restaurant / My life goal is realized / Any fries with that?"
+    },
+    {
+      "id": 54,
+      "start": 52171.113969,
+      "end": 53185.114513,
+      "title": "14 — Yeah, we got the skills / Fake hexes and shooting feet / Teach you ’bout pancakes"
+    },
+    {
+      "id": 55,
+      "start": 53185.114513,
+      "end": 54676.113742,
+      "title": "15 — Drivin’ the green train / I’m all like, Choo-choo! Choo-choo! / Can’t catch me!—Oh, poop!"
+    },
+    {
+      "id": 56,
+      "start": 54676.113742,
+      "end": 55850.113651,
+      "title": "16 — Son of a Midas / You, sir, are a stupid-head / Here, have an ostrich"
+    },
+    {
+      "id": 57,
+      "start": 55850.113651,
+      "end": 56831.113152000005,
+      "title": "17 — To the Waystation / Meg McCaffrey eats my bread / I cry godly tears"
+    },
+    {
+      "id": 58,
+      "start": 56831.113152000005,
+      "end": 57786.114195,
+      "title": "18 — My dear Commodus, / Commode is named after you / Hail, Toilet Caesar"
+    },
+    {
+      "id": 59,
+      "start": 57786.114195,
+      "end": 59096.114422,
+      "title": "19 — Call me Narcissus / Today I’ll be your trainer / I’ll also kill you"
+    },
+    {
+      "id": 60,
+      "start": 59096.114422,
+      "end": 60022.113878000004,
+      "title": "20 — Pedaling in style / Leg irons are fashionable / Cue the screaming god"
+    },
+    {
+      "id": 61,
+      "start": 60022.113878000004,
+      "end": 60788.113152000005,
+      "title": "21 — Get me a legion / And about six tons of rocks / Need to kill a snake"
+    },
+    {
+      "id": 62,
+      "start": 60788.113152000005,
+      "end": 61829.113334,
+      "title": "22 — I wax poetic / On the beauty of sewers / Real short poem. Done"
+    },
+    {
+      "id": 63,
+      "start": 61829.113334,
+      "end": 63141.112607999996,
+      "title": "23 — So amaze! Such name! / Sssssarah with five s’s is / Still two syllablessssss"
+    },
+    {
+      "id": 64,
+      "start": 63141.112607999996,
+      "end": 64360.112926,
+      "title": "24 — Science can be fun / Squirt those toxic chemicals / Anywhere, really"
+    },
+    {
+      "id": 65,
+      "start": 64360.112926,
+      "end": 65532.113606,
+      "title": "25 — Big birds are evil / They charge me with razor legs / I die and it hurts"
+    },
+    {
+      "id": 66,
+      "start": 65532.113606,
+      "end": 66525.114105,
+      "title": "26 — I tip my hat to / The excellent elephant / Let’s be besties, ’kay?"
+    },
+    {
+      "id": 67,
+      "start": 66525.114105,
+      "end": 67573.113198,
+      "title": "27 — Destroy me a roof / Bring me wenches with winches / We’re so out of here"
+    },
+    {
+      "id": 68,
+      "start": 67573.113198,
+      "end": 68883.113515,
+      "title": "28 — Belching stinky smoke / What gene pool did you come from? / Wait. What? (Insert scream)"
+    },
+    {
+      "id": 69,
+      "start": 68883.113515,
+      "end": 70370.114105,
+      "title": "29 — Carrot-peeling god / Tofu stir-fry is good, but / Needs more ìgboyà"
+    },
+    {
+      "id": 70,
+      "start": 70370.114105,
+      "end": 71311.11288,
+      "title": "30 — Lester, slap yourself / Oh, for just one night without / Looking like a fool"
+    },
+    {
+      "id": 71,
+      "start": 71311.11288,
+      "end": 72187.11347000001,
+      "title": "31 — Start with a C chord / Not all the keys, Meg. C does / Not stand for Chaos"
+    },
+    {
+      "id": 72,
+      "start": 72187.11347000001,
+      "end": 73112.113062,
+      "title": "32 — Pretty fuzzy cow / So cute, so warm and vicious! / Squee! Can I kill him?"
+    },
+    {
+      "id": 73,
+      "start": 73112.113062,
+      "end": 74043.114467,
+      "title": "33 — Feeling groovy, I’m / Drowning, freezing, snake surfing / Life is good, Batman!"
+    },
+    {
+      "id": 74,
+      "start": 74043.114467,
+      "end": 75199.112789,
+      "title": "34 — Meg takes a solo / Scares away her audience / Good job, McCaffrey"
+    },
+    {
+      "id": 75,
+      "start": 75199.112789,
+      "end": 76508.11365099999,
+      "title": "35 — Man, I hate my son / A real arrogant jerkwad / Nothing like his dad"
+    },
+    {
+      "id": 76,
+      "start": 76508.11365099999,
+      "end": 77715.11415000001,
+      "title": "36 — Mind your p’s and q’s / When you are arming bombs or— / SPLAT—trample jelly"
+    },
+    {
+      "id": 77,
+      "start": 77715.11415000001,
+      "end": 78252.11365099999,
+      "title": "37 — Your favorite fruit? / I hope you didn’t say grapes / Or apples, or figs"
+    },
+    {
+      "id": 78,
+      "start": 78252.11365099999,
+      "end": 79126.11451300001,
+      "title": "38 — Waystation damaged / Commodus will pay for this / And I don’t take cash"
+    },
+    {
+      "id": 79,
+      "start": 79126.11451300001,
+      "end": 80318.113969,
+      "title": "39 — During this standoff / No flash photography, please / Oops. My bad. Ha-ha"
+    },
+    {
+      "id": 80,
+      "start": 80318.113969,
+      "end": 81343.112971,
+      "title": "40 — Shakespeare, don’t bring that / Iambic pentameter / Up in my face, yo"
+    },
+    {
+      "id": 81,
+      "start": 81343.112971,
+      "end": 82610.112971,
+      "title": "41 — Prophecies don’t mix / With Tofurky and biscuits / Just give me dessert"
+    },
+    {
+      "id": 82,
+      "start": 82610.112971,
+      "end": 83193.428753,
+      "title": "42 — Pancakes for the road / Need a guide for your journey? / Check the tomatoes"
+    },
+    {
+      "id": 83,
+      "start": 83193.428753,
+      "end": 83276.430159,
+      "title": "0 — Intro"
+    },
+    {
+      "id": 84,
+      "start": 83276.430159,
+      "end": 84560.430794,
+      "title": "1 — Once was Apollo / Now a rat in the Lab’rinth / Send help. And cronuts"
+    },
+    {
+      "id": 85,
+      "start": 84560.430794,
+      "end": 85348.428934,
+      "title": "2 — Now I’m a suitcase / Duct-taped to a satyr’s back. / Worst. Morning. Ever."
+    },
+    {
+      "id": 86,
+      "start": 85348.428934,
+      "end": 86450.429388,
+      "title": "3 — Strixes do sucketh / Yea, verily I tell you / Much sucking is theirs"
+    },
+    {
+      "id": 87,
+      "start": 86450.429388,
+      "end": 87583.430023,
+      "title": "4 — Welcome to my base / We have rocks, sand and ruins / Did I mention rocks?"
+    },
+    {
+      "id": 88,
+      "start": 87583.430023,
+      "end": 88567.428798,
+      "title": "5 — First-aid succulent, / Heal me of my many cuts! / (But no slime trail, please)"
+    },
+    {
+      "id": 89,
+      "start": 88567.428798,
+      "end": 89289.42997699999,
+      "title": "6 — Random plumes of fire / Ground squirrels nibble my nerves / I love the desert"
+    },
+    {
+      "id": 90,
+      "start": 89289.42997699999,
+      "end": 90264.43025,
+      "title": "7 — Family fun packs / Should be for frozen pizzas / Not for frag grenades"
+    },
+    {
+      "id": 91,
+      "start": 90264.43025,
+      "end": 91788.430476,
+      "title": "8 — We blow up some things / You thought all the things blew up? / No, we found more things"
+    },
+    {
+      "id": 92,
+      "start": 91788.430476,
+      "end": 92863.430068,
+      "title": "9 — Collect call from Horse / Do you accept the charges? / Nay-ay-ay-ay-ay"
+    },
+    {
+      "id": 93,
+      "start": 92863.430068,
+      "end": 93903.430794,
+      "title": "10 — Cute kid you got there / With the itty-bitty boots / And murderous grin"
+    },
+    {
+      "id": 94,
+      "start": 93903.430794,
+      "end": 95268.430159,
+      "title": "11 — No touchy the god / Unless your visions are good / And you wash your hands"
+    },
+    {
+      "id": 95,
+      "start": 95268.430159,
+      "end": 96705.429932,
+      "title": "12 — O, Pinto, Pinto! / Wherefore art thou puke yellow? / I’ll hide in the back"
+    },
+    {
+      "id": 96,
+      "start": 96705.429932,
+      "end": 97816.428934,
+      "title": "13 — Don’t move the gas grill / Meg is still playing with it / We are so KA-BOOM"
+    },
+    {
+      "id": 97,
+      "start": 97816.428934,
+      "end": 98856.42966,
+      "title": "14 — Bedrossian Man / Bedrossian Man, runs as / Fast as... yoga pants"
+    },
+    {
+      "id": 98,
+      "start": 98856.42966,
+      "end": 100258.429887,
+      "title": "15 — Grover leaves early / Grover is a smart satyr / Lester, not so much"
+    },
+    {
+      "id": 99,
+      "start": 100258.429887,
+      "end": 100987.430114,
+      "title": "16 — Let’s charmspeak battle / You are ugly and you suck / The end. Do I win?"
+    },
+    {
+      "id": 100,
+      "start": 100987.430114,
+      "end": 101867.429433,
+      "title": "17 — Phil and Don are dead / Bye-bye, love and happiness / Hello, headlessness"
+    },
+    {
+      "id": 101,
+      "start": 101867.429433,
+      "end": 102651.42997699999,
+      "title": "18 — Whoa, there, Medea / Don’t be all up in my face / With your hot granddad"
+    },
+    {
+      "id": 102,
+      "start": 102651.42997699999,
+      "end": 103624.430703,
+      "title": "19 — In my underclothes / Slathered with grease. Really not / As fun as it sounds"
+    },
+    {
+      "id": 103,
+      "start": 103624.430703,
+      "end": 104621.42898,
+      "title": "20 — O Muse, let us now / Sing in praise of botanists! / They do plant stuff. Yay."
+    },
+    {
+      "id": 104,
+      "start": 104621.42898,
+      "end": 106012.42997699999,
+      "title": "21 — When life gives you seeds / Plant them in dry rocky soil / I’m an optimist"
+    },
+    {
+      "id": 105,
+      "start": 106012.42997699999,
+      "end": 106926.430159,
+      "title": "22 — For my school project / I made this pagan temple / Monopoly board"
+    },
+    {
+      "id": 106,
+      "start": 106926.430159,
+      "end": 107840.42907,
+      "title": "23 — It’s a beautiful / Day in the neighbourhood – Wait / Actually, it’s not"
+    },
+    {
+      "id": 107,
+      "start": 107840.42907,
+      "end": 108926.429705,
+      "title": "24 — Ah, Santa Barbara! / Famed for surfing! Fish tacos! / And crazy Romans!"
+    },
+    {
+      "id": 108,
+      "start": 108926.429705,
+      "end": 110199.430703,
+      "title": "25 — All in the same boat / Wait. Two of us disappeared. / Half in the same boat"
+    },
+    {
+      "id": 109,
+      "start": 110199.430703,
+      "end": 111455.42966,
+      "title": "26 — Oh, Florence and Grunk / La-di-da, something, something / I’ll get back to you"
+    },
+    {
+      "id": 110,
+      "start": 111455.42966,
+      "end": 112444.42916100001,
+      "title": "27 — I can kill you all / Or I can sing you Joe Walsh / Really, it’s your choice"
+    },
+    {
+      "id": 111,
+      "start": 112444.42916100001,
+      "end": 113373.43047600001,
+      "title": "28 — Apollo, disguised / As Apollo, disguised as... / Nah. Too depressing."
+    },
+    {
+      "id": 112,
+      "start": 113373.43047600001,
+      "end": 114106.43038599999,
+      "title": "29 — A horse is a horse / Of course, of course, and no one / Can – RUN! HE’LL KILL YOU!"
+    },
+    {
+      "id": 113,
+      "start": 114106.43038599999,
+      "end": 115146.429569,
+      "title": "30 — I’ll never leave you / Love will keep us together / Or glue. Glue works too"
+    },
+    {
+      "id": 114,
+      "start": 115146.429569,
+      "end": 116179.42938799999,
+      "title": "31 — I give you my heart / I mean metaphorically / Put away that knife"
+    },
+    {
+      "id": 115,
+      "start": 116179.42938799999,
+      "end": 116937.428889,
+      "title": "32 — Don’t make me do it / I’m crazy, I’ll do it, I’ll– / Ow, that really hurt"
+    },
+    {
+      "id": 116,
+      "start": 116937.428889,
+      "end": 117606.43047600001,
+      "title": "33 — No good news awaits / I warned you right at the start / Turn away, reader"
+    },
+    {
+      "id": 117,
+      "start": 117606.43047600001,
+      "end": 118619.42884400001,
+      "title": "34 — Surfing accident / My new euphemism for / Worst evening ever"
+    },
+    {
+      "id": 118,
+      "start": 118619.42884400001,
+      "end": 119747.429751,
+      "title": "35 — If you give a pan- / dos a ukulele, he / Will want lessons. DON’T."
+    },
+    {
+      "id": 119,
+      "start": 119747.429751,
+      "end": 121049.43047600001,
+      "title": "36 — A suspended fourth / The kind of chord you play just / Before suddenly–"
+    },
+    {
+      "id": 120,
+      "start": 121049.43047600001,
+      "end": 122014.42938799999,
+      "title": "37 — Want to play a game? / It’s easy. You take a guess. / Then you burn to death."
+    },
+    {
+      "id": 121,
+      "start": 122014.42938799999,
+      "end": 122900.430114,
+      "title": "38 — I sing to myself! / Though Apollo is cooler / Like, way, way cooler"
+    },
+    {
+      "id": 122,
+      "start": 122900.430114,
+      "end": 123798.430114,
+      "title": "39 — Noble sacrifice / I’ll protect you from the flames / Wow, I’m a good guy"
+    },
+    {
+      "id": 123,
+      "start": 123798.430114,
+      "end": 124665.430748,
+      "title": "40 — Congratulations / You finished the word puzzle / You win... enemies"
+    },
+    {
+      "id": 124,
+      "start": 124665.430748,
+      "end": 125583.429297,
+      "title": "41 — Meg sings. It’s over. / Everybody just go home / We are so roasted"
+    },
+    {
+      "id": 125,
+      "start": 125583.429297,
+      "end": 126266.430023,
+      "title": "42 — You want prophecy? / I’ll drop some nonsense on you / Eat my gibberish!"
+    },
+    {
+      "id": 126,
+      "start": 126266.430023,
+      "end": 127282.430612,
+      "title": "43 — Favourite chapter / Because only one bad death / That is just messed up"
+    },
+    {
+      "id": 127,
+      "start": 127282.430612,
+      "end": 127974.429116,
+      "title": "44 — Ha-ha-ha, dryads? / That’s straight from the horse’s mouth / Goodbye, Mr Horse"
+    },
+    {
+      "id": 128,
+      "start": 127974.429116,
+      "end": 129100.429569,
+      "title": "45 — Desert flowers bloom / Sunset rain sweetens the air / Time for a game show!"
+    },
+    {
+      "id": 129,
+      "start": 129100.429569,
+      "end": 130008.429569,
+      "title": "46 — Second prize: road trip / With Bon Jovi on cassette / First prize: please, don’t ask"
+    },
+    {
+      "id": 130,
+      "start": 130008.429569,
+      "end": 130510.541497,
+      "title": "47 — In-flight beverages / Include the tears of a god / Please have exact change"
+    },
+    {
+      "id": 131,
+      "start": 130510.541497,
+      "end": 130587.562223,
+      "title": "0 — Intro"
+    },
+    {
+      "id": 132,
+      "start": 130587.562223,
+      "end": 131575.552427,
+      "title": "1 — There is no food here / Meg ate all the Swedish Fish / Please get off my hearse"
+    },
+    {
+      "id": 133,
+      "start": 131575.552427,
+      "end": 132635.559297,
+      "title": "2 — Dude, this isn’t cool / Dude just tried to eat my dude / That’s my dead dude, dude"
+    },
+    {
+      "id": 134,
+      "start": 132635.559297,
+      "end": 133750.545873,
+      "title": "3 — I cannot chew gum / And run with a coffin at / The same time. Sue me."
+    },
+    {
+      "id": 135,
+      "start": 133750.545873,
+      "end": 135023.552744,
+      "title": "4 — Ukulele song? / No need to remove my guts / A simple “no” works"
+    },
+    {
+      "id": 136,
+      "start": 135023.552744,
+      "end": 136015.544082,
+      "title": "5 — Hi, everybody, / Here’s a little tune I call / “All the Ways I Suck”"
+    },
+    {
+      "id": 137,
+      "start": 136015.544082,
+      "end": 137331.54936499998,
+      "title": "6 — Sailing north to war / With my Shirley Temple and / Three cherries. Fear me."
+    },
+    {
+      "id": 138,
+      "start": 137331.54936499998,
+      "end": 138838.544898,
+      "title": "7 — Nice stroll into town / Happy birthday to Lester / Here’s some gift-wrapped pain"
+    },
+    {
+      "id": 139,
+      "start": 138838.544898,
+      "end": 139802.550182,
+      "title": "8 — Tattoos! Get yours now! / Free, wherever books are sold / Also, a large cat"
+    },
+    {
+      "id": 140,
+      "start": 139802.550182,
+      "end": 141215.550726,
+      "title": "9 — Dearly beloved, / We are gathered here because / Hera stinks. Amen."
+    },
+    {
+      "id": 141,
+      "start": 141215.550726,
+      "end": 142232.549706,
+      "title": "10 — Sing it with me: Who’s / Afraid of the Big Good Wolf? / Me. That would be me."
+    },
+    {
+      "id": 142,
+      "start": 142232.549706,
+      "end": 143536.543765,
+      "title": "11 — Dirt and bubble gum / Lavinia brought enough / For the whole senate"
+    },
+    {
+      "id": 143,
+      "start": 143536.543765,
+      "end": 144751.547483,
+      "title": "12 — I now have a plan / To make a plan concerning / The plan for my plan"
+    },
+    {
+      "id": 144,
+      "start": 144751.547483,
+      "end": 146014.55356,
+      "title": "13 — Romance disaster / I’m poison for guys and gals / You wanna hang out?"
+    },
+    {
+      "id": 145,
+      "start": 146014.55356,
+      "end": 146939.55966,
+      "title": "14 — Reluctant arrow / Grant me this boon: permission / To skedaddleth"
+    },
+    {
+      "id": 146,
+      "start": 146939.55966,
+      "end": 147953.552631,
+      "title": "15 — Nightmare carousel / Totally let your kids ride / I’m sure they’ll be fine"
+    },
+    {
+      "id": 147,
+      "start": 147953.552631,
+      "end": 148870.551588,
+      "title": "16 — Meet the new Tarquin / Same as the old Tarquin, but / With a lot less flesh"
+    },
+    {
+      "id": 148,
+      "start": 148870.551588,
+      "end": 149985.555851,
+      "title": "17 — Meg, don’t you dare—MEG! / Or you could just get us killed / Yeah, sure, that works, too"
+    },
+    {
+      "id": 149,
+      "start": 149985.555851,
+      "end": 151053.56217699999,
+      "title": "18 — Cooking with Pranjal / Chickweed and unicorn horn / Slow-basted zombie"
+    },
+    {
+      "id": 150,
+      "start": 151053.56217699999,
+      "end": 151985.552245,
+      "title": "19 — O book, what’s my fate? / What is the secret of life? / See appendix F"
+    },
+    {
+      "id": 151,
+      "start": 151985.552245,
+      "end": 153527.561497,
+      "title": "20 — Hamster ball of death / Spare me your fiery doom / I’m not feeling it"
+    },
+    {
+      "id": 152,
+      "start": 153527.561497,
+      "end": 154519.54471699998,
+      "title": "21 — See this right here, kids? / This is how you don’t do it. / Questions? Class dismissed."
+    },
+    {
+      "id": 153,
+      "start": 154519.54471699998,
+      "end": 155632.551588,
+      "title": "22 — I sing of dead plants / And heroic shrubberies / Inspiring stuff"
+    },
+    {
+      "id": 154,
+      "start": 155632.551588,
+      "end": 156665.553719,
+      "title": "23 — In my pickup truck / With my dogs and my weapons / And this fool, Lester"
+    },
+    {
+      "id": 155,
+      "start": 156665.553719,
+      "end": 157778.56059,
+      "title": "24 — Stick my godly face / Where it doesn’t belong and— / Venus, I hate you"
+    },
+    {
+      "id": 156,
+      "start": 157778.56059,
+      "end": 158886.548141,
+      "title": "25 — Frozen in terror / Like a god in the headlights / Why U speeding up?"
+    },
+    {
+      "id": 157,
+      "start": 158886.548141,
+      "end": 159891.546191,
+      "title": "26 — I’d like to sing a / Classic for you now. Thank you. / Please stop stabbing me."
+    },
+    {
+      "id": 158,
+      "start": 159891.546191,
+      "end": 161056.552268,
+      "title": "27 — Let’s play guess the god. / Starts with H. Wants to kill me. / (Besides my stepmom.)"
+    },
+    {
+      "id": 159,
+      "start": 161056.552268,
+      "end": 161892.548867,
+      "title": "28 — We all need a hand / On our shoulder sometimes so / We can chew through steel"
+    },
+    {
+      "id": 160,
+      "start": 161892.548867,
+      "end": 162793.558096,
+      "title": "29 — Ever heard the phrase / “The silence is deafening”? / Yeah, that’s a real thing"
+    },
+    {
+      "id": 161,
+      "start": 162793.558096,
+      "end": 164008.56362899998,
+      "title": "30 — A voice and a shh. / I have seen stranger couples. / Wait. No, I haven’t."
+    },
+    {
+      "id": 162,
+      "start": 164008.56362899998,
+      "end": 165488.562699,
+      "title": "31 — O, blood moon rising / Take a rain check on doomsday / I’m stuck in traffic"
+    },
+    {
+      "id": 163,
+      "start": 165488.562699,
+      "end": 166470.543629,
+      "title": "32 — We have a special / Today on slightly used trucks / Thanks, Target shoppers"
+    },
+    {
+      "id": 164,
+      "start": 166470.543629,
+      "end": 167823.56154199998,
+      "title": "33 — Welcome to the war / We hope you enjoy your death / Please come again soon!"
+    },
+    {
+      "id": 165,
+      "start": 167823.56154199998,
+      "end": 168812.542812,
+      "title": "34 — O insert name here / Please hear us and fill in blank / What is this, Mad Libs?"
+    },
+    {
+      "id": 166,
+      "start": 168812.542812,
+      "end": 170009.563356,
+      "title": "35 — Such a deal for you / Two-for-one single combat / Kill us both for free!"
+    },
+    {
+      "id": 167,
+      "start": 170009.563356,
+      "end": 171173.54161000001,
+      "title": "36 — Not again. My heart. / How many syllables is / “Total hopelessness”?"
+    },
+    {
+      "id": 168,
+      "start": 171173.54161000001,
+      "end": 172200.543765,
+      "title": "37 — I didn’t do it. / Explosion? I don’t know her. / Probably Greg’s fault."
+    },
+    {
+      "id": 169,
+      "start": 172200.543765,
+      "end": 173507.556939,
+      "title": "38 — Got two words for you: / Swiss Army unicorns, man! / Okay, that’s four words."
+    },
+    {
+      "id": 170,
+      "start": 173507.556939,
+      "end": 174981.544581,
+      "title": "39 — Captain Underpants / Does not appear in this book / Copyright issues"
+    },
+    {
+      "id": 171,
+      "start": 174981.544581,
+      "end": 176034.545919,
+      "title": "40 — Stop making me cry / Or buy me some new tear ducts / My old ones broke down"
+    },
+    {
+      "id": 172,
+      "start": 176034.545919,
+      "end": 176879.551202,
+      "title": "41 — If you hate me, fine / Just don’t hit me in the gut / Or, well, anywhere"
+    },
+    {
+      "id": 173,
+      "start": 176879.551202,
+      "end": 177903.555375,
+      "title": "42 — Life is uncertain / Accept presents, and always / Eat your birthday cake"
+    },
+    {
+      "id": 174,
+      "start": 177903.555375,
+      "end": 178633.781406,
+      "title": "43 — Our great opening! / Win a free Inferno trip! / And take a cupcake!"
+    },
+    {
+      "id": 175,
+      "start": 178633.781406,
+      "end": 178657.794467,
+      "title": "0 — Intro"
+    },
+    {
+      "id": 176,
+      "start": 178657.794467,
+      "end": 179805.82367399998,
+      "title": "1 — Two-headed snake dude / Jamming up my quiet ride. / Also, Meg’s shoes stink."
+    },
+    {
+      "id": 177,
+      "start": 179805.82367399998,
+      "end": 181209.801315,
+      "title": "2 — Pastries for dinner? / Your fave Lester could never. / Got to pee. Later."
+    },
+    {
+      "id": 178,
+      "start": 181209.801315,
+      "end": 182320.783674,
+      "title": "3 — Arrow of wisdom, / Hook me up with a hideout. / No, not that one. NO!"
+    },
+    {
+      "id": 179,
+      "start": 182320.783674,
+      "end": 183333.82127,
+      "title": "4 — This child is too cute. / Please, no more adorable. / Whoops. My heart just broke."
+    },
+    {
+      "id": 180,
+      "start": 183333.82127,
+      "end": 184545.814467,
+      "title": "5 — No swearing at the / Table? Then don’t talk about / That #@$%-@&* Nero."
+    },
+    {
+      "id": 181,
+      "start": 184545.814467,
+      "end": 185667.813923,
+      "title": "6 — Bye, Luguselwa. / Don’t forget to write if you / Ever hit the ground."
+    },
+    {
+      "id": 182,
+      "start": 185667.813923,
+      "end": 186835.79541999998,
+      "title": "7 — Chariot of dam- / nation, why stoppest thou here? / I don’t use your app."
+    },
+    {
+      "id": 183,
+      "start": 186835.79541999998,
+      "end": 187717.818005,
+      "title": "8 — I am Mr A. / I am here to fix toilets / And also pass out."
+    },
+    {
+      "id": 184,
+      "start": 187717.818005,
+      "end": 189109.781723,
+      "title": "9 — Breakfast is the meal / With pancakes and burnt yogurt / And insanity."
+    },
+    {
+      "id": 185,
+      "start": 189109.781723,
+      "end": 190360.7922,
+      "title": "10 — Huevos rancheros / Do not go with prophecies, / Much like happiness."
+    },
+    {
+      "id": 186,
+      "start": 190360.7922,
+      "end": 191597.793061,
+      "title": "11 — I apologize / To my arrow, and undies, / And, well, everything."
+    },
+    {
+      "id": 187,
+      "start": 191597.793061,
+      "end": 192507.822132,
+      "title": "12 — Billionaire’s warehouse. / Grab your chocolate drink quickly, / The cows are watching."
+    },
+    {
+      "id": 188,
+      "start": 192507.822132,
+      "end": 193442.806213,
+      "title": "13 — There is no blueprint / For taking down emperors. / Wait. Rachel has one."
+    },
+    {
+      "id": 189,
+      "start": 193442.806213,
+      "end": 194443.819411,
+      "title": "14 — I fall in a hole / And choke on my own anger. / I am a cow. Moo."
+    },
+    {
+      "id": 190,
+      "start": 194443.819411,
+      "end": 195316.79102099998,
+      "title": "15 — It’s raining red cows, / But I don’t care. / I’m singing, Singing in the cows!"
+    },
+    {
+      "id": 191,
+      "start": 195316.79102099998,
+      "end": 196585.82127,
+      "title": "16 — Will Solace, healer, / The hero we don’t deserve, / He has Kit Kat bars."
+    },
+    {
+      "id": 192,
+      "start": 196585.82127,
+      "end": 197911.808572,
+      "title": "17 — Speak to me of soup. / Let it be savoury broth / With a hint of skink."
+    },
+    {
+      "id": 193,
+      "start": 197911.808572,
+      "end": 199187.818322,
+      "title": "18 — Our special tonight: / A lovely braised / Apollo Under a Mets hat"
+    },
+    {
+      "id": 194,
+      "start": 199187.818322,
+      "end": 200184.787574,
+      "title": "19 — Flow on, River Ouch! / Take me – ouch! – away from – ouch! / Blessed River – ouch!"
+    },
+    {
+      "id": 195,
+      "start": 200184.787574,
+      "end": 201925.8122,
+      "title": "20 — Have you had your lunch? / This part is not good to read / If you’ve just eaten."
+    },
+    {
+      "id": 196,
+      "start": 201925.8122,
+      "end": 203018.816871,
+      "title": "21 — Fear the comfy couch. / Fear the jailer’s fruit platter / And shiny toilet."
+    },
+    {
+      "id": 197,
+      "start": 203018.816871,
+      "end": 203955.811338,
+      "title": "22 — I will go to sleep / To save everyone I love. / Don’t thank me. It’s cool."
+    },
+    {
+      "id": 198,
+      "start": 203955.811338,
+      "end": 205228.801315,
+      "title": "23 — Dream chariot, go! / Out of my way, I’m a god! / Honk, honk. Beep, beep. Zoom."
+    },
+    {
+      "id": 199,
+      "start": 205228.801315,
+      "end": 206251.812971,
+      "title": "24 — Fie upon Nero, / Who wants not my arrow’s speech! / (I can relate, though.)"
+    },
+    {
+      "id": 200,
+      "start": 206251.812971,
+      "end": 207062.818367,
+      "title": "25 — Beware, tech support! / Don’t press the naughty button! / Welp. Now you did it."
+    },
+    {
+      "id": 201,
+      "start": 207062.818367,
+      "end": 208346.817052,
+      "title": "26 — Tower of fun times. / Giggle with me as we climb. / For Meg! Glory! Hats!"
+    },
+    {
+      "id": 202,
+      "start": 208346.817052,
+      "end": 209490.825488,
+      "title": "27 — Can’t fight in person? / We can videoconference. / I’ll kill you online."
+    },
+    {
+      "id": 203,
+      "start": 209490.825488,
+      "end": 210601.822585,
+      "title": "28 — Signs of the end times: / Torches, rolling grapes, neck beards. / Meg gets cleaned up nice."
+    },
+    {
+      "id": 204,
+      "start": 210601.822585,
+      "end": 211867.805669,
+      "title": "29 — When you’re burning trees / And it’s allergy season, / Expect some sniffles."
+    },
+    {
+      "id": 205,
+      "start": 211867.805669,
+      "end": 213083.790113,
+      "title": "30 — Stayin’ alive is / Really hard when you’re always / Trying to kill me."
+    },
+    {
+      "id": 206,
+      "start": 213083.790113,
+      "end": 214113.821315,
+      "title": "31 — Godly tug-of-war / Not recommended for kids. / Or Lesters, either."
+    },
+    {
+      "id": 207,
+      "start": 214113.821315,
+      "end": 215535.789252,
+      "title": "32 — The final push, fam. / Not throwing away my shot. / Wait. Where is my shot?"
+    },
+    {
+      "id": 208,
+      "start": 215535.789252,
+      "end": 216552.80553299998,
+      "title": "33 — Seriously, guys, / I know my shot was right here. / Help me look for it."
+    },
+    {
+      "id": 209,
+      "start": 216552.80553299998,
+      "end": 217645.81229,
+      "title": "34 — Found my shot. Took it. / Forgot I was tied to it. / Down I go. Bye-bye."
+    },
+    {
+      "id": 210,
+      "start": 217645.81229,
+      "end": 218579.808073,
+      "title": "35 — Hanging with my peeps, / Hanging by my fingertips, / It’s the same, really."
+    },
+    {
+      "id": 211,
+      "start": 218579.808073,
+      "end": 219634.82381,
+      "title": "36 — Hooray! Yippee! Yay! / Apollo is in the house. / Hold your applause, please."
+    },
+    {
+      "id": 212,
+      "start": 219634.82381,
+      "end": 220740.801225,
+      "title": "37 — Burnt marshmallow bliss, / Pinochle, and strawberries. / Love you, Camp Half-Blood."
+    },
+    {
+      "id": 213,
+      "start": 220740.801225,
+      "end": 221626.819274,
+      "title": "38 — Carrots and muffins, / Sally’s fresh-baked blue cookies. / I am so hungry."
+    },
+    {
+      "id": 214,
+      "start": 221626.819274,
+      "end": 222606.338322,
+      "title": "39 — Two hundred and ten / Is a lot of haiku, but / I can do more if – / (*insert the sound of a god being strangled here*)"
+    }
+  ],
+  "title": "The Trials of Apollo",
+  "subtitle": null,
+  "authors": [
+    "Rick Riordan"
+  ],
+  "narrators": [
+    "Robbie Daymond"
+  ],
+  "series": [],
+  "genres": [
+    "Kids & Young Adults"
+  ],
+  "publishedYear": "2016",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "After angering his father, Zeus, the god Apollo is cast down from Olympus. Weak and disoriented, he lands in New York City as a regular teenage boy. Now, without his godly powers, the 4,000-year-old deity must learn to survive in the modern world until h",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

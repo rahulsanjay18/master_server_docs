@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The World of Ice & Fire: The Untold History of Westeros and The Game of Thrones
+artist=George R. R. Martin, Elio M. García, Linda Antonsson
+album_artist=George R. R. Martin, Elio M. García, Linda Antonsson
+album=The World of Ice & Fire: The Untold History of Westeros and The Game of Thrones
+genre=Audio Book
+date=2014
+comment=Read by Roy Dotrice & Nicholas Guy Smith
+description=Read by Roy Dotrice & Nicholas Guy Smith
+composer=629mb
+TRACKTOTAL=100

@@ -1,0 +1,448 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 18.1166,
+      "title": "Fool Moon 01"
+    },
+    {
+      "id": 1,
+      "start": 18.1166,
+      "end": 647.7561999999999,
+      "title": "Fool Moon 02"
+    },
+    {
+      "id": 2,
+      "start": 647.7561999999999,
+      "end": 1016.4479999999999,
+      "title": "Fool Moon 03"
+    },
+    {
+      "id": 3,
+      "start": 1016.4479999999999,
+      "end": 1642.6945999999998,
+      "title": "Fool Moon 04"
+    },
+    {
+      "id": 4,
+      "start": 1642.6945999999998,
+      "end": 2393.6731,
+      "title": "Fool Moon 05"
+    },
+    {
+      "id": 5,
+      "start": 2393.6731,
+      "end": 3010.4193,
+      "title": "Fool Moon 06"
+    },
+    {
+      "id": 6,
+      "start": 3010.4193,
+      "end": 3872.3489,
+      "title": "Fool Moon 07"
+    },
+    {
+      "id": 7,
+      "start": 3872.3489,
+      "end": 4541.3212,
+      "title": "Fool Moon 08"
+    },
+    {
+      "id": 8,
+      "start": 4541.3212,
+      "end": 4545.2916000000005,
+      "title": "Fool Moon 09"
+    },
+    {
+      "id": 9,
+      "start": 4545.2916000000005,
+      "end": 4858.103300000001,
+      "title": "Fool Moon 10"
+    },
+    {
+      "id": 10,
+      "start": 4858.103300000001,
+      "end": 5294.524600000001,
+      "title": "Fool Moon 11"
+    },
+    {
+      "id": 11,
+      "start": 5294.524600000001,
+      "end": 6037.620900000001,
+      "title": "Fool Moon 12"
+    },
+    {
+      "id": 12,
+      "start": 6037.620900000001,
+      "end": 6808.722500000001,
+      "title": "Fool Moon 13"
+    },
+    {
+      "id": 13,
+      "start": 6808.722500000001,
+      "end": 7406.024200000001,
+      "title": "Fool Moon 14"
+    },
+    {
+      "id": 14,
+      "start": 7406.024200000001,
+      "end": 8021.491500000001,
+      "title": "Fool Moon 15"
+    },
+    {
+      "id": 15,
+      "start": 8021.491500000001,
+      "end": 8509.329800000001,
+      "title": "Fool Moon 16"
+    },
+    {
+      "id": 16,
+      "start": 8509.329800000001,
+      "end": 9084.8119,
+      "title": "Fool Moon 17"
+    },
+    {
+      "id": 17,
+      "start": 9084.8119,
+      "end": 9088.7823,
+      "title": "Fool Moon 18"
+    },
+    {
+      "id": 18,
+      "start": 9088.7823,
+      "end": 9820.2641,
+      "title": "Fool Moon 19"
+    },
+    {
+      "id": 19,
+      "start": 9820.2641,
+      "end": 10413.0766,
+      "title": "Fool Moon 20"
+    },
+    {
+      "id": 20,
+      "start": 10413.0766,
+      "end": 11139.8865,
+      "title": "Fool Moon 21"
+    },
+    {
+      "id": 21,
+      "start": 11139.8865,
+      "end": 11604.7307,
+      "title": "Fool Moon 22"
+    },
+    {
+      "id": 22,
+      "start": 11604.7307,
+      "end": 12100.1119,
+      "title": "Fool Moon 23"
+    },
+    {
+      "id": 23,
+      "start": 12100.1119,
+      "end": 12597.3462,
+      "title": "Fool Moon 24"
+    },
+    {
+      "id": 24,
+      "start": 12597.3462,
+      "end": 13124.0996,
+      "title": "Fool Moon 25"
+    },
+    {
+      "id": 25,
+      "start": 13124.0996,
+      "end": 13640.5435,
+      "title": "Fool Moon 26"
+    },
+    {
+      "id": 26,
+      "start": 13640.5435,
+      "end": 13644.5139,
+      "title": "Fool Moon 27"
+    },
+    {
+      "id": 27,
+      "start": 13644.5139,
+      "end": 14035.0253,
+      "title": "Fool Moon 28"
+    },
+    {
+      "id": 28,
+      "start": 14035.0253,
+      "end": 14826.067299999999,
+      "title": "Fool Moon 29"
+    },
+    {
+      "id": 29,
+      "start": 14826.067299999999,
+      "end": 15699.063299999998,
+      "title": "Fool Moon 30"
+    },
+    {
+      "id": 30,
+      "start": 15699.063299999998,
+      "end": 16387.375699999997,
+      "title": "Fool Moon 31"
+    },
+    {
+      "id": 31,
+      "start": 16387.375699999997,
+      "end": 17086.467399999998,
+      "title": "Fool Moon 32"
+    },
+    {
+      "id": 32,
+      "start": 17086.467399999998,
+      "end": 17672.6766,
+      "title": "Fool Moon 33"
+    },
+    {
+      "id": 33,
+      "start": 17672.6766,
+      "end": 18196.4024,
+      "title": "Fool Moon 34"
+    },
+    {
+      "id": 34,
+      "start": 18196.4024,
+      "end": 18200.372799999997,
+      "title": "Fool Moon 35"
+    },
+    {
+      "id": 35,
+      "start": 18200.372799999997,
+      "end": 18606.674699999996,
+      "title": "Fool Moon 36"
+    },
+    {
+      "id": 36,
+      "start": 18606.674699999996,
+      "end": 19494.965299999996,
+      "title": "Fool Moon 37"
+    },
+    {
+      "id": 37,
+      "start": 19494.965299999996,
+      "end": 20015.637399999996,
+      "title": "Fool Moon 38"
+    },
+    {
+      "id": 38,
+      "start": 20015.637399999996,
+      "end": 20491.730699999996,
+      "title": "Fool Moon 39"
+    },
+    {
+      "id": 39,
+      "start": 20491.730699999996,
+      "end": 21129.382999999998,
+      "title": "Fool Moon 40"
+    },
+    {
+      "id": 40,
+      "start": 21129.382999999998,
+      "end": 21738.7168,
+      "title": "Fool Moon 41"
+    },
+    {
+      "id": 41,
+      "start": 21738.7168,
+      "end": 22269.593999999997,
+      "title": "Fool Moon 42"
+    },
+    {
+      "id": 42,
+      "start": 22269.593999999997,
+      "end": 22751.664199999996,
+      "title": "Fool Moon 43"
+    },
+    {
+      "id": 43,
+      "start": 22751.664199999996,
+      "end": 22755.634599999994,
+      "title": "Fool Moon 44"
+    },
+    {
+      "id": 44,
+      "start": 22755.634599999994,
+      "end": 23211.578699999995,
+      "title": "Fool Moon 45"
+    },
+    {
+      "id": 45,
+      "start": 23211.578699999995,
+      "end": 23751.825799999995,
+      "title": "Fool Moon 46"
+    },
+    {
+      "id": 46,
+      "start": 23751.825799999995,
+      "end": 24137.456499999997,
+      "title": "Fool Moon 47"
+    },
+    {
+      "id": 47,
+      "start": 24137.456499999997,
+      "end": 25029.244499999997,
+      "title": "Fool Moon 48"
+    },
+    {
+      "id": 48,
+      "start": 25029.244499999997,
+      "end": 25461.802999999996,
+      "title": "Fool Moon 49"
+    },
+    {
+      "id": 49,
+      "start": 25461.802999999996,
+      "end": 25929.805299999996,
+      "title": "Fool Moon 50"
+    },
+    {
+      "id": 50,
+      "start": 25929.805299999996,
+      "end": 26520.164399999998,
+      "title": "Fool Moon 51"
+    },
+    {
+      "id": 51,
+      "start": 26520.164399999998,
+      "end": 27043.263799999997,
+      "title": "Fool Moon 52"
+    },
+    {
+      "id": 52,
+      "start": 27043.263799999997,
+      "end": 27298.081299999998,
+      "title": "Fool Moon 53"
+    },
+    {
+      "id": 53,
+      "start": 27298.081299999998,
+      "end": 27302.051699999996,
+      "title": "Fool Moon 54"
+    },
+    {
+      "id": 54,
+      "start": 27302.051699999996,
+      "end": 28101.837199999994,
+      "title": "Fool Moon 55"
+    },
+    {
+      "id": 55,
+      "start": 28101.837199999994,
+      "end": 28865.761299999995,
+      "title": "Fool Moon 56"
+    },
+    {
+      "id": 56,
+      "start": 28865.761299999995,
+      "end": 29326.220699999994,
+      "title": "Fool Moon 57"
+    },
+    {
+      "id": 57,
+      "start": 29326.220699999994,
+      "end": 29776.005199999996,
+      "title": "Fool Moon 58"
+    },
+    {
+      "id": 58,
+      "start": 29776.005199999996,
+      "end": 30655.682799999995,
+      "title": "Fool Moon 59"
+    },
+    {
+      "id": 59,
+      "start": 30655.682799999995,
+      "end": 31250.426699999996,
+      "title": "Fool Moon 60"
+    },
+    {
+      "id": 60,
+      "start": 31250.426699999996,
+      "end": 31846.658299999996,
+      "title": "Fool Moon 61"
+    },
+    {
+      "id": 61,
+      "start": 31846.658299999996,
+      "end": 31850.628699999994,
+      "title": "Fool Moon 62"
+    },
+    {
+      "id": 62,
+      "start": 31850.628699999994,
+      "end": 32422.561199999993,
+      "title": "Fool Moon 63"
+    },
+    {
+      "id": 63,
+      "start": 32422.561199999993,
+      "end": 32982.2006,
+      "title": "Fool Moon 64"
+    },
+    {
+      "id": 64,
+      "start": 32982.2006,
+      "end": 33826.3561,
+      "title": "Fool Moon 65"
+    },
+    {
+      "id": 65,
+      "start": 33826.3561,
+      "end": 34694.106,
+      "title": "Fool Moon 66"
+    },
+    {
+      "id": 66,
+      "start": 34694.106,
+      "end": 35210.6282,
+      "title": "Fool Moon 67"
+    },
+    {
+      "id": 67,
+      "start": 35210.6282,
+      "end": 35587.8286,
+      "title": "Fool Moon 68"
+    },
+    {
+      "id": 68,
+      "start": 35587.8286,
+      "end": 36348.7773,
+      "title": "Fool Moon 69"
+    },
+    {
+      "id": 69,
+      "start": 36348.7773,
+      "end": 36401.9462,
+      "title": "Fool Moon 70"
+    }
+  ],
+  "title": "The Dresden Files 02.0 - Fool Moon",
+  "subtitle": null,
+  "authors": [
+    "James Marsters"
+  ],
+  "narrators": [
+    "Jim Butcher"
+  ],
+  "series": [
+    "Jim Butcher - Dresden Files 22GB #2"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

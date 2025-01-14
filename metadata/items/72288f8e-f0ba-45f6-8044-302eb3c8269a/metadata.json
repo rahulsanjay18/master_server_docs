@@ -1,0 +1,106 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 15.557,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 15.557,
+      "end": 257.973,
+      "title": "Prologue"
+    },
+    {
+      "id": 2,
+      "start": 257.973,
+      "end": 4203.74,
+      "title": "Chapter 1: Statistical Anomaly"
+    },
+    {
+      "id": 3,
+      "start": 4203.74,
+      "end": 7189.455,
+      "title": "Chapter 2: Down The Rabbit Hole"
+    },
+    {
+      "id": 4,
+      "start": 7189.455,
+      "end": 11057.899,
+      "title": "Chapter 3: Big Red Button"
+    },
+    {
+      "id": 5,
+      "start": 11057.899,
+      "end": 13749.324,
+      "title": "Chapter 4: Excess Of Strawberries"
+    },
+    {
+      "id": 6,
+      "start": 13749.324,
+      "end": 16120.267,
+      "title": "Chapter 5: Go, Set, Ready"
+    },
+    {
+      "id": 7,
+      "start": 16120.267,
+      "end": 20076.344,
+      "title": "Chapter 6: Dance Of The Sugar Plum Fairy"
+    },
+    {
+      "id": 8,
+      "start": 20076.344,
+      "end": 23425.497,
+      "title": "Chapter 7: Red Light / Green Light"
+    },
+    {
+      "id": 9,
+      "start": 23425.497,
+      "end": 27284.979,
+      "title": "Chapter 8: Less A Cherry Blossom, More A Snow Flower"
+    },
+    {
+      "id": 10,
+      "start": 27284.979,
+      "end": 30911.146,
+      "title": "Chapter 9: Spring, I Miss You"
+    },
+    {
+      "id": 11,
+      "start": 30911.146,
+      "end": 31418.038,
+      "title": "Epilogue"
+    },
+    {
+      "id": 12,
+      "start": 31418.038,
+      "end": 31444.045,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Lily Clairet, Vol. 01",
+  "subtitle": null,
+  "authors": [
+    "Savannah Gilmore"
+  ],
+  "narrators": [
+    "Kaye Ng"
+  ],
+  "series": [
+    "Lily Clairet #01"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2014 (08-30-19)",
+  "publishedDate": null,
+  "publisher": "Kaye Ng",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

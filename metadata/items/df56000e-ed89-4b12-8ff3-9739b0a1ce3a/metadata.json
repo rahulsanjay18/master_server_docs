@@ -1,0 +1,78 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4336.013061,
+      "title": "Slow River 1-9"
+    },
+    {
+      "id": 1,
+      "start": 4336.013061,
+      "end": 8705.525817,
+      "title": "Slow River 2-9"
+    },
+    {
+      "id": 2,
+      "start": 8705.525817,
+      "end": 13033.608317,
+      "title": "Slow River 3-9"
+    },
+    {
+      "id": 3,
+      "start": 13033.608317,
+      "end": 17355.421406,
+      "title": "Slow River 4-9"
+    },
+    {
+      "id": 4,
+      "start": 17355.421406,
+      "end": 21691.627995000003,
+      "title": "Slow River 5-9"
+    },
+    {
+      "id": 5,
+      "start": 21691.627995000003,
+      "end": 26024.281917000004,
+      "title": "Slow River 6-9"
+    },
+    {
+      "id": 6,
+      "start": 26024.281917000004,
+      "end": 30359.182417000004,
+      "title": "Slow River 7-9"
+    },
+    {
+      "id": 7,
+      "start": 30359.182417000004,
+      "end": 34686.742506,
+      "title": "Slow River 8-9"
+    },
+    {
+      "id": 8,
+      "start": 34686.742506,
+      "end": 38928.072339000006,
+      "title": "Slow River 9-9"
+    }
+  ],
+  "title": "Slow River",
+  "subtitle": null,
+  "authors": [
+    "Nicola Griffith"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Science Fiction"
+  ],
+  "publishedYear": "1995",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,116 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 600.581224,
+      "title": "01: A Bad Thing"
+    },
+    {
+      "id": 1,
+      "start": 600.581224,
+      "end": 2173.3093870000002,
+      "title": "02: Going to the Falcon's Nest"
+    },
+    {
+      "id": 2,
+      "start": 2173.3093870000002,
+      "end": 3464.463673,
+      "title": "03: Ogion"
+    },
+    {
+      "id": 3,
+      "start": 3464.463673,
+      "end": 5754.592653,
+      "title": "04: Kalessin"
+    },
+    {
+      "id": 4,
+      "start": 5754.592653,
+      "end": 8894.302040999999,
+      "title": "05: Bettering"
+    },
+    {
+      "id": 5,
+      "start": 8894.302040999999,
+      "end": 10399.477551,
+      "title": "06: Worsening"
+    },
+    {
+      "id": 6,
+      "start": 10399.477551,
+      "end": 12622.785306,
+      "title": "07: Mice"
+    },
+    {
+      "id": 7,
+      "start": 12622.785306,
+      "end": 15158.752653,
+      "title": "08: Hawks"
+    },
+    {
+      "id": 8,
+      "start": 15158.752653,
+      "end": 17493.054694,
+      "title": "09: Finding Words"
+    },
+    {
+      "id": 9,
+      "start": 17493.054694,
+      "end": 19986.442449,
+      "title": "10: The Dolphin"
+    },
+    {
+      "id": 10,
+      "start": 19986.442449,
+      "end": 23871.973877999997,
+      "title": "11: Home"
+    },
+    {
+      "id": 11,
+      "start": 23871.973877999997,
+      "end": 27063.275101999996,
+      "title": "12: Winter"
+    },
+    {
+      "id": 12,
+      "start": 27063.275101999996,
+      "end": 29204.897958999994,
+      "title": "13: The Master"
+    },
+    {
+      "id": 13,
+      "start": 29204.897958999994,
+      "end": 30183.993468999994,
+      "title": "14: Tehanu"
+    },
+    {
+      "id": 14,
+      "start": 30183.993468999994,
+      "end": 30844.395101999995,
+      "title": "15: Afterword"
+    }
+  ],
+  "title": "Tehanu",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "238mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1990",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Jenny Sterlin",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

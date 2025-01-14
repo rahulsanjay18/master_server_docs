@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=Oxford Very Short Introductions
+artist=The Renaissance
+album_artist=The Renaissance
+album=Oxford Very Short Introductions
+genre=Speech
+comment=PANCHO
+description=PANCHO
+TRACKTOTAL=15

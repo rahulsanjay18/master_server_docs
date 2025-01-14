@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=Grimnoir Chronicles Book 3.5
+artist=Larry Correia
+album_artist=Larry Correia
+album=Grimnoir Chronicles Book 3.5
+comment=Narrated by: Bronson Pinchot
+description=Narrated by: Bronson Pinchot
+TRACKTOTAL=1
+grouping=Larry Correia - Grimnoir Chronicles

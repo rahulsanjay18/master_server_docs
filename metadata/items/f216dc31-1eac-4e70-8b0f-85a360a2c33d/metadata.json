@@ -1,0 +1,104 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 155.167347,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 155.167347,
+      "end": 734.4326530000001,
+      "title": "The Fountains"
+    },
+    {
+      "id": 2,
+      "start": 734.4326530000001,
+      "end": 2036.558367,
+      "title": "The Barrow"
+    },
+    {
+      "id": 3,
+      "start": 2036.558367,
+      "end": 4139.337143000001,
+      "title": "Ile Forest"
+    },
+    {
+      "id": 4,
+      "start": 4139.337143000001,
+      "end": 8139.781225000001,
+      "title": "Conversations at Night"
+    },
+    {
+      "id": 5,
+      "start": 8139.781225000001,
+      "end": 9588.79347,
+      "title": "The Road East"
+    },
+    {
+      "id": 6,
+      "start": 9588.79347,
+      "end": 14605.792654,
+      "title": "Brothers and Sisters"
+    },
+    {
+      "id": 7,
+      "start": 14605.792654,
+      "end": 17986.220409,
+      "title": "A Week in the Country"
+    },
+    {
+      "id": 8,
+      "start": 17986.220409,
+      "end": 20186.462042000003,
+      "title": "An die Musik"
+    },
+    {
+      "id": 9,
+      "start": 20186.462042000003,
+      "end": 21674.057144000002,
+      "title": "The House"
+    },
+    {
+      "id": 10,
+      "start": 21674.057144000002,
+      "end": 23442.311838,
+      "title": "The Lady of Moge"
+    },
+    {
+      "id": 11,
+      "start": 23442.311838,
+      "end": 24802.951838,
+      "title": "Imaginary Countries"
+    },
+    {
+      "id": 12,
+      "start": 24802.951838,
+      "end": 24837.067756,
+      "title": "End"
+    }
+  ],
+  "title": "Orsinian Tales",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "193mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1976",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Richard Braun",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

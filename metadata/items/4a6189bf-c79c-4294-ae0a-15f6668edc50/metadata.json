@@ -1,0 +1,446 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 300.042449,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 01"
+    },
+    {
+      "id": 1,
+      "start": 300.042449,
+      "end": 600.032653,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 02"
+    },
+    {
+      "id": 2,
+      "start": 600.032653,
+      "end": 900.0228569999999,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 03"
+    },
+    {
+      "id": 3,
+      "start": 900.0228569999999,
+      "end": 1200.0130609999999,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 04"
+    },
+    {
+      "id": 4,
+      "start": 1200.0130609999999,
+      "end": 1500.0032649999998,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 05"
+    },
+    {
+      "id": 5,
+      "start": 1500.0032649999998,
+      "end": 1800.0195919999999,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 06"
+    },
+    {
+      "id": 6,
+      "start": 1800.0195919999999,
+      "end": 2100.035919,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 07"
+    },
+    {
+      "id": 7,
+      "start": 2100.035919,
+      "end": 2400.026123,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 08"
+    },
+    {
+      "id": 8,
+      "start": 2400.026123,
+      "end": 2700.04245,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 09"
+    },
+    {
+      "id": 9,
+      "start": 2700.04245,
+      "end": 3000.0587769999997,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 10"
+    },
+    {
+      "id": 10,
+      "start": 3000.0587769999997,
+      "end": 3300.048981,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 11"
+    },
+    {
+      "id": 11,
+      "start": 3300.048981,
+      "end": 3600.039185,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 12"
+    },
+    {
+      "id": 12,
+      "start": 3600.039185,
+      "end": 3900.0293890000003,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 13"
+    },
+    {
+      "id": 13,
+      "start": 3900.0293890000003,
+      "end": 3944.3069400000004,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 14"
+    },
+    {
+      "id": 14,
+      "start": 3944.3069400000004,
+      "end": 4244.349389,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 15"
+    },
+    {
+      "id": 15,
+      "start": 4244.349389,
+      "end": 4544.339593,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 16"
+    },
+    {
+      "id": 16,
+      "start": 4544.339593,
+      "end": 4844.329796999999,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 17"
+    },
+    {
+      "id": 17,
+      "start": 4844.329796999999,
+      "end": 5144.320000999999,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 18"
+    },
+    {
+      "id": 18,
+      "start": 5144.320000999999,
+      "end": 5444.310204999999,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 19"
+    },
+    {
+      "id": 19,
+      "start": 5444.310204999999,
+      "end": 5744.300408999999,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 20"
+    },
+    {
+      "id": 20,
+      "start": 5744.300408999999,
+      "end": 6044.290612999998,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 21"
+    },
+    {
+      "id": 21,
+      "start": 6044.290612999998,
+      "end": 6344.280816999998,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 22"
+    },
+    {
+      "id": 22,
+      "start": 6344.280816999998,
+      "end": 6644.297143999998,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 23"
+    },
+    {
+      "id": 23,
+      "start": 6644.297143999998,
+      "end": 6944.287347999998,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 24"
+    },
+    {
+      "id": 24,
+      "start": 6944.287347999998,
+      "end": 7244.277551999998,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 25"
+    },
+    {
+      "id": 25,
+      "start": 7244.277551999998,
+      "end": 7523.239184999998,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 26"
+    },
+    {
+      "id": 26,
+      "start": 7523.239184999998,
+      "end": 7823.281633999997,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 27"
+    },
+    {
+      "id": 27,
+      "start": 7823.281633999997,
+      "end": 8123.2979609999975,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 28"
+    },
+    {
+      "id": 28,
+      "start": 8123.2979609999975,
+      "end": 8423.288164999998,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 29"
+    },
+    {
+      "id": 29,
+      "start": 8423.288164999998,
+      "end": 8723.278368999998,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 30"
+    },
+    {
+      "id": 30,
+      "start": 8723.278368999998,
+      "end": 9023.268572999998,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 31"
+    },
+    {
+      "id": 31,
+      "start": 9023.268572999998,
+      "end": 9323.284899999997,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 32"
+    },
+    {
+      "id": 32,
+      "start": 9323.284899999997,
+      "end": 9623.301226999996,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 33"
+    },
+    {
+      "id": 33,
+      "start": 9623.301226999996,
+      "end": 9923.317553999996,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 34"
+    },
+    {
+      "id": 34,
+      "start": 9923.317553999996,
+      "end": 10223.307757999995,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 35"
+    },
+    {
+      "id": 35,
+      "start": 10223.307757999995,
+      "end": 10523.324084999995,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 36"
+    },
+    {
+      "id": 36,
+      "start": 10523.324084999995,
+      "end": 10823.314288999994,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 37"
+    },
+    {
+      "id": 37,
+      "start": 10823.314288999994,
+      "end": 11123.304492999994,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 38"
+    },
+    {
+      "id": 38,
+      "start": 11123.304492999994,
+      "end": 11423.294696999994,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 39"
+    },
+    {
+      "id": 39,
+      "start": 11423.294696999994,
+      "end": 11591.314288999994,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 40"
+    },
+    {
+      "id": 40,
+      "start": 11591.314288999994,
+      "end": 11891.356737999995,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 41"
+    },
+    {
+      "id": 41,
+      "start": 11891.356737999995,
+      "end": 12191.346941999995,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 42"
+    },
+    {
+      "id": 42,
+      "start": 12191.346941999995,
+      "end": 12491.337145999994,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 43"
+    },
+    {
+      "id": 43,
+      "start": 12491.337145999994,
+      "end": 12791.327349999994,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 44"
+    },
+    {
+      "id": 44,
+      "start": 12791.327349999994,
+      "end": 13091.317553999994,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 45"
+    },
+    {
+      "id": 45,
+      "start": 13091.317553999994,
+      "end": 13391.307757999994,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 46"
+    },
+    {
+      "id": 46,
+      "start": 13391.307757999994,
+      "end": 13691.297961999993,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 47"
+    },
+    {
+      "id": 47,
+      "start": 13691.297961999993,
+      "end": 13991.288165999993,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 48"
+    },
+    {
+      "id": 48,
+      "start": 13991.288165999993,
+      "end": 14291.304492999992,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 49"
+    },
+    {
+      "id": 49,
+      "start": 14291.304492999992,
+      "end": 14591.294696999992,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 50"
+    },
+    {
+      "id": 50,
+      "start": 14591.294696999992,
+      "end": 14891.284900999992,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 51"
+    },
+    {
+      "id": 51,
+      "start": 14891.284900999992,
+      "end": 15191.301227999991,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 52"
+    },
+    {
+      "id": 52,
+      "start": 15191.301227999991,
+      "end": 15491.29143199999,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 53"
+    },
+    {
+      "id": 53,
+      "start": 15491.29143199999,
+      "end": 15603.435104999991,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 54"
+    },
+    {
+      "id": 54,
+      "start": 15603.435104999991,
+      "end": 15903.477553999992,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 55"
+    },
+    {
+      "id": 55,
+      "start": 15903.477553999992,
+      "end": 16203.467757999992,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 56"
+    },
+    {
+      "id": 56,
+      "start": 16203.467757999992,
+      "end": 16503.457961999993,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 57"
+    },
+    {
+      "id": 57,
+      "start": 16503.457961999993,
+      "end": 16803.474288999994,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 58"
+    },
+    {
+      "id": 58,
+      "start": 16803.474288999994,
+      "end": 17103.490615999995,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 59"
+    },
+    {
+      "id": 59,
+      "start": 17103.490615999995,
+      "end": 17403.480819999997,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 60"
+    },
+    {
+      "id": 60,
+      "start": 17403.480819999997,
+      "end": 17703.471024,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 61"
+    },
+    {
+      "id": 61,
+      "start": 17703.471024,
+      "end": 18003.461228,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 62"
+    },
+    {
+      "id": 62,
+      "start": 18003.461228,
+      "end": 18303.451432,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 63"
+    },
+    {
+      "id": 63,
+      "start": 18303.451432,
+      "end": 18603.441636000003,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 64"
+    },
+    {
+      "id": 64,
+      "start": 18603.441636000003,
+      "end": 18903.431840000005,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 65"
+    },
+    {
+      "id": 65,
+      "start": 18903.431840000005,
+      "end": 19203.448167000006,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 66"
+    },
+    {
+      "id": 66,
+      "start": 19203.448167000006,
+      "end": 19503.464494000007,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 67"
+    },
+    {
+      "id": 67,
+      "start": 19503.464494000007,
+      "end": 19803.45469800001,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 68"
+    },
+    {
+      "id": 68,
+      "start": 19803.45469800001,
+      "end": 20103.47102500001,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 69"
+    },
+    {
+      "id": 69,
+      "start": 20103.47102500001,
+      "end": 20240.92735200001,
+      "title": "Neil Gaiman & Michael Reaves - Interworld 70"
+    }
+  ],
+  "title": "Interworld",
+  "subtitle": null,
+  "authors": [
+    "Neil Gaiman & Michael Reaves"
+  ],
+  "narrators": [],
+  "series": [
+    "Interworld Series"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2007",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "From Booklist\nA lad discovers that he can walk between alternate Earths and is swept \nup in a war between them in this fast-paced, compulsively readable tale. \nJoey gets lost in his own house, but when he steps into a patch of fog \nand finds himself in a world where he died, a trillion Earths lie open \nto him arranged in a vast arc, with an empire of science-based planes \nat one end and a realm where magic rules at the other. Recruited into \nan army of anything-but-identical Joeys gathered from many of these \nworlds and charged with maintaining the balance of power, Joey picks \nup companions both human and non as he travels the multidimensional \nIn Between that links the sprawling \"Altiverse.\" In this first of what \ncould and should be many episodes, Joey finishes his basic training \nby doing battle with melodramatically evil magic workers Lord Dogknife \nand Lady Indigo. Vivid, well-imagined settings and characters compensate \nfor weak links in the internal logic of this rousing sf/fantasy hybrid. \nPeters, John\nProduct Description\n\nJoey Harker isn't a hero.\n\nIn fact, he's the kind of guy who gets lost in his own house.\n\nBut then one day, Joey gets really lost. He walks straight out of his \nworld and into another dimension.\n\nJoey's walk between the worlds makes him prey to two terrible forces \narmies of magic and science who will do anything to harness his power \nto travel between dimensions.\n\nWhen he sees the evil those forces are capable of, Joey makes the only \npossible choice: to join an army of his own, an army of versions of \nhimself from different dimensions who all share his amazing power and \nwho are all determined to fight to save the worlds.\n\nMaster storyteller Neil Gaiman and Emmy Award-winning science-fiction \nwriter Michael Reaves team up to create a dazzling tale of magic, science, \nhonor, and the destiny of one very special boy and all the others like \nhim.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

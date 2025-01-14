@@ -1,0 +1,78 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 125.13,
+      "title": "Prologue"
+    },
+    {
+      "id": 1,
+      "start": 125.13,
+      "end": 1814.426,
+      "title": "01. What Is Military Strategy?"
+    },
+    {
+      "id": 2,
+      "start": 1814.426,
+      "end": 3829.916,
+      "title": "02. Annihilation and Dislocation"
+    },
+    {
+      "id": 3,
+      "start": 3829.916,
+      "end": 6223.218,
+      "title": "03. Attrition and Exhaustion"
+    },
+    {
+      "id": 4,
+      "start": 6223.218,
+      "end": 8592.836,
+      "title": "04. Deterrence and Compellence"
+    },
+    {
+      "id": 5,
+      "start": 8592.836,
+      "end": 10997.307,
+      "title": "05. Terror and Terrorism"
+    },
+    {
+      "id": 6,
+      "start": 10997.307,
+      "end": 13348,
+      "title": "06. Decapitation and Targeted Killing"
+    },
+    {
+      "id": 7,
+      "start": 13348,
+      "end": 15169.998,
+      "title": "07. Winning Without Fighting: Information and Cyber Power"
+    },
+    {
+      "id": 8,
+      "start": 15169.998,
+      "end": 16078.152,
+      "title": "08. What Causes Military Strategies to Succeed or Fail?"
+    }
+  ],
+  "title": "Military Strategy: A Very Short Introduction",
+  "subtitle": "A Very Short Introduction",
+  "authors": [
+    "Antulio J. Echevarria II"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "History"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": "Oxford University Press",
+  "description": "Distilling the ideas of the greatest military theoreticians of history, including Sun Tzu, Niccolò Machiavelli, and Carl von Clausewitz, Antulio J. Echevarria II presents a fascinating account of the \"art of the general.\" Drawing on historical examples, from Hannibal's war against Rome to Napoleon's victory at Austerlitz, from the Allies' campaign to overwhelm Hitler's fortress to the terror attacks of September 11, Echevarria vividly describes the major types of military strategy and their advantages and disadvantages. Clear and engaging, this book shows that military strategy is essential for understanding major events of the past and becomes even more critical today, in a world increasingly threatened by weapons of mass destruction, terrorist attacks, and new dimensions of conflict such as cyberwar and space.",
+  "isbn": "9780199340149",
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

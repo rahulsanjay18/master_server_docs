@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Symbiont
+artist=Mira Grant
+album_artist=Mira Grant
+album=Symbiont
+genre=Audiobook
+date=2014-01-01
+comment=Read by Christine Lakin\; Unabr
+description=Read by Christine Lakin\; Unabr
+TRACKTOTAL=18
+grouping=Mira Grant - Parasitology

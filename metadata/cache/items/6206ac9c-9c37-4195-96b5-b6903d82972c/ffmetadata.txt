@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Tombs of Atuan
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=The Tombs of Atuan
+genre=Audio Book
+date=1971
+comment=Read by Aysha Kala
+description=Read by Aysha Kala
+composer=319mb
+TRACKTOTAL=13

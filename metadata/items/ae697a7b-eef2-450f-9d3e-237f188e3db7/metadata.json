@@ -1,0 +1,248 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 11.996,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 11.996,
+      "end": 2087.195256,
+      "title": "A Wizard of Earthsea 01: Warriors in the Mist"
+    },
+    {
+      "id": 2,
+      "start": 2087.195256,
+      "end": 4385.454256,
+      "title": "A Wizard of Earthsea 02: The Shadow"
+    },
+    {
+      "id": 3,
+      "start": 4385.454256,
+      "end": 7189.626756,
+      "title": "A Wizard of Earthsea 03: The School for Wizards"
+    },
+    {
+      "id": 4,
+      "start": 7189.626756,
+      "end": 10485.136256,
+      "title": "A Wizard of Earthsea 04: The Loosing of the Shadow"
+    },
+    {
+      "id": 5,
+      "start": 10485.136256,
+      "end": 13011.026256,
+      "title": "A Wizard of Earthsea 05: The Dragon of Pendor"
+    },
+    {
+      "id": 6,
+      "start": 13011.026256,
+      "end": 15018.934255999999,
+      "title": "A Wizard of Earthsea 06: Hunted"
+    },
+    {
+      "id": 7,
+      "start": 15018.934255999999,
+      "end": 18107.919756,
+      "title": "A Wizard of Earthsea 07: The Hawk's Flight"
+    },
+    {
+      "id": 8,
+      "start": 18107.919756,
+      "end": 20871.863512,
+      "title": "A Wizard of Earthsea 08: Hunting"
+    },
+    {
+      "id": 9,
+      "start": 20871.863512,
+      "end": 23001.188512,
+      "title": "A Wizard of Earthsea 09: Iffish"
+    },
+    {
+      "id": 10,
+      "start": 23001.188512,
+      "end": 25475.538768000002,
+      "title": "A Wizard of Earthsea 10: The Open Sea"
+    },
+    {
+      "id": 11,
+      "start": 25475.538768000002,
+      "end": 25658.558524000004,
+      "title": "The Tombs of Atuan 00: Prologue"
+    },
+    {
+      "id": 12,
+      "start": 25658.558524000004,
+      "end": 26374.162780000002,
+      "title": "The Tombs of Atuan 01: The Eaten One"
+    },
+    {
+      "id": 13,
+      "start": 26374.162780000002,
+      "end": 28296.754780000003,
+      "title": "The Tombs of Atuan 02: The Wall Around the Place"
+    },
+    {
+      "id": 14,
+      "start": 28296.754780000003,
+      "end": 30016.140280000003,
+      "title": "The Tombs of Atuan 03: The Prisoners"
+    },
+    {
+      "id": 15,
+      "start": 30016.140280000003,
+      "end": 32139.248280000003,
+      "title": "The Tombs of Atuan 04: Dreams and Tales"
+    },
+    {
+      "id": 16,
+      "start": 32139.248280000003,
+      "end": 33942.56528,
+      "title": "The Tombs of Atuan 05: Light Under the Hill"
+    },
+    {
+      "id": 17,
+      "start": 33942.56528,
+      "end": 36120.687036,
+      "title": "The Tombs of Atuan 06: The Man Trap"
+    },
+    {
+      "id": 18,
+      "start": 36120.687036,
+      "end": 37830.590036,
+      "title": "The Tombs of Atuan 07: The Great Treasure"
+    },
+    {
+      "id": 19,
+      "start": 37830.590036,
+      "end": 38696.816292,
+      "title": "The Tombs of Atuan 08: Names"
+    },
+    {
+      "id": 20,
+      "start": 38696.816292,
+      "end": 40438.092292,
+      "title": "The Tombs of Atuan 09: The Ring of Erreth-Akbe"
+    },
+    {
+      "id": 21,
+      "start": 40438.092292,
+      "end": 41598.065548,
+      "title": "The Tombs of Atuan 10: The Anger of the Dark"
+    },
+    {
+      "id": 22,
+      "start": 41598.065548,
+      "end": 43134.097548,
+      "title": "The Tombs of Atuan 11: The Western Mountains"
+    },
+    {
+      "id": 23,
+      "start": 43134.097548,
+      "end": 44564.464304,
+      "title": "The Tombs of Atuan 12: Voyage"
+    },
+    {
+      "id": 24,
+      "start": 44564.464304,
+      "end": 46162.22356,
+      "title": "The Farthest Shore 01: The Rowan Tree"
+    },
+    {
+      "id": 25,
+      "start": 46162.22356,
+      "end": 48638.08906,
+      "title": "The Farthest Shore 02: The Masters of Roke"
+    },
+    {
+      "id": 26,
+      "start": 48638.08906,
+      "end": 51982.264815999995,
+      "title": "The Farthest Shore 03: Hort Town"
+    },
+    {
+      "id": 27,
+      "start": 51982.264815999995,
+      "end": 53743.785815999996,
+      "title": "The Farthest Shore 04: Magelight"
+    },
+    {
+      "id": 28,
+      "start": 53743.785815999996,
+      "end": 54933.12057199999,
+      "title": "The Farthest Shore 05: Sea Dreams"
+    },
+    {
+      "id": 29,
+      "start": 54933.12057199999,
+      "end": 57154.057071999996,
+      "title": "The Farthest Shore 06: Lorbanery"
+    },
+    {
+      "id": 30,
+      "start": 57154.057071999996,
+      "end": 59297.854071999995,
+      "title": "The Farthest Shore 07: The Madman"
+    },
+    {
+      "id": 31,
+      "start": 59297.854071999995,
+      "end": 61626.85907199999,
+      "title": "The Farthest Shore 08: The Children of the Open Sea"
+    },
+    {
+      "id": 32,
+      "start": 61626.85907199999,
+      "end": 64432.33757199999,
+      "title": "The Farthest Shore 09: Orm Embar"
+    },
+    {
+      "id": 33,
+      "start": 64432.33757199999,
+      "end": 65990.73032799999,
+      "title": "The Farthest Shore 10: The Dragons' Run"
+    },
+    {
+      "id": 34,
+      "start": 65990.73032799999,
+      "end": 67991.08882799999,
+      "title": "The Farthest Shore 11: Selidor"
+    },
+    {
+      "id": 35,
+      "start": 67991.08882799999,
+      "end": 70330.725828,
+      "title": "The Farthest Shore 12: The Dry Land"
+    },
+    {
+      "id": 36,
+      "start": 70330.725828,
+      "end": 71659.94632799999,
+      "title": "The Farthest Shore 13: The Stone of Pain"
+    }
+  ],
+  "title": "The Earthsea Trilogy",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "284mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1979",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by David Banks",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,162 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 8603.882667,
+      "title": "A Midsummer Night's Dream"
+    },
+    {
+      "id": 1,
+      "start": 8603.882667,
+      "end": 17289.002667,
+      "title": "Antony and Cleopatra"
+    },
+    {
+      "id": 2,
+      "start": 17289.002667,
+      "end": 25412.245334,
+      "title": "As You Like It"
+    },
+    {
+      "id": 3,
+      "start": 25412.245334,
+      "end": 34190.037334,
+      "title": "Coriolanus"
+    },
+    {
+      "id": 4,
+      "start": 34190.037334,
+      "end": 41922.368001,
+      "title": "Julius Caesar"
+    },
+    {
+      "id": 5,
+      "start": 41922.368001,
+      "end": 50924.992001000006,
+      "title": "King Lear"
+    },
+    {
+      "id": 6,
+      "start": 50924.992001000006,
+      "end": 57758.592001000005,
+      "title": "Macbeth (David Tennant)"
+    },
+    {
+      "id": 7,
+      "start": 57758.592001000005,
+      "end": 64917.077334,
+      "title": "Macbeth (Neil Dudgeon)"
+    },
+    {
+      "id": 8,
+      "start": 64917.077334,
+      "end": 72225.621334,
+      "title": "Measure for Measure"
+    },
+    {
+      "id": 9,
+      "start": 72225.621334,
+      "end": 79668.096001,
+      "title": "Othello"
+    },
+    {
+      "id": 10,
+      "start": 79668.096001,
+      "end": 87310.613334,
+      "title": "Richard II (Binaural sound)"
+    },
+    {
+      "id": 11,
+      "start": 87310.613334,
+      "end": 94423.253334,
+      "title": "Romeo and Juliet"
+    },
+    {
+      "id": 12,
+      "start": 94423.253334,
+      "end": 101569.87733399999,
+      "title": "The Merchant of Venice"
+    },
+    {
+      "id": 13,
+      "start": 101569.87733399999,
+      "end": 108520.38400099998,
+      "title": "The Tempest (David Warner)"
+    },
+    {
+      "id": 14,
+      "start": 108520.38400099998,
+      "end": 115542.99733399999,
+      "title": "The Tempest (Ian McDiarmid)"
+    },
+    {
+      "id": 15,
+      "start": 115542.99733399999,
+      "end": 121621.58933399999,
+      "title": "The Two Gentlemen of Verona"
+    },
+    {
+      "id": 16,
+      "start": 121621.58933399999,
+      "end": 128326.613334,
+      "title": "The Two Noble Kinsmen"
+    },
+    {
+      "id": 17,
+      "start": 128326.613334,
+      "end": 137321.877334,
+      "title": "The Winter's Tale"
+    },
+    {
+      "id": 18,
+      "start": 137321.877334,
+      "end": 144606.698667,
+      "title": "Twelfth Night"
+    },
+    {
+      "id": 19,
+      "start": 144606.698667,
+      "end": 149930.26133399998,
+      "title": "The Rival"
+    },
+    {
+      "id": 20,
+      "start": 149930.26133399998,
+      "end": 156966.99733399999,
+      "title": "Henry IV, Part 1"
+    },
+    {
+      "id": 21,
+      "start": 156966.99733399999,
+      "end": 163983.46666699997,
+      "title": "Henry IV, Part 2"
+    },
+    {
+      "id": 22,
+      "start": 163983.46666699997,
+      "end": 170785.21599999996,
+      "title": "Twelfth Night (2023)"
+    }
+  ],
+  "title": "The Shakespeare Sessions",
+  "subtitle": null,
+  "authors": [
+    "BBC - William Shakespeare"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Radio Drama"
+  ],
+  "publishedYear": "1991",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Adjoa Andoh stars in William Shakespeare's timeless comedy of love and magic.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

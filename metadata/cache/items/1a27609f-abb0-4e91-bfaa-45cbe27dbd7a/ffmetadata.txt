@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Shadow Rising (The Wheel of Time \#4)
+artist=Robert Jordan
+album_artist=Robert Jordan
+album=The Shadow Rising (The Wheel of Time \#4)
+genre=Audiobook
+date=1992-01-01
+TRACKTOTAL=63
+grouping=Robert Jordan - The Wheel of Time 12GB

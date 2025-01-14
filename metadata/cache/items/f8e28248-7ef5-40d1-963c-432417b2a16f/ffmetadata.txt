@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Powers
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Powers
+genre=Audio Book
+date=2007
+comment=Read by Erik Sandvold
+description=Read by Erik Sandvold
+composer=358mb
+TRACKTOTAL=15

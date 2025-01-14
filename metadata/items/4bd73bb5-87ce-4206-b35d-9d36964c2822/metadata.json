@@ -1,0 +1,98 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3905.750204,
+      "title": "Lavinia 01"
+    },
+    {
+      "id": 1,
+      "start": 3905.750204,
+      "end": 7527.732245,
+      "title": "Lavinia 02"
+    },
+    {
+      "id": 2,
+      "start": 7527.732245,
+      "end": 11307.833469000001,
+      "title": "Lavinia 03"
+    },
+    {
+      "id": 3,
+      "start": 11307.833469000001,
+      "end": 14888.907755,
+      "title": "Lavinia 04"
+    },
+    {
+      "id": 4,
+      "start": 14888.907755,
+      "end": 18859.128163,
+      "title": "Lavinia 05"
+    },
+    {
+      "id": 5,
+      "start": 18859.128163,
+      "end": 22840.999183,
+      "title": "Lavinia 06"
+    },
+    {
+      "id": 6,
+      "start": 22840.999183,
+      "end": 26557.988571,
+      "title": "Lavinia 07"
+    },
+    {
+      "id": 7,
+      "start": 26557.988571,
+      "end": 30450.912653000003,
+      "title": "Lavinia 08"
+    },
+    {
+      "id": 8,
+      "start": 30450.912653000003,
+      "end": 34043.350204,
+      "title": "Lavinia 09"
+    },
+    {
+      "id": 9,
+      "start": 34043.350204,
+      "end": 37854.667755,
+      "title": "Lavinia 10"
+    },
+    {
+      "id": 10,
+      "start": 37854.667755,
+      "end": 40977.293061000004,
+      "title": "Lavinia 11"
+    },
+    {
+      "id": 11,
+      "start": 40977.293061000004,
+      "end": 41904.587755,
+      "title": "Lavinia 12"
+    }
+  ],
+  "title": "Lavinia",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "483mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2008",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Alyssa Bresnahan",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

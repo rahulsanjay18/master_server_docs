@@ -1,0 +1,82 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 20,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 20,
+      "end": 65,
+      "title": "Epigraph"
+    },
+    {
+      "id": 2,
+      "start": 65,
+      "end": 856.813,
+      "title": "1: A Tale of the Paladin and the Past"
+    },
+    {
+      "id": 3,
+      "start": 856.813,
+      "end": 9782.145,
+      "title": "2: A Tale of the Paladin and the Proposal"
+    },
+    {
+      "id": 4,
+      "start": 9782.145,
+      "end": 14177.635,
+      "title": "3: A Tale of the Paladin and the Poet"
+    },
+    {
+      "id": 5,
+      "start": 14177.635,
+      "end": 21789.715,
+      "title": "4: The Paladin and the Invincible Giant"
+    },
+    {
+      "id": 6,
+      "start": 21789.715,
+      "end": 22195.785,
+      "title": "5: A Tale of the Paladin and the Letter"
+    },
+    {
+      "id": 7,
+      "start": 22195.785,
+      "end": 23052.785,
+      "title": "Bonus Short Stories: One Day at the Riverbank"
+    },
+    {
+      "id": 8,
+      "start": 23052.785,
+      "end": 23111.146,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "The Faraway Paladin, Vol. 04: The Torch Port Ensemble",
+  "subtitle": null,
+  "authors": [
+    "Liam Price"
+  ],
+  "narrators": [
+    "Kanata Yanagino"
+  ],
+  "series": [
+    "The Faraway Paladin #04"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "November 9, 2017 (09-19-23)",
+  "publishedDate": null,
+  "publisher": "Tantor Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

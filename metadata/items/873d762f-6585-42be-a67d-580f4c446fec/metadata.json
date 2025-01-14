@@ -1,0 +1,382 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 34.04,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 34.04,
+      "end": 50.41,
+      "title": "Part I: In Ixtli In Yollotl (Face and Heart)"
+    },
+    {
+      "id": 2,
+      "start": 50.41,
+      "end": 1298.83,
+      "title": "    Chapter 01: cë"
+    },
+    {
+      "id": 3,
+      "start": 1298.83,
+      "end": 2425.438,
+      "title": "    Chapter 02: öme"
+    },
+    {
+      "id": 4,
+      "start": 2425.438,
+      "end": 3592.89,
+      "title": "    Chapter 03: ëyi"
+    },
+    {
+      "id": 5,
+      "start": 3592.89,
+      "end": 4068.295,
+      "title": "    Chapter 04: nähui"
+    },
+    {
+      "id": 6,
+      "start": 4068.295,
+      "end": 4538.94,
+      "title": "    Chapter 05: mäcuïlli"
+    },
+    {
+      "id": 7,
+      "start": 4538.94,
+      "end": 5445.841,
+      "title": "    Chapter 06: chicuacë"
+    },
+    {
+      "id": 8,
+      "start": 5445.841,
+      "end": 6446.899,
+      "title": "    Chapter 07: chicöme"
+    },
+    {
+      "id": 9,
+      "start": 6446.899,
+      "end": 7864.779,
+      "title": "    Chapter 08: chicuëyi"
+    },
+    {
+      "id": 10,
+      "start": 7864.779,
+      "end": 8563.328,
+      "title": "    Chapter 09: chiucnähui"
+    },
+    {
+      "id": 11,
+      "start": 8563.328,
+      "end": 10120.551,
+      "title": "    Chapter 10: mahtlactli"
+    },
+    {
+      "id": 12,
+      "start": 10120.551,
+      "end": 11421.379,
+      "title": "    Chapter 11: mahtlactli-huan-cë"
+    },
+    {
+      "id": 13,
+      "start": 11421.379,
+      "end": 12551.726,
+      "title": "    Chapter 12: mahtlactli-huan-öme"
+    },
+    {
+      "id": 14,
+      "start": 12551.726,
+      "end": 16079.301,
+      "title": "    Chapter 13: mahtlactli-huan-ëyi"
+    },
+    {
+      "id": 15,
+      "start": 16079.301,
+      "end": 16124.603,
+      "title": "Part II: Narco y Médico (Drug Dealer and Doctor)"
+    },
+    {
+      "id": 16,
+      "start": 16124.603,
+      "end": 16841.403,
+      "title": "    Chapter 14: mahtlactli-huan-nähui"
+    },
+    {
+      "id": 17,
+      "start": 16841.403,
+      "end": 17693.366,
+      "title": "    Chapter 15: caxtölli"
+    },
+    {
+      "id": 18,
+      "start": 17693.366,
+      "end": 18859.448,
+      "title": "    Chapter 16: caxtölli-huan-cë"
+    },
+    {
+      "id": 19,
+      "start": 18859.448,
+      "end": 20558.939,
+      "title": "    Chapter 17: caxtölli-huan-öme"
+    },
+    {
+      "id": 20,
+      "start": 20558.939,
+      "end": 21884.821,
+      "title": "    Chapter 18: caxtölli-huan-ëyi"
+    },
+    {
+      "id": 21,
+      "start": 21884.821,
+      "end": 22808.534,
+      "title": "    Chapter 19: caxtölli-huan-nähui"
+    },
+    {
+      "id": 22,
+      "start": 22808.534,
+      "end": 23420.379,
+      "title": "    Chapter 20: cempöhualli"
+    },
+    {
+      "id": 23,
+      "start": 23420.379,
+      "end": 24038.796,
+      "title": "    Chapter 21: cempöhualli-huan-cë"
+    },
+    {
+      "id": 24,
+      "start": 24038.796,
+      "end": 24543.388,
+      "title": "    Chapter 22: cempöhualli-huan-öme"
+    },
+    {
+      "id": 25,
+      "start": 24543.388,
+      "end": 25751.197,
+      "title": "    Chapter 23: cempöhualli-huan-ëyi"
+    },
+    {
+      "id": 26,
+      "start": 25751.197,
+      "end": 26775.522,
+      "title": "    Chapter 24: cempöhualli-huan-nähui"
+    },
+    {
+      "id": 27,
+      "start": 26775.522,
+      "end": 27571.339,
+      "title": "    Chapter 25: cempöhualli-huan-mäcuïlli"
+    },
+    {
+      "id": 28,
+      "start": 27571.339,
+      "end": 28622.413,
+      "title": "    Chapter 26: cempöhualli-huan-chicuacë"
+    },
+    {
+      "id": 29,
+      "start": 28622.413,
+      "end": 28679.023,
+      "title": "Part III: El Patíbulo (The Gallows)"
+    },
+    {
+      "id": 30,
+      "start": 28679.023,
+      "end": 29675.159,
+      "title": "    Chapter 27: cempöhualli-huan-chicöme"
+    },
+    {
+      "id": 31,
+      "start": 29675.159,
+      "end": 30554.382,
+      "title": "    Chapter 28: cempöhualli-huan-chicuëyi"
+    },
+    {
+      "id": 32,
+      "start": 30554.382,
+      "end": 32533.836,
+      "title": "    Chapter 29: cempöhualli-huan-chiucnähui"
+    },
+    {
+      "id": 33,
+      "start": 32533.836,
+      "end": 34476.231,
+      "title": "    Chapter 30: cempöhualli-huan-mahtlactli"
+    },
+    {
+      "id": 34,
+      "start": 34476.231,
+      "end": 35911.061,
+      "title": "    Chapter 31: cempöhualli-huan-mahtlactli-huan-cë"
+    },
+    {
+      "id": 35,
+      "start": 35911.061,
+      "end": 36902.692,
+      "title": "    Chapter 32: cempöhualli-huan-mahtlactli-huan-öme"
+    },
+    {
+      "id": 36,
+      "start": 36902.692,
+      "end": 38001.878,
+      "title": "    Chapter 33: cempöhualli-huan-mahtlactli-huan-ëyi"
+    },
+    {
+      "id": 37,
+      "start": 38001.878,
+      "end": 38832.177,
+      "title": "    Chapter 34: cempöhualli-huan-mahtlactli-huan-nähui"
+    },
+    {
+      "id": 38,
+      "start": 38832.177,
+      "end": 39796.617,
+      "title": "    Chapter 35: cempöhualli-huan-caxtölli"
+    },
+    {
+      "id": 39,
+      "start": 39796.617,
+      "end": 40617.86,
+      "title": "    Chapter 36: cempöhualli-huan-caxtölli-huan-cë"
+    },
+    {
+      "id": 40,
+      "start": 40617.86,
+      "end": 41393.336,
+      "title": "    Chapter 37: cempöhualli-huan-caxtölli-huan-öme"
+    },
+    {
+      "id": 41,
+      "start": 41393.336,
+      "end": 42172.644,
+      "title": "    Chapter 38: cempöhualli-huan-caxtölli-huan-ëyi"
+    },
+    {
+      "id": 42,
+      "start": 42172.644,
+      "end": 42347.281,
+      "title": "    Chapter 39: cempöhualli-huan-caxtölli-huan-nähui"
+    },
+    {
+      "id": 43,
+      "start": 42347.281,
+      "end": 42378.883,
+      "title": "Part IV: Yohualli Ehecatl (Night and Wind)"
+    },
+    {
+      "id": 44,
+      "start": 42378.883,
+      "end": 43100.675,
+      "title": "    Chapter 40: ömpöhualli"
+    },
+    {
+      "id": 45,
+      "start": 43100.675,
+      "end": 44160.712,
+      "title": "    Chapter 41: ömpöhualli-huan-cë"
+    },
+    {
+      "id": 46,
+      "start": 44160.712,
+      "end": 45135.81,
+      "title": "    Chapter 42: ömpöhualli-huan-öme"
+    },
+    {
+      "id": 47,
+      "start": 45135.81,
+      "end": 45603.784,
+      "title": "    Chapter 43: ömpöhualli-huan-ëyi"
+    },
+    {
+      "id": 48,
+      "start": 45603.784,
+      "end": 46074.777,
+      "title": "    Chapter 44: ömpöhualli-huan-nähui"
+    },
+    {
+      "id": 49,
+      "start": 46074.777,
+      "end": 46727.164,
+      "title": "    Chapter 45: ömpöhualli-huan-mäcuïlli"
+    },
+    {
+      "id": 50,
+      "start": 46727.164,
+      "end": 47713.176,
+      "title": "    Chapter 46: ömpöhualli-huan-chicuacë"
+    },
+    {
+      "id": 51,
+      "start": 47713.176,
+      "end": 48852.23,
+      "title": "    Chapter 47: ömpöhualli-huan-chicöme"
+    },
+    {
+      "id": 52,
+      "start": 48852.23,
+      "end": 49671.685,
+      "title": "    Chapter 48: ömpöhualli-huan-chicuëyi"
+    },
+    {
+      "id": 53,
+      "start": 49671.685,
+      "end": 50529.964,
+      "title": "    Chapter 49: ömpöhualli-huan-chiucnähui"
+    },
+    {
+      "id": 54,
+      "start": 50529.964,
+      "end": 51418.382,
+      "title": "    Chapter 50: ömpöhualli-huan-mahtlactli"
+    },
+    {
+      "id": 55,
+      "start": 51418.382,
+      "end": 52683.614,
+      "title": "    Chapter 51: ömpöhualli-huan-mahtlactli-huan-cë"
+    },
+    {
+      "id": 56,
+      "start": 52683.614,
+      "end": 55577.865,
+      "title": "    Chapter 52: ömpöhualli-huan-mahtlactli-huan-öme"
+    },
+    {
+      "id": 57,
+      "start": 55577.865,
+      "end": 57145.119,
+      "title": "Days Beyond the Calendar: nemontemi"
+    },
+    {
+      "id": 58,
+      "start": 57145.119,
+      "end": 57291.154,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Tezcatlipoca",
+  "subtitle": null,
+  "authors": [
+    "Aida Reluzco"
+  ],
+  "narrators": [
+    "Kiwamu Sato"
+  ],
+  "series": [
+    "Tezcatlipoca #01"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2021 (05-02-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

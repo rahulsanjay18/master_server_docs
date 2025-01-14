@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=Oxford Very Short Introductions
+artist=North American Indians
+album_artist=North American Indians
+album=Oxford Very Short Introductions
+genre=Speech
+comment=PANCHO
+description=PANCHO
+TRACKTOTAL=15

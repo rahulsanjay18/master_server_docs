@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Pride and Prejudice (read by Irene Sutcliffe)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Pride and Prejudice (read by Irene Sutcliffe)
+date=1813
+TRACKTOTAL=19
+grouping=1813 - Pride and Prejudice (read by Irene Sutcliffe) \#2

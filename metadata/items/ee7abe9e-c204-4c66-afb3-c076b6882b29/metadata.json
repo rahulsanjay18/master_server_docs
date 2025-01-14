@@ -1,0 +1,119 @@
+{
+  "tags": [
+    "Classics",
+    "Fantasy",
+    "Science Fiction",
+    "Space Opera"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4353.277,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 4353.277,
+      "end": 8742.963,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 8742.963,
+      "end": 13103.577,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 13103.577,
+      "end": 17408.139,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 17408.139,
+      "end": 21768.521,
+      "title": "005"
+    },
+    {
+      "id": 5,
+      "start": 21768.521,
+      "end": 26116.69,
+      "title": "006"
+    },
+    {
+      "id": 6,
+      "start": 26116.69,
+      "end": 30493.001,
+      "title": "007"
+    },
+    {
+      "id": 7,
+      "start": 30493.001,
+      "end": 34823.476,
+      "title": "008"
+    },
+    {
+      "id": 8,
+      "start": 34823.476,
+      "end": 39193.611,
+      "title": "009"
+    },
+    {
+      "id": 9,
+      "start": 39193.611,
+      "end": 43582.554,
+      "title": "010"
+    },
+    {
+      "id": 10,
+      "start": 43582.554,
+      "end": 48021.234,
+      "title": "011"
+    },
+    {
+      "id": 11,
+      "start": 48021.234,
+      "end": 52325.192,
+      "title": "012"
+    },
+    {
+      "id": 12,
+      "start": 52325.192,
+      "end": 56305.835,
+      "title": "013"
+    },
+    {
+      "id": 13,
+      "start": 56305.835,
+      "end": 60682.843719,
+      "title": "014"
+    }
+  ],
+  "title": "Children of Dune",
+  "subtitle": null,
+  "authors": [
+    "Frank Herbert"
+  ],
+  "narrators": [
+    "Scott Brick",
+    "Simon Vance"
+  ],
+  "series": [
+    "Dune #3"
+  ],
+  "genres": [
+    "Literature & Fiction",
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2008-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "The sand-blasted world of Arrakis has become green, watered, and fertile. Old Paul Atreides, who led the desert Fremen to political and religious domination of the galaxy, is gone. But for the children of Dune, the very blossoming of their land contains the seeds of its own destruction. The altered climate is destroying the giant sandworms, and this in turn is disastrous for the planet's economy. Leto and Ghanima, Paul Atreides's twin children and his heirs, can see possible solutions - but fanatics begin to challenge the rule of the all-powerful Atreides empire, and more than economic disaster threatens.",
+  "isbn": null,
+  "asin": "B002V57VRC",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

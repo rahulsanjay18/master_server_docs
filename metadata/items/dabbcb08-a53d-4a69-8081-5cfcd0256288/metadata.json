@@ -1,0 +1,510 @@
+{
+  "tags": [
+    "Humorous"
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 21.734014,
+      "title": "Chapter 1",
+      "id": 0
+    },
+    {
+      "start": 21.734014,
+      "end": 1981.498027,
+      "title": "Chapter 2",
+      "id": 1
+    },
+    {
+      "start": 1981.498027,
+      "end": 3083.633039,
+      "title": "Chapter 3",
+      "id": 2
+    },
+    {
+      "start": 3083.633039,
+      "end": 4300.103039,
+      "title": "Chapter 4",
+      "id": 3
+    },
+    {
+      "start": 4300.103039,
+      "end": 5015.255057,
+      "title": "Chapter 5",
+      "id": 4
+    },
+    {
+      "start": 5015.255057,
+      "end": 7201.321066,
+      "title": "Chapter 6",
+      "id": 5
+    },
+    {
+      "start": 7201.321066,
+      "end": 9001.982086,
+      "title": "Chapter 7",
+      "id": 6
+    },
+    {
+      "start": 9001.982086,
+      "end": 9347.727098,
+      "title": "Chapter 8",
+      "id": 7
+    },
+    {
+      "start": 9347.727098,
+      "end": 11213.682109,
+      "title": "Chapter 9",
+      "id": 8
+    },
+    {
+      "start": 11213.682109,
+      "end": 11918.826122,
+      "title": "Chapter 10",
+      "id": 9
+    },
+    {
+      "start": 11918.826122,
+      "end": 13570.624127,
+      "title": "Chapter 11",
+      "id": 10
+    },
+    {
+      "start": 13570.624127,
+      "end": 15245.711134,
+      "title": "Chapter 12",
+      "id": 11
+    },
+    {
+      "start": 15245.711134,
+      "end": 16059.478141,
+      "title": "Chapter 13",
+      "id": 12
+    },
+    {
+      "start": 16059.478141,
+      "end": 17027.518141,
+      "title": "Chapter 14",
+      "id": 13
+    },
+    {
+      "start": 17027.518141,
+      "end": 17787.275147,
+      "title": "Chapter 15",
+      "id": 14
+    },
+    {
+      "start": 17787.275147,
+      "end": 18779.626168,
+      "title": "Chapter 16",
+      "id": 15
+    },
+    {
+      "start": 18779.626168,
+      "end": 19766.404172,
+      "title": "Chapter 17",
+      "id": 16
+    },
+    {
+      "start": 19766.404172,
+      "end": 20500.66619,
+      "title": "Chapter 18",
+      "id": 17
+    },
+    {
+      "start": 20500.66619,
+      "end": 21039.229206,
+      "title": "Chapter 19",
+      "id": 18
+    },
+    {
+      "start": 21039.229206,
+      "end": 22157.084218,
+      "title": "Chapter 20",
+      "id": 19
+    },
+    {
+      "start": 22157.084218,
+      "end": 22723.187234,
+      "title": "Chapter 21",
+      "id": 20
+    },
+    {
+      "start": 22723.187234,
+      "end": 24003.16424,
+      "title": "Chapter 22",
+      "id": 21
+    },
+    {
+      "start": 24003.16424,
+      "end": 25075.763243,
+      "title": "Chapter 23",
+      "id": 22
+    },
+    {
+      "start": 25075.763243,
+      "end": 25449.210249,
+      "title": "Chapter 24",
+      "id": 23
+    },
+    {
+      "start": 25449.210249,
+      "end": 26510.617256,
+      "title": "Chapter 25",
+      "id": 24
+    },
+    {
+      "start": 26510.617256,
+      "end": 28180.92127,
+      "title": "Chapter 26",
+      "id": 25
+    },
+    {
+      "start": 28180.92127,
+      "end": 28957.58229,
+      "title": "Chapter 27",
+      "id": 26
+    },
+    {
+      "start": 28957.58229,
+      "end": 29892.81229,
+      "title": "Chapter 28",
+      "id": 27
+    },
+    {
+      "start": 29892.81229,
+      "end": 30770.457302,
+      "title": "Chapter 29",
+      "id": 28
+    },
+    {
+      "start": 30770.457302,
+      "end": 31648.380317,
+      "title": "Chapter 30",
+      "id": 29
+    },
+    {
+      "start": 31648.380317,
+      "end": 32370.103333,
+      "title": "Chapter 31",
+      "id": 30
+    },
+    {
+      "start": 32370.103333,
+      "end": 33418.228345,
+      "title": "Chapter 32",
+      "id": 31
+    },
+    {
+      "start": 33418.228345,
+      "end": 34650.302358,
+      "title": "Chapter 33",
+      "id": 32
+    },
+    {
+      "start": 34650.302358,
+      "end": 36450.011361,
+      "title": "Chapter 34",
+      "id": 33
+    },
+    {
+      "start": 36450.011361,
+      "end": 37221.58737,
+      "title": "Chapter 35",
+      "id": 34
+    },
+    {
+      "start": 37221.58737,
+      "end": 38742.843379,
+      "title": "Chapter 36",
+      "id": 35
+    },
+    {
+      "start": 38742.843379,
+      "end": 40896.95839,
+      "title": "Chapter 37",
+      "id": 36
+    },
+    {
+      "start": 40896.95839,
+      "end": 42339.335397,
+      "title": "Chapter 38",
+      "id": 37
+    },
+    {
+      "start": 42339.335397,
+      "end": 43225.19941,
+      "title": "Chapter 39",
+      "id": 38
+    },
+    {
+      "start": 43225.19941,
+      "end": 44086.172426,
+      "title": "Chapter 40",
+      "id": 39
+    },
+    {
+      "start": 44086.172426,
+      "end": 44606.833447,
+      "title": "Chapter 41",
+      "id": 40
+    },
+    {
+      "start": 44606.833447,
+      "end": 45702.304467,
+      "title": "Chapter 42",
+      "id": 41
+    },
+    {
+      "start": 45702.304467,
+      "end": 46212.400476,
+      "title": "Chapter 43",
+      "id": 42
+    },
+    {
+      "start": 46212.400476,
+      "end": 46986.066485,
+      "title": "Chapter 44",
+      "id": 43
+    },
+    {
+      "start": 46986.066485,
+      "end": 48077.729501,
+      "title": "Chapter 45",
+      "id": 44
+    },
+    {
+      "start": 48077.729501,
+      "end": 48965.288503,
+      "title": "Chapter 46",
+      "id": 45
+    },
+    {
+      "start": 48965.288503,
+      "end": 49961.123515,
+      "title": "Chapter 47",
+      "id": 46
+    },
+    {
+      "start": 49961.123515,
+      "end": 51431.828526,
+      "title": "Chapter 48",
+      "id": 47
+    },
+    {
+      "start": 51431.828526,
+      "end": 52297.027528,
+      "title": "Chapter 49",
+      "id": 48
+    },
+    {
+      "start": 52297.027528,
+      "end": 53390.408549,
+      "title": "Chapter 50",
+      "id": 49
+    },
+    {
+      "start": 53390.408549,
+      "end": 54044.839569,
+      "title": "Chapter 51",
+      "id": 50
+    },
+    {
+      "start": 54044.839569,
+      "end": 55480.436576,
+      "title": "Chapter 52",
+      "id": 51
+    },
+    {
+      "start": 55480.436576,
+      "end": 56934.748594,
+      "title": "Chapter 53",
+      "id": 52
+    },
+    {
+      "start": 56934.748594,
+      "end": 57574.597596,
+      "title": "Chapter 54",
+      "id": 53
+    },
+    {
+      "start": 57574.597596,
+      "end": 58158.30161,
+      "title": "Chapter 55",
+      "id": 54
+    },
+    {
+      "start": 58158.30161,
+      "end": 59011.913628,
+      "title": "Chapter 56",
+      "id": 55
+    },
+    {
+      "start": 59011.913628,
+      "end": 60188.653628,
+      "title": "Chapter 57",
+      "id": 56
+    },
+    {
+      "start": 60188.653628,
+      "end": 60746.443628,
+      "title": "Chapter 58",
+      "id": 57
+    },
+    {
+      "start": 60746.443628,
+      "end": 62088.394649,
+      "title": "Chapter 59",
+      "id": 58
+    },
+    {
+      "start": 62088.394649,
+      "end": 62549.44966,
+      "title": "Chapter 60",
+      "id": 59
+    },
+    {
+      "start": 62549.44966,
+      "end": 63316.21966,
+      "title": "Chapter 61",
+      "id": 60
+    },
+    {
+      "start": 63316.21966,
+      "end": 63975.457664,
+      "title": "Chapter 62",
+      "id": 61
+    },
+    {
+      "start": 63975.457664,
+      "end": 64835.013673,
+      "title": "Chapter 63",
+      "id": 62
+    },
+    {
+      "start": 64835.013673,
+      "end": 65815.475692,
+      "title": "Chapter 64",
+      "id": 63
+    },
+    {
+      "start": 65815.475692,
+      "end": 67205.81771,
+      "title": "Chapter 65",
+      "id": 64
+    },
+    {
+      "start": 67205.81771,
+      "end": 68325.065714,
+      "title": "Chapter 66",
+      "id": 65
+    },
+    {
+      "start": 68325.065714,
+      "end": 69963.395714,
+      "title": "Chapter 67",
+      "id": 66
+    },
+    {
+      "start": 69963.395714,
+      "end": 71138.232721,
+      "title": "Chapter 68",
+      "id": 67
+    },
+    {
+      "start": 71138.232721,
+      "end": 71351.856735,
+      "title": "Chapter 69",
+      "id": 68
+    },
+    {
+      "start": 71351.856735,
+      "end": 72726.872744,
+      "title": "Chapter 70",
+      "id": 69
+    },
+    {
+      "start": 72726.872744,
+      "end": 73544.237755,
+      "title": "Chapter 71",
+      "id": 70
+    },
+    {
+      "start": 73544.237755,
+      "end": 73821.78576,
+      "title": "Chapter 72",
+      "id": 71
+    },
+    {
+      "start": 73821.78576,
+      "end": 75522.763764,
+      "title": "Chapter 73",
+      "id": 72
+    },
+    {
+      "start": 75522.763764,
+      "end": 77690.810771,
+      "title": "Chapter 74",
+      "id": 73
+    },
+    {
+      "start": 77690.810771,
+      "end": 78452.100771,
+      "title": "Chapter 75",
+      "id": 74
+    },
+    {
+      "start": 78452.100771,
+      "end": 79213.761791,
+      "title": "Chapter 76",
+      "id": 75
+    },
+    {
+      "start": 79213.761791,
+      "end": 80736.618798,
+      "title": "Chapter 77",
+      "id": 76
+    },
+    {
+      "start": 80736.618798,
+      "end": 82566.211814,
+      "title": "Chapter 78",
+      "id": 77
+    },
+    {
+      "start": 82566.211814,
+      "end": 84224.279819,
+      "title": "Chapter 79",
+      "id": 78
+    },
+    {
+      "start": 84224.279819,
+      "end": 84845,
+      "title": "Chapter 80",
+      "id": 79
+    }
+  ],
+  "title": "The Butcher's Masquerade",
+  "subtitle": "Dungeon Crawler Carl, Book 5",
+  "authors": [
+    "Matt Dinniman"
+  ],
+  "narrators": [
+    "Jeff Hays"
+  ],
+  "series": [
+    "Dungeon Crawler Carl #5"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2022-01-01",
+  "publishedDate": null,
+  "publisher": "Soundbooth Theater",
+  "description": "Attention. Attention. The gates are down. The hunters are loose. Run, run, run.  A lush jungle teeming with danger. Savage dinosaurs seeking blood. A fallen princess intent on vengeance. A mysterious, end-of-floor celebration for the top crawlers, dubbed “The Butcher’s Masquerade”.  The sixth floor. The Hunting Grounds. As the remaining crawlers battle for their lives, a new, terrible threat looms. Outside, tourists are finally allowed to enter the game, and they are here and ready to hunt. Among them is Vrah, a famed and veteran hunter, intent on collecting the biggest trophy of her career. But their prey is far from harmless, and this season they are fighting back. Dungeon Crawler Carl and Princess Donut return in book five of the acclaimed LitRPG series.",
+  "isbn": null,
+  "asin": "B09ZJ82C7Y",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

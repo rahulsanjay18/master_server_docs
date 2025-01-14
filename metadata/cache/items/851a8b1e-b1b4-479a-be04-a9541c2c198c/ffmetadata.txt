@@ -1,0 +1,13 @@
+;FFMETADATA1
+title=A People's History of the United States
+artist=Howard Zinn
+album_artist=Howard Zinn
+album=A People's History of the United States
+genre=History\; Politics & Social Sciences
+date=2009-01-01
+comment="A wonderful, splendid book - a book that should be ready by every American, student or otherwise, who wants to understand his country, its true history, and its hope for the future." (Howard Fast) For much of his life, historian Howard Zinn chronicled American history from the bottom up, throwing out the official version taught in schools - with its emphasis on great men in high places - to focus on the street, the home, and the workplace. Known for its lively, clear prose as well as its scholarly research, A People's History of the United States is the only volume to tell America's story from the point of view of - and in the words of - America's women, factory workers, African-Americans, Native Americans, the working poor, and immigrant laborers. As Zinn shows, many of our country's greatest battles - the fights for a fair wage, an eight-hour workday, child-labor laws, health and safety standards, universal suffrage, women's rights, racial equality - were carried out at the grassroots level, against bloody resistance. Covering Christopher Columbus' arrival through President Clinton's first term, A People's History of the United States features insightful analysis of the most important events in our history.
+description="A wonderful, splendid book - a book that should be ready by every American, student or otherwise, who wants to understand his country, its true history, and its hope for the future." (Howard Fast) For much of his life, historian Howard Zinn chronicled American history from the bottom up, throwing out the official version taught in schools - with its emphasis on great men in high places - to focus on the street, the home, and the workplace. Known for its lively, clear prose as well as its scholarly research, A People's History of the United States is the only volume to tell America's story from the point of view of - and in the words of - America's women, factory workers, African-Americans, Native Americans, the working poor, and immigrant laborers. As Zinn shows, many of our country's greatest battles - the fights for a fair wage, an eight-hour workday, child-labor laws, health and safety standards, universal suffrage, women's rights, racial equality - were carried out at the grassroots level, against bloody resistance. Covering Christopher Columbus' arrival through President Clinton's first term, A People's History of the United States features insightful analysis of the most important events in our history.
+composer=Jeff Zinn
+copyright=HarperAudio
+publisher=HarperAudio
+TRACKTOTAL=1

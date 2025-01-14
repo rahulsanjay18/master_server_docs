@@ -1,0 +1,760 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 22.303,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 22.303,
+      "end": 963.303,
+      "title": "Foreword"
+    },
+    {
+      "id": 2,
+      "start": 963.303,
+      "end": 970.812,
+      "title": "BOOK I • EARTH"
+    },
+    {
+      "id": 3,
+      "start": 970.812,
+      "end": 2259.812,
+      "title": "    The Little Bell"
+    },
+    {
+      "id": 4,
+      "start": 2259.812,
+      "end": 5572.324,
+      "title": "    The Comb"
+    },
+    {
+      "id": 5,
+      "start": 5572.324,
+      "end": 7326.406,
+      "title": "    The Flower Festival"
+    },
+    {
+      "id": 6,
+      "start": 7326.406,
+      "end": 9738.866,
+      "title": "    The Dowager's Wrath"
+    },
+    {
+      "id": 7,
+      "start": 9738.866,
+      "end": 13750.067,
+      "title": "    The Art of War"
+    },
+    {
+      "id": 8,
+      "start": 13750.067,
+      "end": 16002.774,
+      "title": "    The Old Cryptomeria Tree"
+    },
+    {
+      "id": 9,
+      "start": 16002.774,
+      "end": 18979.851,
+      "title": "    The Rock and the Tree"
+    },
+    {
+      "id": 10,
+      "start": 18979.851,
+      "end": 21239.246,
+      "title": "    The Birth of Musashi"
+    },
+    {
+      "id": 11,
+      "start": 21239.246,
+      "end": 21245.585,
+      "title": "BOOK II • WATER"
+    },
+    {
+      "id": 12,
+      "start": 21245.585,
+      "end": 24136.585,
+      "title": "    The Yoshioka School"
+    },
+    {
+      "id": 13,
+      "start": 24136.585,
+      "end": 25614.024,
+      "title": "    The Wheel of Fortune"
+    },
+    {
+      "id": 14,
+      "start": 25614.024,
+      "end": 26955.859,
+      "title": "    Encounter and Retreat"
+    },
+    {
+      "id": 15,
+      "start": 26955.859,
+      "end": 28732.232,
+      "title": "    The Water Sprite"
+    },
+    {
+      "id": 16,
+      "start": 28732.232,
+      "end": 30644.024,
+      "title": "    A Spring Breeze"
+    },
+    {
+      "id": 17,
+      "start": 30644.024,
+      "end": 34151.491,
+      "title": "    The Hōzōin"
+    },
+    {
+      "id": 18,
+      "start": 34151.491,
+      "end": 36195.079,
+      "title": "    Hannya Plain"
+    },
+    {
+      "id": 19,
+      "start": 36195.079,
+      "end": 37263.986,
+      "title": "    The Koyagyū Fief"
+    },
+    {
+      "id": 20,
+      "start": 37263.986,
+      "end": 40044.39,
+      "title": "    The Peony"
+    },
+    {
+      "id": 21,
+      "start": 40044.39,
+      "end": 42657.657,
+      "title": "    Jōtarō’s Revenge"
+    },
+    {
+      "id": 22,
+      "start": 42657.657,
+      "end": 44840.704,
+      "title": "    The Nightingales"
+    },
+    {
+      "id": 23,
+      "start": 44840.704,
+      "end": 44847.703,
+      "title": "BOOK III • FIRE"
+    },
+    {
+      "id": 24,
+      "start": 44847.703,
+      "end": 47792.703,
+      "title": "    Sasaki Kojirō"
+    },
+    {
+      "id": 25,
+      "start": 47792.703,
+      "end": 51557.958,
+      "title": "    Reunion in Osaka"
+    },
+    {
+      "id": 26,
+      "start": 51557.958,
+      "end": 53605.633,
+      "title": "    The Handsome Young Man"
+    },
+    {
+      "id": 27,
+      "start": 53605.633,
+      "end": 55089.806,
+      "title": "    The Seashell of Forgetfulness"
+    },
+    {
+      "id": 28,
+      "start": 55089.806,
+      "end": 56606.394,
+      "title": "    A Hero's Passing"
+    },
+    {
+      "id": 29,
+      "start": 56606.394,
+      "end": 57939.08,
+      "title": "    The Drying Pole"
+    },
+    {
+      "id": 30,
+      "start": 57939.08,
+      "end": 60609.84,
+      "title": "    Eagle Mountain"
+    },
+    {
+      "id": 31,
+      "start": 60609.84,
+      "end": 62442.684,
+      "title": "    The Mayfly in Winter"
+    },
+    {
+      "id": 32,
+      "start": 62442.684,
+      "end": 64438.021,
+      "title": "    The Pinwheel"
+    },
+    {
+      "id": 33,
+      "start": 64438.021,
+      "end": 67011.674,
+      "title": "    The Flying Horse"
+    },
+    {
+      "id": 34,
+      "start": 67011.674,
+      "end": 69375.094,
+      "title": "    The Butterfly in Winter"
+    },
+    {
+      "id": 35,
+      "start": 69375.094,
+      "end": 72297.139,
+      "title": "    The Announcement"
+    },
+    {
+      "id": 36,
+      "start": 72297.139,
+      "end": 74844.461,
+      "title": "    The Great Bridge at Gojō Avenue"
+    },
+    {
+      "id": 37,
+      "start": 74844.461,
+      "end": 74851.397,
+      "title": "BOOK IV • WIND"
+    },
+    {
+      "id": 38,
+      "start": 74851.397,
+      "end": 76497.397,
+      "title": "    The Withered Field"
+    },
+    {
+      "id": 39,
+      "start": 76497.397,
+      "end": 78455.629,
+      "title": "    A Man of Parts"
+    },
+    {
+      "id": 40,
+      "start": 78455.629,
+      "end": 81349.16,
+      "title": "    Too Many Kojirōs"
+    },
+    {
+      "id": 41,
+      "start": 81349.16,
+      "end": 83097.112,
+      "title": "    The Younger Brother"
+    },
+    {
+      "id": 42,
+      "start": 83097.112,
+      "end": 86555.956,
+      "title": "    A Mother's Love"
+    },
+    {
+      "id": 43,
+      "start": 86555.956,
+      "end": 89017.736,
+      "title": "    The Urbane Craftsman"
+    },
+    {
+      "id": 44,
+      "start": 89017.736,
+      "end": 90970.488,
+      "title": "    Reverberations in the Snow"
+    },
+    {
+      "id": 45,
+      "start": 90970.488,
+      "end": 92688.532,
+      "title": "    The Elegant People"
+    },
+    {
+      "id": 46,
+      "start": 92688.532,
+      "end": 94026.93,
+      "title": "    The Broken Lute"
+    },
+    {
+      "id": 47,
+      "start": 94026.93,
+      "end": 94974.955,
+      "title": "    A Sickness of the Heart"
+    },
+    {
+      "id": 48,
+      "start": 94974.955,
+      "end": 96140.132,
+      "title": "    The Scent of Aloeswood"
+    },
+    {
+      "id": 49,
+      "start": 96140.132,
+      "end": 97916.04,
+      "title": "    The Gate"
+    },
+    {
+      "id": 50,
+      "start": 97916.04,
+      "end": 98827.749,
+      "title": "    A Toast to the Morrow"
+    },
+    {
+      "id": 51,
+      "start": 98827.749,
+      "end": 99883.142,
+      "title": "    The Death Trap"
+    },
+    {
+      "id": 52,
+      "start": 99883.142,
+      "end": 102534.768,
+      "title": "    A Meeting in the Moonlight"
+    },
+    {
+      "id": 53,
+      "start": 102534.768,
+      "end": 103298.751,
+      "title": "    Stray Geese"
+    },
+    {
+      "id": 54,
+      "start": 103298.751,
+      "end": 105413.532,
+      "title": "    The Spreading Pine"
+    },
+    {
+      "id": 55,
+      "start": 105413.532,
+      "end": 106901.652,
+      "title": "    An Offering for the Dead"
+    },
+    {
+      "id": 56,
+      "start": 106901.652,
+      "end": 109124.498,
+      "title": "    A Drink of Milk"
+    },
+    {
+      "id": 57,
+      "start": 109124.498,
+      "end": 110736.66,
+      "title": "    Entwining Branches"
+    },
+    {
+      "id": 58,
+      "start": 110736.66,
+      "end": 111546.479,
+      "title": "    The Male and Female Waterfalls"
+    },
+    {
+      "id": 59,
+      "start": 111546.479,
+      "end": 111553.892,
+      "title": "BOOK V • SKY"
+    },
+    {
+      "id": 60,
+      "start": 111553.892,
+      "end": 112302.892,
+      "title": "    The Abduction"
+    },
+    {
+      "id": 61,
+      "start": 112302.892,
+      "end": 113641.987,
+      "title": "    The Warrior or Kiso"
+    },
+    {
+      "id": 62,
+      "start": 113641.987,
+      "end": 114294.003,
+      "title": "    Poisonous Fangs"
+    },
+    {
+      "id": 63,
+      "start": 114294.003,
+      "end": 116461.772,
+      "title": "    A Maternal Warning"
+    },
+    {
+      "id": 64,
+      "start": 116461.772,
+      "end": 117736.176,
+      "title": "    A One-Night Love Affair"
+    },
+    {
+      "id": 65,
+      "start": 117736.176,
+      "end": 119203.073,
+      "title": "    A Gift of Money"
+    },
+    {
+      "id": 66,
+      "start": 119203.073,
+      "end": 120261.485,
+      "title": "    A Cleansing Fire"
+    },
+    {
+      "id": 67,
+      "start": 120261.485,
+      "end": 122169.469,
+      "title": "    Playing with Fire"
+    },
+    {
+      "id": 68,
+      "start": 122169.469,
+      "end": 123161.1,
+      "title": "    A Cricket in the Grass"
+    },
+    {
+      "id": 69,
+      "start": 123161.1,
+      "end": 124203.769,
+      "title": "    The Pioneers"
+    },
+    {
+      "id": 70,
+      "start": 124203.769,
+      "end": 125538.359,
+      "title": "    Slaughter by the Riverside"
+    },
+    {
+      "id": 71,
+      "start": 125538.359,
+      "end": 126794.884,
+      "title": "    Shavings"
+    },
+    {
+      "id": 72,
+      "start": 126794.884,
+      "end": 128242.462,
+      "title": "    The Owl"
+    },
+    {
+      "id": 73,
+      "start": 128242.462,
+      "end": 129459.559,
+      "title": "    A Plate of Loaches"
+    },
+    {
+      "id": 74,
+      "start": 129459.559,
+      "end": 131244.384,
+      "title": "    Like Teacher, Like Pupil"
+    },
+    {
+      "id": 75,
+      "start": 131244.384,
+      "end": 133295.914,
+      "title": "    Mountain Devils"
+    },
+    {
+      "id": 76,
+      "start": 133295.914,
+      "end": 134079.216,
+      "title": "    First Planting"
+    },
+    {
+      "id": 77,
+      "start": 134079.216,
+      "end": 135739.396,
+      "title": "    The Flies"
+    },
+    {
+      "id": 78,
+      "start": 135739.396,
+      "end": 137081.277,
+      "title": "    The Soul Polisher"
+    },
+    {
+      "id": 79,
+      "start": 137081.277,
+      "end": 138534.568,
+      "title": "    The Fox"
+    },
+    {
+      "id": 80,
+      "start": 138534.568,
+      "end": 139691.479,
+      "title": "    An Urgent Letter"
+    },
+    {
+      "id": 81,
+      "start": 139691.479,
+      "end": 141488.889,
+      "title": "   Filial Piety"
+    },
+    {
+      "id": 82,
+      "start": 141488.889,
+      "end": 142626.202,
+      "title": "    Spring Shower in Red"
+    },
+    {
+      "id": 83,
+      "start": 142626.202,
+      "end": 143607.246,
+      "title": "    A Block of Wood"
+    },
+    {
+      "id": 84,
+      "start": 143607.246,
+      "end": 144463.83,
+      "title": "    The Deserted Prophet"
+    },
+    {
+      "id": 85,
+      "start": 144463.83,
+      "end": 145306.621,
+      "title": "    The Talk of the Town"
+    },
+    {
+      "id": 86,
+      "start": 145306.621,
+      "end": 145314.211,
+      "title": "Book VI • SUN AND MOON"
+    },
+    {
+      "id": 87,
+      "start": 145314.211,
+      "end": 146024.211,
+      "title": "    A Chat with the Men"
+    },
+    {
+      "id": 88,
+      "start": 146024.211,
+      "end": 147197.469,
+      "title": "    Buzzing Insects"
+    },
+    {
+      "id": 89,
+      "start": 147197.469,
+      "end": 148331.067,
+      "title": "    The Eagle"
+    },
+    {
+      "id": 90,
+      "start": 148331.067,
+      "end": 149406.429,
+      "title": "    Green Persimmons"
+    },
+    {
+      "id": 91,
+      "start": 149406.429,
+      "end": 150541.188,
+      "title": "    Eyes"
+    },
+    {
+      "id": 92,
+      "start": 150541.188,
+      "end": 152010.315,
+      "title": "    Four Sages with a Single Light"
+    },
+    {
+      "id": 93,
+      "start": 152010.315,
+      "end": 152991.033,
+      "title": "    The Locust Tree"
+    },
+    {
+      "id": 94,
+      "start": 152991.033,
+      "end": 155230.319,
+      "title": "    Tadaaki’s Madness"
+    },
+    {
+      "id": 95,
+      "start": 155230.319,
+      "end": 156025.277,
+      "title": "    The Poignancy of Things"
+    },
+    {
+      "id": 96,
+      "start": 156025.277,
+      "end": 156859.477,
+      "title": "    Two Drumsticks"
+    },
+    {
+      "id": 97,
+      "start": 156859.477,
+      "end": 158689.674,
+      "title": "    The Demon’s Attendant"
+    },
+    {
+      "id": 98,
+      "start": 158689.674,
+      "end": 161276.609,
+      "title": "    Brother Disciples"
+    },
+    {
+      "id": 99,
+      "start": 161276.609,
+      "end": 161722.154,
+      "title": "    The Pomegranate"
+    },
+    {
+      "id": 100,
+      "start": 161722.154,
+      "end": 163609.1,
+      "title": "    Land of Dreams"
+    },
+    {
+      "id": 101,
+      "start": 163609.1,
+      "end": 164903.334,
+      "title": "    The Challenge"
+    },
+    {
+      "id": 102,
+      "start": 164903.334,
+      "end": 166176.113,
+      "title": "    The Gateway to Glory"
+    },
+    {
+      "id": 103,
+      "start": 166176.113,
+      "end": 166853.207,
+      "title": "    The Sound of Heaven"
+    },
+    {
+      "id": 104,
+      "start": 166853.207,
+      "end": 166860.272,
+      "title": "Book VII • THE PERFECT LIGHT"
+    },
+    {
+      "id": 105,
+      "start": 166860.272,
+      "end": 168392.272,
+      "title": "    The Runaway Ox"
+    },
+    {
+      "id": 106,
+      "start": 168392.272,
+      "end": 170430.519,
+      "title": "    Hemp Seed"
+    },
+    {
+      "id": 107,
+      "start": 170430.519,
+      "end": 172197.093,
+      "title": "    Sweepers and Salesmen"
+    },
+    {
+      "id": 108,
+      "start": 172197.093,
+      "end": 173868.884,
+      "title": "    A Pear Blossom"
+    },
+    {
+      "id": 109,
+      "start": 173868.884,
+      "end": 175800.134,
+      "title": "    The Port"
+    },
+    {
+      "id": 110,
+      "start": 175800.134,
+      "end": 178298.554,
+      "title": "    The Writing Teacher"
+    },
+    {
+      "id": 111,
+      "start": 178298.554,
+      "end": 179124.21,
+      "title": "    The Circle"
+    },
+    {
+      "id": 112,
+      "start": 179124.21,
+      "end": 181172.813,
+      "title": "    Shikama Blue"
+    },
+    {
+      "id": 113,
+      "start": 181172.813,
+      "end": 182462.635,
+      "title": "    The Mercy of Kannon"
+    },
+    {
+      "id": 114,
+      "start": 182462.635,
+      "end": 183554.438,
+      "title": "    The Tides of Life"
+    },
+    {
+      "id": 115,
+      "start": 183554.438,
+      "end": 184585.357,
+      "title": "    The Evening Boat"
+    },
+    {
+      "id": 116,
+      "start": 184585.357,
+      "end": 185624.589,
+      "title": "    A Falcon and a Woman"
+    },
+    {
+      "id": 117,
+      "start": 185624.589,
+      "end": 186729.023,
+      "title": "    Before the Thirteenth Day"
+    },
+    {
+      "id": 118,
+      "start": 186729.023,
+      "end": 188824.439,
+      "title": "    At Daybreak"
+    },
+    {
+      "id": 119,
+      "start": 188824.439,
+      "end": 190596.4,
+      "title": "    The Marriage"
+    },
+    {
+      "id": 120,
+      "start": 190596.4,
+      "end": 192239.4,
+      "title": "    The Soul of the Deep"
+    },
+    {
+      "id": 121,
+      "start": 192239.4,
+      "end": 192309.522,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Musashi",
+  "subtitle": null,
+  "authors": [
+    "Brian Nishii"
+  ],
+  "narrators": [
+    "Eiji Yoshikawa"
+  ],
+  "series": [
+    "Musashi: An Epic Novel of the Samurai Era #01–07"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "July 11, 1939 (08-28-18)",
+  "publishedDate": null,
+  "publisher": "Blackstone Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

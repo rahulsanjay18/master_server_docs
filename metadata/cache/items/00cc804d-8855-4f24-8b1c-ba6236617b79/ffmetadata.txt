@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Lightspeed Magazine \#25
+artist=George R. R. Martin
+album_artist=George R. R. Martin
+album=Lightspeed Magazine \#25
+genre=Audio Book
+date=2012
+comment=Read by Stefan Rudnicki
+description=Read by Stefan Rudnicki
+TRACKTOTAL=1

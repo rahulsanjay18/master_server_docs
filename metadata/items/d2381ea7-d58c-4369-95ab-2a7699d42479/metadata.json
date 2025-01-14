@@ -1,0 +1,347 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 35.092993,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 35.092993,
+      "end": 589.653991,
+      "title": "Introduction"
+    },
+    {
+      "id": 2,
+      "start": 589.653991,
+      "end": 602.31898,
+      "title": "Dedication"
+    },
+    {
+      "id": 3,
+      "start": 602.31898,
+      "end": 682.724966,
+      "title": "Preface"
+    },
+    {
+      "id": 4,
+      "start": 682.724966,
+      "end": 687.839955,
+      "title": "Book 1: Recalled to Life"
+    },
+    {
+      "id": 5,
+      "start": 687.839955,
+      "end": 1111.698934,
+      "title": "1. The Period"
+    },
+    {
+      "id": 6,
+      "start": 1111.698934,
+      "end": 1880.045918,
+      "title": "2. The Mail"
+    },
+    {
+      "id": 7,
+      "start": 1880.045918,
+      "end": 2564.709909,
+      "title": "3. The Night Shadows"
+    },
+    {
+      "id": 8,
+      "start": 2564.709909,
+      "end": 4264.061905,
+      "title": "4. The Preparation"
+    },
+    {
+      "id": 9,
+      "start": 4264.061905,
+      "end": 5958.954898,
+      "title": "5. The Wine-Shop"
+    },
+    {
+      "id": 10,
+      "start": 5958.954898,
+      "end": 7754.576893,
+      "title": "6. The Shoemaker"
+    },
+    {
+      "id": 11,
+      "start": 7754.576893,
+      "end": 7759.436893,
+      "title": "Book 2: The Golden Thread"
+    },
+    {
+      "id": 12,
+      "start": 7759.436893,
+      "end": 8681.819887,
+      "title": "7. Five Years Later"
+    },
+    {
+      "id": 13,
+      "start": 8681.819887,
+      "end": 9597.218866,
+      "title": "8. A Sight"
+    },
+    {
+      "id": 14,
+      "start": 9597.218866,
+      "end": 11461.618866,
+      "title": "9. A Disappointment"
+    },
+    {
+      "id": 15,
+      "start": 11461.618866,
+      "end": 12312.466848,
+      "title": "10. Congratulatory"
+    },
+    {
+      "id": 16,
+      "start": 12312.466848,
+      "end": 13127.347846,
+      "title": "11. The Jackal"
+    },
+    {
+      "id": 17,
+      "start": 13127.347846,
+      "end": 14892.597846,
+      "title": "12. Hundreds of People"
+    },
+    {
+      "id": 18,
+      "start": 14892.597846,
+      "end": 16262.690839,
+      "title": "13. Monseigneur In Town"
+    },
+    {
+      "id": 19,
+      "start": 16262.690839,
+      "end": 17005.542834,
+      "title": "14. Monseigneur in the Country"
+    },
+    {
+      "id": 20,
+      "start": 17005.542834,
+      "end": 18697.486825,
+      "title": "15. The Gorgon’s Head"
+    },
+    {
+      "id": 21,
+      "start": 18697.486825,
+      "end": 19864.497823,
+      "title": "16. Two Promises"
+    },
+    {
+      "id": 22,
+      "start": 19864.497823,
+      "end": 20383.090816,
+      "title": "17. A Companion Picture"
+    },
+    {
+      "id": 23,
+      "start": 20383.090816,
+      "end": 21373.142812,
+      "title": "18. The Fellow of Delicacy"
+    },
+    {
+      "id": 24,
+      "start": 21373.142812,
+      "end": 22172.37381,
+      "title": "19. The Fellow of No Delicacy"
+    },
+    {
+      "id": 25,
+      "start": 22172.37381,
+      "end": 23701.452789,
+      "title": "20. The Honest Tradesman"
+    },
+    {
+      "id": 26,
+      "start": 23701.452789,
+      "end": 25393.792789,
+      "title": "21. Knitting"
+    },
+    {
+      "id": 27,
+      "start": 25393.792789,
+      "end": 26999.567778,
+      "title": "22. Still Knitting"
+    },
+    {
+      "id": 28,
+      "start": 26999.567778,
+      "end": 27753.70576,
+      "title": "23. One Night"
+    },
+    {
+      "id": 29,
+      "start": 27753.70576,
+      "end": 28655.730748,
+      "title": "24. Nine Days"
+    },
+    {
+      "id": 30,
+      "start": 28655.730748,
+      "end": 29776.649728,
+      "title": "25. An Opinion"
+    },
+    {
+      "id": 31,
+      "start": 29776.649728,
+      "end": 30294.036712,
+      "title": "26. A Plea"
+    },
+    {
+      "id": 32,
+      "start": 30294.036712,
+      "end": 31959.278707,
+      "title": "27. Echoing Footsteps"
+    },
+    {
+      "id": 33,
+      "start": 31959.278707,
+      "end": 32754.910703,
+      "title": "28. The Sea Still Rises"
+    },
+    {
+      "id": 34,
+      "start": 32754.910703,
+      "end": 33834.915692,
+      "title": "29. Fire Rises"
+    },
+    {
+      "id": 35,
+      "start": 33834.915692,
+      "end": 35481.837687,
+      "title": "30. Drawn to the Loadstone Rock"
+    },
+    {
+      "id": 36,
+      "start": 35481.837687,
+      "end": 35487.024671,
+      "title": "Book 3: The Track of a Storm"
+    },
+    {
+      "id": 37,
+      "start": 35487.024671,
+      "end": 37210.794671,
+      "title": "31. In Secret"
+    },
+    {
+      "id": 38,
+      "start": 37210.794671,
+      "end": 38118.972653,
+      "title": "32. The Grindstone"
+    },
+    {
+      "id": 39,
+      "start": 38118.972653,
+      "end": 38802.729637,
+      "title": "33. The Shadow"
+    },
+    {
+      "id": 40,
+      "start": 38802.729637,
+      "end": 39603.887619,
+      "title": "34. Calm in Storm"
+    },
+    {
+      "id": 41,
+      "start": 39603.887619,
+      "end": 40482.32161,
+      "title": "35. The Wood-Sawyer"
+    },
+    {
+      "id": 42,
+      "start": 40482.32161,
+      "end": 41407.102608,
+      "title": "36. Triumph"
+    },
+    {
+      "id": 43,
+      "start": 41407.102608,
+      "end": 42110.063605,
+      "title": "37. A Knock at the Door"
+    },
+    {
+      "id": 44,
+      "start": 42110.063605,
+      "end": 43892.936599,
+      "title": "38. A Hand at Cards"
+    },
+    {
+      "id": 45,
+      "start": 43892.936599,
+      "end": 45798.969592,
+      "title": "39. The Game Made"
+    },
+    {
+      "id": 46,
+      "start": 45798.969592,
+      "end": 47928.796576,
+      "title": "40. The Substance of the Shadow"
+    },
+    {
+      "id": 47,
+      "start": 47928.796576,
+      "end": 48473.791565,
+      "title": "41. Dusk"
+    },
+    {
+      "id": 48,
+      "start": 48473.791565,
+      "end": 49673.751565,
+      "title": "42. Darkness"
+    },
+    {
+      "id": 49,
+      "start": 49673.751565,
+      "end": 51313.706553,
+      "title": "43. Fifty-Two"
+    },
+    {
+      "id": 50,
+      "start": 51313.706553,
+      "end": 53084.48254,
+      "title": "44. The Knitting Done"
+    },
+    {
+      "id": 51,
+      "start": 53084.48254,
+      "end": 53982.067528,
+      "title": "45. The Footsteps Die Out For Ever"
+    },
+    {
+      "id": 52,
+      "start": 53982.067528,
+      "end": 54038.92,
+      "title": "End Credits"
+    }
+  ],
+  "title": "A Tale of Two Cities (Unabridged)",
+  "subtitle": "The Audible Dickens Collection",
+  "authors": [
+    "Charles Dickens",
+    "Simon Callow - introduction"
+  ],
+  "narrators": [
+    "Simon Callow"
+  ],
+  "series": [
+    "The Audible Dickens Collection #0"
+  ],
+  "genres": [
+    "Classics, Literary Fiction, Historical Fiction"
+  ],
+  "publishedYear": "2018",
+  "publishedDate": null,
+  "publisher": "Audible Studios",
+  "description": "Exclusively from Audible. 'It was the best of times, it was the worst of times.' So begins Charles Dickens' most famous historical drama: a gripping tale of war, social injustice and the choice between darkness and light. After being unjustly imprisoned for 18 years, French doctor Manette is released from the Bastille jail in Paris and embarks upon a journey to London in the hope of finding the daughter he never met.",
+  "isbn": null,
+  "asin": "B0773Y4ZL1",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

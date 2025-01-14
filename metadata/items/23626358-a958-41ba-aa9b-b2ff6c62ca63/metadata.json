@@ -1,0 +1,592 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 258.507755,
+      "title": "001 In the Beginning"
+    },
+    {
+      "id": 1,
+      "start": 258.507755,
+      "end": 387.526531,
+      "title": "002 Dramatis Personae"
+    },
+    {
+      "id": 2,
+      "start": 387.526531,
+      "end": 555.52,
+      "title": "003 The Earth is a Libra"
+    },
+    {
+      "id": 3,
+      "start": 555.52,
+      "end": 1520.692245,
+      "title": "004 Born to Lurk"
+    },
+    {
+      "id": 4,
+      "start": 1520.692245,
+      "end": 2688.705306,
+      "title": "005 The Order of the Chattering Nuns"
+    },
+    {
+      "id": 5,
+      "start": 2688.705306,
+      "end": 2844.0555099999997,
+      "title": "006 300 Years Too Late"
+    },
+    {
+      "id": 6,
+      "start": 2844.0555099999997,
+      "end": 3122.2857139999996,
+      "title": "007 Armageddon in General Terms"
+    },
+    {
+      "id": 7,
+      "start": 3122.2857139999996,
+      "end": 3244.6955099999996,
+      "title": "008 Baby B"
+    },
+    {
+      "id": 8,
+      "start": 3244.6955099999996,
+      "end": 3380.9502039999998,
+      "title": "009 The Book"
+    },
+    {
+      "id": 9,
+      "start": 3380.9502039999998,
+      "end": 3454.4065309999996,
+      "title": "010 The Adversary, Destroyer of Kings..."
+    },
+    {
+      "id": 10,
+      "start": 3454.4065309999996,
+      "end": 3773.8318369999997,
+      "title": "011 Regency Silver Snuff Boxes"
+    },
+    {
+      "id": 11,
+      "start": 3773.8318369999997,
+      "end": 3986.625306,
+      "title": "012 Let's Do the Ritz"
+    },
+    {
+      "id": 12,
+      "start": 3986.625306,
+      "end": 4515.813877,
+      "title": "013 Typical Second-Hand Book Seller"
+    },
+    {
+      "id": 13,
+      "start": 4515.813877,
+      "end": 5104.11755,
+      "title": "014 Godfathers, Sort Of"
+    },
+    {
+      "id": 14,
+      "start": 5104.11755,
+      "end": 5381.119999,
+      "title": "015 Scarlet"
+    },
+    {
+      "id": 15,
+      "start": 5381.119999,
+      "end": 5668.884897,
+      "title": "016 Sable"
+    },
+    {
+      "id": 16,
+      "start": 5668.884897,
+      "end": 5850.25306,
+      "title": "017 White"
+    },
+    {
+      "id": 17,
+      "start": 5850.25306,
+      "end": 6424.372244,
+      "title": "018 Too Bloody Normal"
+    },
+    {
+      "id": 18,
+      "start": 6424.372244,
+      "end": 6932.636734,
+      "title": "019 Wednesday"
+    },
+    {
+      "id": 19,
+      "start": 6932.636734,
+      "end": 7357.831835999999,
+      "title": "020 Dog"
+    },
+    {
+      "id": 20,
+      "start": 7357.831835999999,
+      "end": 7499.337141999999,
+      "title": "021 It Was Him"
+    },
+    {
+      "id": 21,
+      "start": 7499.337141999999,
+      "end": 7797.106937999999,
+      "title": "022 Bebop"
+    },
+    {
+      "id": 22,
+      "start": 7797.106937999999,
+      "end": 8002.507753999999,
+      "title": "023 A Foot Long Bread Knife"
+    },
+    {
+      "id": 23,
+      "start": 8002.507753999999,
+      "end": 8500.009795,
+      "title": "024 Oh Lord Heal This Bike"
+    },
+    {
+      "id": 24,
+      "start": 8500.009795,
+      "end": 8698.070203,
+      "title": "025 Opposite of Spooky"
+    },
+    {
+      "id": 25,
+      "start": 8698.070203,
+      "end": 8937.430203,
+      "title": "026 Formerly Loquacious"
+    },
+    {
+      "id": 26,
+      "start": 8937.430203,
+      "end": 9863.758366,
+      "title": "027 Silly Buggers"
+    },
+    {
+      "id": 27,
+      "start": 9863.758366,
+      "end": 10352.666121,
+      "title": "028 Whatever it is that Water Slides off of"
+    },
+    {
+      "id": 28,
+      "start": 10352.666121,
+      "end": 10424.528978,
+      "title": "029 Consenting Cycle Repairmen"
+    },
+    {
+      "id": 29,
+      "start": 10424.528978,
+      "end": 10614.360815,
+      "title": "030 The Nice and Accurate Prophecies of Agnes Nutter, Witch"
+    },
+    {
+      "id": 30,
+      "start": 10614.360815,
+      "end": 11419.42857,
+      "title": "031 War"
+    },
+    {
+      "id": 31,
+      "start": 11419.42857,
+      "end": 12590.83755,
+      "title": "032 Thursday"
+    },
+    {
+      "id": 32,
+      "start": 12590.83755,
+      "end": 13606.217142,
+      "title": "033 A Prepubescent Greek God"
+    },
+    {
+      "id": 33,
+      "start": 13606.217142,
+      "end": 13760.391835999999,
+      "title": "034 Lemon Sherbert"
+    },
+    {
+      "id": 34,
+      "start": 13760.391835999999,
+      "end": 14235.062855999999,
+      "title": "035 Friday"
+    },
+    {
+      "id": 35,
+      "start": 14235.062855999999,
+      "end": 14877.126529,
+      "title": "036 The Them"
+    },
+    {
+      "id": 36,
+      "start": 14877.126529,
+      "end": 14968.973059999998,
+      "title": "037 Congealed Cocoa"
+    },
+    {
+      "id": 37,
+      "start": 14968.973059999998,
+      "end": 15115.049794999999,
+      "title": "038 The Better Class of Celtic Monoliths"
+    },
+    {
+      "id": 38,
+      "start": 15115.049794999999,
+      "end": 15274.344489,
+      "title": "039 Atlantis Rises"
+    },
+    {
+      "id": 39,
+      "start": 15274.344489,
+      "end": 15578.827754,
+      "title": "040 The Hollow Earth Theory"
+    },
+    {
+      "id": 40,
+      "start": 15578.827754,
+      "end": 15880.463672,
+      "title": "041 Madame Tracy"
+    },
+    {
+      "id": 41,
+      "start": 15880.463672,
+      "end": 16036.519182,
+      "title": "042 Solid Cocoa"
+    },
+    {
+      "id": 42,
+      "start": 16036.519182,
+      "end": 17176.816325,
+      "title": "043 The Witch Finders Army"
+    },
+    {
+      "id": 43,
+      "start": 17176.816325,
+      "end": 17593.835101,
+      "title": "044 Saturday"
+    },
+    {
+      "id": 44,
+      "start": 17593.835101,
+      "end": 18701.45306,
+      "title": "045 Have Pin, Will Travel"
+    },
+    {
+      "id": 45,
+      "start": 18701.45306,
+      "end": 18996.558366,
+      "title": "046 Practical Considerations of First Aid"
+    },
+    {
+      "id": 46,
+      "start": 18996.558366,
+      "end": 20141.374693,
+      "title": "047 Sir Humphrey Gadget"
+    },
+    {
+      "id": 47,
+      "start": 20141.374693,
+      "end": 20605.701224,
+      "title": "048 Shambala"
+    },
+    {
+      "id": 48,
+      "start": 20605.701224,
+      "end": 21131.937959,
+      "title": "049 Backwards Memory"
+    },
+    {
+      "id": 49,
+      "start": 21131.937959,
+      "end": 21264.039183,
+      "title": "050 Real Pretend Cowboys and Gangsters"
+    },
+    {
+      "id": 50,
+      "start": 21264.039183,
+      "end": 21523.278367,
+      "title": "051 The Sound a Tree Makes"
+    },
+    {
+      "id": 51,
+      "start": 21523.278367,
+      "end": 21665.410612,
+      "title": "052 The Krakens Revenge"
+    },
+    {
+      "id": 52,
+      "start": 21665.410612,
+      "end": 21870.628571,
+      "title": "053 He Bringeth the Storm"
+    },
+    {
+      "id": 53,
+      "start": 21870.628571,
+      "end": 22055.967347,
+      "title": "054 The Southern Pansy"
+    },
+    {
+      "id": 54,
+      "start": 22055.967347,
+      "end": 22664.463674000002,
+      "title": "055 Bell, Book and Practically Candle"
+    },
+    {
+      "id": 55,
+      "start": 22664.463674000002,
+      "end": 23862.125715000002,
+      "title": "056 Plan C"
+    },
+    {
+      "id": 56,
+      "start": 23862.125715000002,
+      "end": 24200.646531000002,
+      "title": "057 Shadwell, Scourge of Evil"
+    },
+    {
+      "id": 57,
+      "start": 24200.646531000002,
+      "end": 24465.345307000003,
+      "title": "058 Fire"
+    },
+    {
+      "id": 58,
+      "start": 24465.345307000003,
+      "end": 25183.555919000002,
+      "title": "059 The Happy Porker Cafe"
+    },
+    {
+      "id": 59,
+      "start": 25183.555919000002,
+      "end": 25256.960001000003,
+      "title": "060 There Are No Bitches in Hell"
+    },
+    {
+      "id": 60,
+      "start": 25256.960001000003,
+      "end": 25862.504491000003,
+      "title": "061 Aziraphales Spitual Journey"
+    },
+    {
+      "id": 61,
+      "start": 25862.504491000003,
+      "end": 26165.054695000003,
+      "title": "062 Go With Style"
+    },
+    {
+      "id": 62,
+      "start": 26165.054695000003,
+      "end": 26452.584491,
+      "title": "063 The Other Four Bikers of the Apocalypse"
+    },
+    {
+      "id": 63,
+      "start": 26452.584491,
+      "end": 26983.340409,
+      "title": "064 Feeling Very Occult"
+    },
+    {
+      "id": 64,
+      "start": 26983.340409,
+      "end": 27049.926531,
+      "title": "065 Traffic Jam of Fish"
+    },
+    {
+      "id": 65,
+      "start": 27049.926531,
+      "end": 27194.566531,
+      "title": "066 The Earth Moved for Everyone"
+    },
+    {
+      "id": 66,
+      "start": 27194.566531,
+      "end": 27485.910204,
+      "title": "067 Taking Advantage of a Defenseless Whore"
+    },
+    {
+      "id": 67,
+      "start": 27485.910204,
+      "end": 27552.966531,
+      "title": "068 A World Just for Us"
+    },
+    {
+      "id": 68,
+      "start": 27552.966531,
+      "end": 27884.382040999997,
+      "title": "069 Oodles of Nipples"
+    },
+    {
+      "id": 69,
+      "start": 27884.382040999997,
+      "end": 28074.266122999998,
+      "title": "070 A Well Blocked Road"
+    },
+    {
+      "id": 70,
+      "start": 28074.266122999998,
+      "end": 28305.005715,
+      "title": "071 The London Traffic System"
+    },
+    {
+      "id": 71,
+      "start": 28305.005715,
+      "end": 28589.400816999998,
+      "title": "072 The Coitus Interruptus Award"
+    },
+    {
+      "id": 72,
+      "start": 28589.400816999998,
+      "end": 28796.969796999998,
+      "title": "073 The M-25"
+    },
+    {
+      "id": 73,
+      "start": 28796.969796999998,
+      "end": 29041.920001,
+      "title": "074 The Quarry"
+    },
+    {
+      "id": 74,
+      "start": 29041.920001,
+      "end": 29192.698776999998,
+      "title": "075 Peas is Our Profession"
+    },
+    {
+      "id": 75,
+      "start": 29192.698776999998,
+      "end": 29280.862041999997,
+      "title": "076 Look at Crowley"
+    },
+    {
+      "id": 76,
+      "start": 29280.862041999997,
+      "end": 29539.317551999997,
+      "title": "077 The Wrong Type of Old Folks"
+    },
+    {
+      "id": 77,
+      "start": 29539.317551999997,
+      "end": 29932.146939999995,
+      "title": "078 Geronimo"
+    },
+    {
+      "id": 78,
+      "start": 29932.146939999995,
+      "end": 30207.137959999996,
+      "title": "079 The Advantages of the Wasabi"
+    },
+    {
+      "id": 79,
+      "start": 30207.137959999996,
+      "end": 31319.693061999995,
+      "title": "080 Chairman of the Lower Tadfield Resdence Association"
+    },
+    {
+      "id": 80,
+      "start": 31319.693061999995,
+      "end": 31652.806530999995,
+      "title": "081 Where is Armageddon Anyway"
+    },
+    {
+      "id": 81,
+      "start": 31652.806530999995,
+      "end": 31990.491428999994,
+      "title": "082 A Tax Inspector on Your Football Team"
+    },
+    {
+      "id": 82,
+      "start": 31990.491428999994,
+      "end": 32493.505306999996,
+      "title": "083 You Just Send Them"
+    },
+    {
+      "id": 83,
+      "start": 32493.505306999996,
+      "end": 32712.202449999997,
+      "title": "084 No More Chickens"
+    },
+    {
+      "id": 84,
+      "start": 32712.202449999997,
+      "end": 32912.09143,
+      "title": "085 Nice and Accurate Terrorists"
+    },
+    {
+      "id": 85,
+      "start": 32912.09143,
+      "end": 33380.519185,
+      "title": "086 Get Them"
+    },
+    {
+      "id": 86,
+      "start": 33380.519185,
+      "end": 33575.862858,
+      "title": "087 The Opposite of Computer Engineer"
+    },
+    {
+      "id": 87,
+      "start": 33575.862858,
+      "end": 34373.459593,
+      "title": "088 The Metatron and Beelzebub"
+    },
+    {
+      "id": 88,
+      "start": 34373.459593,
+      "end": 34993.737144,
+      "title": "089 Serious Minded Men Who Smoke Pipes and Wear Mustaches"
+    },
+    {
+      "id": 89,
+      "start": 34993.737144,
+      "end": 35266.690613,
+      "title": "090 A Day to Remember"
+    },
+    {
+      "id": 90,
+      "start": 35266.690613,
+      "end": 35995.297959999996,
+      "title": "091 Sunday"
+    },
+    {
+      "id": 91,
+      "start": 35995.297959999996,
+      "end": 36305.580408999995,
+      "title": "092 Around 1130 AM"
+    },
+    {
+      "id": 92,
+      "start": 36305.580408999995,
+      "end": 36604.342857999996,
+      "title": "093 100 PM"
+    },
+    {
+      "id": 93,
+      "start": 36604.342857999996,
+      "end": 36709.537959999994,
+      "title": "094 The First Friends of Your Life"
+    },
+    {
+      "id": 94,
+      "start": 36709.537959999994,
+      "end": 37208.13714399999,
+      "title": "095 Half Angel, Half Devil, All Human"
+    }
+  ],
+  "title": "Good Omens",
+  "subtitle": null,
+  "authors": [
+    "Terry Pratchett And Neil Gaimen"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "1990-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,278 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 14.333,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 14.333,
+      "end": 14.44,
+      "title": "PART ONE",
+      "id": 1
+    },
+    {
+      "start": 14.471837,
+      "end": 15.020837,
+      "title": "PART ONE",
+      "id": 2
+    },
+    {
+      "start": 15.020837,
+      "end": 15.337837,
+      "title": "Chapter 01",
+      "id": 3
+    },
+    {
+      "start": 15.386123000000001,
+      "end": 1866.314123,
+      "title": "Chapter 01",
+      "id": 4
+    },
+    {
+      "start": 1866.422858,
+      "end": 3456.820858,
+      "title": "Chapter 02",
+      "id": 5
+    },
+    {
+      "start": 3456.820858,
+      "end": 3457.052858,
+      "title": "Chapter 03",
+      "id": 6
+    },
+    {
+      "start": 3457.097144,
+      "end": 5104.748144,
+      "title": "Chapter 03",
+      "id": 7
+    },
+    {
+      "start": 5104.748144,
+      "end": 5104.9371439999995,
+      "title": "Chapter 04",
+      "id": 8
+    },
+    {
+      "start": 5104.979593,
+      "end": 6627.229593,
+      "title": "Chapter 04",
+      "id": 9
+    },
+    {
+      "start": 6627.265307,
+      "end": 8786.062307,
+      "title": "Chapter 05",
+      "id": 10
+    },
+    {
+      "start": 8786.062307,
+      "end": 8786.335307,
+      "title": "Chapter 06",
+      "id": 11
+    },
+    {
+      "start": 8786.364083,
+      "end": 10988.420083,
+      "title": "Chapter 06",
+      "id": 12
+    },
+    {
+      "start": 10988.486532,
+      "end": 10992.212532000001,
+      "title": "PART TWO",
+      "id": 13
+    },
+    {
+      "start": 10992.212532000001,
+      "end": 10992.526532000002,
+      "title": "Chapter 07",
+      "id": 14
+    },
+    {
+      "start": 10992.561634000002,
+      "end": 12350.544634000002,
+      "title": "Chapter 07",
+      "id": 15
+    },
+    {
+      "start": 12350.615512000002,
+      "end": 14194.726512000003,
+      "title": "Chapter 08",
+      "id": 16
+    },
+    {
+      "start": 14194.834288000002,
+      "end": 15667.587288000002,
+      "title": "Chapter 09",
+      "id": 17
+    },
+    {
+      "start": 15667.670206000003,
+      "end": 17655.437206000002,
+      "title": "Chapter 10",
+      "id": 18
+    },
+    {
+      "start": 17655.437206000002,
+      "end": 17655.750206000004,
+      "title": "Chapter 11",
+      "id": 19
+    },
+    {
+      "start": 17655.797553000004,
+      "end": 19930.694553000005,
+      "title": "Chapter 11",
+      "id": 20
+    },
+    {
+      "start": 19930.801635000003,
+      "end": 20945.689635000002,
+      "title": "Chapter 12",
+      "id": 21
+    },
+    {
+      "start": 20945.689635000002,
+      "end": 20945.791635000005,
+      "title": "Chapter 13",
+      "id": 22
+    },
+    {
+      "start": 20945.841635000004,
+      "end": 22356.859635000004,
+      "title": "Chapter 13",
+      "id": 23
+    },
+    {
+      "start": 22356.924084000006,
+      "end": 22361.190084000005,
+      "title": "PART THREE",
+      "id": 24
+    },
+    {
+      "start": 22361.190084000005,
+      "end": 22361.390084000006,
+      "title": "Chapter 14",
+      "id": 25
+    },
+    {
+      "start": 22361.417145000007,
+      "end": 23802.331145000007,
+      "title": "Chapter 14",
+      "id": 26
+    },
+    {
+      "start": 23802.331145000007,
+      "end": 23802.487145000006,
+      "title": "Chapter 15",
+      "id": 27
+    },
+    {
+      "start": 23802.514288000006,
+      "end": 24992.629288000007,
+      "title": "Chapter 15",
+      "id": 28
+    },
+    {
+      "start": 24992.629288000007,
+      "end": 24992.914288000007,
+      "title": "Chapter 16",
+      "id": 29
+    },
+    {
+      "start": 24992.940410000007,
+      "end": 26226.424410000007,
+      "title": "Chapter 16",
+      "id": 30
+    },
+    {
+      "start": 26226.424410000007,
+      "end": 26226.630410000005,
+      "title": "Chapter 17",
+      "id": 31
+    },
+    {
+      "start": 26226.677553000005,
+      "end": 27397.444553000005,
+      "title": "Chapter 17",
+      "id": 32
+    },
+    {
+      "start": 27397.444553000005,
+      "end": 27397.647553000006,
+      "title": "Chapter 18",
+      "id": 33
+    },
+    {
+      "start": 27397.694696000006,
+      "end": 28993.600696000005,
+      "title": "Chapter 18",
+      "id": 34
+    },
+    {
+      "start": 28993.600696000005,
+      "end": 28993.884696000005,
+      "title": "Chapter 19",
+      "id": 35
+    },
+    {
+      "start": 28993.933063000004,
+      "end": 29718.102063000006,
+      "title": "Chapter 19",
+      "id": 36
+    },
+    {
+      "start": 29718.102063000006,
+      "end": 29718.213063000003,
+      "title": "EPILOGUE",
+      "id": 37
+    },
+    {
+      "start": 29718.256328000003,
+      "end": 29722.200328000003,
+      "title": "EPILOGUE",
+      "id": 38
+    },
+    {
+      "start": 29722.279185000003,
+      "end": 31555.585185000004,
+      "title": "Chapter 20",
+      "id": 39
+    },
+    {
+      "start": 31555.585185000004,
+      "end": 31555.759185000003,
+      "title": "End Credits",
+      "id": 40
+    },
+    {
+      "start": 31555.787756,
+      "end": 31579.467756000002,
+      "title": "End Credits",
+      "id": 41
+    }
+  ],
+  "title": "Rite of Passage",
+  "subtitle": null,
+  "authors": [
+    "Alexei Panshin"
+  ],
+  "narrators": [
+    "Elizabeth Evans"
+  ],
+  "series": [],
+  "genres": [
+    "Coming of Age Sci-Fi (YA)"
+  ],
+  "publishedYear": "1968",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Unabridged",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

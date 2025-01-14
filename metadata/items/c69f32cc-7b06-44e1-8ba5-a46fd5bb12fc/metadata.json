@@ -1,0 +1,242 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 190.354286,
+      "title": "00: Intro"
+    },
+    {
+      "id": 1,
+      "start": 190.354286,
+      "end": 2009.678368,
+      "title": "01: St. Louis, April 1857"
+    },
+    {
+      "id": 2,
+      "start": 2009.678368,
+      "end": 3377.0840820000003,
+      "title": "02: New Orleans, May 1857"
+    },
+    {
+      "id": 3,
+      "start": 3377.0840820000003,
+      "end": 4684.094694,
+      "title": "03: New Albany, Indiana, June 1857"
+    },
+    {
+      "id": 4,
+      "start": 4684.094694,
+      "end": 6464.182857,
+      "title": "04: Aboard the Steamer Fevre Dream, Ohio River, July 1857"
+    },
+    {
+      "id": 5,
+      "start": 6464.182857,
+      "end": 8130.037550999999,
+      "title": "05: Aboard the Steamer Fevre Dream, Ohio River, July 1857"
+    },
+    {
+      "id": 6,
+      "start": 8130.037550999999,
+      "end": 10177.123265,
+      "title": "06: Julian Plantation, Louisiana, July 1857"
+    },
+    {
+      "id": 7,
+      "start": 10177.123265,
+      "end": 11086.471836,
+      "title": "07: St. Louis, July 1857"
+    },
+    {
+      "id": 8,
+      "start": 11086.471836,
+      "end": 12745.430203,
+      "title": "08: Aboard the Steamer Fevre Dream, Mississippi River, July 1857"
+    },
+    {
+      "id": 9,
+      "start": 12745.430203,
+      "end": 14417.632652,
+      "title": "09: Aboard the Steamer Fevre Dream, Mississippi River, August 1857"
+    },
+    {
+      "id": 10,
+      "start": 14417.632652,
+      "end": 15882.710203,
+      "title": "10: New Orleans, August 1857"
+    },
+    {
+      "id": 11,
+      "start": 15882.710203,
+      "end": 17215.738774,
+      "title": "11: Aboard the Steamer Fevre Dream, Natchez, August 1857"
+    },
+    {
+      "id": 12,
+      "start": 17215.738774,
+      "end": 19775.007345,
+      "title": "12: Aboard the Steamer Fevre Dream, Mississippi River, August 1857"
+    },
+    {
+      "id": 13,
+      "start": 19775.007345,
+      "end": 22241.959182000002,
+      "title": "13: Aboard the Steamer Fevre Dream, New Orleans, August 1857"
+    },
+    {
+      "id": 14,
+      "start": 22241.959182000002,
+      "end": 26053.564080000004,
+      "title": "14: Of Days Dark and Distant"
+    },
+    {
+      "id": 15,
+      "start": 26053.564080000004,
+      "end": 27799.928162000004,
+      "title": "15: Aboard the Steamer Fevre Dream, New Orleans, August 1857"
+    },
+    {
+      "id": 16,
+      "start": 27799.928162000004,
+      "end": 28510.066938000004,
+      "title": "16: New Orleans, August 1857"
+    },
+    {
+      "id": 17,
+      "start": 28510.066938000004,
+      "end": 30821.302856000002,
+      "title": "17: Aboard the Steamer Fevre Dream, New Orleans, August 1857"
+    },
+    {
+      "id": 18,
+      "start": 30821.302856000002,
+      "end": 32274.311836,
+      "title": "18: Aboard the Steamer Fevre Dream, Mississippi River, August 1857"
+    },
+    {
+      "id": 19,
+      "start": 32274.311836,
+      "end": 33180.734693,
+      "title": "19: Aboard the Steamer Fevre Dream, Mississippi River, August 1857"
+    },
+    {
+      "id": 20,
+      "start": 33180.734693,
+      "end": 34541.505305,
+      "title": "20: Aboard the Steamer Fevre Dream, Mississippi River, August 1857"
+    },
+    {
+      "id": 21,
+      "start": 34541.505305,
+      "end": 35752.254692999995,
+      "title": "21: St. Louis, September 1857"
+    },
+    {
+      "id": 22,
+      "start": 35752.254692999995,
+      "end": 37182.014693,
+      "title": "22: Aboard the Steamer Eli Reynolds, Mississippi River, October 1857"
+    },
+    {
+      "id": 23,
+      "start": 37182.014693,
+      "end": 38767.072651999995,
+      "title": "23: Aboard the Steamer Eli Reynolds, Mississippi River, October 1857"
+    },
+    {
+      "id": 24,
+      "start": 38767.072651999995,
+      "end": 39869.67510099999,
+      "title": "24: Aboard the Steamer Ozymandias, Mississippi River, October 1857"
+    },
+    {
+      "id": 25,
+      "start": 39869.67510099999,
+      "end": 41363.565712999996,
+      "title": "25: Aboard the Steamer Eli Reynolds, Mississippi River, October 1857"
+    },
+    {
+      "id": 26,
+      "start": 41363.565712999996,
+      "end": 42315.572243999995,
+      "title": "26: Aboard the Steamer Ozymandias, Mississippi River, October 1857"
+    },
+    {
+      "id": 27,
+      "start": 42315.572243999995,
+      "end": 43644.029386999995,
+      "title": "27: Aboard the Steamer Ozymandias, Mississippi River, October 1857"
+    },
+    {
+      "id": 28,
+      "start": 43644.029386999995,
+      "end": 44972.852243999994,
+      "title": "28: On the Mississippi River, October 1857"
+    },
+    {
+      "id": 29,
+      "start": 44972.852243999994,
+      "end": 46280.568161999996,
+      "title": "29: Gray Plantation, October 1857"
+    },
+    {
+      "id": 30,
+      "start": 46280.568161999996,
+      "end": 48722.808161999994,
+      "title": "30: Fever Years: November 1815-April 1870"
+    },
+    {
+      "id": 31,
+      "start": 48722.808161999994,
+      "end": 51393.04489699999,
+      "title": "31: New Orleans, May 1870"
+    },
+    {
+      "id": 32,
+      "start": 51393.04489699999,
+      "end": 52917.028569999995,
+      "title": "32: Julian Plantation, Louisiana, May 1870"
+    },
+    {
+      "id": 33,
+      "start": 52917.028569999995,
+      "end": 53543.36652899999,
+      "title": "33: Aboard the Steamer Fevre Dream, May 1870"
+    },
+    {
+      "id": 34,
+      "start": 53543.36652899999,
+      "end": 55422.71999799999,
+      "title": "34: Aboard the Steamer Fevre Dream, May 1870"
+    },
+    {
+      "id": 35,
+      "start": 55422.71999799999,
+      "end": 55742.798364999995,
+      "title": "35: Epilogue"
+    }
+  ],
+  "title": "Fevre Dream",
+  "subtitle": null,
+  "authors": [
+    "George R. R. Martin"
+  ],
+  "narrators": [
+    "434mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1982",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by David Palmer",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

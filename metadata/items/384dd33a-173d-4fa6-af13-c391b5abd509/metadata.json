@@ -1,0 +1,257 @@
+{
+  "tags": [
+    "Fantasy",
+    "Paranormal & Urban",
+    "Paranormal",
+    "Comedy & Humor",
+    "Literature & Fiction"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 26.865,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 26.865,
+      "end": 2113.642,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 2113.642,
+      "end": 4803.21,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 4803.21,
+      "end": 6524.923,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 6524.923,
+      "end": 8077.316,
+      "title": "005"
+    },
+    {
+      "id": 5,
+      "start": 8077.316,
+      "end": 10046.67,
+      "title": "006"
+    },
+    {
+      "id": 6,
+      "start": 10046.67,
+      "end": 11980.289,
+      "title": "007"
+    },
+    {
+      "id": 7,
+      "start": 11980.289,
+      "end": 14132.314,
+      "title": "008"
+    },
+    {
+      "id": 8,
+      "start": 14132.314,
+      "end": 15656.193,
+      "title": "009"
+    },
+    {
+      "id": 9,
+      "start": 15656.193,
+      "end": 17172.154,
+      "title": "010"
+    },
+    {
+      "id": 10,
+      "start": 17172.154,
+      "end": 17972.059,
+      "title": "011"
+    },
+    {
+      "id": 11,
+      "start": 17972.059,
+      "end": 19639.762,
+      "title": "012"
+    },
+    {
+      "id": 12,
+      "start": 19639.762,
+      "end": 21731.787,
+      "title": "013"
+    },
+    {
+      "id": 13,
+      "start": 21731.787,
+      "end": 23745.886,
+      "title": "014"
+    },
+    {
+      "id": 14,
+      "start": 23745.886,
+      "end": 25748.561,
+      "title": "015"
+    },
+    {
+      "id": 15,
+      "start": 25748.561,
+      "end": 27476.938,
+      "title": "016"
+    },
+    {
+      "id": 16,
+      "start": 27476.938,
+      "end": 28656.883,
+      "title": "017"
+    },
+    {
+      "id": 17,
+      "start": 28656.883,
+      "end": 30668.707,
+      "title": "018"
+    },
+    {
+      "id": 18,
+      "start": 30668.707,
+      "end": 32755.6,
+      "title": "019"
+    },
+    {
+      "id": 19,
+      "start": 32755.6,
+      "end": 34286.004,
+      "title": "020"
+    },
+    {
+      "id": 20,
+      "start": 34286.004,
+      "end": 35687.375,
+      "title": "021"
+    },
+    {
+      "id": 21,
+      "start": 35687.375,
+      "end": 37437.416,
+      "title": "022"
+    },
+    {
+      "id": 22,
+      "start": 37437.416,
+      "end": 39230.717,
+      "title": "023"
+    },
+    {
+      "id": 23,
+      "start": 39230.717,
+      "end": 39883.894,
+      "title": "024"
+    },
+    {
+      "id": 24,
+      "start": 39883.894,
+      "end": 41617.008,
+      "title": "025"
+    },
+    {
+      "id": 25,
+      "start": 41617.008,
+      "end": 43469.543,
+      "title": "026"
+    },
+    {
+      "id": 26,
+      "start": 43469.543,
+      "end": 45546.939,
+      "title": "027"
+    },
+    {
+      "id": 27,
+      "start": 45546.939,
+      "end": 47768.531,
+      "title": "028"
+    },
+    {
+      "id": 28,
+      "start": 47768.531,
+      "end": 49040.335,
+      "title": "029"
+    },
+    {
+      "id": 29,
+      "start": 49040.335,
+      "end": 50918.574,
+      "title": "030"
+    },
+    {
+      "id": 30,
+      "start": 50918.574,
+      "end": 52459.403,
+      "title": "031"
+    },
+    {
+      "id": 31,
+      "start": 52459.403,
+      "end": 54344.097,
+      "title": "032"
+    },
+    {
+      "id": 32,
+      "start": 54344.097,
+      "end": 56748.593,
+      "title": "033"
+    },
+    {
+      "id": 33,
+      "start": 56748.593,
+      "end": 58233.115,
+      "title": "034"
+    },
+    {
+      "id": 34,
+      "start": 58233.115,
+      "end": 59008.359,
+      "title": "035"
+    },
+    {
+      "id": 35,
+      "start": 59008.359,
+      "end": 60430.024,
+      "title": "036"
+    },
+    {
+      "id": 36,
+      "start": 60430.024,
+      "end": 60888.293878,
+      "title": "037"
+    }
+  ],
+  "title": "The Dungeon Anarchist's Cookbook",
+  "subtitle": "Dungeon Crawler Carl, Book 3",
+  "authors": [
+    "Matt Dinniman"
+  ],
+  "narrators": [
+    "Jeff Hays",
+    "The Critical Drinker"
+  ],
+  "series": [
+    "Dungeon Crawler Carl #3"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2021-01-01",
+  "publishedDate": null,
+  "publisher": "Soundbooth Theater",
+  "description": "Welcome to the Gun Show! The top 10 list is populated. The sponsorship program is open. The difficulty is ramping up. The first three floors were nothing compared to what Carl and Donut now face.  The Iron Tangle. An impossibly complicated subway system built out of the world's subterranean railway systems, all combined and then tied together into a knot. Up is down. Down is up. Close is far. The cars are filled with monsters, the railway stations are less than safe, and the exit is always just a few stops away. But there is hope. For the first time, the crawlers are all working together. The loot is better than ever. And the secret to unraveling it all may be hidden in the pages of a seemingly useless book.  Welcome, crawlers. Welcome to the fourth floor of the dungeon.",
+  "isbn": null,
+  "asin": "B094XCNV6G",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

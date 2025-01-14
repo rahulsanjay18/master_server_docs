@@ -1,0 +1,242 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 86.448,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 86.448,
+      "end": 91.67999999999999,
+      "title": "Personal Matters"
+    },
+    {
+      "id": 2,
+      "start": 91.67999999999999,
+      "end": 775.896,
+      "title": "Introducing Myself"
+    },
+    {
+      "id": 3,
+      "start": 775.896,
+      "end": 1010.136,
+      "title": "Being Taken for Granite"
+    },
+    {
+      "id": 4,
+      "start": 1010.136,
+      "end": 2477.52,
+      "title": "Indian Uncles"
+    },
+    {
+      "id": 5,
+      "start": 2477.52,
+      "end": 2905.728,
+      "title": "My Libraries"
+    },
+    {
+      "id": 6,
+      "start": 2905.728,
+      "end": 3374.136,
+      "title": "My Island"
+    },
+    {
+      "id": 7,
+      "start": 3374.136,
+      "end": 3769.104,
+      "title": "On the Frontier"
+    },
+    {
+      "id": 8,
+      "start": 3769.104,
+      "end": 3772.9199999999996,
+      "title": "Readings"
+    },
+    {
+      "id": 9,
+      "start": 3772.9199999999996,
+      "end": 4437.7919999999995,
+      "title": "All Happy Families"
+    },
+    {
+      "id": 10,
+      "start": 4437.7919999999995,
+      "end": 5530.655999999999,
+      "title": "Things Not Actually Present: On the Book of Fantasy and J. L. Borges"
+    },
+    {
+      "id": 11,
+      "start": 5530.655999999999,
+      "end": 6984.239999999999,
+      "title": "Reading Young, Reading Old: Mark Twain's Diaries of Adam and Eve"
+    },
+    {
+      "id": 12,
+      "start": 6984.239999999999,
+      "end": 8705.471999999998,
+      "title": "Thinking About Cordwainer Smith"
+    },
+    {
+      "id": 13,
+      "start": 8705.471999999998,
+      "end": 11727.983999999999,
+      "title": "Stress-Rhythm in Poetry and Prose"
+    },
+    {
+      "id": 14,
+      "start": 11727.983999999999,
+      "end": 13588.511999999999,
+      "title": "Rhythmic Pattern in the Lord of the Rings"
+    },
+    {
+      "id": 15,
+      "start": 13588.511999999999,
+      "end": 14699.471999999998,
+      "title": "The Wilderness Within: The Sleeping Beauty and \"The Poacher\" and a PS about Sylvia Townsend Warner"
+    },
+    {
+      "id": 16,
+      "start": 14699.471999999998,
+      "end": 15404.159999999998,
+      "title": "Off the Page: Loud Cows: A Talk and a Poem About Reading Aloud"
+    },
+    {
+      "id": 17,
+      "start": 15404.159999999998,
+      "end": 15409.199999999999,
+      "title": "Discussions and Opinions"
+    },
+    {
+      "id": 18,
+      "start": 15409.199999999999,
+      "end": 17263.512,
+      "title": "Fact and/or/plus Fiction"
+    },
+    {
+      "id": 19,
+      "start": 17263.512,
+      "end": 18544.248,
+      "title": "Award and Gender"
+    },
+    {
+      "id": 20,
+      "start": 18544.248,
+      "end": 19598.664,
+      "title": "On Genetic Determinism"
+    },
+    {
+      "id": 21,
+      "start": 19598.664,
+      "end": 19998.792,
+      "title": "About Feet"
+    },
+    {
+      "id": 22,
+      "start": 19998.792,
+      "end": 20991.168,
+      "title": "Dogs, Cats, and Dancers: Thoughts About Beauty"
+    },
+    {
+      "id": 23,
+      "start": 20991.168,
+      "end": 22887.24,
+      "title": "Collectors, Rhymesters, and Drummers"
+    },
+    {
+      "id": 24,
+      "start": 22887.24,
+      "end": 25736.688000000002,
+      "title": "Telling Is Listening"
+    },
+    {
+      "id": 25,
+      "start": 25736.688000000002,
+      "end": 26341.68,
+      "title": "The Operating Instructions"
+    },
+    {
+      "id": 26,
+      "start": 26341.68,
+      "end": 27726.912,
+      "title": "\"A War Without End\""
+    },
+    {
+      "id": 27,
+      "start": 27726.912,
+      "end": 27730.8,
+      "title": "On Writing"
+    },
+    {
+      "id": 28,
+      "start": 27730.8,
+      "end": 29232.048,
+      "title": "A Matter of Trust"
+    },
+    {
+      "id": 29,
+      "start": 29232.048,
+      "end": 29837.376,
+      "title": "The Writer and the Character"
+    },
+    {
+      "id": 30,
+      "start": 29837.376,
+      "end": 31096.824,
+      "title": "Unquestioned Assumptions"
+    },
+    {
+      "id": 31,
+      "start": 31096.824,
+      "end": 32307.84,
+      "title": "Prides: An Essay on Writing Workshops"
+    },
+    {
+      "id": 32,
+      "start": 32307.84,
+      "end": 35388.456,
+      "title": "The Question I Get Asked Most Often"
+    },
+    {
+      "id": 33,
+      "start": 35388.456,
+      "end": 36137.544,
+      "title": "Old Body Not Writing"
+    },
+    {
+      "id": 34,
+      "start": 36137.544,
+      "end": 36882.840000000004,
+      "title": "The Writer on, and at, Her Work"
+    },
+    {
+      "id": 35,
+      "start": 36882.840000000004,
+      "end": 36927.816000000006,
+      "title": "End"
+    }
+  ],
+  "title": "The Wave in the Mind: Talks and Essays on the Writer, the Reader, and the Imagination",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "287mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2004",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Christina Moore",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

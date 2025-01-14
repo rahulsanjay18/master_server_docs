@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Persuasion (read by Anna Massey)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Persuasion (read by Anna Massey)
+date=1817
+TRACKTOTAL=24

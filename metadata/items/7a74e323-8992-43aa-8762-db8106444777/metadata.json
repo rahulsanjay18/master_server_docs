@@ -1,0 +1,340 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 607.503673,
+      "title": "Ghost Story (The Dresden File, Book 13) - 001"
+    },
+    {
+      "id": 1,
+      "start": 607.503673,
+      "end": 2138.331428,
+      "title": "Ghost Story (The Dresden File, Book 13) - 002"
+    },
+    {
+      "id": 2,
+      "start": 2138.331428,
+      "end": 3409.60653,
+      "title": "Ghost Story (The Dresden File, Book 13) - 003"
+    },
+    {
+      "id": 3,
+      "start": 3409.60653,
+      "end": 3980.408163,
+      "title": "Ghost Story (The Dresden File, Book 13) - 004"
+    },
+    {
+      "id": 4,
+      "start": 3980.408163,
+      "end": 5419.41551,
+      "title": "Ghost Story (The Dresden File, Book 13) - 005"
+    },
+    {
+      "id": 5,
+      "start": 5419.41551,
+      "end": 6836.636734,
+      "title": "Ghost Story (The Dresden File, Book 13) - 006"
+    },
+    {
+      "id": 6,
+      "start": 6836.636734,
+      "end": 7638.386938,
+      "title": "Ghost Story (The Dresden File, Book 13) - 007"
+    },
+    {
+      "id": 7,
+      "start": 7638.386938,
+      "end": 8952.241632,
+      "title": "Ghost Story (The Dresden File, Book 13) - 008"
+    },
+    {
+      "id": 8,
+      "start": 8952.241632,
+      "end": 10966.413061,
+      "title": "Ghost Story (The Dresden File, Book 13) - 009"
+    },
+    {
+      "id": 9,
+      "start": 10966.413061,
+      "end": 12501.368163,
+      "title": "Ghost Story (The Dresden File, Book 13) - 010"
+    },
+    {
+      "id": 10,
+      "start": 12501.368163,
+      "end": 13736.777143,
+      "title": "Ghost Story (The Dresden File, Book 13) - 011"
+    },
+    {
+      "id": 11,
+      "start": 13736.777143,
+      "end": 14569.926531,
+      "title": "Ghost Story (The Dresden File, Book 13) - 012"
+    },
+    {
+      "id": 12,
+      "start": 14569.926531,
+      "end": 16535.327347,
+      "title": "Ghost Story (The Dresden File, Book 13) - 013"
+    },
+    {
+      "id": 13,
+      "start": 16535.327347,
+      "end": 18449.867755,
+      "title": "Ghost Story (The Dresden File, Book 13) - 014"
+    },
+    {
+      "id": 14,
+      "start": 18449.867755,
+      "end": 19547.115102,
+      "title": "Ghost Story (The Dresden File, Book 13) - 015"
+    },
+    {
+      "id": 15,
+      "start": 19547.115102,
+      "end": 20651.937959,
+      "title": "Ghost Story (The Dresden File, Book 13) - 016"
+    },
+    {
+      "id": 16,
+      "start": 20651.937959,
+      "end": 21762.899591999998,
+      "title": "Ghost Story (The Dresden File, Book 13) - 017"
+    },
+    {
+      "id": 17,
+      "start": 21762.899591999998,
+      "end": 23657.665306,
+      "title": "Ghost Story (The Dresden File, Book 13) - 018"
+    },
+    {
+      "id": 18,
+      "start": 23657.665306,
+      "end": 24131.134694,
+      "title": "Ghost Story (The Dresden File, Book 13) - 019"
+    },
+    {
+      "id": 19,
+      "start": 24131.134694,
+      "end": 25373.936327,
+      "title": "Ghost Story (The Dresden File, Book 13) - 020"
+    },
+    {
+      "id": 20,
+      "start": 25373.936327,
+      "end": 26478.654694,
+      "title": "Ghost Story (The Dresden File, Book 13) - 021"
+    },
+    {
+      "id": 21,
+      "start": 26478.654694,
+      "end": 27895.823674,
+      "title": "Ghost Story (The Dresden File, Book 13) - 022"
+    },
+    {
+      "id": 22,
+      "start": 27895.823674,
+      "end": 28748.538775999998,
+      "title": "Ghost Story (The Dresden File, Book 13) - 023"
+    },
+    {
+      "id": 23,
+      "start": 28748.538775999998,
+      "end": 29344.705306999997,
+      "title": "Ghost Story (The Dresden File, Book 13) - 024"
+    },
+    {
+      "id": 24,
+      "start": 29344.705306999997,
+      "end": 30565.773061999997,
+      "title": "Ghost Story (The Dresden File, Book 13) - 025"
+    },
+    {
+      "id": 25,
+      "start": 30565.773061999997,
+      "end": 31628.251428999996,
+      "title": "Ghost Story (The Dresden File, Book 13) - 026"
+    },
+    {
+      "id": 26,
+      "start": 31628.251428999996,
+      "end": 33072.40489799999,
+      "title": "Ghost Story (The Dresden File, Book 13) - 027"
+    },
+    {
+      "id": 27,
+      "start": 33072.40489799999,
+      "end": 34203.428571,
+      "title": "Ghost Story (The Dresden File, Book 13) - 028"
+    },
+    {
+      "id": 28,
+      "start": 34203.428571,
+      "end": 35192.346121999995,
+      "title": "Ghost Story (The Dresden File, Book 13) - 029"
+    },
+    {
+      "id": 29,
+      "start": 35192.346121999995,
+      "end": 36334.367346,
+      "title": "Ghost Story (The Dresden File, Book 13) - 030"
+    },
+    {
+      "id": 30,
+      "start": 36334.367346,
+      "end": 37291.049795,
+      "title": "Ghost Story (The Dresden File, Book 13) - 031"
+    },
+    {
+      "id": 31,
+      "start": 37291.049795,
+      "end": 38702.602448,
+      "title": "Ghost Story (The Dresden File, Book 13) - 032"
+    },
+    {
+      "id": 32,
+      "start": 38702.602448,
+      "end": 39329.933059999996,
+      "title": "Ghost Story (The Dresden File, Book 13) - 033"
+    },
+    {
+      "id": 33,
+      "start": 39329.933059999996,
+      "end": 40406.700407,
+      "title": "Ghost Story (The Dresden File, Book 13) - 034"
+    },
+    {
+      "id": 34,
+      "start": 40406.700407,
+      "end": 41505.54122299999,
+      "title": "Ghost Story (The Dresden File, Book 13) - 035"
+    },
+    {
+      "id": 35,
+      "start": 41505.54122299999,
+      "end": 42217.064487999996,
+      "title": "Ghost Story (The Dresden File, Book 13) - 036"
+    },
+    {
+      "id": 36,
+      "start": 42217.064487999996,
+      "end": 43649.436732999995,
+      "title": "Ghost Story (The Dresden File, Book 13) - 037"
+    },
+    {
+      "id": 37,
+      "start": 43649.436732999995,
+      "end": 44948.897956999994,
+      "title": "Ghost Story (The Dresden File, Book 13) - 038"
+    },
+    {
+      "id": 38,
+      "start": 44948.897956999994,
+      "end": 46070.021221999996,
+      "title": "Ghost Story (The Dresden File, Book 13) - 039"
+    },
+    {
+      "id": 39,
+      "start": 46070.021221999996,
+      "end": 46842.331426,
+      "title": "Ghost Story (The Dresden File, Book 13) - 040"
+    },
+    {
+      "id": 40,
+      "start": 46842.331426,
+      "end": 47984.901222,
+      "title": "Ghost Story (The Dresden File, Book 13) - 041"
+    },
+    {
+      "id": 41,
+      "start": 47984.901222,
+      "end": 48681.1951,
+      "title": "Ghost Story (The Dresden File, Book 13) - 042"
+    },
+    {
+      "id": 42,
+      "start": 48681.1951,
+      "end": 49815.2751,
+      "title": "Ghost Story (The Dresden File, Book 13) - 043"
+    },
+    {
+      "id": 43,
+      "start": 49815.2751,
+      "end": 50612.950202,
+      "title": "Ghost Story (The Dresden File, Book 13) - 044"
+    },
+    {
+      "id": 44,
+      "start": 50612.950202,
+      "end": 51841.72408,
+      "title": "Ghost Story (The Dresden File, Book 13) - 045"
+    },
+    {
+      "id": 45,
+      "start": 51841.72408,
+      "end": 53391.673468,
+      "title": "Ghost Story (The Dresden File, Book 13) - 046"
+    },
+    {
+      "id": 46,
+      "start": 53391.673468,
+      "end": 55146.057141,
+      "title": "Ghost Story (The Dresden File, Book 13) - 047"
+    },
+    {
+      "id": 47,
+      "start": 55146.057141,
+      "end": 56160.313468,
+      "title": "Ghost Story (The Dresden File, Book 13) - 048"
+    },
+    {
+      "id": 48,
+      "start": 56160.313468,
+      "end": 58732.826121,
+      "title": "Ghost Story (The Dresden File, Book 13) - 049"
+    },
+    {
+      "id": 49,
+      "start": 58732.826121,
+      "end": 62022.556733,
+      "title": "Ghost Story (The Dresden File, Book 13) - 050"
+    },
+    {
+      "id": 50,
+      "start": 62022.556733,
+      "end": 63369.325713,
+      "title": "Ghost Story (The Dresden File, Book 13) - 051"
+    },
+    {
+      "id": 51,
+      "start": 63369.325713,
+      "end": 63408.378774,
+      "title": "Ghost Story (The Dresden File, Book 13) - 052"
+    }
+  ],
+  "title": "The Dresden Files 13.0 - Ghost Story (Masters)",
+  "subtitle": null,
+  "authors": [
+    "James Marsters"
+  ],
+  "narrators": [
+    "Jim Butcher"
+  ],
+  "series": [
+    "Jim Butcher - Dresden Files 22GB #13"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2015-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Narrated by James Marsters.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

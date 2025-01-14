@@ -1,0 +1,429 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1782.735,
+      "title": " Chapter 001 "
+    },
+    {
+      "id": 1,
+      "start": 1782.735,
+      "end": 3955.566,
+      "title": " Chapter 002 "
+    },
+    {
+      "id": 2,
+      "start": 3955.566,
+      "end": 5610.638,
+      "title": " Chapter 003 "
+    },
+    {
+      "id": 3,
+      "start": 5610.638,
+      "end": 7064.532,
+      "title": " Chapter 004 "
+    },
+    {
+      "id": 4,
+      "start": 7064.532,
+      "end": 8264.633,
+      "title": " Chapter 005 "
+    },
+    {
+      "id": 5,
+      "start": 8264.633,
+      "end": 9031.449,
+      "title": " Chapter 006 "
+    },
+    {
+      "id": 6,
+      "start": 9031.449,
+      "end": 9930.572,
+      "title": " Chapter 007 "
+    },
+    {
+      "id": 7,
+      "start": 9930.572,
+      "end": 12280.478,
+      "title": " Chapter 008 "
+    },
+    {
+      "id": 8,
+      "start": 12280.478,
+      "end": 14257.146,
+      "title": " Chapter 009 "
+    },
+    {
+      "id": 9,
+      "start": 14257.146,
+      "end": 15925.268,
+      "title": " Chapter 010 "
+    },
+    {
+      "id": 10,
+      "start": 15925.268,
+      "end": 18257.573,
+      "title": " Chapter 011 "
+    },
+    {
+      "id": 11,
+      "start": 18257.573,
+      "end": 20610.73,
+      "title": " Chapter 012 "
+    },
+    {
+      "id": 12,
+      "start": 20610.73,
+      "end": 22486.624,
+      "title": " Chapter 013 "
+    },
+    {
+      "id": 13,
+      "start": 22486.624,
+      "end": 24290.258,
+      "title": " Chapter 014 "
+    },
+    {
+      "id": 14,
+      "start": 24290.258,
+      "end": 24979.799,
+      "title": " Chapter 015 "
+    },
+    {
+      "id": 15,
+      "start": 24979.799,
+      "end": 26867.675,
+      "title": " Chapter 016 "
+    },
+    {
+      "id": 16,
+      "start": 26867.675,
+      "end": 28089.695,
+      "title": " Chapter 017 "
+    },
+    {
+      "id": 17,
+      "start": 28089.695,
+      "end": 29933.406,
+      "title": " Chapter 018 "
+    },
+    {
+      "id": 18,
+      "start": 29933.406,
+      "end": 31506.697,
+      "title": " Chapter 019 "
+    },
+    {
+      "id": 19,
+      "start": 31506.697,
+      "end": 33814.854,
+      "title": " Chapter 020 "
+    },
+    {
+      "id": 20,
+      "start": 33814.854,
+      "end": 35996.323,
+      "title": " Chapter 021 "
+    },
+    {
+      "id": 21,
+      "start": 35996.323,
+      "end": 36754.501,
+      "title": " Chapter 022 "
+    },
+    {
+      "id": 22,
+      "start": 36754.501,
+      "end": 38115.702,
+      "title": " Chapter 023 "
+    },
+    {
+      "id": 23,
+      "start": 38115.702,
+      "end": 38963.51,
+      "title": " Chapter 024 "
+    },
+    {
+      "id": 24,
+      "start": 38963.51,
+      "end": 39987.743,
+      "title": " Chapter 025 "
+    },
+    {
+      "id": 25,
+      "start": 39987.743,
+      "end": 40411.461,
+      "title": " Chapter 026 "
+    },
+    {
+      "id": 26,
+      "start": 40411.461,
+      "end": 42493.827,
+      "title": " Chapter 027 "
+    },
+    {
+      "id": 27,
+      "start": 42493.827,
+      "end": 43598.958,
+      "title": " Chapter 028 "
+    },
+    {
+      "id": 28,
+      "start": 43598.958,
+      "end": 45049.881,
+      "title": " Chapter 029 "
+    },
+    {
+      "id": 29,
+      "start": 45049.881,
+      "end": 46710.386,
+      "title": " Chapter 030 "
+    },
+    {
+      "id": 30,
+      "start": 46710.386,
+      "end": 47099.832,
+      "title": " Chapter 031 "
+    },
+    {
+      "id": 31,
+      "start": 47099.832,
+      "end": 48442.549,
+      "title": " Chapter 032 "
+    },
+    {
+      "id": 32,
+      "start": 48442.549,
+      "end": 49477.602,
+      "title": " Chapter 033 "
+    },
+    {
+      "id": 33,
+      "start": 49477.602,
+      "end": 50192.034,
+      "title": " Chapter 034 "
+    },
+    {
+      "id": 34,
+      "start": 50192.034,
+      "end": 52969.048,
+      "title": " Chapter 035 "
+    },
+    {
+      "id": 35,
+      "start": 52969.048,
+      "end": 55343.706,
+      "title": " Chapter 036 "
+    },
+    {
+      "id": 36,
+      "start": 55343.706,
+      "end": 57094.305,
+      "title": " Chapter 037 "
+    },
+    {
+      "id": 37,
+      "start": 57094.305,
+      "end": 59477.462,
+      "title": " Chapter 038 "
+    },
+    {
+      "id": 38,
+      "start": 59477.462,
+      "end": 60964.375,
+      "title": " Chapter 039 "
+    },
+    {
+      "id": 39,
+      "start": 60964.375,
+      "end": 62837.297,
+      "title": " Chapter 040 "
+    },
+    {
+      "id": 40,
+      "start": 62837.297,
+      "end": 65284.402,
+      "title": " Chapter 041 "
+    },
+    {
+      "id": 41,
+      "start": 65284.402,
+      "end": 66765.649,
+      "title": " Chapter 042 "
+    },
+    {
+      "id": 42,
+      "start": 66765.649,
+      "end": 69431.022,
+      "title": " Chapter 043 "
+    },
+    {
+      "id": 43,
+      "start": 69431.022,
+      "end": 70783.307,
+      "title": " Chapter 044 "
+    },
+    {
+      "id": 44,
+      "start": 70783.307,
+      "end": 72938.63,
+      "title": " Chapter 045 "
+    },
+    {
+      "id": 45,
+      "start": 72938.63,
+      "end": 74293.236,
+      "title": " Chapter 046 "
+    },
+    {
+      "id": 46,
+      "start": 74293.236,
+      "end": 75113.505,
+      "title": " Chapter 047 "
+    },
+    {
+      "id": 47,
+      "start": 75113.505,
+      "end": 76981.55,
+      "title": " Chapter 048 "
+    },
+    {
+      "id": 48,
+      "start": 76981.55,
+      "end": 78217.177,
+      "title": " Chapter 049 "
+    },
+    {
+      "id": 49,
+      "start": 78217.177,
+      "end": 78923.343,
+      "title": " Chapter 050 "
+    },
+    {
+      "id": 50,
+      "start": 78923.343,
+      "end": 79783.411,
+      "title": " Chapter 051 "
+    },
+    {
+      "id": 51,
+      "start": 79783.411,
+      "end": 81523.7,
+      "title": " Chapter 052 "
+    },
+    {
+      "id": 52,
+      "start": 81523.7,
+      "end": 82786.727,
+      "title": " Chapter 053 "
+    },
+    {
+      "id": 53,
+      "start": 82786.727,
+      "end": 83687.383,
+      "title": " Chapter 054 "
+    },
+    {
+      "id": 54,
+      "start": 83687.383,
+      "end": 84449.09,
+      "title": " Chapter 055 "
+    },
+    {
+      "id": 55,
+      "start": 84449.09,
+      "end": 86705.698,
+      "title": " Chapter 056 "
+    },
+    {
+      "id": 56,
+      "start": 86705.698,
+      "end": 88836.78,
+      "title": " Chapter 057 "
+    },
+    {
+      "id": 57,
+      "start": 88836.78,
+      "end": 90631.683,
+      "title": " Chapter 058 "
+    },
+    {
+      "id": 58,
+      "start": 90631.683,
+      "end": 92440.889,
+      "title": " Chapter 059 "
+    },
+    {
+      "id": 59,
+      "start": 92440.889,
+      "end": 94230.312,
+      "title": " Chapter 060 "
+    },
+    {
+      "id": 60,
+      "start": 94230.312,
+      "end": 96111.407,
+      "title": " Chapter 061 "
+    },
+    {
+      "id": 61,
+      "start": 96111.407,
+      "end": 97454.868,
+      "title": " Chapter 062 "
+    },
+    {
+      "id": 62,
+      "start": 97454.868,
+      "end": 98625.154,
+      "title": " Chapter 063 "
+    },
+    {
+      "id": 63,
+      "start": 98625.154,
+      "end": 100570.661,
+      "title": " Chapter 064 "
+    },
+    {
+      "id": 64,
+      "start": 100570.661,
+      "end": 101243.065,
+      "title": " Chapter 065 "
+    },
+    {
+      "id": 65,
+      "start": 101243.065,
+      "end": 101806.66,
+      "title": " Chapter 066 "
+    },
+    {
+      "id": 66,
+      "start": 101806.66,
+      "end": 101830.856,
+      "title": " Chapter 067 "
+    }
+  ],
+  "title": "Iron Flame",
+  "subtitle": "DISCOVER THE GLOBAL PHENOMENON THAT EVERYONE CAN'T STOP TALKING ABOUT!",
+  "authors": [
+    "Rebecca Yarros"
+  ],
+  "narrators": [
+    "Rebecca Soler",
+    "Teddy Hamilton"
+  ],
+  "series": [],
+  "genres": [
+    "Fiction"
+  ],
+  "publishedYear": "2023",
+  "publishedDate": null,
+  "publisher": "Hachette UK",
+  "description": "The instant number one Sunday Times bestseller and thrilling sequel to the global phenomenon, Fourth Wing! THE IRON FLAME PAPERBACK EDITION INCLUDES A BRAND NEW CHAPTER FROM XADEN'S POINT OF VIEW! 'Yarros is the true inheritor of Harry Potter and inspires Hunger Games levels of devotion' Guardian 'Fear not, levels of fighting, rebelliousness and all-round sexiness are still sky-high' Daily Mail 'Iron Flame is on course to set the world alight' Glamour __________________________________________ SECRETS. SACRIFICE. SURVIVAL. Against all odds, Violet Sorrengail made it through her first year at Basgiath War College, but now, the real training begins. The stakes are higher than ever, and a determination to survive won't be enough this time. When a powerful new enemy threatens everything she cares about, including the man she loves, Violet must do whatever it takes to keep their secrets safe. One wrong move could have horrifying consequences - and as the web of lies spun by those in charge starts to unravel, nothing, not even dragon fire, may be enough to save them in the end. THE DEADLY SECOND YEAR AT BASGIATH AWAITS *THE STORM IS COMING . . . PRE-ORDER ONYX STORM TODAY. THE EPIC NEXT INSTALLMENT LANDS 21.01.2025* __________________________________________ MILLIONS OF READERS HAVE ALREADY GIVEN THE EMPYREAN SERIES FIVE STARS. 'Pure escapism - think Hunger Games meets Fifty Shades' The Sun 'We weren't expecting to become obsessed . . . but we very much are and we're not alone' Sunday Times Style 'This book contains an addictive, drug like essence that will make you relinquish all responsibility' Glamour 'Yarros had me hooked from the first chapter' Mail on Sunday 'The new publishing sensation' Daily Mail 'I couldn't put it down!' Millie Bobby Brown 'Throw in an enemies-to-lovers plotline, some life-threatening trials and the threat of war in the outside world, and you've got yourself a deliciously gripping dish, which I downed in one sitting' Stylist '2024 is the Year of the Dragon . . . Dive into a fantasy narrative featuring these mythical, winged creatures' Pop Sugar 'If I can convince you to read one book I recommend it would be this one' 'I didn't sleep, I didn't eat, and when I finished, I had the overwhelming urge to just start it all over again' 'There are some stories you read and enjoy but every so often you come across one that just obliterates everything and takes over your entire being within a few pages and becomes your world and personality. Well, this is the one' 'The world building in this was phenomenal. I lived, breathed and became a part of the college' 'You know when you finish a book, and it leaves an ache in your chest because it was so good, and now it's over? That's exactly how I feel after finishing Fourth Wing' OTHER BOOKS IN THE EMPYREAN SERIES: - FOURTH WING - IRON FLAME - ONYX STORM (21.01.2025 - available for pre-order now)",
+  "isbn": "9780349437040",
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

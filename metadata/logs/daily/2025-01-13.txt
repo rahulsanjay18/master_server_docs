@@ -1,0 +1,122 @@
+{"timestamp":"2025-01-13 18:44:42.858","source":"Server.js:189","message":"=== Starting Server ===","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:42.859","source":"Server.js:112","message":"[Server] Init v2.16.2","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:42.859","source":"Server.js:113","message":"[Server] Node.js Version: v20.18.0","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:42.859","source":"Server.js:114","message":"[Server] Platform: linux","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:42.859","source":"Server.js:115","message":"[Server] Arch: x64","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:42.864","source":"Database.js:201","message":"[Database] Initializing db at \"/config/absdatabase.sqlite\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:42.894","source":"Database.js:254","message":"[Database] Loading extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:42.895","source":"Database.js:262","message":"[Database] Successfully loaded extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:42.896","source":"Database.js:231","message":"[Database] Db supports unaccent and unicode foldings","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:42.896","source":"Database.js:235","message":"[Database] Db connection was successful","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:42.901","source":"MigrationManager.js:77","message":"[MigrationManager] Database is already up to date.","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:43.004","source":"Database.js:191","message":"[Database] Db initialized with models: user, library, libraryFolder, book, podcast, podcastEpisode, libraryItem, mediaProgress, series, bookSeries, author, bookAuthor, collection, collectionBook, playlist, playlistMediaItem, device, playbackSession, feed, feedEpisode, setting, customMetadataProvider, mediaItemShare","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:43.021","source":"LogManager.js:66","message":"[LogManager] Init current daily log filename: 2025-01-13.txt","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:43.028","source":"BackupManager.js:285","message":"[BackupManager] 0 Backups Found","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:43.028","source":"BackupManager.js:72","message":"[BackupManager] Auto Backups are disabled","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:44:43.043","source":"Server.js:356","message":"Listening on port :80","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:51:49.897","source":"Server.js:349","message":"Received ping","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:51:54.653","source":"Auth.js:888","message":"[Auth] Failed login attempt for username \"root\" from ip ::ffff:100.95.250.123 (User not found)","levelName":"ERROR","level":4}
+{"timestamp":"2025-01-13 18:52:02.989","source":"Auth.js:888","message":"[Auth] Failed login attempt for username \"root\" from ip ::ffff:100.95.250.123 (User not found)","levelName":"ERROR","level":4}
+{"timestamp":"2025-01-13 18:52:05.338","source":"Server.js:349","message":"Received ping","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:54:56.833","source":"Auth.js:888","message":"[Auth] Failed login attempt for username \"root\" from ip ::ffff:100.95.250.123 (User not found)","levelName":"ERROR","level":4}
+{"timestamp":"2025-01-13 18:55:04.794","source":"Auth.js:888","message":"[Auth] Failed login attempt for username \"root\" from ip ::ffff:100.95.250.123 (User not found)","levelName":"ERROR","level":4}
+{"timestamp":"2025-01-13 18:55:05.851","source":"Auth.js:888","message":"[Auth] Failed login attempt for username \"root\" from ip ::ffff:100.95.250.123 (User not found)","levelName":"ERROR","level":4}
+{"timestamp":"2025-01-13 18:55:50.305","source":"Auth.js:888","message":"[Auth] Failed login attempt for username \"root\" from ip ::ffff:100.95.250.123 (User not found)","levelName":"ERROR","level":4}
+{"timestamp":"2025-01-13 18:57:56.436","source":"Server.js:189","message":"=== Starting Server ===","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.437","source":"Server.js:112","message":"[Server] Init v2.16.2","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.437","source":"Server.js:113","message":"[Server] Node.js Version: v20.18.0","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.437","source":"Server.js:114","message":"[Server] Platform: linux","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.438","source":"Server.js:115","message":"[Server] Arch: x64","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.441","source":"Database.js:201","message":"[Database] Initializing db at \"/config/absdatabase.sqlite\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.466","source":"Database.js:254","message":"[Database] Loading extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.466","source":"Database.js:262","message":"[Database] Successfully loaded extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.466","source":"Database.js:231","message":"[Database] Db supports unaccent and unicode foldings","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.466","source":"Database.js:235","message":"[Database] Db connection was successful","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.470","source":"MigrationManager.js:77","message":"[MigrationManager] Database is already up to date.","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.567","source":"Database.js:191","message":"[Database] Db initialized with models: user, library, libraryFolder, book, podcast, podcastEpisode, libraryItem, mediaProgress, series, bookSeries, author, bookAuthor, collection, collectionBook, playlist, playlistMediaItem, device, playbackSession, feed, feedEpisode, setting, customMetadataProvider, mediaItemShare","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.589","source":"LogManager.js:117","message":"[LogManager] Removed daily log: 2024-11-10.txt","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.589","source":"LogManager.js:66","message":"[LogManager] Init current daily log filename: 2025-01-13.txt","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.596","source":"BackupManager.js:285","message":"[BackupManager] 0 Backups Found","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.596","source":"BackupManager.js:72","message":"[BackupManager] Auto Backups are disabled","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:57:56.617","source":"Server.js:356","message":"Listening on port :80","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:58:09.418","source":"Auth.js:888","message":"[Auth] Failed login attempt for username \"root\" from ip ::ffff:100.95.250.123 (User not found)","levelName":"ERROR","level":4}
+{"timestamp":"2025-01-13 18:58:12.643","source":"Server.js:349","message":"Received ping","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 18:58:19.220","source":"Auth.js:888","message":"[Auth] Failed login attempt for username \"root\" from ip ::ffff:100.95.250.123 (User not found)","levelName":"ERROR","level":4}
+{"timestamp":"2025-01-13 18:58:22.184","source":"Auth.js:888","message":"[Auth] Failed login attempt for username \"root\" from ip ::ffff:100.95.250.123 (User not found)","levelName":"ERROR","level":4}
+{"timestamp":"2025-01-13 19:00:44.517","source":"Server.js:189","message":"=== Starting Server ===","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.518","source":"Server.js:112","message":"[Server] Init v2.16.2","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.518","source":"Server.js:113","message":"[Server] Node.js Version: v20.18.0","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.519","source":"Server.js:114","message":"[Server] Platform: linux","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.519","source":"Server.js:115","message":"[Server] Arch: x64","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.524","source":"Database.js:201","message":"[Database] Initializing db at \"/config/absdatabase.sqlite\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.560","source":"Database.js:254","message":"[Database] Loading extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.560","source":"Database.js:262","message":"[Database] Successfully loaded extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.561","source":"Database.js:231","message":"[Database] Db supports unaccent and unicode foldings","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.561","source":"Database.js:235","message":"[Database] Db connection was successful","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.569","source":"MigrationManager.js:77","message":"[MigrationManager] Database is already up to date.","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.705","source":"Database.js:191","message":"[Database] Db initialized with models: user, library, libraryFolder, book, podcast, podcastEpisode, libraryItem, mediaProgress, series, bookSeries, author, bookAuthor, collection, collectionBook, playlist, playlistMediaItem, device, playbackSession, feed, feedEpisode, setting, customMetadataProvider, mediaItemShare","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.733","source":"LogManager.js:66","message":"[LogManager] Init current daily log filename: 2025-01-13.txt","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.741","source":"BackupManager.js:285","message":"[BackupManager] 0 Backups Found","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.742","source":"BackupManager.js:72","message":"[BackupManager] Auto Backups are disabled","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:00:44.757","source":"Server.js:356","message":"Listening on port :80","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.462","source":"Server.js:189","message":"=== Starting Server ===","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.463","source":"Server.js:112","message":"[Server] Init v2.16.2","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.463","source":"Server.js:113","message":"[Server] Node.js Version: v20.18.0","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.464","source":"Server.js:114","message":"[Server] Platform: linux","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.464","source":"Server.js:115","message":"[Server] Arch: x64","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.468","source":"Database.js:201","message":"[Database] Initializing db at \"/config/absdatabase.sqlite\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.496","source":"Database.js:254","message":"[Database] Loading extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.497","source":"Database.js:262","message":"[Database] Successfully loaded extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.497","source":"Database.js:231","message":"[Database] Db supports unaccent and unicode foldings","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.497","source":"Database.js:235","message":"[Database] Db connection was successful","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.501","source":"MigrationManager.js:77","message":"[MigrationManager] Database is already up to date.","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.589","source":"Database.js:191","message":"[Database] Db initialized with models: user, library, libraryFolder, book, podcast, podcastEpisode, libraryItem, mediaProgress, series, bookSeries, author, bookAuthor, collection, collectionBook, playlist, playlistMediaItem, device, playbackSession, feed, feedEpisode, setting, customMetadataProvider, mediaItemShare","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.607","source":"LogManager.js:66","message":"[LogManager] Init current daily log filename: 2025-01-13.txt","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.614","source":"BackupManager.js:285","message":"[BackupManager] 0 Backups Found","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.615","source":"BackupManager.js:72","message":"[BackupManager] Auto Backups are disabled","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:03:13.630","source":"Server.js:356","message":"Listening on port :80","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.658","source":"Server.js:189","message":"=== Starting Server ===","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.658","source":"Server.js:112","message":"[Server] Init v2.16.2","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.659","source":"Server.js:113","message":"[Server] Node.js Version: v20.18.0","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.659","source":"Server.js:114","message":"[Server] Platform: linux","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.659","source":"Server.js:115","message":"[Server] Arch: x64","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.663","source":"Database.js:201","message":"[Database] Initializing db at \"/config/absdatabase.sqlite\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.693","source":"Database.js:254","message":"[Database] Loading extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.694","source":"Database.js:262","message":"[Database] Successfully loaded extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.694","source":"Database.js:231","message":"[Database] Db supports unaccent and unicode foldings","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.694","source":"Database.js:235","message":"[Database] Db connection was successful","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.699","source":"MigrationManager.js:77","message":"[MigrationManager] Database is already up to date.","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:09.845","source":"Database.js:191","message":"[Database] Db initialized with models: user, library, libraryFolder, book, podcast, podcastEpisode, libraryItem, mediaProgress, series, bookSeries, author, bookAuthor, collection, collectionBook, playlist, playlistMediaItem, device, playbackSession, feed, feedEpisode, setting, customMetadataProvider, mediaItemShare","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:10.615","source":"LogManager.js:66","message":"[LogManager] Init current daily log filename: 2025-01-13.txt","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:10.629","source":"BackupManager.js:285","message":"[BackupManager] 0 Backups Found","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:10.630","source":"BackupManager.js:72","message":"[BackupManager] Auto Backups are disabled","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:10.651","source":"Watcher.js:57","message":"[Watcher] Initializing watcher for \"Audiobooks\".","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:10.653","source":"Watcher.js:57","message":"[Watcher] Initializing watcher for \"Podcasts\".","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:10.661","source":"Server.js:356","message":"Listening on port :80","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:10.721","source":"Watcher.js:88","message":"[Watcher] \"Podcasts\" Ready","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:08:12.249","source":"Watcher.js:88","message":"[Watcher] \"Audiobooks\" Ready","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:09:10.081","source":"Auth.js:870","message":"[Auth] User \"root\" logged in from ip ::ffff:100.95.250.123","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:09:10.252","source":"SocketAuthority.js:118","message":"[SocketAuthority] Socket Connected wKBNC7ijPEACTCMQAAAB","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 19:14:55.965","source":"SocketAuthority.js:145","message":"[SocketAuthority] Socket wKBNC7ijPEACTCMQAAAB disconnected from client \"root\" after 345713ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 21:13:06.745","source":"SocketAuthority.js:118","message":"[SocketAuthority] Socket Connected fCoD0QHObaQPr0-GAAAD","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 21:22:42.074","source":"SocketAuthority.js:145","message":"[SocketAuthority] Socket fCoD0QHObaQPr0-GAAAD disconnected from client \"root\" after 575330ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 21:39:59.610","source":"SocketAuthority.js:118","message":"[SocketAuthority] Socket Connected LJU335MLfgx5I0vhAAAF","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 21:45:12.116","source":"SocketAuthority.js:145","message":"[SocketAuthority] Socket LJU335MLfgx5I0vhAAAF disconnected from client \"root\" after 312507ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 22:33:29.926","source":"SocketAuthority.js:118","message":"[SocketAuthority] Socket Connected iVeWJ3vVxFmuDaYcAAAH","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 22:39:18.308","source":"SocketAuthority.js:145","message":"[SocketAuthority] Socket iVeWJ3vVxFmuDaYcAAAH disconnected from client \"root\" after 348381ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 22:44:11.883","source":"SocketAuthority.js:118","message":"[SocketAuthority] Socket Connected 61FEiGuXz9MF86fAAAAJ","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 22:49:34.808","source":"SocketAuthority.js:145","message":"[SocketAuthority] Socket 61FEiGuXz9MF86fAAAAJ disconnected from client \"root\" after 322925ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:06:21.455","source":"SocketAuthority.js:118","message":"[SocketAuthority] Socket Connected pM1GE1q6jDE8GZugAAAL","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:12:09.179","source":"SocketAuthority.js:145","message":"[SocketAuthority] Socket pM1GE1q6jDE8GZugAAAL disconnected from client \"root\" after 347724ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:13:26.994","source":"SocketAuthority.js:118","message":"[SocketAuthority] Socket Connected _FtmDIEmlkvGvM29AAAN","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:14:03.680","source":"LibraryItemController.js:899","message":"[LibraryItemController] User \"root\" requested download for item \"The History of Sexuality, Vol. 1\" ebook at \"/audiobooks/Michel Foucault - The History of Sexuality/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction.pdf\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:14:03.735","source":"LibraryItemController.js:909","message":"[LibraryItemController] Downloaded ebook file \"/audiobooks/Michel Foucault - The History of Sexuality/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction.pdf\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:14:41.199","source":"LibraryItemController.js:899","message":"[LibraryItemController] User \"root\" requested download for item \"The History of Sexuality, Vol. 1\" ebook at \"/audiobooks/Michel Foucault - The History of Sexuality/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction.pdf\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:14:41.201","source":"LibraryItemController.js:909","message":"[LibraryItemController] Downloaded ebook file \"/audiobooks/Michel Foucault - The History of Sexuality/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction.pdf\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:15:38.489","source":"LibraryItemController.js:899","message":"[LibraryItemController] User \"root\" requested download for item \"The History of Sexuality, Vol. 1\" ebook at \"/audiobooks/Michel Foucault - The History of Sexuality/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction.pdf\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:15:38.490","source":"LibraryItemController.js:909","message":"[LibraryItemController] Downloaded ebook file \"/audiobooks/Michel Foucault - The History of Sexuality/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction.pdf\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:18:21.560","source":"LibraryItemController.js:899","message":"[LibraryItemController] User \"root\" requested download for item \"The History of Sexuality, Vol. 1\" ebook at \"/audiobooks/Michel Foucault - The History of Sexuality/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction.pdf\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:18:21.561","source":"LibraryItemController.js:909","message":"[LibraryItemController] Downloaded ebook file \"/audiobooks/Michel Foucault - The History of Sexuality/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction/Michel Foucault - The History of Sexuality Vol. 1 - An Introduction.pdf\"","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:41:59.750","source":"PlaybackSessionManager.js:291","message":"[PlaybackSessionManager] startSession: Closing open session \"The History of Sexuality, Vol. 1\" for user \"root\" (Device: SM-S921U SDK 34 / v0.9.76-beta)","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:50:58.077","source":"SocketAuthority.js:145","message":"[SocketAuthority] Socket _FtmDIEmlkvGvM29AAAN disconnected from client \"root\" after 2251084ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2025-01-13 23:51:11.799","source":"SocketAuthority.js:118","message":"[SocketAuthority] Socket Connected zAxD9O6O_1rIKWpqAAAP","levelName":"INFO","level":2}

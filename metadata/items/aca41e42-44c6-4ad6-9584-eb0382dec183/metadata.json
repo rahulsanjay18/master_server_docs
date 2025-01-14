@@ -1,0 +1,76 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 322.405625,
+      "title": "01 Part 1"
+    },
+    {
+      "id": 1,
+      "start": 322.405625,
+      "end": 539.6660469999999,
+      "title": "02 Part 2"
+    },
+    {
+      "id": 2,
+      "start": 539.6660469999999,
+      "end": 972.410547,
+      "title": "03 Part 3"
+    },
+    {
+      "id": 3,
+      "start": 972.410547,
+      "end": 1223.839136,
+      "title": "04 Part 4"
+    },
+    {
+      "id": 4,
+      "start": 1223.839136,
+      "end": 1501.28568,
+      "title": "05 Part 5"
+    },
+    {
+      "id": 5,
+      "start": 1501.28568,
+      "end": 2314.869391,
+      "title": "06 Part 6"
+    },
+    {
+      "id": 6,
+      "start": 2314.869391,
+      "end": 2869.004935,
+      "title": "07 Part 7"
+    },
+    {
+      "id": 7,
+      "start": 2869.004935,
+      "end": 4075.1568129999996,
+      "title": "08 Part 8"
+    },
+    {
+      "id": 8,
+      "start": 4075.1568129999996,
+      "end": 4148.665402,
+      "title": "09 Part 9"
+    }
+  ],
+  "title": "Media Control: The Spectacular Achievements Of Propaganda",
+  "subtitle": null,
+  "authors": [
+    "Noam Chomsky"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2005-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

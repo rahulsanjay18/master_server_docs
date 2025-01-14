@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=Mansfield Park by Jane Austen
+artist=Jane Jane Austen
+album_artist=Jane Jane Austen
+album=Mansfield Park by Jane Austen
+date=1814
+comment=A masterpiece. A must-read.
+description=A masterpiece. A must-read.
+TRACKTOTAL=48

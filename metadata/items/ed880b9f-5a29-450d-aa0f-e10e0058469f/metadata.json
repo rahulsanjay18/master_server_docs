@@ -1,0 +1,374 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 7.94,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 7.94,
+      "end": 8.253,
+      "title": "Dedication",
+      "id": 1
+    },
+    {
+      "start": 8.280816,
+      "end": 13.876816,
+      "title": "Dedication",
+      "id": 2
+    },
+    {
+      "start": 13.876816,
+      "end": 14.147815999999999,
+      "title": "Part One: Chiba City Blues",
+      "id": 3
+    },
+    {
+      "start": 14.184489,
+      "end": 19.816488999999997,
+      "title": "Part One: Chiba City Blues",
+      "id": 4
+    },
+    {
+      "start": 19.816488999999997,
+      "end": 20.064489,
+      "title": "Chapter 1",
+      "id": 5
+    },
+    {
+      "start": 20.114285,
+      "end": 3215.937285,
+      "title": "Chapter 1",
+      "id": 6
+    },
+    {
+      "start": 3215.937285,
+      "end": 3216.2042850000003,
+      "title": "Chapter 2",
+      "id": 7
+    },
+    {
+      "start": 3216.248163,
+      "end": 4901.981163,
+      "title": "Chapter 2",
+      "id": 8
+    },
+    {
+      "start": 4901.981163,
+      "end": 4902.248163,
+      "title": "Part Two: The Shopping Expedition",
+      "id": 9
+    },
+    {
+      "start": 4902.29551,
+      "end": 4906.72451,
+      "title": "Part Two: The Shopping Expedition",
+      "id": 10
+    },
+    {
+      "start": 4906.72451,
+      "end": 4906.88251,
+      "title": "Chapter 3",
+      "id": 11
+    },
+    {
+      "start": 4906.919183,
+      "end": 6391.227183,
+      "title": "Chapter 3",
+      "id": 12
+    },
+    {
+      "start": 6391.227183,
+      "end": 6391.549183,
+      "title": "Chapter 4",
+      "id": 13
+    },
+    {
+      "start": 6391.588571,
+      "end": 8352.399571,
+      "title": "Chapter 4",
+      "id": 14
+    },
+    {
+      "start": 8352.470204000001,
+      "end": 9441.633204000002,
+      "title": "Chapter 5",
+      "id": 15
+    },
+    {
+      "start": 9441.633204000002,
+      "end": 9441.740204000002,
+      "title": "Chapter 6",
+      "id": 16
+    },
+    {
+      "start": 9441.776326000001,
+      "end": 10030.178326000001,
+      "title": "Chapter 6",
+      "id": 17
+    },
+    {
+      "start": 10030.178326000001,
+      "end": 10030.456326000001,
+      "title": "Chapter 7",
+      "id": 18
+    },
+    {
+      "start": 10030.497959,
+      "end": 11566.391959,
+      "title": "Chapter 7",
+      "id": 19
+    },
+    {
+      "start": 11566.391959,
+      "end": 11566.707959,
+      "title": "Part Three: Midnight in the Rue Jules Verne",
+      "id": 20
+    },
+    {
+      "start": 11566.759183,
+      "end": 11572.613183,
+      "title": "Part Three: Midnight in the Rue Jules Verne",
+      "id": 21
+    },
+    {
+      "start": 11572.688979,
+      "end": 12849.407979,
+      "title": "Chapter 8",
+      "id": 22
+    },
+    {
+      "start": 12849.407979,
+      "end": 12849.698979,
+      "title": "Chapter 9",
+      "id": 23
+    },
+    {
+      "start": 12849.737142,
+      "end": 13916.853142,
+      "title": "Chapter 9",
+      "id": 24
+    },
+    {
+      "start": 13916.969795,
+      "end": 15609.387795,
+      "title": "Chapter 10",
+      "id": 25
+    },
+    {
+      "start": 15609.387795,
+      "end": 15609.639795000001,
+      "title": "Chapter 11",
+      "id": 26
+    },
+    {
+      "start": 15609.678366,
+      "end": 17350.985366,
+      "title": "Chapter 11",
+      "id": 27
+    },
+    {
+      "start": 17350.985366,
+      "end": 17351.128366,
+      "title": "Chapter 12",
+      "id": 28
+    },
+    {
+      "start": 17351.15755,
+      "end": 18089.45855,
+      "title": "Chapter 12",
+      "id": 29
+    },
+    {
+      "start": 18089.45855,
+      "end": 18089.69055,
+      "title": "Part Four: The Straylight Run",
+      "id": 30
+    },
+    {
+      "start": 18089.71755,
+      "end": 18095.310550000002,
+      "title": "Part Four: The Straylight Run",
+      "id": 31
+    },
+    {
+      "start": 18095.310550000002,
+      "end": 18095.57155,
+      "title": "Chapter 13",
+      "id": 32
+    },
+    {
+      "start": 18095.621223000002,
+      "end": 18851.346223,
+      "title": "Chapter 13",
+      "id": 33
+    },
+    {
+      "start": 18851.346223,
+      "end": 18851.527223,
+      "title": "Chapter 14",
+      "id": 34
+    },
+    {
+      "start": 18851.578774,
+      "end": 19997.400774,
+      "title": "Chapter 14",
+      "id": 35
+    },
+    {
+      "start": 19997.400774,
+      "end": 19997.578774,
+      "title": "Chapter 15",
+      "id": 36
+    },
+    {
+      "start": 19997.622856,
+      "end": 21594.814856,
+      "title": "Chapter 15",
+      "id": 37
+    },
+    {
+      "start": 21594.814856,
+      "end": 21595.112856000003,
+      "title": "Chapter 16",
+      "id": 38
+    },
+    {
+      "start": 21595.141223000002,
+      "end": 23195.616223,
+      "title": "Chapter 16",
+      "id": 39
+    },
+    {
+      "start": 23195.616223,
+      "end": 23195.851223,
+      "title": "Chapter 17",
+      "id": 40
+    },
+    {
+      "start": 23195.898774,
+      "end": 24585.781774000003,
+      "title": "Chapter 17",
+      "id": 41
+    },
+    {
+      "start": 24585.781774000003,
+      "end": 24586.048774000003,
+      "title": "Chapter 18",
+      "id": 42
+    },
+    {
+      "start": 24586.083264,
+      "end": 25937.446264000002,
+      "title": "Chapter 18",
+      "id": 43
+    },
+    {
+      "start": 25937.446264000002,
+      "end": 25937.653264,
+      "title": "Chapter 19",
+      "id": 44
+    },
+    {
+      "start": 25937.684897,
+      "end": 26660.314897,
+      "title": "Chapter 19",
+      "id": 45
+    },
+    {
+      "start": 26660.414693,
+      "end": 27927.154693,
+      "title": "Chapter 20",
+      "id": 46
+    },
+    {
+      "start": 27927.196733999997,
+      "end": 28460.684734,
+      "title": "Chapter 21",
+      "id": 47
+    },
+    {
+      "start": 28460.684734,
+      "end": 28460.916734,
+      "title": "Chapter 22",
+      "id": 48
+    },
+    {
+      "start": 28460.956733999996,
+      "end": 29326.824733999994,
+      "title": "Chapter 22",
+      "id": 49
+    },
+    {
+      "start": 29326.824733999994,
+      "end": 29327.063733999996,
+      "title": "Chapter 23",
+      "id": 50
+    },
+    {
+      "start": 29327.098774999995,
+      "end": 30294.581774999995,
+      "title": "Chapter 23",
+      "id": 51
+    },
+    {
+      "start": 30294.581774999995,
+      "end": 30294.725774999995,
+      "title": "Coda: Departure and Arrival",
+      "id": 52
+    },
+    {
+      "start": 30294.752652999996,
+      "end": 30298.935652999997,
+      "title": "Coda: Departure and Arrival",
+      "id": 53
+    },
+    {
+      "start": 30298.935652999997,
+      "end": 30299.152652999997,
+      "title": "Chapter 24",
+      "id": 54
+    },
+    {
+      "start": 30299.193468999994,
+      "end": 30756.845468999993,
+      "title": "Chapter 24",
+      "id": 55
+    },
+    {
+      "start": 30756.845468999993,
+      "end": 30757.019468999995,
+      "title": "End Credits",
+      "id": 56
+    },
+    {
+      "start": 30757.067754999993,
+      "end": 30778.335754999993,
+      "title": "End Credits",
+      "id": 57
+    }
+  ],
+  "title": "Neuromancer: Sprawl Trilogy, Book 1",
+  "subtitle": null,
+  "authors": [
+    "William Gibson"
+  ],
+  "narrators": [
+    "Jason Flemyng"
+  ],
+  "series": [],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2021",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "The sky above the port was the colour of television, tuned to a dead channel....",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,95 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 39.682,
+      "title": "Intro - Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 39.682,
+      "end": 779.238,
+      "title": "Epigraph"
+    },
+    {
+      "id": 2,
+      "start": 779.238,
+      "end": 4029.428,
+      "title": "Chapter 1"
+    },
+    {
+      "id": 3,
+      "start": 4029.428,
+      "end": 5505.311,
+      "title": "Chapter 2"
+    },
+    {
+      "id": 4,
+      "start": 5505.311,
+      "end": 9217.068,
+      "title": "Chapter 3"
+    },
+    {
+      "id": 5,
+      "start": 9217.068,
+      "end": 13768.713,
+      "title": "Chapter 4"
+    },
+    {
+      "id": 6,
+      "start": 13768.713,
+      "end": 14356.085,
+      "title": "Chapter 5"
+    },
+    {
+      "id": 7,
+      "start": 14356.085,
+      "end": 20241.948,
+      "title": "Chapter 6"
+    },
+    {
+      "id": 8,
+      "start": 20241.948,
+      "end": 22454.392,
+      "title": "Chapter 6"
+    },
+    {
+      "id": 9,
+      "start": 22454.392,
+      "end": 25220.121,
+      "title": "Chapter 7"
+    },
+    {
+      "id": 10,
+      "start": 25220.121,
+      "end": 25345.485,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Sword Art Online, Vol. 05: Phantom Bullet",
+  "subtitle": null,
+  "authors": [
+    "Bryce Papenbrook",
+    "Cherami Leigh"
+  ],
+  "narrators": [
+    "Reki Kawahara"
+  ],
+  "series": [
+    "Sword Art Online #05"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "August 10, 2010 (05-10-22)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

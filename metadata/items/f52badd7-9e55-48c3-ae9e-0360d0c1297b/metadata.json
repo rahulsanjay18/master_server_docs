@@ -1,0 +1,40 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 50.8865,
+      "title": "01"
+    },
+    {
+      "id": 1,
+      "start": 50.8865,
+      "end": 3626.6841,
+      "title": "02"
+    }
+  ],
+  "title": "The Dresden Files 10.3 - Last Call",
+  "subtitle": null,
+  "authors": [
+    "Jim Butcher"
+  ],
+  "narrators": [
+    "Jim Butcher"
+  ],
+  "series": [
+    "Jim Butcher - Dresden Files 22GB #10.3"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

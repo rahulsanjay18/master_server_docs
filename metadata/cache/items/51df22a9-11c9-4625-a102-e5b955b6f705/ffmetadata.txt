@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Rise of the Dragon: An Illustrated History of the Targaryen Dynasty: Volume One
+artist=George R. R. Martin, Elio M. García, Linda Antonsson
+album_artist=George R. R. Martin, Elio M. García, Linda Antonsson
+album=The Rise of the Dragon: An Illustrated History of the Targaryen Dynasty: Volume One
+genre=Audio Book
+date=2022
+comment=Read by Harry Lloyd
+description=Read by Harry Lloyd
+composer=462mb
+TRACKTOTAL=30

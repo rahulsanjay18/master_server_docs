@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Path of Daggers (The Wheel of Time \#8)
+artist=Robert Jordan
+album_artist=Robert Jordan
+album=The Path of Daggers (The Wheel of Time \#8)
+genre=Audiobook
+date=1998-01-01
+TRACKTOTAL=36
+grouping=Robert Jordan - The Wheel of Time 12GB

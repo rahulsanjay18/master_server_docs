@@ -1,0 +1,264 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 10.057143,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 10.057143,
+      "end": 17.084082,
+      "title": "Part One: Silent Spring"
+    },
+    {
+      "id": 2,
+      "start": 17.084082,
+      "end": 1979.637551,
+      "title": "Chapter One: The Madness Years"
+    },
+    {
+      "id": 3,
+      "start": 1979.637551,
+      "end": 4545.933061,
+      "title": "Chapter Two: Silent Spring"
+    },
+    {
+      "id": 4,
+      "start": 4545.933061,
+      "end": 5758.981223999999,
+      "title": "Chapter Three: Red Coast I"
+    },
+    {
+      "id": 5,
+      "start": 5758.981223999999,
+      "end": 5766.034284999999,
+      "title": "Part Two: Three Body"
+    },
+    {
+      "id": 6,
+      "start": 5766.034284999999,
+      "end": 7968.052243999999,
+      "title": "Chapter Four: The Frontiers of Science"
+    },
+    {
+      "id": 7,
+      "start": 7968.052243999999,
+      "end": 8703.085712999999,
+      "title": "Chapter Five: A Game of Pool"
+    },
+    {
+      "id": 8,
+      "start": 8703.085712999999,
+      "end": 11801.025305,
+      "title": "Chapter Six: The Shooter and the Farmer"
+    },
+    {
+      "id": 9,
+      "start": 11801.025305,
+      "end": 14372.075100999999,
+      "title": "Chapter Seven: Three Body - King Wen of Zhou and the Long Night"
+    },
+    {
+      "id": 10,
+      "start": 14372.075100999999,
+      "end": 15401.142855999999,
+      "title": "Chapter Eight: Ye Wenjie"
+    },
+    {
+      "id": 11,
+      "start": 15401.142855999999,
+      "end": 16968.202448,
+      "title": "Chapter Nine: The Universe Flickers"
+    },
+    {
+      "id": 12,
+      "start": 16968.202448,
+      "end": 18020.231836,
+      "title": "Chapter Ten: Da Shi"
+    },
+    {
+      "id": 13,
+      "start": 18020.231836,
+      "end": 19781.355100999997,
+      "title": "Chapter Eleven: Three Body: Mozi and Fiery Flames"
+    },
+    {
+      "id": 14,
+      "start": 19781.355100999997,
+      "end": 21413.302856,
+      "title": "Chapter Twelve: Red Coast II"
+    },
+    {
+      "id": 15,
+      "start": 21413.302856,
+      "end": 22654.458774,
+      "title": "Chapter Thirteen: Red Coast III"
+    },
+    {
+      "id": 16,
+      "start": 22654.458774,
+      "end": 23480.163264,
+      "title": "Chapter Fourteen: Red Coast IV"
+    },
+    {
+      "id": 17,
+      "start": 23480.163264,
+      "end": 24661.629386,
+      "title": "Chapter Fifteen: Three Body: Copernicus, Universal Football, and Tri-Solar Day"
+    },
+    {
+      "id": 18,
+      "start": 24661.629386,
+      "end": 27159.666937,
+      "title": "Chapter Sixteen: The Three-Body Problem"
+    },
+    {
+      "id": 19,
+      "start": 27159.666937,
+      "end": 29864.751019000003,
+      "title": "Chapter Seventeen: Three Body: Newton, Von Neumann, the First Emperor, and Tri-Solar Syzygy"
+    },
+    {
+      "id": 20,
+      "start": 29864.751019000003,
+      "end": 30729.822039000002,
+      "title": "Chapter Eighteen: Meet-up"
+    },
+    {
+      "id": 21,
+      "start": 30729.822039000002,
+      "end": 32360.097957,
+      "title": "Chapter Nineteen: Three Body: Einstein, the Pendulum Monument, and the Great Rip"
+    },
+    {
+      "id": 22,
+      "start": 32360.097957,
+      "end": 32707.186937000002,
+      "title": "Chapter Twenty: Three Body: Expedition"
+    },
+    {
+      "id": 23,
+      "start": 32707.186937000002,
+      "end": 32714.239998,
+      "title": "Part Three: Sunset for Humanity"
+    },
+    {
+      "id": 24,
+      "start": 32714.239998,
+      "end": 33798.321631,
+      "title": "Chapter Twenty-One: Rebels of Earth"
+    },
+    {
+      "id": 25,
+      "start": 33798.321631,
+      "end": 35646.171427,
+      "title": "Chapter Twenty-Two: Red Coast V"
+    },
+    {
+      "id": 26,
+      "start": 35646.171427,
+      "end": 36839.209794,
+      "title": "Chapter Twenty-Three: Red Coast VI"
+    },
+    {
+      "id": 27,
+      "start": 36839.209794,
+      "end": 37623.562447000004,
+      "title": "Chapter Twenty-Four: Rebellion"
+    },
+    {
+      "id": 28,
+      "start": 37623.562447000004,
+      "end": 38371.604896000004,
+      "title": "Chapter Twenty-Five: The Deaths of Lei Zhicheng and Yang Weining"
+    },
+    {
+      "id": 29,
+      "start": 38371.604896000004,
+      "end": 40575.137957000006,
+      "title": "Chapter Twenty-Six: No One Repents"
+    },
+    {
+      "id": 30,
+      "start": 40575.137957000006,
+      "end": 42028.199181,
+      "title": "Chapter Twenty-Seven: Evans"
+    },
+    {
+      "id": 31,
+      "start": 42028.199181,
+      "end": 42338.272650000006,
+      "title": "Chapter Twenty-Eight: The Second Red Coast Base"
+    },
+    {
+      "id": 32,
+      "start": 42338.272650000006,
+      "end": 43114.318364000006,
+      "title": "Chapter Twenty-Nine: The Earth-Trisolaris Movement"
+    },
+    {
+      "id": 33,
+      "start": 43114.318364000006,
+      "end": 44171.232650000005,
+      "title": "Chapter Thirty: Two Protons"
+    },
+    {
+      "id": 34,
+      "start": 44171.232650000005,
+      "end": 46537.35183400001,
+      "title": "Chapter Thirty-One: Operation Guzheng"
+    },
+    {
+      "id": 35,
+      "start": 46537.35183400001,
+      "end": 48009.40407900001,
+      "title": "Chapter Thirty-Two: Trisolaris: The Listener"
+    },
+    {
+      "id": 36,
+      "start": 48009.40407900001,
+      "end": 51917.45305900001,
+      "title": "Chapter Thirty-Three: Trisolaris: Sophon"
+    },
+    {
+      "id": 37,
+      "start": 51917.45305900001,
+      "end": 52408.502855000006,
+      "title": "Chapter Thirty-Four: Bugs"
+    },
+    {
+      "id": 38,
+      "start": 52408.502855000006,
+      "end": 52652.61714100001,
+      "title": "Chapter Thirty-Five: The Ruins"
+    },
+    {
+      "id": 39,
+      "start": 52652.61714100001,
+      "end": 52667.63754900001,
+      "title": "Outro"
+    }
+  ],
+  "title": "The Three-Body Problem",
+  "subtitle": null,
+  "authors": [
+    "Cixin Liu"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2015",
+  "publishedDate": null,
+  "publisher": "Avid Audio",
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,90 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4307.774,
+      "title": "All the Birds in the Sky 01-11"
+    },
+    {
+      "id": 1,
+      "start": 4307.774,
+      "end": 8610.036,
+      "title": "All the Birds in the Sky 02-11"
+    },
+    {
+      "id": 2,
+      "start": 8610.036,
+      "end": 12914.923999999999,
+      "title": "All the Birds in the Sky 03-11"
+    },
+    {
+      "id": 3,
+      "start": 12914.923999999999,
+      "end": 17228.782,
+      "title": "All the Birds in the Sky 04-11"
+    },
+    {
+      "id": 4,
+      "start": 17228.782,
+      "end": 21534.163999999997,
+      "title": "All the Birds in the Sky 05-11"
+    },
+    {
+      "id": 5,
+      "start": 21534.163999999997,
+      "end": 25841.157999999996,
+      "title": "All the Birds in the Sky 06-11"
+    },
+    {
+      "id": 6,
+      "start": 25841.157999999996,
+      "end": 30144.199999999997,
+      "title": "All the Birds in the Sky 07-11"
+    },
+    {
+      "id": 7,
+      "start": 30144.199999999997,
+      "end": 34446.903999999995,
+      "title": "All the Birds in the Sky 08-11"
+    },
+    {
+      "id": 8,
+      "start": 34446.903999999995,
+      "end": 38747.918,
+      "title": "All the Birds in the Sky 09-11"
+    },
+    {
+      "id": 9,
+      "start": 38747.918,
+      "end": 43050.284,
+      "title": "All the Birds in the Sky 10-11"
+    },
+    {
+      "id": 10,
+      "start": 43050.284,
+      "end": 45181.26,
+      "title": "All the Birds in the Sky 11-11"
+    }
+  ],
+  "title": "All the Birds in the Sky",
+  "subtitle": null,
+  "authors": [
+    "Charlie Jane Anders"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Fantasy"
+  ],
+  "publishedYear": "2016",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

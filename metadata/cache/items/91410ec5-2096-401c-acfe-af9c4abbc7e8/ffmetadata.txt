@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=A Storm of Swords
+artist=George R. R. Martin
+album_artist=George R. R. Martin
+album=A Storm of Swords
+genre=Audio Book
+date=2000
+comment=Read by Roy Dotrice
+description=Read by Roy Dotrice
+composer=1.3gb
+TRACKTOTAL=82

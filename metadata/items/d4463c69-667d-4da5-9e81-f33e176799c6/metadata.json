@@ -1,0 +1,238 @@
+{
+  "tags": [
+    "Fantasy",
+    "Science Fiction",
+    "Hard Science Fiction",
+    "Space Opera"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2490.853878,
+      "title": "House Harkonnen_Part 01"
+    },
+    {
+      "id": 1,
+      "start": 2490.853878,
+      "end": 5477.955919,
+      "title": "House Harkonnen_Part 02"
+    },
+    {
+      "id": 2,
+      "start": 5477.955919,
+      "end": 7992.163266,
+      "title": "House Harkonnen_Part 03"
+    },
+    {
+      "id": 3,
+      "start": 7992.163266,
+      "end": 10807.797552,
+      "title": "House Harkonnen_Part 04"
+    },
+    {
+      "id": 4,
+      "start": 10807.797552,
+      "end": 12800.444083,
+      "title": "House Harkonnen_Part 05"
+    },
+    {
+      "id": 5,
+      "start": 12800.444083,
+      "end": 15308.904491000001,
+      "title": "House Harkonnen_Part 06"
+    },
+    {
+      "id": 6,
+      "start": 15308.904491000001,
+      "end": 18069.629389,
+      "title": "House Harkonnen_Part 07"
+    },
+    {
+      "id": 7,
+      "start": 18069.629389,
+      "end": 20041.560818,
+      "title": "House Harkonnen_Part 08"
+    },
+    {
+      "id": 8,
+      "start": 20041.560818,
+      "end": 22414.132247,
+      "title": "House Harkonnen_Part 09"
+    },
+    {
+      "id": 9,
+      "start": 22414.132247,
+      "end": 25419.284900000002,
+      "title": "House Harkonnen_Part 10"
+    },
+    {
+      "id": 10,
+      "start": 25419.284900000002,
+      "end": 27706.592655,
+      "title": "House Harkonnen_Part 11"
+    },
+    {
+      "id": 11,
+      "start": 27706.592655,
+      "end": 30313.508573,
+      "title": "House Harkonnen_Part 12"
+    },
+    {
+      "id": 12,
+      "start": 30313.508573,
+      "end": 32458.344491,
+      "title": "House Harkonnen_Part 13"
+    },
+    {
+      "id": 13,
+      "start": 32458.344491,
+      "end": 35715.474287,
+      "title": "House Harkonnen_Part 14"
+    },
+    {
+      "id": 14,
+      "start": 35715.474287,
+      "end": 38502.191022,
+      "title": "House Harkonnen_Part 15"
+    },
+    {
+      "id": 15,
+      "start": 38502.191022,
+      "end": 40864.470206,
+      "title": "House Harkonnen_Part 16"
+    },
+    {
+      "id": 16,
+      "start": 40864.470206,
+      "end": 43245.975512,
+      "title": "House Harkonnen_Part 17"
+    },
+    {
+      "id": 17,
+      "start": 43245.975512,
+      "end": 45343.503675,
+      "title": "House Harkonnen_Part 18"
+    },
+    {
+      "id": 18,
+      "start": 45343.503675,
+      "end": 48510.06694,
+      "title": "House Harkonnen_Part 19"
+    },
+    {
+      "id": 19,
+      "start": 48510.06694,
+      "end": 51375.542858,
+      "title": "House Harkonnen_Part 20"
+    },
+    {
+      "id": 20,
+      "start": 51375.542858,
+      "end": 53990.478368000004,
+      "title": "House Harkonnen_Part 21"
+    },
+    {
+      "id": 21,
+      "start": 53990.478368000004,
+      "end": 56418.586123,
+      "title": "House Harkonnen_Part 22"
+    },
+    {
+      "id": 22,
+      "start": 56418.586123,
+      "end": 59231.660409000004,
+      "title": "House Harkonnen_Part 23"
+    },
+    {
+      "id": 23,
+      "start": 59231.660409000004,
+      "end": 62383.229389,
+      "title": "House Harkonnen_Part 24"
+    },
+    {
+      "id": 24,
+      "start": 62383.229389,
+      "end": 65425.789389,
+      "title": "House Harkonnen_Part 25"
+    },
+    {
+      "id": 25,
+      "start": 65425.789389,
+      "end": 68327.340409,
+      "title": "House Harkonnen_Part 26"
+    },
+    {
+      "id": 26,
+      "start": 68327.340409,
+      "end": 71869.15265399999,
+      "title": "House Harkonnen_Part 27"
+    },
+    {
+      "id": 27,
+      "start": 71869.15265399999,
+      "end": 74782.87673599999,
+      "title": "House Harkonnen_Part 28"
+    },
+    {
+      "id": 28,
+      "start": 74782.87673599999,
+      "end": 76745.40408299999,
+      "title": "House Harkonnen_Part 29"
+    },
+    {
+      "id": 29,
+      "start": 76745.40408299999,
+      "end": 81173.18530699999,
+      "title": "House Harkonnen_Part 30"
+    },
+    {
+      "id": 30,
+      "start": 81173.18530699999,
+      "end": 84761.91347,
+      "title": "House Harkonnen_Part 31"
+    },
+    {
+      "id": 31,
+      "start": 84761.91347,
+      "end": 88454.661225,
+      "title": "House Harkonnen_Part 32"
+    },
+    {
+      "id": 32,
+      "start": 88454.661225,
+      "end": 90674.651429,
+      "title": "House Harkonnen_Part 33"
+    },
+    {
+      "id": 33,
+      "start": 90674.651429,
+      "end": 92576.026123,
+      "title": "House Harkonnen_Part 34"
+    }
+  ],
+  "title": "Dune: The Battle of Corrin",
+  "subtitle": null,
+  "authors": [
+    "Brian Herbert",
+    "Kevin J. Anderson"
+  ],
+  "narrators": [
+    "Scott Brick"
+  ],
+  "series": [
+    "Dune Saga #3"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2000-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "Fifty-six hard years after the events of The Machine Crusade, after the death of Serena Butler, the bloodiest decades of the Jihad take place. The human worlds begin to hope that the end of the centuries-long conflict with the thinking machines is finally in sight. Unfortunately, Omnius has one last, deadly card to play. In a last-ditch effort to destroy humankind, virulent plagues are let loose throughout the galaxy, decimating the populations of whole planets. The war that has lasted many lifetimes will be decided in the apocalyptic Battle of Corrin. In the greatest battle of science fiction history, human and machine face off one last time....And on the desert planet of Arrakis, the legendary Fremen of Dune become the feared fighting force to be discovered by Paul Maud'Dib in Frank Herbert's classic, Dune.",
+  "isbn": null,
+  "asin": "B002VA3EQ4",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

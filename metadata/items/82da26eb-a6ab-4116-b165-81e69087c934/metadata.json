@@ -1,0 +1,110 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4295.288167,
+      "title": "Spellbound 01"
+    },
+    {
+      "id": 1,
+      "start": 4295.288167,
+      "end": 8566.465334,
+      "title": "Spellbound 02"
+    },
+    {
+      "id": 2,
+      "start": 8566.465334,
+      "end": 12852.453834,
+      "title": "Spellbound 03"
+    },
+    {
+      "id": 3,
+      "start": 12852.453834,
+      "end": 17183.712667,
+      "title": "Spellbound 04"
+    },
+    {
+      "id": 4,
+      "start": 17183.712667,
+      "end": 21459.017166999998,
+      "title": "Spellbound 05"
+    },
+    {
+      "id": 5,
+      "start": 21459.017166999998,
+      "end": 25724.734666999997,
+      "title": "Spellbound 06"
+    },
+    {
+      "id": 6,
+      "start": 25724.734666999997,
+      "end": 30041.181999999997,
+      "title": "Spellbound 07"
+    },
+    {
+      "id": 7,
+      "start": 30041.181999999997,
+      "end": 34463.320833,
+      "title": "Spellbound 08"
+    },
+    {
+      "id": 8,
+      "start": 34463.320833,
+      "end": 38730.396754999994,
+      "title": "Spellbound 09"
+    },
+    {
+      "id": 9,
+      "start": 38730.396754999994,
+      "end": 43047.471010999994,
+      "title": "Spellbound 10"
+    },
+    {
+      "id": 10,
+      "start": 43047.471010999994,
+      "end": 47360.809843999996,
+      "title": "Spellbound 11"
+    },
+    {
+      "id": 11,
+      "start": 47360.809843999996,
+      "end": 51683.918433,
+      "title": "Spellbound 12"
+    },
+    {
+      "id": 12,
+      "start": 51683.918433,
+      "end": 55972.649854999996,
+      "title": "Spellbound 13"
+    },
+    {
+      "id": 13,
+      "start": 55972.649854999996,
+      "end": 58864.326611,
+      "title": "Spellbound 14"
+    }
+  ],
+  "title": "Spellbound",
+  "subtitle": null,
+  "authors": [
+    "Larry Correia"
+  ],
+  "narrators": [],
+  "series": [
+    "Larry Correia - Grimnoir Chronicles"
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "publishedYear": "2012-01-01",
+  "publishedDate": null,
+  "publisher": "Audible Frontiers",
+  "description": "Read by Bronson Pinchot  ;",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

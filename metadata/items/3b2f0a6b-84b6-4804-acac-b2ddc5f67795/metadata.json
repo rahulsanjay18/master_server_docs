@@ -1,0 +1,107 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3.483,
+      "title": "Intro - Audible Credits"
+    },
+    {
+      "id": 1,
+      "start": 3.483,
+      "end": 41.656,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 2,
+      "start": 41.656,
+      "end": 712.156,
+      "title": "Prologue: Mist of the Battlefield"
+    },
+    {
+      "id": 3,
+      "start": 712.156,
+      "end": 3229.408,
+      "title": "Chapter 1: Haze Blue   ~ 1"
+    },
+    {
+      "id": 4,
+      "start": 3229.408,
+      "end": 5540.374,
+      "title": "Chapter 1: Haze Blue   ~ 2"
+    },
+    {
+      "id": 5,
+      "start": 5540.374,
+      "end": 9056.92,
+      "title": "Chapter 2: Mist Blue   ~ 1"
+    },
+    {
+      "id": 6,
+      "start": 9056.92,
+      "end": 12255.654,
+      "title": "Chapter 2: Mist Blue   ~ 2"
+    },
+    {
+      "id": 7,
+      "start": 12255.654,
+      "end": 15196.763,
+      "title": "Chapter 3: Fog Blue   ~ 1"
+    },
+    {
+      "id": 8,
+      "start": 15196.763,
+      "end": 18235.025,
+      "title": "Chapter 3: Fog Blue   ~ 2"
+    },
+    {
+      "id": 9,
+      "start": 18235.025,
+      "end": 21001.914,
+      "title": "Chapter 4: Starlight Blue   ~ 1"
+    },
+    {
+      "id": 10,
+      "start": 21001.914,
+      "end": 23592.611,
+      "title": "Chapter 4: Starlight Blue   ~ 2"
+    },
+    {
+      "id": 11,
+      "start": 23592.611,
+      "end": 23725.352,
+      "title": "Outro - Ending Credits ☕"
+    },
+    {
+      "id": 12,
+      "start": 23725.352,
+      "end": 23730.841,
+      "title": "Outro - Audible Credits"
+    }
+  ],
+  "title": "86—EIGHTY-SIX, Vol. 07: Mist",
+  "subtitle": null,
+  "authors": [
+    "Suzie Yeung",
+    "Stephen Fu"
+  ],
+  "narrators": [
+    "Toru Asakura"
+  ],
+  "series": [
+    "86—EIGHTY-SIX #07"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "September 10, 2019 (12-12-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

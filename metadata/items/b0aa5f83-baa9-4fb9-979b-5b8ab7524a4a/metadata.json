@@ -1,0 +1,236 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1582.341224,
+      "title": "01: St. Louis, April 1857"
+    },
+    {
+      "id": 1,
+      "start": 1582.341224,
+      "end": 2773.472653,
+      "title": "02: New Orleans, May 1857"
+    },
+    {
+      "id": 2,
+      "start": 2773.472653,
+      "end": 3882.396735,
+      "title": "03: New Albany, Indiana, June 1857"
+    },
+    {
+      "id": 3,
+      "start": 3882.396735,
+      "end": 5400.868571999999,
+      "title": "04: Aboard the Steamer Fevre Dream, Ohio River, July 1857"
+    },
+    {
+      "id": 4,
+      "start": 5400.868571999999,
+      "end": 6824.176326999999,
+      "title": "05: Aboard the Steamer Fevre Dream, Ohio River, July 1857"
+    },
+    {
+      "id": 5,
+      "start": 6824.176326999999,
+      "end": 8677.485714999999,
+      "title": "06: Julian Plantation, Louisiana, July 1857"
+    },
+    {
+      "id": 6,
+      "start": 8677.485714999999,
+      "end": 9459.461225,
+      "title": "07: St. Louis, July 1857"
+    },
+    {
+      "id": 7,
+      "start": 9459.461225,
+      "end": 10900.035918999998,
+      "title": "08: Aboard the Steamer Fevre Dream, Mississippi River, July 1857"
+    },
+    {
+      "id": 8,
+      "start": 10900.035918999998,
+      "end": 12377.991836999998,
+      "title": "09: Aboard the Steamer Fevre Dream, Mississippi River, August 1857"
+    },
+    {
+      "id": 9,
+      "start": 12377.991836999998,
+      "end": 13688.894693999999,
+      "title": "10: New Orleans, August 1857"
+    },
+    {
+      "id": 10,
+      "start": 13688.894693999999,
+      "end": 14845.074286,
+      "title": "11: Aboard the Steamer Fevre Dream, Natchez, August 1857"
+    },
+    {
+      "id": 11,
+      "start": 14845.074286,
+      "end": 17078.230204,
+      "title": "12: Aboard the Steamer Fevre Dream, Mississippi River, August 1857"
+    },
+    {
+      "id": 12,
+      "start": 17078.230204,
+      "end": 19176.306939,
+      "title": "13: Aboard the Steamer Fevre Dream, New Orleans, August 1857"
+    },
+    {
+      "id": 13,
+      "start": 19176.306939,
+      "end": 22464.313469999997,
+      "title": "14: Of Days Dark and Distant"
+    },
+    {
+      "id": 14,
+      "start": 22464.313469999997,
+      "end": 23992.894694,
+      "title": "15: Aboard the Steamer Fevre Dream, New Orleans, August 1857"
+    },
+    {
+      "id": 15,
+      "start": 23992.894694,
+      "end": 24612.440816,
+      "title": "16: New Orleans, August 1857"
+    },
+    {
+      "id": 16,
+      "start": 24612.440816,
+      "end": 26708.375509999998,
+      "title": "17: Aboard the Steamer Fevre Dream, New Orleans, August 1857"
+    },
+    {
+      "id": 17,
+      "start": 26708.375509999998,
+      "end": 27965.257143,
+      "title": "18: Aboard the Steamer Fevre Dream, Mississippi River, August 1857"
+    },
+    {
+      "id": 18,
+      "start": 27965.257143,
+      "end": 28812.094694,
+      "title": "19: Aboard the Steamer Fevre Dream, Mississippi River, August 1857"
+    },
+    {
+      "id": 19,
+      "start": 28812.094694,
+      "end": 29993.848163,
+      "title": "20: Aboard the Steamer Fevre Dream, Mississippi River, August 1857"
+    },
+    {
+      "id": 20,
+      "start": 29993.848163,
+      "end": 31022.132244999997,
+      "title": "21: St. Louis, September 1857"
+    },
+    {
+      "id": 21,
+      "start": 31022.132244999997,
+      "end": 32259.186938999996,
+      "title": "22: Aboard the Steamer Eli Reynolds, Mississippi River, October 1857"
+    },
+    {
+      "id": 22,
+      "start": 32259.186938999996,
+      "end": 33651.565715,
+      "title": "23: Aboard the Steamer Eli Reynolds, Mississippi River, October 1857"
+    },
+    {
+      "id": 23,
+      "start": 33651.565715,
+      "end": 34649.939592999996,
+      "title": "24: Aboard the Steamer Ozymandias, Mississippi River, October 1857"
+    },
+    {
+      "id": 24,
+      "start": 34649.939592999996,
+      "end": 35994.27918499999,
+      "title": "25: Aboard the Steamer Eli Reynolds, Mississippi River, October 1857"
+    },
+    {
+      "id": 25,
+      "start": 35994.27918499999,
+      "end": 36868.54530699999,
+      "title": "26: Aboard the Steamer Ozymandias, Mississippi River, October 1857"
+    },
+    {
+      "id": 26,
+      "start": 36868.54530699999,
+      "end": 38082.403265999994,
+      "title": "27: Aboard the Steamer Ozymandias, Mississippi River, October 1857"
+    },
+    {
+      "id": 27,
+      "start": 38082.403265999994,
+      "end": 39251.800816999996,
+      "title": "28: On the Mississippi River, October 1857"
+    },
+    {
+      "id": 28,
+      "start": 39251.800816999996,
+      "end": 40438.622040999995,
+      "title": "29: Gray Plantation, October 1857"
+    },
+    {
+      "id": 29,
+      "start": 40438.622040999995,
+      "end": 42612.401632999994,
+      "title": "30: Fever Years: November 1815-April 1870"
+    },
+    {
+      "id": 30,
+      "start": 42612.401632999994,
+      "end": 44950.83102099999,
+      "title": "31: New Orleans, May 1870"
+    },
+    {
+      "id": 31,
+      "start": 44950.83102099999,
+      "end": 46343.131428999994,
+      "title": "32: Julian Plantation, Louisiana, May 1870"
+    },
+    {
+      "id": 32,
+      "start": 46343.131428999994,
+      "end": 46868.976327,
+      "title": "33: Aboard the Steamer Fevre Dream, May 1870"
+    },
+    {
+      "id": 33,
+      "start": 46868.976327,
+      "end": 48478.641633,
+      "title": "34: Aboard the Steamer Fevre Dream, May 1870"
+    },
+    {
+      "id": 34,
+      "start": 48478.641633,
+      "end": 48729.417143,
+      "title": "35: Epilogue"
+    }
+  ],
+  "title": "Fevre Dream",
+  "subtitle": null,
+  "authors": [
+    "George R. R. Martin"
+  ],
+  "narrators": [
+    "378mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1982",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Ron Donachie",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

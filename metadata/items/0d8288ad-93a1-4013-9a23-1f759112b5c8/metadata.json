@@ -1,0 +1,110 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 473.077551,
+      "title": "The Dispossessed 00"
+    },
+    {
+      "id": 1,
+      "start": 473.077551,
+      "end": 3478.2040819999997,
+      "title": "The Dispossessed 01"
+    },
+    {
+      "id": 2,
+      "start": 3478.2040819999997,
+      "end": 7812.101225,
+      "title": "The Dispossessed 02"
+    },
+    {
+      "id": 3,
+      "start": 7812.101225,
+      "end": 11025.554286,
+      "title": "The Dispossessed 03"
+    },
+    {
+      "id": 4,
+      "start": 11025.554286,
+      "end": 15104.992653000001,
+      "title": "The Dispossessed 04"
+    },
+    {
+      "id": 5,
+      "start": 15104.992653000001,
+      "end": 18384.091429,
+      "title": "The Dispossessed 05"
+    },
+    {
+      "id": 6,
+      "start": 18384.091429,
+      "end": 22681.182041,
+      "title": "The Dispossessed 06"
+    },
+    {
+      "id": 7,
+      "start": 22681.182041,
+      "end": 27528.071837,
+      "title": "The Dispossessed 07"
+    },
+    {
+      "id": 8,
+      "start": 27528.071837,
+      "end": 31771.951021,
+      "title": "The Dispossessed 08"
+    },
+    {
+      "id": 9,
+      "start": 31771.951021,
+      "end": 35983.934694,
+      "title": "The Dispossessed 09"
+    },
+    {
+      "id": 10,
+      "start": 35983.934694,
+      "end": 39053.662041,
+      "title": "The Dispossessed 10"
+    },
+    {
+      "id": 11,
+      "start": 39053.662041,
+      "end": 40988.16,
+      "title": "The Dispossessed 11"
+    },
+    {
+      "id": 12,
+      "start": 40988.16,
+      "end": 44052.793469000004,
+      "title": "The Dispossessed 12"
+    },
+    {
+      "id": 13,
+      "start": 44052.793469000004,
+      "end": 44866.481632,
+      "title": "The Dispossessed 13"
+    }
+  ],
+  "title": "The Dispossessed",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "689mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1974",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Roddy Doyle",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

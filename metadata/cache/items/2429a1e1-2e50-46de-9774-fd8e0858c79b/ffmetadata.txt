@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=She Who Became the Sun
+artist=Shelley Parker-Chan
+album_artist=Shelley Parker-Chan
+album=She Who Became the Sun
+genre=Historical Fiction
+date=2022-01-01
+comment=<p><b>To possess the Mandate of Heaven, the female monk Zhu will do anything</b><br><i>Mulan</i> meets <i>The Song of Achilles</i> in a bold, queer, and lyrical reimagining of the rise of the<br>founding emperor of the Ming Dynasty from an amazing new voice in literary fantasy.<br>"I refuse to be nothing..."<br>In a famine-stricken village on a dusty yellow plain, two children are given two fates. A boy, greatness. A girl, nothingness...<br>In 1345, China lies under harsh Mongol rule. For the starving peasants of the Central Plains, greatness is something found only in stories. When the Zhu family's eighth-born son, Zhu Chongba, is given a fate of greatness, everyone is mystified as to how it will come to pass. The fate of nothingness received by the family's clever and capable second daughter, on the other hand, is only as expected.<br>When a bandit attack orphans the two children, though, it is Zhu Chongba who succumbs to despair and dies. Desperate to escape her own fated...
+description=<p><b>To possess the Mandate of Heaven, the female monk Zhu will do anything</b><br><i>Mulan</i> meets <i>The Song of Achilles</i> in a bold, queer, and lyrical reimagining of the rise of the<br>founding emperor of the Ming Dynasty from an amazing new voice in literary fantasy.<br>"I refuse to be nothing..."<br>In a famine-stricken village on a dusty yellow plain, two children are given two fates. A boy, greatness. A girl, nothingness...<br>In 1345, China lies under harsh Mongol rule. For the starving peasants of the Central Plains, greatness is something found only in stories. When the Zhu family's eighth-born son, Zhu Chongba, is given a fate of greatness, everyone is mystified as to how it will come to pass. The fate of nothingness received by the family's clever and capable second daughter, on the other hand, is only as expected.<br>When a bandit attack orphans the two children, though, it is Zhu Chongba who succumbs to despair and dies. Desperate to escape her own fated...
+copyright=Macmillan Audio
+publisher=Macmillan Audio
+TRACKTOTAL=14

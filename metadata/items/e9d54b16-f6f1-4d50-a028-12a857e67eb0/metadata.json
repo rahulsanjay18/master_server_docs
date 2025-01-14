@@ -1,0 +1,476 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 783.699592,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 783.699592,
+      "end": 847.124898,
+      "title": "The Mind Is Still"
+    },
+    {
+      "id": 2,
+      "start": 847.124898,
+      "end": 1419.154286,
+      "title": "Foreword"
+    },
+    {
+      "id": 3,
+      "start": 1419.154286,
+      "end": 1550.28898,
+      "title": "Talks, Essays, and Occasional Pieces"
+    },
+    {
+      "id": 4,
+      "start": 1550.28898,
+      "end": 2167.797551,
+      "title": "The Operating Instructions"
+    },
+    {
+      "id": 5,
+      "start": 2167.797551,
+      "end": 2406.5828570000003,
+      "title": "What It Was Like"
+    },
+    {
+      "id": 6,
+      "start": 2406.5828570000003,
+      "end": 3388.7608160000004,
+      "title": "Genre: A Word Only a Frenchman Could Love"
+    },
+    {
+      "id": 7,
+      "start": 3388.7608160000004,
+      "end": 4095.1379590000006,
+      "title": "\"Things Not Actually Present\": On Fantasy, with a Tribute to Jorge Luis Borges"
+    },
+    {
+      "id": 8,
+      "start": 4095.1379590000006,
+      "end": 4838.060408,
+      "title": "A Response, by Ansible, from Tau Ceti"
+    },
+    {
+      "id": 9,
+      "start": 4838.060408,
+      "end": 6234.226939,
+      "title": "The Beast in the Book"
+    },
+    {
+      "id": 10,
+      "start": 6234.226939,
+      "end": 7185.031837,
+      "title": "Inventing Languages"
+    },
+    {
+      "id": 11,
+      "start": 7185.031837,
+      "end": 7511.222857000001,
+      "title": "How to Read a Poem: \"Gray Goose and Gander\""
+    },
+    {
+      "id": 12,
+      "start": 7511.222857000001,
+      "end": 7584.339592,
+      "title": "On David Hensel's Submission to the Royal Academy of Art"
+    },
+    {
+      "id": 13,
+      "start": 7584.339592,
+      "end": 7851.755102,
+      "title": "On Serious Literature"
+    },
+    {
+      "id": 14,
+      "start": 7851.755102,
+      "end": 8407.562449000001,
+      "title": "Teasing Myself Out of Thought"
+    },
+    {
+      "id": 15,
+      "start": 8407.562449000001,
+      "end": 10750.354286000002,
+      "title": "Living in a Work of Art"
+    },
+    {
+      "id": 16,
+      "start": 10750.354286000002,
+      "end": 12136.306939000002,
+      "title": "Staying Awake"
+    },
+    {
+      "id": 17,
+      "start": 12136.306939000002,
+      "end": 12993.671837000002,
+      "title": "Great Nature's Second Course"
+    },
+    {
+      "id": 18,
+      "start": 12993.671837000002,
+      "end": 13945.469388000001,
+      "title": "What Women Know"
+    },
+    {
+      "id": 19,
+      "start": 13945.469388000001,
+      "end": 14979.291429,
+      "title": "Disappearing Grandmothers"
+    },
+    {
+      "id": 20,
+      "start": 14979.291429,
+      "end": 15120.95347,
+      "title": "Learning to Write Science Fiction from Virginia Woolf"
+    },
+    {
+      "id": 21,
+      "start": 15120.95347,
+      "end": 16247.849797,
+      "title": "The Death of the Book"
+    },
+    {
+      "id": 22,
+      "start": 16247.849797,
+      "end": 16603.115103,
+      "title": "Le Guin's Hypothesis"
+    },
+    {
+      "id": 23,
+      "start": 16603.115103,
+      "end": 17532.551838,
+      "title": "Making Up Stories"
+    },
+    {
+      "id": 24,
+      "start": 17532.551838,
+      "end": 17725.152653999998,
+      "title": "Freedom"
+    },
+    {
+      "id": 25,
+      "start": 17725.152653999998,
+      "end": 17854.17143,
+      "title": "Book Introductions and Notes on Writers"
+    },
+    {
+      "id": 26,
+      "start": 17854.17143,
+      "end": 18469.407347999997,
+      "title": "A Very Good American Novel: H. L. Davis's Honey in the Horn"
+    },
+    {
+      "id": 27,
+      "start": 18469.407347999997,
+      "end": 19606.439184999996,
+      "title": "Philip K. Dick: The Man in the High Castle"
+    },
+    {
+      "id": 28,
+      "start": 19606.439184999996,
+      "end": 20565.916735999996,
+      "title": "Huxley's Bad Trip"
+    },
+    {
+      "id": 29,
+      "start": 20565.916735999996,
+      "end": 21260.329796999995,
+      "title": "Stanislaw Lem: Solaris"
+    },
+    {
+      "id": 30,
+      "start": 21260.329796999995,
+      "end": 21508.989388999995,
+      "title": "George MacDonald: The Princess and the Goblin"
+    },
+    {
+      "id": 31,
+      "start": 21508.989388999995,
+      "end": 22009.547755999996,
+      "title": "The Wild Winds of Possibility: Vonda McIntyre's Dreamsnake"
+    },
+    {
+      "id": 32,
+      "start": 22009.547755999996,
+      "end": 22789.067755999997,
+      "title": "Getting It Right: Charles L. McNichols's Crazy Weather"
+    },
+    {
+      "id": 33,
+      "start": 22789.067755999997,
+      "end": 22993.684898999996,
+      "title": "On Pasternak's Doctor Zhivago"
+    },
+    {
+      "id": 34,
+      "start": 22993.684898999996,
+      "end": 25355.102041999995,
+      "title": "Examples of Dignity: Thoughts on the Work of Jose Saramago"
+    },
+    {
+      "id": 35,
+      "start": 25355.102041999995,
+      "end": 25890.533878999995,
+      "title": "Arkady and Boris Strugatsky: Roadside Picnic"
+    },
+    {
+      "id": 36,
+      "start": 25890.533878999995,
+      "end": 26440.202449999993,
+      "title": "Jack Vance: The Languages of Pao"
+    },
+    {
+      "id": 37,
+      "start": 26440.202449999993,
+      "end": 27310.785306999995,
+      "title": "H. G. Wells: The First Man in the Moon"
+    },
+    {
+      "id": 38,
+      "start": 27310.785306999995,
+      "end": 28137.195102999995,
+      "title": "H. G. Wells: The Time Machine"
+    },
+    {
+      "id": 39,
+      "start": 28137.195102999995,
+      "end": 29219.657143999993,
+      "title": "Wells's Worlds"
+    },
+    {
+      "id": 40,
+      "start": 29219.657143999993,
+      "end": 29346.50775599999,
+      "title": "Book Reviews"
+    },
+    {
+      "id": 41,
+      "start": 29346.50775599999,
+      "end": 29835.937959999992,
+      "title": "Margaret Atwood: Moral Disorder"
+    },
+    {
+      "id": 42,
+      "start": 29835.937959999992,
+      "end": 30469.53795999999,
+      "title": "Margaret Atwood: The Year of the Flood"
+    },
+    {
+      "id": 43,
+      "start": 30469.53795999999,
+      "end": 30853.38122499999,
+      "title": "Margaret Atwood: Stone Mattress"
+    },
+    {
+      "id": 44,
+      "start": 30853.38122499999,
+      "end": 31287.22285799999,
+      "title": "J. G. Ballard: Kingdom Come"
+    },
+    {
+      "id": 45,
+      "start": 31287.22285799999,
+      "end": 31639.82367399999,
+      "title": "Roberto Bolaño: Monsieur Pain"
+    },
+    {
+      "id": 46,
+      "start": 31639.82367399999,
+      "end": 31990.70040899999,
+      "title": "T. C. Boyle: When the Killing's Done"
+    },
+    {
+      "id": 47,
+      "start": 31990.70040899999,
+      "end": 32450.63836799999,
+      "title": "Geraldine Brooks: People of the Book"
+    },
+    {
+      "id": 48,
+      "start": 32450.63836799999,
+      "end": 33096.93387799999,
+      "title": "Italo Calvino: The Complete Cosmicomics"
+    },
+    {
+      "id": 49,
+      "start": 33096.93387799999,
+      "end": 33515.75510199999,
+      "title": "Margaret Drabble: The Sea Lady"
+    },
+    {
+      "id": 50,
+      "start": 33515.75510199999,
+      "end": 34343.314285999986,
+      "title": "Carol Emshwiller: Ledoyt"
+    },
+    {
+      "id": 51,
+      "start": 34343.314285999986,
+      "end": 34799.908571999986,
+      "title": "Alan Garner: Boneland"
+    },
+    {
+      "id": 52,
+      "start": 34799.908571999986,
+      "end": 35203.34367399999,
+      "title": "Kent Haruf: Benediction"
+    },
+    {
+      "id": 53,
+      "start": 35203.34367399999,
+      "end": 35583.89551099999,
+      "title": "Kent Haruf: Our Souls at Night"
+    },
+    {
+      "id": 54,
+      "start": 35583.89551099999,
+      "end": 35948.93061299999,
+      "title": "Tove Jansson: The True Deceiver"
+    },
+    {
+      "id": 55,
+      "start": 35948.93061299999,
+      "end": 36450.66449099999,
+      "title": "Barbara Kingsolver: Flight Behavior"
+    },
+    {
+      "id": 56,
+      "start": 36450.66449099999,
+      "end": 36819.20000099999,
+      "title": "Chang-rae Lee: On Such a Full Sea"
+    },
+    {
+      "id": 57,
+      "start": 36819.20000099999,
+      "end": 37260.53877699999,
+      "title": "Doris Lessing: The Cleft"
+    },
+    {
+      "id": 58,
+      "start": 37260.53877699999,
+      "end": 37570.03755299999,
+      "title": "Donna Leon: Suffer the Little Children"
+    },
+    {
+      "id": 59,
+      "start": 37570.03755299999,
+      "end": 37944.39836899999,
+      "title": "Yann Martel: The High Mountains of Portugal"
+    },
+    {
+      "id": 60,
+      "start": 37944.39836899999,
+      "end": 38344.463674999985,
+      "title": "China Miéville: Embassytown"
+    },
+    {
+      "id": 61,
+      "start": 38344.463674999985,
+      "end": 38730.94530799999,
+      "title": "China Miéville: Three Moments of an Explosion"
+    },
+    {
+      "id": 62,
+      "start": 38730.94530799999,
+      "end": 39181.89714499999,
+      "title": "David Mitchell: The Bone Clocks"
+    },
+    {
+      "id": 63,
+      "start": 39181.89714499999,
+      "end": 39806.772246999986,
+      "title": "Jan Morris: Hav"
+    },
+    {
+      "id": 64,
+      "start": 39806.772246999986,
+      "end": 40246.909389999986,
+      "title": "Julie Otsuka: The Buddha in the Attic"
+    },
+    {
+      "id": 65,
+      "start": 40246.909389999986,
+      "end": 40874.187756999985,
+      "title": "Salman Rushdie: The Enchantress of Florence"
+    },
+    {
+      "id": 66,
+      "start": 40874.187756999985,
+      "end": 41551.85632799999,
+      "title": "Salman Rushdie: Two Years, Eight Months, and Twenty-Eight Nights"
+    },
+    {
+      "id": 67,
+      "start": 41551.85632799999,
+      "end": 42089.639184999985,
+      "title": "Jose Saramago: Raised from the Ground"
+    },
+    {
+      "id": 68,
+      "start": 42089.639184999985,
+      "end": 42527.60816499998,
+      "title": "Jose Saramago: Skylight"
+    },
+    {
+      "id": 69,
+      "start": 42527.60816499998,
+      "end": 42954.39673599998,
+      "title": "Sylvia Townsend Warner: Dorset Stories"
+    },
+    {
+      "id": 70,
+      "start": 42954.39673599998,
+      "end": 43395.60489899998,
+      "title": "Jo Walton: Among Other"
+    },
+    {
+      "id": 71,
+      "start": 43395.60489899998,
+      "end": 43725.16571499998,
+      "title": "Jeanette Winterson: The Stone Gods"
+    },
+    {
+      "id": 72,
+      "start": 43725.16571499998,
+      "end": 44147.20000099998,
+      "title": "Stephan Zweig: The Post Office Girl"
+    },
+    {
+      "id": 73,
+      "start": 44147.20000099998,
+      "end": 46837.08081699998,
+      "title": "The Hope of Rabbits: A Journal of a Writer's Week"
+    },
+    {
+      "id": 74,
+      "start": 46837.08081699998,
+      "end": 46902.02122499998,
+      "title": "End"
+    }
+  ],
+  "title": "Words Are My Matter: Writings About Life and Books, 2000-2016",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "372mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2016",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Faith Potts",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

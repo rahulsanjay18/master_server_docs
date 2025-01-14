@@ -1,25 +1,88 @@
 services:
+  tailscale:
+    image: tailscale/tailscale:latest
+    hostname: tailscale-nginx
+    ports:
+      - 8096:8096
+      - 13378:80
+      - "4533:4533"
+      - 8000:8000
+      - 8409:8409
+    environment:
+      - TS_AUTHKEY=tskey-auth-kei1hw1sMY11CNTRL-UmM1CyaUi83yw8esGxpq83yvAf9JHq9G
+      - TS_EXTRA_ARGS=--advertise-tags=tag:server
+      - TS_STATE_DIR=/var/lib/tailscale
+      - TS_USERSPACE=false
+    volumes:
+      - ${PWD}/tailscale-nginx/state:/var/lib/tailscale
+    devices:
+      - /dev/net/tun:/dev/net/tun
+    cap_add:
+      - net_admin
+    restart: unless-stopped
   audiobookshelf:
     image: ghcr.io/advplyr/audiobookshelf:latest
     container_name: audiobookshelf
-    ports:
-      - 13378:80
+    network_mode: service:tailscale
     volumes:
-      - /media/rshah17/Drive\ 2/Audiobooks:/audiobooks
-      - /media/rshah17/Drive\ 2/Podcasts:/podcasts
+      - "/media/rshah17/Drive 2/Audiobooks:/audiobooks"
+      - "/media/rshah17/Drive 2/Podcasts:/podcasts"
       - ./metadata:/metadata
-      - ./config:/config
-    restart: unless-stopped
+      - "/media/rshah17/Drive 2/Audiobookshelf_config:/config"
+    restart: 'unless-stopped'
   jellyfin:
     image: jellyfin/jellyfin
     container_name: jellyfin
-    ports:
-      - 8096:8096
+    network_mode: service:tailscale
     volumes:
-      - /media/rshah17/Drive\ 11/Jellyfin/config:/config
-      - /media/rshah17/Drive\ 11/Jellyfin/cache:/cache
+      - /media/rshah17/Drive\ 1/Jellyfin/config:/config
+      - /media/rshah17/Drive\ 1/Jellyfin/cache:/cache
       - type: bind
-        source: '/media/rshah17/Drive 11/Watchable_Media/'
+        source: "/media/rshah17/Drive 1/Watchable_Media/"
         target: /media
         read_only: true
-    restart: 'unless-stopped' 
+    restart: 'unless-stopped'
+  navidrome:
+    image: deluan/navidrome:latest
+    restart: unless-stopped
+    network_mode: service:tailscale
+    environment:
+      # Optional: put your config options customization here. Examples:
+      ND_SCANSCHEDULE: 1h
+      ND_LOGLEVEL: info
+      ND_SESSIONTIMEOUT: 24h
+      ND_BASEURL: ""
+    volumes:
+      - "/media/rshah17/Drive 3/Music_data:/data"
+      - "/media/rshah17/Drive 3/Music:/music:ro"
+  ersatz_tv:
+    image: jasongdove/ersatztv
+    container_name: ersatztv
+    network_mode: service:tailscale
+    volumes:
+      - "/media/rshah17/Drive 1/ersatz_config/:/root/.local/share/ersatztv"
+      - "/media/rshah17/Drive 1/Watchable_Media/:/media:ro"
+  tunarr:
+    image: chrisbenincasa/tunarr
+    # Uncomment along with runtime below to enable HW accel
+    # image: chrisbenincasa/tunarr:latest-nvidia
+    container_name: tunarr
+    network_mode: service:tailscale
+    # Uncomment if using the Nvidia container
+    # runtime: nvidia
+    environment:
+      # Replace this with your timezone to ensure accurate guide
+      # data and scheduling.
+      - TZ=America/New_York
+      # Uncomment if you'd like to adjust default config path
+      # - TUNARR_DATABASE_PATH=/your/path/tunarr
+    volumes:
+      # Choose a path on your host to map to /config/tunarr. This ensures
+      # that restarting the container will not delete your settings or DB.
+      - "/media/rshah17/Drive 1/tunarr/data:/config/tunarr"
+    # The host path is relative to the location of the compose file
+    # This can also use an absolute path.
+    #
+    # Uncomment if migrating from dizquetv. Chnage the host path
+    # to the location of your dizquetv "database"
+    # - ./.dizquetv:/.dizquetv

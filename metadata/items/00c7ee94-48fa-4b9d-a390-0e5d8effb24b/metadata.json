@@ -1,0 +1,156 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 196.101224,
+      "title": "Track01"
+    },
+    {
+      "id": 1,
+      "start": 196.101224,
+      "end": 377.887346,
+      "title": "Track02"
+    },
+    {
+      "id": 2,
+      "start": 377.887346,
+      "end": 577.071019,
+      "title": "Track03"
+    },
+    {
+      "id": 3,
+      "start": 577.071019,
+      "end": 819.356733,
+      "title": "Track04"
+    },
+    {
+      "id": 4,
+      "start": 819.356733,
+      "end": 1021.126529,
+      "title": "Track05"
+    },
+    {
+      "id": 5,
+      "start": 1021.126529,
+      "end": 1218.377141,
+      "title": "Track06"
+    },
+    {
+      "id": 6,
+      "start": 1218.377141,
+      "end": 1428.7151,
+      "title": "Track07"
+    },
+    {
+      "id": 7,
+      "start": 1428.7151,
+      "end": 1644.094692,
+      "title": "Track08"
+    },
+    {
+      "id": 8,
+      "start": 1644.094692,
+      "end": 1835.180406,
+      "title": "Track09"
+    },
+    {
+      "id": 9,
+      "start": 1835.180406,
+      "end": 2024.5159159999998,
+      "title": "Track10"
+    },
+    {
+      "id": 10,
+      "start": 2024.5159159999998,
+      "end": 2217.1951,
+      "title": "Track11"
+    },
+    {
+      "id": 11,
+      "start": 2217.1951,
+      "end": 2398.563263,
+      "title": "Track12"
+    },
+    {
+      "id": 12,
+      "start": 2398.563263,
+      "end": 2615.222855,
+      "title": "Track13"
+    },
+    {
+      "id": 13,
+      "start": 2615.222855,
+      "end": 2805.420406,
+      "title": "Track14"
+    },
+    {
+      "id": 14,
+      "start": 2805.420406,
+      "end": 2989.0873450000004,
+      "title": "Track15"
+    },
+    {
+      "id": 15,
+      "start": 2989.0873450000004,
+      "end": 3175.5493860000006,
+      "title": "Track16"
+    },
+    {
+      "id": 16,
+      "start": 3175.5493860000006,
+      "end": 3367.3142840000005,
+      "title": "Track17"
+    },
+    {
+      "id": 17,
+      "start": 3367.3142840000005,
+      "end": 3568.0653040000007,
+      "title": "Track18"
+    },
+    {
+      "id": 18,
+      "start": 3568.0653040000007,
+      "end": 3765.524896000001,
+      "title": "Track19"
+    },
+    {
+      "id": 19,
+      "start": 3765.524896000001,
+      "end": 3967.9216310000006,
+      "title": "Track20"
+    },
+    {
+      "id": 20,
+      "start": 3967.9216310000006,
+      "end": 4156.186121000001,
+      "title": "Track21"
+    },
+    {
+      "id": 21,
+      "start": 4156.186121000001,
+      "end": 4352.809794000001,
+      "title": "Track22"
+    }
+  ],
+  "title": "Norwegian Wood",
+  "subtitle": null,
+  "authors": [
+    "Haruki Murakami"
+  ],
+  "narrators": [],
+  "series": [
+    "Haruki Murakami - Norwegian Wood"
+  ],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

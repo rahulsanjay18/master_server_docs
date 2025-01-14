@@ -1,0 +1,80 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 281.469388,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 281.469388,
+      "end": 854.595919,
+      "title": "Foreword"
+    },
+    {
+      "id": 2,
+      "start": 854.595919,
+      "end": 14425.155918999999,
+      "title": "The Finder"
+    },
+    {
+      "id": 3,
+      "start": 14425.155918999999,
+      "end": 18604.173061999998,
+      "title": "Darkrose and Diamond"
+    },
+    {
+      "id": 4,
+      "start": 18604.173061999998,
+      "end": 21177.260409,
+      "title": "The Bones of the Earth"
+    },
+    {
+      "id": 5,
+      "start": 21177.260409,
+      "end": 25336.711838,
+      "title": "On the High Marsh"
+    },
+    {
+      "id": 6,
+      "start": 25336.711838,
+      "end": 34123.07592,
+      "title": "Dragonfly"
+    },
+    {
+      "id": 7,
+      "start": 34123.07592,
+      "end": 38109.988573,
+      "title": "A Description of Earthsea"
+    },
+    {
+      "id": 8,
+      "start": 38109.988573,
+      "end": 38163.670206,
+      "title": "End"
+    }
+  ],
+  "title": "Tales from Earthsea",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "293mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2001",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Madelyn Buzzard",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

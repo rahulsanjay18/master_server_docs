@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=The Shakespeare Sessions
+artist=BBC - William Shakespeare
+album_artist=BBC - William Shakespeare
+album=The Shakespeare Sessions
+genre=Radio Drama
+date=1991
+comment=Adjoa Andoh stars in William Shakespeare's timeless comedy of love and magic.
+description=Adjoa Andoh stars in William Shakespeare's timeless comedy of love and magic.
+TRACKTOTAL=23

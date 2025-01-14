@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Windhaven
+artist=George R. R. Martin, Lisa Tuttle
+album_artist=George R. R. Martin, Lisa Tuttle
+album=Windhaven
+genre=Audio Book
+date=1981
+comment=Read by Harriet Walter
+description=Read by Harriet Walter
+composer=370mb
+TRACKTOTAL=15

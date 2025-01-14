@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Searoad: Chronicles of Klatsand
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Searoad: Chronicles of Klatsand
+genre=Audio Book
+date=1991
+comment=Read by Mara Swanson
+description=Read by Mara Swanson
+composer=201mb
+TRACKTOTAL=14

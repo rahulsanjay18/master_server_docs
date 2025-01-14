@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=No Time to Spare: Thinking About What Matters
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=No Time to Spare: Thinking About What Matters
+genre=Audio Book
+date=2017
+comment=Read by Kerry Dukin
+description=Read by Kerry Dukin
+composer=191mb
+TRACKTOTAL=52

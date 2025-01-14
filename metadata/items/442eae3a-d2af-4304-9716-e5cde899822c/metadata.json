@@ -1,0 +1,446 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1312,
+      "title": "01"
+    },
+    {
+      "id": 1,
+      "start": 1312,
+      "end": 2271.973878,
+      "title": "02"
+    },
+    {
+      "id": 2,
+      "start": 2271.973878,
+      "end": 4218.331429,
+      "title": "03"
+    },
+    {
+      "id": 3,
+      "start": 4218.331429,
+      "end": 5166.654694,
+      "title": "04"
+    },
+    {
+      "id": 4,
+      "start": 5166.654694,
+      "end": 6579.565714,
+      "title": "05"
+    },
+    {
+      "id": 5,
+      "start": 6579.565714,
+      "end": 7556.362449,
+      "title": "06"
+    },
+    {
+      "id": 6,
+      "start": 7556.362449,
+      "end": 8822.700408,
+      "title": "07"
+    },
+    {
+      "id": 7,
+      "start": 8822.700408,
+      "end": 9813.786122000001,
+      "title": "08"
+    },
+    {
+      "id": 8,
+      "start": 9813.786122000001,
+      "end": 11324.160000000002,
+      "title": "09"
+    },
+    {
+      "id": 9,
+      "start": 11324.160000000002,
+      "end": 13246.093061000001,
+      "title": "10"
+    },
+    {
+      "id": 10,
+      "start": 13246.093061000001,
+      "end": 14861.76653,
+      "title": "11"
+    },
+    {
+      "id": 11,
+      "start": 14861.76653,
+      "end": 16062.066938,
+      "title": "12"
+    },
+    {
+      "id": 12,
+      "start": 16062.066938,
+      "end": 17018.383673,
+      "title": "13"
+    },
+    {
+      "id": 13,
+      "start": 17018.383673,
+      "end": 17664.470204,
+      "title": "14"
+    },
+    {
+      "id": 14,
+      "start": 17664.470204,
+      "end": 18569.430204,
+      "title": "15"
+    },
+    {
+      "id": 15,
+      "start": 18569.430204,
+      "end": 19508.218775,
+      "title": "16"
+    },
+    {
+      "id": 16,
+      "start": 19508.218775,
+      "end": 20731.794285,
+      "title": "17"
+    },
+    {
+      "id": 17,
+      "start": 20731.794285,
+      "end": 21884.813061,
+      "title": "18"
+    },
+    {
+      "id": 18,
+      "start": 21884.813061,
+      "end": 22701.244081,
+      "title": "19"
+    },
+    {
+      "id": 19,
+      "start": 22701.244081,
+      "end": 23541.368163,
+      "title": "20"
+    },
+    {
+      "id": 20,
+      "start": 23541.368163,
+      "end": 25145.129796,
+      "title": "21"
+    },
+    {
+      "id": 21,
+      "start": 25145.129796,
+      "end": 26635.911837,
+      "title": "22"
+    },
+    {
+      "id": 22,
+      "start": 26635.911837,
+      "end": 27489.358368,
+      "title": "23"
+    },
+    {
+      "id": 23,
+      "start": 27489.358368,
+      "end": 28335.934695,
+      "title": "24"
+    },
+    {
+      "id": 24,
+      "start": 28335.934695,
+      "end": 29740.016328,
+      "title": "25"
+    },
+    {
+      "id": 25,
+      "start": 29740.016328,
+      "end": 30731.990206000002,
+      "title": "26"
+    },
+    {
+      "id": 26,
+      "start": 30731.990206000002,
+      "end": 32092.133879,
+      "title": "27"
+    },
+    {
+      "id": 27,
+      "start": 32092.133879,
+      "end": 33001.116736,
+      "title": "28"
+    },
+    {
+      "id": 28,
+      "start": 33001.116736,
+      "end": 33748.950205,
+      "title": "29"
+    },
+    {
+      "id": 29,
+      "start": 33748.950205,
+      "end": 34797.531429,
+      "title": "30"
+    },
+    {
+      "id": 30,
+      "start": 34797.531429,
+      "end": 35774.223674,
+      "title": "31"
+    },
+    {
+      "id": 31,
+      "start": 35774.223674,
+      "end": 36977.136327,
+      "title": "32"
+    },
+    {
+      "id": 32,
+      "start": 36977.136327,
+      "end": 37678.158368,
+      "title": "33"
+    },
+    {
+      "id": 33,
+      "start": 37678.158368,
+      "end": 39080.672653999995,
+      "title": "34"
+    },
+    {
+      "id": 34,
+      "start": 39080.672653999995,
+      "end": 40360.306939999995,
+      "title": "35"
+    },
+    {
+      "id": 35,
+      "start": 40360.306939999995,
+      "end": 41823.033470999995,
+      "title": "36"
+    },
+    {
+      "id": 36,
+      "start": 41823.033470999995,
+      "end": 42607.830206,
+      "title": "37"
+    },
+    {
+      "id": 37,
+      "start": 42607.830206,
+      "end": 43765.446533,
+      "title": "38"
+    },
+    {
+      "id": 38,
+      "start": 43765.446533,
+      "end": 44340.34939,
+      "title": "39"
+    },
+    {
+      "id": 39,
+      "start": 44340.34939,
+      "end": 45960.09796100001,
+      "title": "40"
+    },
+    {
+      "id": 40,
+      "start": 45960.09796100001,
+      "end": 46981.45959400001,
+      "title": "41"
+    },
+    {
+      "id": 41,
+      "start": 46981.45959400001,
+      "end": 47635.35673700001,
+      "title": "42"
+    },
+    {
+      "id": 42,
+      "start": 47635.35673700001,
+      "end": 48547.73551300001,
+      "title": "43"
+    },
+    {
+      "id": 43,
+      "start": 48547.73551300001,
+      "end": 49373.074289000004,
+      "title": "44"
+    },
+    {
+      "id": 44,
+      "start": 49373.074289000004,
+      "end": 49943.745309000005,
+      "title": "45"
+    },
+    {
+      "id": 45,
+      "start": 49943.745309000005,
+      "end": 50631.13143100001,
+      "title": "46"
+    },
+    {
+      "id": 46,
+      "start": 50631.13143100001,
+      "end": 51900.57796200001,
+      "title": "47"
+    },
+    {
+      "id": 47,
+      "start": 51900.57796200001,
+      "end": 53012.68898200001,
+      "title": "48"
+    },
+    {
+      "id": 48,
+      "start": 53012.68898200001,
+      "end": 54011.35020600001,
+      "title": "49"
+    },
+    {
+      "id": 49,
+      "start": 54011.35020600001,
+      "end": 55221.83836900001,
+      "title": "50"
+    },
+    {
+      "id": 50,
+      "start": 55221.83836900001,
+      "end": 55692.93061400001,
+      "title": "51"
+    },
+    {
+      "id": 51,
+      "start": 55692.93061400001,
+      "end": 56240.97959400001,
+      "title": "52"
+    },
+    {
+      "id": 52,
+      "start": 56240.97959400001,
+      "end": 57421.03510400001,
+      "title": "53"
+    },
+    {
+      "id": 53,
+      "start": 57421.03510400001,
+      "end": 58893.29632800001,
+      "title": "54"
+    },
+    {
+      "id": 54,
+      "start": 58893.29632800001,
+      "end": 59823.83020600001,
+      "title": "55"
+    },
+    {
+      "id": 55,
+      "start": 59823.83020600001,
+      "end": 61185.227757000015,
+      "title": "56"
+    },
+    {
+      "id": 56,
+      "start": 61185.227757000015,
+      "end": 62589.30939000002,
+      "title": "57"
+    },
+    {
+      "id": 57,
+      "start": 62589.30939000002,
+      "end": 63098.12245100002,
+      "title": "58"
+    },
+    {
+      "id": 58,
+      "start": 63098.12245100002,
+      "end": 63486.51102200002,
+      "title": "59"
+    },
+    {
+      "id": 59,
+      "start": 63486.51102200002,
+      "end": 64569.91347100002,
+      "title": "60"
+    },
+    {
+      "id": 60,
+      "start": 64569.91347100002,
+      "end": 65649.60653200002,
+      "title": "61"
+    },
+    {
+      "id": 61,
+      "start": 65649.60653200002,
+      "end": 66356.63673600001,
+      "title": "62"
+    },
+    {
+      "id": 62,
+      "start": 66356.63673600001,
+      "end": 67236.88489900001,
+      "title": "63"
+    },
+    {
+      "id": 63,
+      "start": 67236.88489900001,
+      "end": 68101.564083,
+      "title": "64"
+    },
+    {
+      "id": 64,
+      "start": 68101.564083,
+      "end": 68794.409797,
+      "title": "65"
+    },
+    {
+      "id": 65,
+      "start": 68794.409797,
+      "end": 70353.606532,
+      "title": "66"
+    },
+    {
+      "id": 66,
+      "start": 70353.606532,
+      "end": 71812.15347100001,
+      "title": "67"
+    },
+    {
+      "id": 67,
+      "start": 71812.15347100001,
+      "end": 73950.40653200001,
+      "title": "68"
+    },
+    {
+      "id": 68,
+      "start": 73950.40653200001,
+      "end": 75296.94041000001,
+      "title": "69"
+    },
+    {
+      "id": 69,
+      "start": 75296.94041000001,
+      "end": 77983.45143000002,
+      "title": "70"
+    }
+  ],
+  "title": "Cinder Spires 01 - The Aeronaut's Windlass (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "Jim Butcher"
+  ],
+  "narrators": [
+    "Euan Morton"
+  ],
+  "series": [],
+  "genres": [
+    "Steampunk, Fantasy"
+  ],
+  "publishedYear": "2015-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Narrated by Euan Morton. Jim Butcher, the number-one New York Times best-selling author of The Dresden Files and the Codex Alera novels, conjures up a new series set in a fantastic world of noble families, steam-powered technology, and magic-wielding warriors.... Since time immemorial the Spires have sheltered humanity, towering for miles over the mist-shrouded surface of the world. Within their halls aristocratic houses have ruled for generations, developing scientific marvels, fostering trade alliances, and building fleets of airships to keep the peace. Captain Grimm commands the merchant ship Predator. Fiercely loyal to Spire Albion, he has taken their side in the cold war with Spire Aurora, disrupting the enemy's shipping lines by attacking their cargo vessels. But when the Predator is severely damaged in combat, leaving captain and crew grounded, Grimm is offered a proposition from the Spirearch of Albion - to join a team of agents on a vital mission in exchange for fully restoring Predator to its fighting glory. And even as Grimm undertakes this dangerous task, he will learn that the conflict between the Spires is merely a premonition of things to come. Humanity’s ancient enemy, silent for more than ten thousand years, has begun to stir once more. And death will follow in its wake....",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

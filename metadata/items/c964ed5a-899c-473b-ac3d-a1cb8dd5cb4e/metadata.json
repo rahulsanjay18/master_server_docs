@@ -1,0 +1,136 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2039.008,
+      "title": "Chapter 1"
+    },
+    {
+      "id": 1,
+      "start": 2039.008,
+      "end": 3935.016,
+      "title": "Chapter 2"
+    },
+    {
+      "id": 2,
+      "start": 3935.016,
+      "end": 5722.025,
+      "title": "Chapter 3"
+    },
+    {
+      "id": 3,
+      "start": 5722.025,
+      "end": 8672.034,
+      "title": "Chapter 4"
+    },
+    {
+      "id": 4,
+      "start": 8672.034,
+      "end": 10966.042,
+      "title": "Chapter 5"
+    },
+    {
+      "id": 5,
+      "start": 10966.042,
+      "end": 13039.005,
+      "title": "Chapter 6"
+    },
+    {
+      "id": 6,
+      "start": 13039.005,
+      "end": 14878.015,
+      "title": "Chapter 7"
+    },
+    {
+      "id": 7,
+      "start": 14878.015,
+      "end": 17388.022,
+      "title": "Chapter 8"
+    },
+    {
+      "id": 8,
+      "start": 17388.022,
+      "end": 19218.031,
+      "title": "Chapter 9"
+    },
+    {
+      "id": 9,
+      "start": 19218.031,
+      "end": 21003.04,
+      "title": "Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 21003.04,
+      "end": 23264.003,
+      "title": "Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 23264.003,
+      "end": 25156.012,
+      "title": "Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 25156.012,
+      "end": 27453.021,
+      "title": "Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 27453.021,
+      "end": 29762.029,
+      "title": "Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 29762.029,
+      "end": 31678.036,
+      "title": "Chapter 15"
+    },
+    {
+      "id": 15,
+      "start": 31678.036,
+      "end": 33640.044,
+      "title": "Chapter 16"
+    },
+    {
+      "id": 16,
+      "start": 33640.044,
+      "end": 35734.007,
+      "title": "Chapter 17"
+    },
+    {
+      "id": 17,
+      "start": 35734.007,
+      "end": 37663.014,
+      "title": "Chapter 18"
+    },
+    {
+      "id": 18,
+      "start": 37663.014,
+      "end": 39286.491,
+      "title": "Chapter 19"
+    }
+  ],
+  "title": "03 - Ancillary Mercy",
+  "subtitle": null,
+  "authors": [
+    "Ann Leckie"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2015-10-06T18:21:00",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

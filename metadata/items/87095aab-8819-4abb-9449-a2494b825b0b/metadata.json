@@ -1,0 +1,56 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6652.764,
+      "title": "01: Mending the Green Pitcher"
+    },
+    {
+      "id": 1,
+      "start": 6652.764,
+      "end": 12765.851999999999,
+      "title": "02: Palaces"
+    },
+    {
+      "id": 2,
+      "start": 12765.851999999999,
+      "end": 17853.876,
+      "title": "03: The Dragon Council"
+    },
+    {
+      "id": 3,
+      "start": 17853.876,
+      "end": 23385.564,
+      "title": "04: Dolphin"
+    },
+    {
+      "id": 4,
+      "start": 23385.564,
+      "end": 28216.043999999998,
+      "title": "05: Rejoining"
+    }
+  ],
+  "title": "The Other Wind",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "162mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2001",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Scott Brick, Gabrielle De Cuir, Harlan Ellison, Robert Foxworth & Jean Smart",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

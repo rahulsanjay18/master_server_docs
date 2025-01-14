@@ -1,0 +1,274 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 39.105,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 39.105,
+      "end": 213,
+      "title": "Chapter 1: Sudou Ken’s Soliloquy"
+    },
+    {
+      "id": 2,
+      "start": 213,
+      "end": 810.472,
+      "title": "Chapter 2: The School Sports Festival Begins"
+    },
+    {
+      "id": 3,
+      "start": 810.472,
+      "end": 2598.084,
+      "title": "   ~ 2.1"
+    },
+    {
+      "id": 4,
+      "start": 2598.084,
+      "end": 4112.744,
+      "title": "   ~ 2.2"
+    },
+    {
+      "id": 5,
+      "start": 4112.744,
+      "end": 4371.206,
+      "title": "   ~ 2.3"
+    },
+    {
+      "id": 6,
+      "start": 4371.206,
+      "end": 5611.732,
+      "title": "Chapter 3: Class D’s Objective"
+    },
+    {
+      "id": 7,
+      "start": 5611.732,
+      "end": 5987.57,
+      "title": "   ~ 3.1"
+    },
+    {
+      "id": 8,
+      "start": 5987.57,
+      "end": 6840.764,
+      "title": "   ~ 3.2"
+    },
+    {
+      "id": 9,
+      "start": 6840.764,
+      "end": 7250.132,
+      "title": "Chapter 4: Everyone’s Calculations"
+    },
+    {
+      "id": 10,
+      "start": 7250.132,
+      "end": 7510.567,
+      "title": "   ~ 4.1"
+    },
+    {
+      "id": 11,
+      "start": 7510.567,
+      "end": 8241.995,
+      "title": "   ~ 4.2"
+    },
+    {
+      "id": 12,
+      "start": 8241.995,
+      "end": 8755.18,
+      "title": "   ~ 4.3"
+    },
+    {
+      "id": 13,
+      "start": 8755.18,
+      "end": 9297.993,
+      "title": "Chapter 5: There’s a Reason for Their Relationship"
+    },
+    {
+      "id": 14,
+      "start": 9297.993,
+      "end": 9604.96,
+      "title": "   ~ 5.1"
+    },
+    {
+      "id": 15,
+      "start": 9604.96,
+      "end": 10529.997,
+      "title": "   ~ 5.2"
+    },
+    {
+      "id": 16,
+      "start": 10529.997,
+      "end": 11156.448,
+      "title": "   ~ 5.3"
+    },
+    {
+      "id": 17,
+      "start": 11156.448,
+      "end": 11298.577,
+      "title": "Chapter 6: The Curtains Rise"
+    },
+    {
+      "id": 18,
+      "start": 11298.577,
+      "end": 12630.451,
+      "title": "   ~ 6.1"
+    },
+    {
+      "id": 19,
+      "start": 12630.451,
+      "end": 13082.241,
+      "title": "   ~ 6.2"
+    },
+    {
+      "id": 20,
+      "start": 13082.241,
+      "end": 13988.981,
+      "title": "   ~ 6.3"
+    },
+    {
+      "id": 21,
+      "start": 13988.981,
+      "end": 15062.114,
+      "title": "   ~ 6.4"
+    },
+    {
+      "id": 22,
+      "start": 15062.114,
+      "end": 15395.994,
+      "title": "   ~ 6.5"
+    },
+    {
+      "id": 23,
+      "start": 15395.994,
+      "end": 16134.737,
+      "title": "   ~ 6.6"
+    },
+    {
+      "id": 24,
+      "start": 16134.737,
+      "end": 16414.676,
+      "title": "   ~ 6.7"
+    },
+    {
+      "id": 25,
+      "start": 16414.676,
+      "end": 18713.359,
+      "title": "   ~ 6.8"
+    },
+    {
+      "id": 26,
+      "start": 18713.359,
+      "end": 19366.745,
+      "title": "   ~ 6.9"
+    },
+    {
+      "id": 27,
+      "start": 19366.745,
+      "end": 19805.556,
+      "title": "   ~ 6.10"
+    },
+    {
+      "id": 28,
+      "start": 19805.556,
+      "end": 20081.548,
+      "title": "Chapter 7: For Whose Sake?"
+    },
+    {
+      "id": 29,
+      "start": 20081.548,
+      "end": 21478.995,
+      "title": "   ~ 7.1"
+    },
+    {
+      "id": 30,
+      "start": 21478.995,
+      "end": 21842.666,
+      "title": "   ~ 7.2"
+    },
+    {
+      "id": 31,
+      "start": 21842.666,
+      "end": 22289.975,
+      "title": "Chapter 8: What You and I Lack"
+    },
+    {
+      "id": 32,
+      "start": 22289.975,
+      "end": 22999.832,
+      "title": "   ~ 8.1"
+    },
+    {
+      "id": 33,
+      "start": 22999.832,
+      "end": 23976.139,
+      "title": "   ~ 8.2"
+    },
+    {
+      "id": 34,
+      "start": 23976.139,
+      "end": 24536.854,
+      "title": "   ~ 8.3"
+    },
+    {
+      "id": 35,
+      "start": 24536.854,
+      "end": 25534.314,
+      "title": "Chapter 9: The Turning Point"
+    },
+    {
+      "id": 36,
+      "start": 25534.314,
+      "end": 26221.81,
+      "title": "   ~ 9.1"
+    },
+    {
+      "id": 37,
+      "start": 26221.81,
+      "end": 26354.744,
+      "title": "   ~ 9.2"
+    },
+    {
+      "id": 38,
+      "start": 26354.744,
+      "end": 27470.068,
+      "title": "   ~ 9.3"
+    },
+    {
+      "id": 39,
+      "start": 27470.068,
+      "end": 27866.108,
+      "title": "   ~ 9.4"
+    },
+    {
+      "id": 40,
+      "start": 27866.108,
+      "end": 27934.326,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Classroom of the Elite, Vol. 05",
+  "subtitle": null,
+  "authors": [
+    "Zion Jang"
+  ],
+  "narrators": [
+    "Syougo Kinugasa"
+  ],
+  "series": [
+    "Classroom of the Elite #05"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "January 25, 2017 (12-27-23)",
+  "publishedDate": null,
+  "publisher": "Seven Seas Siren",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

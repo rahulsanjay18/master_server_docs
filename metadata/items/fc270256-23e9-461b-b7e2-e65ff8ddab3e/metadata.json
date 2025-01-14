@@ -1,0 +1,126 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 237.64,
+      "title": "track01"
+    },
+    {
+      "id": 1,
+      "start": 237.64,
+      "end": 485.888,
+      "title": "track02"
+    },
+    {
+      "id": 2,
+      "start": 485.888,
+      "end": 697.632,
+      "title": "track03"
+    },
+    {
+      "id": 3,
+      "start": 697.632,
+      "end": 1056.562,
+      "title": "track04"
+    },
+    {
+      "id": 4,
+      "start": 1056.562,
+      "end": 1315.288,
+      "title": "track05"
+    },
+    {
+      "id": 5,
+      "start": 1315.288,
+      "end": 1521.962,
+      "title": "track06"
+    },
+    {
+      "id": 6,
+      "start": 1521.962,
+      "end": 1766.83,
+      "title": "track07"
+    },
+    {
+      "id": 7,
+      "start": 1766.83,
+      "end": 2000.076,
+      "title": "track08"
+    },
+    {
+      "id": 8,
+      "start": 2000.076,
+      "end": 2346.63,
+      "title": "track09"
+    },
+    {
+      "id": 9,
+      "start": 2346.63,
+      "end": 2555.618,
+      "title": "track10"
+    },
+    {
+      "id": 10,
+      "start": 2555.618,
+      "end": 2878.694,
+      "title": "track11"
+    },
+    {
+      "id": 11,
+      "start": 2878.694,
+      "end": 3145.714,
+      "title": "track12"
+    },
+    {
+      "id": 12,
+      "start": 3145.714,
+      "end": 3517.592,
+      "title": "track13"
+    },
+    {
+      "id": 13,
+      "start": 3517.592,
+      "end": 3747.77,
+      "title": "track14"
+    },
+    {
+      "id": 14,
+      "start": 3747.77,
+      "end": 4131.14,
+      "title": "track15"
+    },
+    {
+      "id": 15,
+      "start": 4131.14,
+      "end": 4347.668000000001,
+      "title": "track16"
+    },
+    {
+      "id": 16,
+      "start": 4347.668000000001,
+      "end": 4615.8060000000005,
+      "title": "track17"
+    }
+  ],
+  "title": "disc 13",
+  "subtitle": null,
+  "authors": [
+    "Haruki Murakami"
+  ],
+  "narrators": [],
+  "series": [
+    "Haruki Murakami - Kafka on the Shore"
+  ],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

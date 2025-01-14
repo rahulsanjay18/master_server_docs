@@ -1,0 +1,392 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 15.36,
+      "title": "[01]  Intro"
+    },
+    {
+      "id": 1,
+      "start": 15.36,
+      "end": 37.276735,
+      "title": "[02]  An Excerpt"
+    },
+    {
+      "id": 2,
+      "start": 37.276735,
+      "end": 11620.336326999999,
+      "title": "[03]  Prologue - The First Message"
+    },
+    {
+      "id": 3,
+      "start": 11620.336326999999,
+      "end": 14160.848979999999,
+      "title": "[04]  Chapter 1 - Lion on the Hill"
+    },
+    {
+      "id": 4,
+      "start": 14160.848979999999,
+      "end": 16373.080816999998,
+      "title": "[05]  Chapter 2 - A New Arrival"
+    },
+    {
+      "id": 5,
+      "start": 16373.080816999998,
+      "end": 18851.604898999998,
+      "title": "[06]  Chapter 3 - A Woman's Eyes"
+    },
+    {
+      "id": 6,
+      "start": 18851.604898999998,
+      "end": 21803.023674999997,
+      "title": "[07]  Chapter 4 - A Sense of Humor"
+    },
+    {
+      "id": 7,
+      "start": 21803.023674999997,
+      "end": 26332.604083,
+      "title": "[08]  Chapter 5 - A Different Dance"
+    },
+    {
+      "id": 8,
+      "start": 26332.604083,
+      "end": 29900.747755999997,
+      "title": "[09]  Chapter 6 - Threads Woven of Shadow"
+    },
+    {
+      "id": 9,
+      "start": 29900.747755999997,
+      "end": 34276.754286999996,
+      "title": "[10]  Chapter 7 - A Matter of Thought"
+    },
+    {
+      "id": 10,
+      "start": 34276.754286999996,
+      "end": 37858.690614,
+      "title": "[11]  Chapter 8 - The Storm Gathers"
+    },
+    {
+      "id": 11,
+      "start": 37858.690614,
+      "end": 40960.522451,
+      "title": "[12]  Chapter 9 - Plans"
+    },
+    {
+      "id": 12,
+      "start": 40960.522451,
+      "end": 44085.054696,
+      "title": "[13]  Chapter 10 - A Saying in the Borderlands"
+    },
+    {
+      "id": 13,
+      "start": 44085.054696,
+      "end": 46220.329798,
+      "title": "[14]  Chapter 11 - Lessons and Teachers"
+    },
+    {
+      "id": 14,
+      "start": 46220.329798,
+      "end": 49421.63592,
+      "title": "[15]  Chapter 12 - Questions and Answers"
+    },
+    {
+      "id": 15,
+      "start": 49421.63592,
+      "end": 52301.714287,
+      "title": "[16]  Chapter 13 - Under the Dust"
+    },
+    {
+      "id": 16,
+      "start": 52301.714287,
+      "end": 54772.610614000005,
+      "title": "[17]  Chapter 14 - Dreams and Nightmares"
+    },
+    {
+      "id": 17,
+      "start": 54772.610614000005,
+      "end": 57890.873471000006,
+      "title": "[18]  Chapter 15 - A Pile of Sand"
+    },
+    {
+      "id": 18,
+      "start": 57890.873471000006,
+      "end": 60329.58694000001,
+      "title": "[19]  Chapter 16 - Tellings of the Wheel"
+    },
+    {
+      "id": 19,
+      "start": 60329.58694000001,
+      "end": 62550.23020500001,
+      "title": "[20]  Chapter 17 - The Wheel of a Life"
+    },
+    {
+      "id": 20,
+      "start": 62550.23020500001,
+      "end": 65457.293062000004,
+      "title": "[21]  Chapter 18 - A Taste of Solitude"
+    },
+    {
+      "id": 21,
+      "start": 65457.293062000004,
+      "end": 67469.00898,
+      "title": "[22]  Chapter 19 - Matters of Toh"
+    },
+    {
+      "id": 22,
+      "start": 67469.00898,
+      "end": 69538.481633,
+      "title": "[23]  Chapter 20 - From the Stedding"
+    },
+    {
+      "id": 23,
+      "start": 69538.481633,
+      "end": 71696.378776,
+      "title": "[24]  Chapter 21 - To Shadar Logoth"
+    },
+    {
+      "id": 24,
+      "start": 71696.378776,
+      "end": 73988.728164,
+      "title": "[25]  Chapter 22 - Heading South"
+    },
+    {
+      "id": 25,
+      "start": 73988.728164,
+      "end": 74756.075103,
+      "title": "[26]  Chapter 23 - To Understand a Message"
+    },
+    {
+      "id": 26,
+      "start": 74756.075103,
+      "end": 76437.55102099999,
+      "title": "[27]  Chapter 24 - An Embassy"
+    },
+    {
+      "id": 27,
+      "start": 76437.55102099999,
+      "end": 79177.61306199999,
+      "title": "[28]  Chapter 25 - Like Lightning and Rain"
+    },
+    {
+      "id": 28,
+      "start": 79177.61306199999,
+      "end": 81205.76000099999,
+      "title": "[29]  Chapter 26 - Connecting Lines"
+    },
+    {
+      "id": 29,
+      "start": 81205.76000099999,
+      "end": 84692.767348,
+      "title": "[30]  Chapter 27 - Gifts"
+    },
+    {
+      "id": 30,
+      "start": 84692.767348,
+      "end": 87617.097144,
+      "title": "[31]  Chapter 28 - Letters"
+    },
+    {
+      "id": 31,
+      "start": 87617.097144,
+      "end": 89435.559185,
+      "title": "[32]  Chapter 29 - Fire and Spirit"
+    },
+    {
+      "id": 32,
+      "start": 89435.559185,
+      "end": 92791.56245000001,
+      "title": "[33]  Chapter 30 - To Heal Again"
+    },
+    {
+      "id": 33,
+      "start": 92791.56245000001,
+      "end": 94935.71918500001,
+      "title": "[34]  Chapter 31 - Red Wax"
+    },
+    {
+      "id": 34,
+      "start": 94935.71918500001,
+      "end": 96962.37714400001,
+      "title": "[35]  Chapter 32 - Summoned in Haste"
+    },
+    {
+      "id": 35,
+      "start": 96962.37714400001,
+      "end": 99141.40734800001,
+      "title": "[36]  Chapter 33 - Courage to Strengthen"
+    },
+    {
+      "id": 36,
+      "start": 99141.40734800001,
+      "end": 100296.90775600002,
+      "title": "[37]  Chapter 34 - Journey to Salidar"
+    },
+    {
+      "id": 37,
+      "start": 100296.90775600002,
+      "end": 101730.53387800002,
+      "title": "[38]  Chapter 35 - In the Hall of the Sitters"
+    },
+    {
+      "id": 38,
+      "start": 101730.53387800002,
+      "end": 103755.70285800002,
+      "title": "[39]  Chapter 36 - The Amyrlin Is Raised"
+    },
+    {
+      "id": 39,
+      "start": 103755.70285800002,
+      "end": 105782.56979700002,
+      "title": "[40]  Chapter 37 - When Battle Begins"
+    },
+    {
+      "id": 40,
+      "start": 105782.56979700002,
+      "end": 107495.65387900002,
+      "title": "[41]  Chapter 38 - A Sudden Chill"
+    },
+    {
+      "id": 41,
+      "start": 107495.65387900002,
+      "end": 109612.64326700002,
+      "title": "[42]  Chapter 39 - Possibilities"
+    },
+    {
+      "id": 42,
+      "start": 109612.64326700002,
+      "end": 111419.58530800002,
+      "title": "[43]  Chapter 40 - Unexpected Laughter"
+    },
+    {
+      "id": 43,
+      "start": 111419.58530800002,
+      "end": 114234.14857300003,
+      "title": "[44]  Chapter 41 - A Threat"
+    },
+    {
+      "id": 44,
+      "start": 114234.14857300003,
+      "end": 116135.41877700003,
+      "title": "[45]  Chapter 42 - The Black Tower"
+    },
+    {
+      "id": 45,
+      "start": 116135.41877700003,
+      "end": 117343.29469500003,
+      "title": "[46]  Chapter 43 - The Crown of Roses"
+    },
+    {
+      "id": 46,
+      "start": 117343.29469500003,
+      "end": 119498.21387900003,
+      "title": "[47]  Chapter 44 - The Color of Trust"
+    },
+    {
+      "id": 47,
+      "start": 119498.21387900003,
+      "end": 121553.05796100003,
+      "title": "[48]  Chapter 45 - A Bitter Thought"
+    },
+    {
+      "id": 48,
+      "start": 121553.05796100003,
+      "end": 124883.61796100003,
+      "title": "[49]  Chapter 46 - Beyond the Gate"
+    },
+    {
+      "id": 49,
+      "start": 124883.61796100003,
+      "end": 127115.85959400002,
+      "title": "[50]  Chapter 47 - The Wandering Woman"
+    },
+    {
+      "id": 50,
+      "start": 127115.85959400002,
+      "end": 129048.00653300002,
+      "title": "[51]  Chapter 48 - Leaning on the Knife"
+    },
+    {
+      "id": 51,
+      "start": 129048.00653300002,
+      "end": 132700.473472,
+      "title": "[52]  Chapter 49 - The Mirror of Mists"
+    },
+    {
+      "id": 52,
+      "start": 132700.473472,
+      "end": 135283.931431,
+      "title": "[53]  Chapter 50 - Thorns"
+    },
+    {
+      "id": 53,
+      "start": 135283.931431,
+      "end": 136328.097962,
+      "title": "[54]  Chapter 51 - The Taking"
+    },
+    {
+      "id": 54,
+      "start": 136328.097962,
+      "end": 139179.154289,
+      "title": "[55]  Chapter 52 - Weaves of the Power"
+    },
+    {
+      "id": 55,
+      "start": 139179.154289,
+      "end": 142172.604085,
+      "title": "[56]  Chapter 53 - The Feast of Lights"
+    },
+    {
+      "id": 56,
+      "start": 142172.604085,
+      "end": 145499.585309,
+      "title": "[57]  Chapter 54 - The Sending"
+    },
+    {
+      "id": 57,
+      "start": 145499.585309,
+      "end": 148946.050615,
+      "title": "[58]  Chapter 55 - Dumai's Wells"
+    },
+    {
+      "id": 58,
+      "start": 148946.050615,
+      "end": 149474.690615,
+      "title": "[59]  Epilogue - The Answer"
+    },
+    {
+      "id": 59,
+      "start": 149474.690615,
+      "end": 149547.937962,
+      "title": "[60]  An Excerpt"
+    },
+    {
+      "id": 60,
+      "start": 149547.937962,
+      "end": 149584.32653299998,
+      "title": "[61]  Outro"
+    }
+  ],
+  "title": "Lord of Chaos (The Wheel of Time #6)",
+  "subtitle": null,
+  "authors": [
+    "Robert Jordan"
+  ],
+  "narrators": [],
+  "series": [
+    "Robert Jordan - The Wheel of Time 12GB"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1994-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

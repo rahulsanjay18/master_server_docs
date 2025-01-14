@@ -1,0 +1,14 @@
+;FFMETADATA1
+title=Noir Fatale
+artist=Larry Correia, Kacey Ezell
+album_artist=Larry Correia, Kacey Ezell
+album=Noir Fatale
+genre=Audiobook
+date=2019-01-01
+comment=From the pulpy pages of Black Mask Magazine in the 1920s and '30s, through the film noir era of the 1940s, to today, noir fiction has lured many a reader and movie-goer away from the light and into the dark underbelly of society. Names such as Raymond Chandler, Dashiell Hammett, and James M. Cain
+description=From the pulpy pages of Black Mask Magazine in the 1920s and '30s, through the film noir era of the 1940s, to today, noir fiction has lured many a reader and movie-goer away from the light and into the dark underbelly of society. Names such as Raymond Chandler, Dashiell Hammett, and James M. Cain
+composer=Brian Nishii, Bronson Pinchot, Erin Mallon, JD Jackson, Allyson Johnson, Marc Vietor
+copyright=Audible Studios
+publisher=Audible Studios
+TRACKTOTAL=1
+grouping=Larry Correia - Grimnoir Chronicles

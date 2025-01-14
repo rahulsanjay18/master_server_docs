@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=Propaganda and the Public Mind
+artist=Noam Chomsky, David Barsamian
+album_artist=Noam Chomsky, David Barsamian
+album=Propaganda and the Public Mind: Conversations with Noam Chomsky
+TIT3=Conversations with Noam Chomsky
+genre=Electronic books
+TRACKTOTAL=2
+grouping=Various Interviews and Talks

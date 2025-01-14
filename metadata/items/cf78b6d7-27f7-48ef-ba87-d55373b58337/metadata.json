@@ -1,0 +1,334 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 633.900125,
+      "title": "Chapter 01"
+    },
+    {
+      "id": 1,
+      "start": 633.900125,
+      "end": 2107.534003,
+      "title": "Chapter 02"
+    },
+    {
+      "id": 2,
+      "start": 2107.534003,
+      "end": 3342.148692,
+      "title": "Chapter 03"
+    },
+    {
+      "id": 3,
+      "start": 3342.148692,
+      "end": 3892.12757,
+      "title": "Chapter 04"
+    },
+    {
+      "id": 4,
+      "start": 3892.12757,
+      "end": 5366.8821370000005,
+      "title": "Chapter 05"
+    },
+    {
+      "id": 5,
+      "start": 5366.8821370000005,
+      "end": 6815.105075,
+      "title": "Chapter 06"
+    },
+    {
+      "id": 6,
+      "start": 6815.105075,
+      "end": 7617.7598880000005,
+      "title": "Chapter 07"
+    },
+    {
+      "id": 7,
+      "start": 7617.7598880000005,
+      "end": 8857.013701,
+      "title": "Chapter 08"
+    },
+    {
+      "id": 8,
+      "start": 8857.013701,
+      "end": 10787.132268,
+      "title": "Chapter 09"
+    },
+    {
+      "id": 9,
+      "start": 10787.132268,
+      "end": 12274.136206,
+      "title": "Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 12274.136206,
+      "end": 13454.228143999999,
+      "title": "Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 13454.228143999999,
+      "end": 14369.942082,
+      "title": "Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 14369.942082,
+      "end": 16319.138395,
+      "title": "Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 16319.138395,
+      "end": 18168.984462,
+      "title": "Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 18168.984462,
+      "end": 19268.960275,
+      "title": "Chapter 15"
+    },
+    {
+      "id": 15,
+      "start": 19268.960275,
+      "end": 20443.891842,
+      "title": "Chapter 16"
+    },
+    {
+      "id": 16,
+      "start": 20443.891842,
+      "end": 21543.450655,
+      "title": "Chapter 17"
+    },
+    {
+      "id": 17,
+      "start": 21543.450655,
+      "end": 23444.248911000002,
+      "title": "Chapter 18"
+    },
+    {
+      "id": 18,
+      "start": 23444.248911000002,
+      "end": 23910.567167,
+      "title": "Chapter 19"
+    },
+    {
+      "id": 19,
+      "start": 23910.567167,
+      "end": 25150.081605,
+      "title": "Chapter 20"
+    },
+    {
+      "id": 20,
+      "start": 25150.081605,
+      "end": 26233.794417999998,
+      "title": "Chapter 21"
+    },
+    {
+      "id": 21,
+      "start": 26233.794417999998,
+      "end": 27727.817173999996,
+      "title": "Chapter 22"
+    },
+    {
+      "id": 22,
+      "start": 27727.817173999996,
+      "end": 28586.089362999996,
+      "title": "Chapter 23"
+    },
+    {
+      "id": 23,
+      "start": 28586.089362999996,
+      "end": 29182.381300999994,
+      "title": "Chapter 24"
+    },
+    {
+      "id": 24,
+      "start": 29182.381300999994,
+      "end": 30465.680738999996,
+      "title": "Chapter 25"
+    },
+    {
+      "id": 25,
+      "start": 30465.680738999996,
+      "end": 31554.241176999996,
+      "title": "Chapter 26"
+    },
+    {
+      "id": 26,
+      "start": 31554.241176999996,
+      "end": 33017.293676999994,
+      "title": "Chapter 27"
+    },
+    {
+      "id": 27,
+      "start": 33017.293676999994,
+      "end": 34123.550554999994,
+      "title": "Chapter 28"
+    },
+    {
+      "id": 28,
+      "start": 34123.550554999994,
+      "end": 35100.459244,
+      "title": "Chapter 29"
+    },
+    {
+      "id": 29,
+      "start": 35100.459244,
+      "end": 36232.570122,
+      "title": "Chapter 30"
+    },
+    {
+      "id": 30,
+      "start": 36232.570122,
+      "end": 37212.528121999996,
+      "title": "Chapter 31"
+    },
+    {
+      "id": 31,
+      "start": 37212.528121999996,
+      "end": 38695.596622,
+      "title": "Chapter 32"
+    },
+    {
+      "id": 32,
+      "start": 38695.596622,
+      "end": 39347.167122,
+      "title": "Chapter 33"
+    },
+    {
+      "id": 33,
+      "start": 39347.167122,
+      "end": 40467.497747,
+      "title": "Chapter 34"
+    },
+    {
+      "id": 34,
+      "start": 40467.497747,
+      "end": 41682.122503,
+      "title": "Chapter 35"
+    },
+    {
+      "id": 35,
+      "start": 41682.122503,
+      "end": 42467.080881,
+      "title": "Chapter 36"
+    },
+    {
+      "id": 36,
+      "start": 42467.080881,
+      "end": 43890.570506000004,
+      "title": "Chapter 37"
+    },
+    {
+      "id": 37,
+      "start": 43890.570506000004,
+      "end": 45239.860195,
+      "title": "Chapter 38"
+    },
+    {
+      "id": 38,
+      "start": 45239.860195,
+      "end": 46415.573633,
+      "title": "Chapter 39"
+    },
+    {
+      "id": 39,
+      "start": 46415.573633,
+      "end": 47195.528011,
+      "title": "Chapter 40"
+    },
+    {
+      "id": 40,
+      "start": 47195.528011,
+      "end": 48374.421078,
+      "title": "Chapter 41"
+    },
+    {
+      "id": 41,
+      "start": 48374.421078,
+      "end": 49101.989834,
+      "title": "Chapter 42"
+    },
+    {
+      "id": 42,
+      "start": 49101.989834,
+      "end": 50281.065334,
+      "title": "Chapter 43"
+    },
+    {
+      "id": 43,
+      "start": 50281.065334,
+      "end": 51180.516272,
+      "title": "Chapter 44"
+    },
+    {
+      "id": 44,
+      "start": 51180.516272,
+      "end": 52466.552272,
+      "title": "Chapter 45"
+    },
+    {
+      "id": 45,
+      "start": 52466.552272,
+      "end": 54078.968961,
+      "title": "Chapter 46"
+    },
+    {
+      "id": 46,
+      "start": 54078.968961,
+      "end": 55835.172461,
+      "title": "Chapter 47"
+    },
+    {
+      "id": 47,
+      "start": 55835.172461,
+      "end": 56882.371717,
+      "title": "Chapter 48"
+    },
+    {
+      "id": 48,
+      "start": 56882.371717,
+      "end": 59568.745842000004,
+      "title": "Chapter 49"
+    },
+    {
+      "id": 49,
+      "start": 59568.745842000004,
+      "end": 62869.048220000004,
+      "title": "Chapter 50"
+    },
+    {
+      "id": 50,
+      "start": 62869.048220000004,
+      "end": 64290.061909000004,
+      "title": "Chapter 51"
+    }
+  ],
+  "title": "The Dresden Files 13.0 - Ghost Story (Glover)",
+  "subtitle": null,
+  "authors": [
+    "John Glover"
+  ],
+  "narrators": [
+    "Jim Butcher"
+  ],
+  "series": [
+    "Jim Butcher - Dresden Files 22GB #13"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2011-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

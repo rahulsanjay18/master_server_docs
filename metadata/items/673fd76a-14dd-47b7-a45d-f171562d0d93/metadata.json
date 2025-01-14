@@ -1,0 +1,42 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "title": "Chapter 1",
+      "end": 7360.315003
+    },
+    {
+      "id": 1,
+      "start": 7360.315003,
+      "title": "Chapter 2",
+      "end": 81518.109161
+    },
+    {
+      "id": 2,
+      "start": 81518.109161,
+      "title": "Chapter 3",
+      "end": 108027.39081
+    }
+  ],
+  "title": "Ulysses",
+  "subtitle": "null",
+  "authors": [
+    "James Joyce/John Lee"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": "<p>Joyce's experimental masterpiece set a new standard for modernist fiction, pushing the English language past all previous thresholds in its quest to capture a day in the life of an Everyman in turn-of-the-century Dublin. Obliquely borrowing characters and situations from Homer's Odyssey, Joyce takes us on an internal odyssey along the current of thoughts, impressions, and experiences that make up the adventure of living an average day. As his characters stroll, eat, ruminate, and argue through the streets of Dublin, Joyce's stream-of-consciousness narrative artfully weaves events, emotions, and memories in a free flow of imagery and associations. Full of literary references, parody, and uncensored vulgarity, Ulysses has been considered controversial and challenging, but always brilliant and rewarding.",
+  "isbn": null,
+  "asin": null,
+  "language": "XXX",
+  "explicit": false,
+  "abridged": false
+}

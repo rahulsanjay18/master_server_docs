@@ -1,0 +1,54 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4440.058776,
+      "title": "01-Robert_Young_-_Post_Colonialism_-_A_Very_Short_Introduction"
+    },
+    {
+      "id": 1,
+      "start": 4440.058776,
+      "end": 8880.143673999999,
+      "title": "02-Robert_Young_-_Post_Colonialism_-_A_Very_Short_Introduction"
+    },
+    {
+      "id": 2,
+      "start": 8880.143673999999,
+      "end": 13320.228572,
+      "title": "03-Robert_Young_-_Post_Colonialism_-_A_Very_Short_Introduction"
+    },
+    {
+      "id": 3,
+      "start": 13320.228572,
+      "end": 17760.287347999998,
+      "title": "04-Robert_Young_-_Post_Colonialism_-_A_Very_Short_Introduction"
+    },
+    {
+      "id": 4,
+      "start": 17760.287347999998,
+      "end": 18072.450612999997,
+      "title": "05-Robert_Young_-_Post_Colonialism_-_A_Very_Short_Introduction"
+    }
+  ],
+  "title": "Post Colonialism-A Very Short Introduction",
+  "subtitle": null,
+  "authors": [
+    "Robert Young"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2003",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

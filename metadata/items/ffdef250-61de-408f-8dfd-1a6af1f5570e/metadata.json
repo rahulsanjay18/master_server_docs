@@ -1,0 +1,138 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 798.529289,
+      "title": "01: Third"
+    },
+    {
+      "id": 1,
+      "start": 798.529289,
+      "end": 1527.337722,
+      "title": "02: Peter"
+    },
+    {
+      "id": 2,
+      "start": 1527.337722,
+      "end": 2724.260436,
+      "title": "03: Graff"
+    },
+    {
+      "id": 3,
+      "start": 2724.260436,
+      "end": 3894.7472930000004,
+      "title": "04: Launch"
+    },
+    {
+      "id": 4,
+      "start": 3894.7472930000004,
+      "end": 5707.663437,
+      "title": "05: Games"
+    },
+    {
+      "id": 5,
+      "start": 5707.663437,
+      "end": 6952.808151,
+      "title": "06: Giant's Drink"
+    },
+    {
+      "id": 6,
+      "start": 6952.808151,
+      "end": 10455.376584,
+      "title": "07: Salamander"
+    },
+    {
+      "id": 7,
+      "start": 10455.376584,
+      "end": 12884.103441,
+      "title": "08: Rat"
+    },
+    {
+      "id": 8,
+      "start": 12884.103441,
+      "end": 17488.987011999998,
+      "title": "09: Locke and Demosthenes"
+    },
+    {
+      "id": 9,
+      "start": 17488.987011999998,
+      "end": 19522.873011999996,
+      "title": "10: Dragon"
+    },
+    {
+      "id": 10,
+      "start": 19522.873011999996,
+      "end": 22528.984300999997,
+      "title": "11: Veni Vidi Vici"
+    },
+    {
+      "id": 11,
+      "start": 22528.984300999997,
+      "end": 25608.996014999997,
+      "title": "12: Bonzo"
+    },
+    {
+      "id": 12,
+      "start": 25608.996014999997,
+      "end": 29167.936728999997,
+      "title": "13: Valentine"
+    },
+    {
+      "id": 13,
+      "start": 29167.936728999997,
+      "end": 35161.176161999996,
+      "title": "14: Ender's Teacher"
+    },
+    {
+      "id": 14,
+      "start": 35161.176161999996,
+      "end": 37595.780595,
+      "title": "15: Speaker for the Dead"
+    },
+    {
+      "id": 15,
+      "start": 37595.780595,
+      "end": 37944.742452,
+      "title": "16: Postscript"
+    },
+    {
+      "id": 16,
+      "start": 37944.742452,
+      "end": 40571.294596,
+      "title": "17: 20th Anniversary Postscript"
+    },
+    {
+      "id": 17,
+      "start": 40571.294596,
+      "end": 41062.336452999996,
+      "title": "18: Youung Listeners Edition Postscipt"
+    },
+    {
+      "id": 18,
+      "start": 41062.336452999996,
+      "end": 41126.824885999995,
+      "title": "19: End"
+    }
+  ],
+  "title": "Ender's Game",
+  "subtitle": null,
+  "authors": [
+    "Orson Scott Card"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1985",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

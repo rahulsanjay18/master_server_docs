@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Pride and Prejudice (read by Lindsay Duncan)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Pride and Prejudice (read by Lindsay Duncan)
+date=1813
+TRACKTOTAL=23
+grouping=1813 - Pride and Prejudice (read by Lindsay Duncan) \#1

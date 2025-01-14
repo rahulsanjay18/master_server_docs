@@ -1,0 +1,62 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 607.320816,
+      "title": "1"
+    },
+    {
+      "id": 1,
+      "start": 607.320816,
+      "end": 2768.169796,
+      "title": "2"
+    },
+    {
+      "id": 2,
+      "start": 2768.169796,
+      "end": 4654.654694,
+      "title": "3"
+    },
+    {
+      "id": 3,
+      "start": 4654.654694,
+      "end": 6607.8563269999995,
+      "title": "4"
+    },
+    {
+      "id": 4,
+      "start": 6607.8563269999995,
+      "end": 9781.733878,
+      "title": "5"
+    },
+    {
+      "id": 5,
+      "start": 9781.733878,
+      "end": 12533.838367999999,
+      "title": "6"
+    },
+    {
+      "id": 6,
+      "start": 12533.838367999999,
+      "end": 15721.090612999998,
+      "title": "7"
+    }
+  ],
+  "title": "Manfred_B_Steger_-_Neoliberalism_2nd_Edition",
+  "subtitle": null,
+  "authors": [],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

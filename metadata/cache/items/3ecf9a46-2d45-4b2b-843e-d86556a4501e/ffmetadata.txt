@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Problems of Knowledge and Freedom: The Russell Lectures
+artist=Noam Chomsky
+album_artist=Noam Chomsky
+album=Problems of Knowledge and Freedom: The Russell Lectures
+date=2015-01-01
+TRACKTOTAL=1

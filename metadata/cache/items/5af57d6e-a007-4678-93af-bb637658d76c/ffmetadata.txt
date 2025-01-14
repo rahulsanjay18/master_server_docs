@@ -1,0 +1,4 @@
+;FFMETADATA1
+title=Terms of Endearment
+album=Terms of Endearment
+TRACKTOTAL=1

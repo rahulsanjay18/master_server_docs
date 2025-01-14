@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=Gra Endera
+artist=Orson Scott Card, Prószyński i S-ka
+album_artist=Orson Scott Card, Prószyński i S-ka
+album=Gra Endera
+genre=Child soldiers
+date=2002
+comment=Child-hero Ender Wiggin must fight a desperate battle against a deadly alien race if mankind is to survive.
+description=Child-hero Ender Wiggin must fight a desperate battle against a deadly alien race if mankind is to survive.
+copyright=Fantastic Audio
+publisher=Fantastic Audio
+TRACKTOTAL=2

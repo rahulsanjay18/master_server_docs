@@ -1,0 +1,293 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 15.634014,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 15.634014,
+      "end": 27.538027,
+      "title": "Dedication",
+      "id": 1
+    },
+    {
+      "start": 27.538027,
+      "end": 1428.165034,
+      "title": "Martini",
+      "id": 2
+    },
+    {
+      "start": 1428.165034,
+      "end": 2576.763039,
+      "title": "Boulevardier",
+      "id": 3
+    },
+    {
+      "start": 2576.763039,
+      "end": 3750.601043,
+      "title": "Whiskey Sour",
+      "id": 4
+    },
+    {
+      "start": 3750.601043,
+      "end": 5000.020045,
+      "title": "Amal’s Hospitality",
+      "id": 5
+    },
+    {
+      "start": 5000.020045,
+      "end": 6876.145057,
+      "title": "Manhattan",
+      "id": 6
+    },
+    {
+      "start": 6876.145057,
+      "end": 7724.50907,
+      "title": "Corpse Reviver #2",
+      "id": 7
+    },
+    {
+      "start": 7724.50907,
+      "end": 9029.145079,
+      "title": "Preakness",
+      "id": 8
+    },
+    {
+      "start": 9029.145079,
+      "end": 9955.853084,
+      "title": "Moonpool",
+      "id": 9
+    },
+    {
+      "start": 9955.853084,
+      "end": 11191.317098,
+      "title": "Blood and Sand",
+      "id": 10
+    },
+    {
+      "start": 11191.317098,
+      "end": 12242.252109,
+      "title": "White Lady",
+      "id": 11
+    },
+    {
+      "start": 12242.252109,
+      "end": 12764.492109,
+      "title": "Choke Artist",
+      "id": 12
+    },
+    {
+      "start": 12764.492109,
+      "end": 13988.671111,
+      "title": "Ad Lib",
+      "id": 13
+    },
+    {
+      "start": 13988.671111,
+      "end": 15587.109116,
+      "title": "Frisky Business",
+      "id": 14
+    },
+    {
+      "start": 15587.109116,
+      "end": 16343.313129,
+      "title": "Aviation",
+      "id": 15
+    },
+    {
+      "start": 16343.313129,
+      "end": 16931.335147,
+      "title": "The Obituary",
+      "id": 16
+    },
+    {
+      "start": 16931.335147,
+      "end": 17589.388163,
+      "title": "Sophisticated Lady",
+      "id": 17
+    },
+    {
+      "start": 17589.388163,
+      "end": 18501.839184,
+      "title": "Hanky Panky",
+      "id": 18
+    },
+    {
+      "start": 18501.839184,
+      "end": 19681.737188,
+      "title": "Fourth Degree",
+      "id": 19
+    },
+    {
+      "start": 19681.737188,
+      "end": 20429.535193,
+      "title": "Crow’s Nest",
+      "id": 20
+    },
+    {
+      "start": 20429.535193,
+      "end": 21374.099206,
+      "title": "Death in the Afternoon",
+      "id": 21
+    },
+    {
+      "start": 21374.099206,
+      "end": 22277.424218,
+      "title": "Satan’s Whiskers",
+      "id": 22
+    },
+    {
+      "start": 22277.424218,
+      "end": 23928.22322,
+      "title": "Gimlet",
+      "id": 23
+    },
+    {
+      "start": 23928.22322,
+      "end": 24761.63322,
+      "title": "Suffering Bastard",
+      "id": 24
+    },
+    {
+      "start": 24761.63322,
+      "end": 25923.37322,
+      "title": "Remember the Maine",
+      "id": 25
+    },
+    {
+      "start": 25923.37322,
+      "end": 26604.135238,
+      "title": "Too Close for Comfort",
+      "id": 26
+    },
+    {
+      "start": 26604.135238,
+      "end": 27500.007256,
+      "title": "Last Word",
+      "id": 27
+    },
+    {
+      "start": 27500.007256,
+      "end": 28726.995261,
+      "title": "Brainstorm",
+      "id": 28
+    },
+    {
+      "start": 28726.995261,
+      "end": 29796.18127,
+      "title": "Orbital Decay",
+      "id": 29
+    },
+    {
+      "start": 29796.18127,
+      "end": 30790.087279,
+      "title": "Blackthorne",
+      "id": 30
+    },
+    {
+      "start": 30790.087279,
+      "end": 31939.24229,
+      "title": "Tailspin",
+      "id": 31
+    },
+    {
+      "start": 31939.24229,
+      "end": 32950.633311,
+      "title": "Reckless Generosity",
+      "id": 32
+    },
+    {
+      "start": 32950.633311,
+      "end": 33894.988322,
+      "title": "Scofflaw",
+      "id": 33
+    },
+    {
+      "start": 33894.988322,
+      "end": 35445.686327,
+      "title": "Kir Royale",
+      "id": 34
+    },
+    {
+      "start": 35445.686327,
+      "end": 36465.576327,
+      "title": "Magician’s Nibling",
+      "id": 35
+    },
+    {
+      "start": 36465.576327,
+      "end": 37357.129342,
+      "title": "Dangerous Words",
+      "id": 36
+    },
+    {
+      "start": 37357.129342,
+      "end": 37993.843356,
+      "title": "Apparent Cocktail",
+      "id": 37
+    },
+    {
+      "start": 37993.843356,
+      "end": 39328.340363,
+      "title": "Cognac Stinger",
+      "id": 38
+    },
+    {
+      "start": 39328.340363,
+      "end": 40233.384376,
+      "title": "Extra-Dry Martini",
+      "id": 39
+    },
+    {
+      "start": 40233.384376,
+      "end": 40491.835397,
+      "title": "Acknowledgements",
+      "id": 40
+    },
+    {
+      "start": 40491.835397,
+      "end": 40806.777415,
+      "title": "About the Science",
+      "id": 41
+    },
+    {
+      "start": 40806.777415,
+      "end": 41034.38542,
+      "title": "About the Cocktails",
+      "id": 42
+    },
+    {
+      "start": 41034.38542,
+      "end": 41071,
+      "title": "End Credits",
+      "id": 43
+    }
+  ],
+  "title": "The Spare Man",
+  "subtitle": null,
+  "authors": [
+    "Mary Robinette Kowal"
+  ],
+  "narrators": [
+    "Mary Robinette Kowal"
+  ],
+  "series": [
+    "Mary Robinette Kowal"
+  ],
+  "genres": [
+    "Murder Mystery",
+    "Sci-Fi"
+  ],
+  "publishedYear": "2022-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Unabridged",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

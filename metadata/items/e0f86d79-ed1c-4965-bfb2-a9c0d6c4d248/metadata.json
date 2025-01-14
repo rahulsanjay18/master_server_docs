@@ -1,0 +1,108 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2640.2955,
+      "title": "Ender's Game - 01of14"
+    },
+    {
+      "id": 1,
+      "start": 2640.2955,
+      "end": 5235.085833,
+      "title": "Ender's Game - 02of14"
+    },
+    {
+      "id": 2,
+      "start": 5235.085833,
+      "end": 7841.657333,
+      "title": "Ender's Game - 03of14"
+    },
+    {
+      "id": 3,
+      "start": 7841.657333,
+      "end": 10467.167666000001,
+      "title": "Ender's Game - 04of14"
+    },
+    {
+      "id": 4,
+      "start": 10467.167666000001,
+      "end": 13046.806999,
+      "title": "Ender's Game - 05of14"
+    },
+    {
+      "id": 5,
+      "start": 13046.806999,
+      "end": 15699.353999,
+      "title": "Ender's Game - 06of14"
+    },
+    {
+      "id": 6,
+      "start": 15699.353999,
+      "end": 18325.177666,
+      "title": "Ender's Game - 07of14"
+    },
+    {
+      "id": 7,
+      "start": 18325.177666,
+      "end": 20910.145833,
+      "title": "Ender's Game - 08of14"
+    },
+    {
+      "id": 8,
+      "start": 20910.145833,
+      "end": 23531.868333,
+      "title": "Ender's Game - 09of14"
+    },
+    {
+      "id": 9,
+      "start": 23531.868333,
+      "end": 26140.085499999997,
+      "title": "Ender's Game - 10of14"
+    },
+    {
+      "id": 10,
+      "start": 26140.085499999997,
+      "end": 28767.110833,
+      "title": "Ender's Game - 11of14"
+    },
+    {
+      "id": 11,
+      "start": 28767.110833,
+      "end": 31374.256999999998,
+      "title": "Ender's Game - 12of14"
+    },
+    {
+      "id": 12,
+      "start": 31374.256999999998,
+      "end": 33992.270166999995,
+      "title": "Ender's Game - 13of14"
+    },
+    {
+      "id": 13,
+      "start": 33992.270166999995,
+      "end": 35854.7175,
+      "title": "Ender's Game - 14of14"
+    }
+  ],
+  "title": "Ender's Game",
+  "subtitle": null,
+  "authors": [
+    "Orson Scott Card"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Vocal"
+  ],
+  "publishedYear": "1985",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Reader: Bob Askey [LOC] #1",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

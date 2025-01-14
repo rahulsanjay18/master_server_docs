@@ -1,0 +1,674 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 309.754195,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 01"
+    },
+    {
+      "id": 1,
+      "start": 309.754195,
+      "end": 725.205624,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 02"
+    },
+    {
+      "id": 2,
+      "start": 725.205624,
+      "end": 1081.6783679999999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 03"
+    },
+    {
+      "id": 3,
+      "start": 1081.6783679999999,
+      "end": 1732.9516559999997,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 04"
+    },
+    {
+      "id": 4,
+      "start": 1732.9516559999997,
+      "end": 2111.1582769999995,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 05"
+    },
+    {
+      "id": 5,
+      "start": 2111.1582769999995,
+      "end": 2860.0482539999994,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 06"
+    },
+    {
+      "id": 6,
+      "start": 2860.0482539999994,
+      "end": 3044.6004539999994,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 07"
+    },
+    {
+      "id": 7,
+      "start": 3044.6004539999994,
+      "end": 3664.2946039999997,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 08"
+    },
+    {
+      "id": 8,
+      "start": 3664.2946039999997,
+      "end": 3939.125987,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 09"
+    },
+    {
+      "id": 9,
+      "start": 3939.125987,
+      "end": 4028.290613,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 10"
+    },
+    {
+      "id": 10,
+      "start": 4028.290613,
+      "end": 4244.7934700000005,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 11"
+    },
+    {
+      "id": 11,
+      "start": 4244.7934700000005,
+      "end": 4662.474014,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 12"
+    },
+    {
+      "id": 12,
+      "start": 4662.474014,
+      "end": 4674.455511,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 13"
+    },
+    {
+      "id": 13,
+      "start": 4674.455511,
+      "end": 5018.01796,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 13"
+    },
+    {
+      "id": 14,
+      "start": 5018.01796,
+      "end": 5111.826577,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 14"
+    },
+    {
+      "id": 15,
+      "start": 5111.826577,
+      "end": 5514.460591,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 14"
+    },
+    {
+      "id": 16,
+      "start": 5514.460591,
+      "end": 5657.216872,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 15"
+    },
+    {
+      "id": 17,
+      "start": 5657.216872,
+      "end": 5812.697688,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 15"
+    },
+    {
+      "id": 18,
+      "start": 5812.697688,
+      "end": 7033.602903,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 16"
+    },
+    {
+      "id": 19,
+      "start": 7033.602903,
+      "end": 7488.156735,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 16"
+    },
+    {
+      "id": 20,
+      "start": 7488.156735,
+      "end": 8346.830657999999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 17"
+    },
+    {
+      "id": 21,
+      "start": 8346.830657999999,
+      "end": 9225.195102,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 17"
+    },
+    {
+      "id": 22,
+      "start": 9225.195102,
+      "end": 9929.131247,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 18"
+    },
+    {
+      "id": 23,
+      "start": 9929.131247,
+      "end": 10122.878549,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 18"
+    },
+    {
+      "id": 24,
+      "start": 10122.878549,
+      "end": 12823.545033999999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 19"
+    },
+    {
+      "id": 25,
+      "start": 12823.545033999999,
+      "end": 12918.746847999999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 19"
+    },
+    {
+      "id": 26,
+      "start": 12918.746847999999,
+      "end": 13739.340044999999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 20"
+    },
+    {
+      "id": 27,
+      "start": 13739.340044999999,
+      "end": 14008.691518999998,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 20"
+    },
+    {
+      "id": 28,
+      "start": 14008.691518999998,
+      "end": 15532.384942999997,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 21"
+    },
+    {
+      "id": 29,
+      "start": 15532.384942999997,
+      "end": 15720.095055999996,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 21"
+    },
+    {
+      "id": 30,
+      "start": 15720.095055999996,
+      "end": 17598.589386999996,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 22"
+    },
+    {
+      "id": 31,
+      "start": 17598.589386999996,
+      "end": 17909.736778999995,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 22"
+    },
+    {
+      "id": 32,
+      "start": 17909.736778999995,
+      "end": 19738.354646999996,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 23"
+    },
+    {
+      "id": 33,
+      "start": 19738.354646999996,
+      "end": 20318.017594999998,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 23"
+    },
+    {
+      "id": 34,
+      "start": 20318.017594999998,
+      "end": 22108.926257,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 24"
+    },
+    {
+      "id": 35,
+      "start": 22108.926257,
+      "end": 22589.950837,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 24"
+    },
+    {
+      "id": 36,
+      "start": 22589.950837,
+      "end": 22799.859227,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 25"
+    },
+    {
+      "id": 37,
+      "start": 22799.859227,
+      "end": 23095.40281,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 25"
+    },
+    {
+      "id": 38,
+      "start": 23095.40281,
+      "end": 24256.214783,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 26"
+    },
+    {
+      "id": 39,
+      "start": 24256.214783,
+      "end": 24507.640452,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 26"
+    },
+    {
+      "id": 40,
+      "start": 24507.640452,
+      "end": 24754.32925,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 27"
+    },
+    {
+      "id": 41,
+      "start": 24754.32925,
+      "end": 24927.364352,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 27"
+    },
+    {
+      "id": 42,
+      "start": 24927.364352,
+      "end": 25236.654148,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 28"
+    },
+    {
+      "id": 43,
+      "start": 25236.654148,
+      "end": 25514.086166,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 28"
+    },
+    {
+      "id": 44,
+      "start": 25514.086166,
+      "end": 26057.433105,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 29"
+    },
+    {
+      "id": 45,
+      "start": 26057.433105,
+      "end": 26605.238275,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 29"
+    },
+    {
+      "id": 46,
+      "start": 26605.238275,
+      "end": 27400.753921,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 30"
+    },
+    {
+      "id": 47,
+      "start": 27400.753921,
+      "end": 28263.514556,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 30"
+    },
+    {
+      "id": 48,
+      "start": 28263.514556,
+      "end": 28559.151018999997,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 31"
+    },
+    {
+      "id": 49,
+      "start": 28559.151018999997,
+      "end": 28937.079001,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 31"
+    },
+    {
+      "id": 50,
+      "start": 28937.079001,
+      "end": 29473.645712999998,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 32"
+    },
+    {
+      "id": 51,
+      "start": 29473.645712999998,
+      "end": 29821.666393,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 32"
+    },
+    {
+      "id": 52,
+      "start": 29821.666393,
+      "end": 30117.395735,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 33"
+    },
+    {
+      "id": 53,
+      "start": 30117.395735,
+      "end": 30401.515099999997,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 33"
+    },
+    {
+      "id": 54,
+      "start": 30401.515099999997,
+      "end": 30935.202537999998,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 34"
+    },
+    {
+      "id": 55,
+      "start": 30935.202537999998,
+      "end": 31175.111108999998,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 34"
+    },
+    {
+      "id": 56,
+      "start": 31175.111108999998,
+      "end": 31595.392288,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 35"
+    },
+    {
+      "id": 57,
+      "start": 31595.392288,
+      "end": 31817.096415,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 35"
+    },
+    {
+      "id": 58,
+      "start": 31817.096415,
+      "end": 32144.776415,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 36"
+    },
+    {
+      "id": 59,
+      "start": 32144.776415,
+      "end": 33241.036914,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 36"
+    },
+    {
+      "id": 60,
+      "start": 33241.036914,
+      "end": 33575.125621,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 37"
+    },
+    {
+      "id": 61,
+      "start": 33575.125621,
+      "end": 34807.455054,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 37"
+    },
+    {
+      "id": 62,
+      "start": 34807.455054,
+      "end": 34946.124622999996,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 38"
+    },
+    {
+      "id": 63,
+      "start": 34946.124622999996,
+      "end": 35660.184667999994,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 38"
+    },
+    {
+      "id": 64,
+      "start": 35660.184667999994,
+      "end": 35754.829202999994,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 39"
+    },
+    {
+      "id": 65,
+      "start": 35754.829202999994,
+      "end": 39474.758817999995,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 39"
+    },
+    {
+      "id": 66,
+      "start": 39474.758817999995,
+      "end": 39760.82865899999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 40"
+    },
+    {
+      "id": 67,
+      "start": 39760.82865899999,
+      "end": 41089.19582499999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 40"
+    },
+    {
+      "id": 68,
+      "start": 41089.19582499999,
+      "end": 41497.40262799999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 41"
+    },
+    {
+      "id": 69,
+      "start": 41497.40262799999,
+      "end": 41570.68480499999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 41"
+    },
+    {
+      "id": 70,
+      "start": 41570.68480499999,
+      "end": 41621.58294599999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 42"
+    },
+    {
+      "id": 71,
+      "start": 41621.58294599999,
+      "end": 41669.230292999986,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 42"
+    },
+    {
+      "id": 72,
+      "start": 41669.230292999986,
+      "end": 42083.009884999985,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 43"
+    },
+    {
+      "id": 73,
+      "start": 42083.009884999985,
+      "end": 42352.17559899999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 43"
+    },
+    {
+      "id": 74,
+      "start": 42352.17559899999,
+      "end": 42570.257412999985,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 44"
+    },
+    {
+      "id": 75,
+      "start": 42570.257412999985,
+      "end": 42704.840269999986,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 44"
+    },
+    {
+      "id": 76,
+      "start": 42704.840269999986,
+      "end": 42936.48253799999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 45"
+    },
+    {
+      "id": 77,
+      "start": 42936.48253799999,
+      "end": 43848.00507799999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 45"
+    },
+    {
+      "id": 78,
+      "start": 43848.00507799999,
+      "end": 43945.80752699999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 46"
+    },
+    {
+      "id": 79,
+      "start": 43945.80752699999,
+      "end": 43956.58158599999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 46"
+    },
+    {
+      "id": 80,
+      "start": 43956.58158599999,
+      "end": 45999.937594999996,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 47"
+    },
+    {
+      "id": 81,
+      "start": 45999.937594999996,
+      "end": 46618.331427,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 47"
+    },
+    {
+      "id": 82,
+      "start": 46618.331427,
+      "end": 47159.542129999994,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 48"
+    },
+    {
+      "id": 83,
+      "start": 47159.542129999994,
+      "end": 47881.77559899999,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 48"
+    },
+    {
+      "id": 84,
+      "start": 47881.77559899999,
+      "end": 48851.812423999996,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 49"
+    },
+    {
+      "id": 85,
+      "start": 48851.812423999996,
+      "end": 49250.081086,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 49"
+    },
+    {
+      "id": 86,
+      "start": 49250.081086,
+      "end": 49553.426574,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 50"
+    },
+    {
+      "id": 87,
+      "start": 49553.426574,
+      "end": 49608.968706,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 23 The Brothers Karamazov - 50"
+    },
+    {
+      "id": 88,
+      "start": 49608.968706,
+      "end": 50534.423217999996,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 51"
+    },
+    {
+      "id": 89,
+      "start": 50534.423217999996,
+      "end": 51383.623399,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 52"
+    },
+    {
+      "id": 90,
+      "start": 51383.623399,
+      "end": 51686.318728,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 53"
+    },
+    {
+      "id": 91,
+      "start": 51686.318728,
+      "end": 52084.40163,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 54"
+    },
+    {
+      "id": 92,
+      "start": 52084.40163,
+      "end": 52290.687707,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 55"
+    },
+    {
+      "id": 93,
+      "start": 52290.687707,
+      "end": 52542.113375999994,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 56"
+    },
+    {
+      "id": 94,
+      "start": 52542.113375999994,
+      "end": 52819.452514,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 57"
+    },
+    {
+      "id": 95,
+      "start": 52819.452514,
+      "end": 53095.862854,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 58"
+    },
+    {
+      "id": 96,
+      "start": 53095.862854,
+      "end": 53376.545666,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 59"
+    },
+    {
+      "id": 97,
+      "start": 53376.545666,
+      "end": 54928.938954,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 60"
+    },
+    {
+      "id": 98,
+      "start": 54928.938954,
+      "end": 55456.589202999996,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 61"
+    },
+    {
+      "id": 99,
+      "start": 55456.589202999996,
+      "end": 55782.318727,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 62"
+    },
+    {
+      "id": 100,
+      "start": 55782.318727,
+      "end": 55999.285983,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 63"
+    },
+    {
+      "id": 101,
+      "start": 55999.285983,
+      "end": 56665.327162,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 64"
+    },
+    {
+      "id": 102,
+      "start": 56665.327162,
+      "end": 57107.063579,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 65"
+    },
+    {
+      "id": 103,
+      "start": 57107.063579,
+      "end": 57330.903942000004,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 66"
+    },
+    {
+      "id": 104,
+      "start": 57330.903942000004,
+      "end": 57494.743942,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 67"
+    },
+    {
+      "id": 105,
+      "start": 57494.743942,
+      "end": 57672.051516,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 68"
+    },
+    {
+      "id": 106,
+      "start": 57672.051516,
+      "end": 57688.119725,
+      "title": "The Fyodor Dostoyevsky Complete Collection Part 22 The Brothers Karamazov - 69"
+    }
+  ],
+  "title": "The Fyodor Dostoyevsky Complete Collection Part 22",
+  "subtitle": "The Brothers Karamazov",
+  "authors": [
+    "Fyodor Dostoyevsky"
+  ],
+  "narrators": [
+    "David Rintoul",
+    "Jonathan Keeble",
+    "Malk Williams",
+    "Emma Gregory",
+    "Roger May",
+    "Ben Allen",
+    "Peter Noble"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2200",
+  "publishedDate": null,
+  "publisher": "SNR Audio",
+  "description": "This audiobook, read by Audie award-winning narrators, includes unabridged recordings of all Fyodor Dostoyevky's greatest works: 15 novels and novellas, 18 short stories, a short study of Dostoyevsky by Virginia Woolf, and two books of non-fiction - his Letters and European travel journal.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

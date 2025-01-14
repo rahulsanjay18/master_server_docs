@@ -1,0 +1,208 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 18,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 18,
+      "end": 773.538,
+      "title": "Chapter 3 Episode 26: A Letter"
+    },
+    {
+      "id": 2,
+      "start": 773.538,
+      "end": 1579.573,
+      "title": "Chapter 3 Episode 27: Urgent Business"
+    },
+    {
+      "id": 3,
+      "start": 1579.573,
+      "end": 2367.923,
+      "title": "Chapter 3 Episode 28: The Gift"
+    },
+    {
+      "id": 4,
+      "start": 2367.923,
+      "end": 3246.735,
+      "title": "Chapter 3 Episode 29: The Music Box Sales Project"
+    },
+    {
+      "id": 5,
+      "start": 3246.735,
+      "end": 4249.681,
+      "title": "Chapter 3 Episode 30: The Semroid Troupe"
+    },
+    {
+      "id": 6,
+      "start": 4249.681,
+      "end": 4985.446,
+      "title": "Chapter 3 Episode 31: Rumors From the Plains"
+    },
+    {
+      "id": 7,
+      "start": 4985.446,
+      "end": 5724.451,
+      "title": "Chapter 3 Episode 32: Meddling On A Whim"
+    },
+    {
+      "id": 8,
+      "start": 5724.451,
+      "end": 6720.291,
+      "title": "Chapter 3 Episode 33: Precocious Child"
+    },
+    {
+      "id": 9,
+      "start": 6720.291,
+      "end": 7575.462,
+      "title": "Chapter 3 Episode 34: Point Of View"
+    },
+    {
+      "id": 10,
+      "start": 7575.462,
+      "end": 8484.054,
+      "title": "Chapter 3 Episode 35: The Founding Festival Day 1, Part 1"
+    },
+    {
+      "id": 11,
+      "start": 8484.054,
+      "end": 9303.463,
+      "title": "Chapter 3 Episode 36: The Founding Festival Day 1, Part 2"
+    },
+    {
+      "id": 12,
+      "start": 9303.463,
+      "end": 10082.252,
+      "title": "Chapter 3 Episode 37: The Founding Festival Day 1, Part 3"
+    },
+    {
+      "id": 13,
+      "start": 10082.252,
+      "end": 11076.342,
+      "title": "Chapter 3 Episode 38: The Founding Festival, Day 2"
+    },
+    {
+      "id": 14,
+      "start": 11076.342,
+      "end": 12045.433,
+      "title": "Chapter 3 Episode 39: The Final Night"
+    },
+    {
+      "id": 15,
+      "start": 12045.433,
+      "end": 13133.381,
+      "title": "Chapter 4 Episode 1: Fetch Quest"
+    },
+    {
+      "id": 16,
+      "start": 13133.381,
+      "end": 14118.877,
+      "title": "Chapter 4 Side Story 1: Meanwhile 1"
+    },
+    {
+      "id": 17,
+      "start": 14118.877,
+      "end": 14937.869,
+      "title": "Chapter 4 Side Story 2: Meanwhile 2"
+    },
+    {
+      "id": 18,
+      "start": 14937.869,
+      "end": 16083.261,
+      "title": "Chapter 4 Episode 2: Forest Search 1"
+    },
+    {
+      "id": 19,
+      "start": 16083.261,
+      "end": 17127.088,
+      "title": "Chapter 4 Episode 3: Forest Search 2"
+    },
+    {
+      "id": 20,
+      "start": 17127.088,
+      "end": 17882.55,
+      "title": "Chapter 4 Episode 4: Forest Search 3"
+    },
+    {
+      "id": 21,
+      "start": 17882.55,
+      "end": 18765.045,
+      "title": "Chapter 4 Episode 5: Forest Search 4"
+    },
+    {
+      "id": 22,
+      "start": 18765.045,
+      "end": 19417.715,
+      "title": "Chapter 4 Episode 6: Invited to the Training Meetup"
+    },
+    {
+      "id": 23,
+      "start": 19417.715,
+      "end": 20249.036,
+      "title": "Chapter 4 Episode 7: Negative Inheritance"
+    },
+    {
+      "id": 24,
+      "start": 20249.036,
+      "end": 20967.299,
+      "title": "Chapter 4 Episode 8: The Slums’ Point of View"
+    },
+    {
+      "id": 25,
+      "start": 20967.299,
+      "end": 21751.051,
+      "title": "Chapter 4 Episode 9: Training Begins"
+    },
+    {
+      "id": 26,
+      "start": 21751.051,
+      "end": 22538.748,
+      "title": "Chapter 4 Episode 10: Camping, Day 1"
+    },
+    {
+      "id": 27,
+      "start": 22538.748,
+      "end": 23217.384,
+      "title": "Chapter 4 Episode 11: Poison Bug Plains"
+    },
+    {
+      "id": 28,
+      "start": 23217.384,
+      "end": 24219.004,
+      "title": "Extra Story: Reunion"
+    },
+    {
+      "id": 29,
+      "start": 24219.004,
+      "end": 24268,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "By the Grace of the Gods, Vol. 05",
+  "subtitle": null,
+  "authors": [
+    "Ray Greenley"
+  ],
+  "narrators": [
+    "Roy"
+  ],
+  "series": [
+    "By the Grace of the Gods #05"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "November 22, 2018 (10-31-23)",
+  "publishedDate": null,
+  "publisher": "Tantor Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

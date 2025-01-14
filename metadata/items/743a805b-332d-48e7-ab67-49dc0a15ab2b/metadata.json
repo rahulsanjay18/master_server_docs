@@ -1,0 +1,134 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4362.784,
+      "title": "Dune - Part 01"
+    },
+    {
+      "id": 1,
+      "start": 4362.784,
+      "end": 9002.876,
+      "title": "Dune - Part 02"
+    },
+    {
+      "id": 2,
+      "start": 9002.876,
+      "end": 13496.016,
+      "title": "Dune - Part 03"
+    },
+    {
+      "id": 3,
+      "start": 13496.016,
+      "end": 18162.568,
+      "title": "Dune - Part 04"
+    },
+    {
+      "id": 4,
+      "start": 18162.568,
+      "end": 22434.343999999997,
+      "title": "Dune - Part 05"
+    },
+    {
+      "id": 5,
+      "start": 22434.343999999997,
+      "end": 26981.843999999997,
+      "title": "Dune - Part 06"
+    },
+    {
+      "id": 6,
+      "start": 26981.843999999997,
+      "end": 31677.699999999997,
+      "title": "Dune - Part 07"
+    },
+    {
+      "id": 7,
+      "start": 31677.699999999997,
+      "end": 36279.092,
+      "title": "Dune - Part 08"
+    },
+    {
+      "id": 8,
+      "start": 36279.092,
+      "end": 40864.248,
+      "title": "Dune - Part 09"
+    },
+    {
+      "id": 9,
+      "start": 40864.248,
+      "end": 45483.244,
+      "title": "Dune - Part 10"
+    },
+    {
+      "id": 10,
+      "start": 45483.244,
+      "end": 50104.472,
+      "title": "Dune - Part 11"
+    },
+    {
+      "id": 11,
+      "start": 50104.472,
+      "end": 54617.16,
+      "title": "Dune - Part 12"
+    },
+    {
+      "id": 12,
+      "start": 54617.16,
+      "end": 59174.020000000004,
+      "title": "Dune - Part 13"
+    },
+    {
+      "id": 13,
+      "start": 59174.020000000004,
+      "end": 63739.016,
+      "title": "Dune - Part 14"
+    },
+    {
+      "id": 14,
+      "start": 63739.016,
+      "end": 67959.24,
+      "title": "Dune - Part 15"
+    },
+    {
+      "id": 15,
+      "start": 67959.24,
+      "end": 72343.91200000001,
+      "title": "Dune - Part 16"
+    },
+    {
+      "id": 16,
+      "start": 72343.91200000001,
+      "end": 75746.93600000002,
+      "title": "Dune - Part 17"
+    },
+    {
+      "id": 17,
+      "start": 75746.93600000002,
+      "end": 79351.59600000002,
+      "title": "Dune - Part 18"
+    }
+  ],
+  "title": "Dune",
+  "subtitle": null,
+  "authors": [
+    "Frank Herbert"
+  ],
+  "narrators": [
+    "Klaus Schulze"
+  ],
+  "series": [],
+  "genres": [
+    "Fiction"
+  ],
+  "publishedYear": "1979",
+  "publishedDate": null,
+  "publisher": "Marquee",
+  "description": "<P>Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, who would become the mysterious man known as Maud'dib. He would avenge the traitorous plot against his noble family--and would bring to fruition humankind's most ancient and unattainable dream. A stunning blend of adventure and mysticism, environmentalism and politics, Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of what is undoubtedly the grandest epic in science fiction. Frank Herbert's death in 1986 was a tragic loss, yet the astounding legacy of his visionary fiction will live forever.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

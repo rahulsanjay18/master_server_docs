@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Dune 07 - Sisterhood of Dune
+artist=Scott Brick
+album_artist=Scott Brick
+album=Dune 07 - Sisterhood of Dune
+genre=Science Fiction
+date=2012-01-01
+TRACKTOTAL=16

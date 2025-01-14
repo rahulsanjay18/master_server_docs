@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Tehanu
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Tehanu
+genre=Audio Book
+date=1990
+comment=Read by Robert Donley
+description=Read by Robert Donley
+composer=211mb
+TRACKTOTAL=15

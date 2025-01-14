@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=Warning: Contains Language (Disc 2)
+artist=Neil Gaiman
+album_artist=Neil Gaiman
+album=Warning: Contains Language (Disc 2)
+genre=Spoken Word
+date=1995
+TRACKTOTAL=2
+grouping=1995 - Warning Contains Language

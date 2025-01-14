@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Windup Girl
+artist=Paolo Bacigalupi
+album_artist=Paolo Bacigalupi
+album=The Windup Girl
+date=2009
+comment=Narrated by Jonathan Davis
+description=Narrated by Jonathan Davis
+TRACKTOTAL=3

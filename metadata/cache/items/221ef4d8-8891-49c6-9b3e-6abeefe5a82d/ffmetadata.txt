@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Parable of the Talents
+artist=Octavia E Butler
+album_artist=Octavia E Butler
+album=Parable of the Talents
+genre=Sci-Fi
+date=1998
+comment=Unabridged
+description=Unabridged
+TRACKTOTAL=22

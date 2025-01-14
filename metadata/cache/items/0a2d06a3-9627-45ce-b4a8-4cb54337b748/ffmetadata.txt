@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=The Dresden Files 11.9 - Bigfoot on Campus (Davis)
+artist=Jonathan Davis
+album_artist=Jonathan Davis
+album=The Dresden Files 11.9 - Bigfoot on Campus (Davis)
+genre=Audiobook
+date=2012-01-01
+comment=Takes place between Fool Moon and Grave Peril. B is for Bigfoot", published in Under My Hat: Tales From the Cauldron (August 28, 2012)
+description=Takes place between Fool Moon and Grave Peril. B is for Bigfoot", published in Under My Hat: Tales From the Cauldron (August 28, 2012)
+composer=Jim Butcher
+TRACKTOTAL=1
+grouping=Jim Butcher - Dresden Files 22GB \#11.9

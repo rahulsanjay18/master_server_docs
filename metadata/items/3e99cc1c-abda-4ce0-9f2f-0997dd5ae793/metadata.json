@@ -1,0 +1,362 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 502.308571,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 502.308571,
+      "end": 1832.933877,
+      "title": "Introduction"
+    },
+    {
+      "id": 2,
+      "start": 1832.933877,
+      "end": 1876.009795,
+      "title": "Malafrena 00: Intro"
+    },
+    {
+      "id": 3,
+      "start": 1876.009795,
+      "end": 3298.899591,
+      "title": "Malafrena 01: In the Provinces 01"
+    },
+    {
+      "id": 4,
+      "start": 3298.899591,
+      "end": 4699.219591,
+      "title": "Malafrena 02: In the Provinces 02"
+    },
+    {
+      "id": 5,
+      "start": 4699.219591,
+      "end": 6507.990203,
+      "title": "Malafrena 03: In the Provinces 03"
+    },
+    {
+      "id": 6,
+      "start": 6507.990203,
+      "end": 8135.601632,
+      "title": "Malafrena 04: In the Provinces 04"
+    },
+    {
+      "id": 7,
+      "start": 8135.601632,
+      "end": 9946.409795,
+      "title": "Malafrena 05: In the Provinces 05"
+    },
+    {
+      "id": 8,
+      "start": 9946.409795,
+      "end": 11909.851428,
+      "title": "Malafrena 06: Exiles 01"
+    },
+    {
+      "id": 9,
+      "start": 11909.851428,
+      "end": 14207.190204,
+      "title": "Malafrena 07: Exiles 02"
+    },
+    {
+      "id": 10,
+      "start": 14207.190204,
+      "end": 16247.327347,
+      "title": "Malafrena 08: Exiles 03"
+    },
+    {
+      "id": 11,
+      "start": 16247.327347,
+      "end": 18432.783674,
+      "title": "Malafrena 09: Exiles 04"
+    },
+    {
+      "id": 12,
+      "start": 18432.783674,
+      "end": 20961.044898,
+      "title": "Malafrena 10: Choices 01"
+    },
+    {
+      "id": 13,
+      "start": 20961.044898,
+      "end": 22761.012245,
+      "title": "Malafrena 11: Choices 02"
+    },
+    {
+      "id": 14,
+      "start": 22761.012245,
+      "end": 23917.635918,
+      "title": "Malafrena 12: Choices 03"
+    },
+    {
+      "id": 15,
+      "start": 23917.635918,
+      "end": 25778.364081,
+      "title": "Malafrena 13: Choices 04"
+    },
+    {
+      "id": 16,
+      "start": 25778.364081,
+      "end": 27459.578774999998,
+      "title": "Malafrena 14: Choices 05"
+    },
+    {
+      "id": 17,
+      "start": 27459.578774999998,
+      "end": 29080.764080999998,
+      "title": "Malafrena 15: The Way to Radiko 01"
+    },
+    {
+      "id": 18,
+      "start": 29080.764080999998,
+      "end": 30529.018774999997,
+      "title": "Malafrena 16: The Way to Radiko 02"
+    },
+    {
+      "id": 19,
+      "start": 30529.018774999997,
+      "end": 31495.157550999997,
+      "title": "Malafrena 17: The Way to Radiko 03"
+    },
+    {
+      "id": 20,
+      "start": 31495.157550999997,
+      "end": 32963.317551,
+      "title": "Malafrena 18: Prisons 01"
+    },
+    {
+      "id": 21,
+      "start": 32963.317551,
+      "end": 35079.47102,
+      "title": "Malafrena 19: Prisons 02"
+    },
+    {
+      "id": 22,
+      "start": 35079.47102,
+      "end": 37425.554285,
+      "title": "Malafrena 20: Prisons 03"
+    },
+    {
+      "id": 23,
+      "start": 37425.554285,
+      "end": 39470.158366999996,
+      "title": "Malafrena 21: Prisons 04"
+    },
+    {
+      "id": 24,
+      "start": 39470.158366999996,
+      "end": 41864.04571399999,
+      "title": "Malafrena 22: Prisons 05"
+    },
+    {
+      "id": 25,
+      "start": 41864.04571399999,
+      "end": 43658.29224499999,
+      "title": "Malafrena 23: The Necessary Passion 01"
+    },
+    {
+      "id": 26,
+      "start": 43658.29224499999,
+      "end": 45338.25306099999,
+      "title": "Malafrena 24: The Necessary Passion 02"
+    },
+    {
+      "id": 27,
+      "start": 45338.25306099999,
+      "end": 47975.41877499999,
+      "title": "Malafrena 25: The Necessary Passion 03"
+    },
+    {
+      "id": 28,
+      "start": 47975.41877499999,
+      "end": 50516.84571399999,
+      "title": "Malafrena 26: The Necessary Passion 04"
+    },
+    {
+      "id": 29,
+      "start": 50516.84571399999,
+      "end": 51204.31020399999,
+      "title": "Malafrena 27: The Necessary Passion 05"
+    },
+    {
+      "id": 30,
+      "start": 51204.31020399999,
+      "end": 52897.776325999985,
+      "title": "Malafrena 28: Malafrena 01"
+    },
+    {
+      "id": 31,
+      "start": 52897.776325999985,
+      "end": 55212.19918299998,
+      "title": "Malafrena 29: Malafrena 02"
+    },
+    {
+      "id": 32,
+      "start": 55212.19918299998,
+      "end": 56387.76163199998,
+      "title": "Malafrena 30: Malafrena 03"
+    },
+    {
+      "id": 33,
+      "start": 56387.76163199998,
+      "end": 56390.92244799998,
+      "title": "Songs"
+    },
+    {
+      "id": 34,
+      "start": 56390.92244799998,
+      "end": 56449.82856999998,
+      "title": "Folk Song from the Montayna Province"
+    },
+    {
+      "id": 35,
+      "start": 56449.82856999998,
+      "end": 56511.999998999985,
+      "title": "Red Berries (Montayna Province)"
+    },
+    {
+      "id": 36,
+      "start": 56511.999998999985,
+      "end": 56533.185304999985,
+      "title": "The Walls of Rákava (Polana Province)"
+    },
+    {
+      "id": 37,
+      "start": 56533.185304999985,
+      "end": 56539.16734599999,
+      "title": "Stories: Orsinian Tales"
+    },
+    {
+      "id": 38,
+      "start": 56539.16734599999,
+      "end": 57107.61795799999,
+      "title": "The Fountains"
+    },
+    {
+      "id": 39,
+      "start": 57107.61795799999,
+      "end": 58488.450610999986,
+      "title": "The Barrow"
+    },
+    {
+      "id": 40,
+      "start": 58488.450610999986,
+      "end": 60645.98203999999,
+      "title": "Ile Forest"
+    },
+    {
+      "id": 41,
+      "start": 60645.98203999999,
+      "end": 64843.598366999984,
+      "title": "Conversations at Night"
+    },
+    {
+      "id": 42,
+      "start": 64843.598366999984,
+      "end": 66347.99020399999,
+      "title": "The Road East"
+    },
+    {
+      "id": 43,
+      "start": 66347.99020399999,
+      "end": 72128.07836699998,
+      "title": "Brothers and Sisters"
+    },
+    {
+      "id": 44,
+      "start": 72128.07836699998,
+      "end": 75822.88979599997,
+      "title": "A Week in the Country"
+    },
+    {
+      "id": 45,
+      "start": 75822.88979599997,
+      "end": 78510.07999999997,
+      "title": "An die Musik"
+    },
+    {
+      "id": 46,
+      "start": 78510.07999999997,
+      "end": 80060.94367299997,
+      "title": "The House"
+    },
+    {
+      "id": 47,
+      "start": 80060.94367299997,
+      "end": 81906.93877499997,
+      "title": "The Lady of Moge"
+    },
+    {
+      "id": 48,
+      "start": 81906.93877499997,
+      "end": 83595.54612199997,
+      "title": "Imaginary Countries"
+    },
+    {
+      "id": 49,
+      "start": 83595.54612199997,
+      "end": 83599.15101999998,
+      "title": "Other Stories"
+    },
+    {
+      "id": 50,
+      "start": 83599.15101999998,
+      "end": 85852.00326499998,
+      "title": "Two Delays on the Northern Line"
+    },
+    {
+      "id": 51,
+      "start": 85852.00326499998,
+      "end": 87961.26040799997,
+      "title": "Unlocking the Air"
+    },
+    {
+      "id": 52,
+      "start": 87961.26040799997,
+      "end": 90443.49387699997,
+      "title": "Chronology"
+    },
+    {
+      "id": 53,
+      "start": 90443.49387699997,
+      "end": 90780.96979499997,
+      "title": "Notes on the Texts"
+    },
+    {
+      "id": 54,
+      "start": 90780.96979499997,
+      "end": 90865.60652999996,
+      "title": "Notes"
+    },
+    {
+      "id": 55,
+      "start": 90865.60652999996,
+      "end": 90922.00489699996,
+      "title": "End"
+    }
+  ],
+  "title": "The Complete Orsinia: Malafrena / Stories and Songs",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "700mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2016",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Stephen Van Doren",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

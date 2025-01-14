@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Ringworld
+artist=Larry Niven
+album_artist=Larry Niven
+album=Ringworld
+genre=Science Fiction
+date=1971
+comment=<p>A modern science-fiction classic, <I>Ringworld</I> won the Hugo and Nebula Awards for best novel in 1970. <p> "I myself have dreamed up an intermediate step between Dyson Spheres and planets. build a ring 93 million miles in radius one Earth orbit which would make it 600 million miles long. If we have the mass of Jupiter to work with, and if we make it a million miles wide, we get a thickness of about a thousand meters. The Ringworld would thus be much sturdier than a Dyson sphere. <p> "There are other advantages. We can spin it for gravity. A rotation on its axis of 770 miles/second would give the Ringworld one gravity outward. We wouldn't even have to roof it over. Put walls a thousand miles high at each rim, aimed at the sun, and very little of the air will leak over the edges." -Larry Niven
+description=<p>A modern science-fiction classic, <I>Ringworld</I> won the Hugo and Nebula Awards for best novel in 1970. <p> "I myself have dreamed up an intermediate step between Dyson Spheres and planets. build a ring 93 million miles in radius one Earth orbit which would make it 600 million miles long. If we have the mass of Jupiter to work with, and if we make it a million miles wide, we get a thickness of about a thousand meters. The Ringworld would thus be much sturdier than a Dyson sphere. <p> "There are other advantages. We can spin it for gravity. A rotation on its axis of 770 miles/second would give the Ringworld one gravity outward. We wouldn't even have to roof it over. Put walls a thousand miles high at each rim, aimed at the sun, and very little of the air will leak over the edges." -Larry Niven
+TRACKTOTAL=11

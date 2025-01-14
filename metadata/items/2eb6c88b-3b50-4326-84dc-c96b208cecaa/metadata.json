@@ -1,0 +1,392 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 15.203265,
+      "title": "[01]  Intro"
+    },
+    {
+      "id": 1,
+      "start": 15.203265,
+      "end": 60.891428000000005,
+      "title": "[02]  An Exerpt"
+    },
+    {
+      "id": 2,
+      "start": 60.891428000000005,
+      "end": 2759.915101,
+      "title": "[03]  Prologue - Fortress of the Light"
+    },
+    {
+      "id": 3,
+      "start": 2759.915101,
+      "end": 4275.696325,
+      "title": "[04]  Chapter 1 - Waiting"
+    },
+    {
+      "id": 4,
+      "start": 4275.696325,
+      "end": 6022.243264,
+      "title": "[05]  Chapter 2 - Saidin"
+    },
+    {
+      "id": 5,
+      "start": 6022.243264,
+      "end": 7361.567346,
+      "title": "[06]  Chapter 3 - News From the Plain"
+    },
+    {
+      "id": 6,
+      "start": 7361.567346,
+      "end": 8559.725713,
+      "title": "[07]  Chapter 4 - Shadows Sleeping"
+    },
+    {
+      "id": 7,
+      "start": 8559.725713,
+      "end": 10387.617957999999,
+      "title": "[08]  Chapter 5 - Nightmares Walking"
+    },
+    {
+      "id": 8,
+      "start": 10387.617957999999,
+      "end": 12391.784489,
+      "title": "[09]  Chapter 6 - The Hunt Begins"
+    },
+    {
+      "id": 9,
+      "start": 12391.784489,
+      "end": 13121.567346,
+      "title": "[10]  Chapter 7 - The Way Out of the Mountains"
+    },
+    {
+      "id": 10,
+      "start": 13121.567346,
+      "end": 15142.739591,
+      "title": "[11]  Chapter 8 - Jarra"
+    },
+    {
+      "id": 11,
+      "start": 15142.739591,
+      "end": 16232.829387,
+      "title": "[12]  Chapter 9 - Wolf Dreams"
+    },
+    {
+      "id": 12,
+      "start": 16232.829387,
+      "end": 18236.630203,
+      "title": "[13]  Chapter 10 - Secrets"
+    },
+    {
+      "id": 13,
+      "start": 18236.630203,
+      "end": 19714.951836,
+      "title": "[14]  Chapter 11 - Tar Valon"
+    },
+    {
+      "id": 14,
+      "start": 19714.951836,
+      "end": 20479.947754,
+      "title": "[15]  Chapter 12 - The Amyrlin Seat"
+    },
+    {
+      "id": 15,
+      "start": 20479.947754,
+      "end": 22089.534693,
+      "title": "[16]  Chapter 13 - Punishments"
+    },
+    {
+      "id": 16,
+      "start": 22089.534693,
+      "end": 23053.975509,
+      "title": "[17]  Chapter 14 - The Bite of the Thorns"
+    },
+    {
+      "id": 17,
+      "start": 23053.975509,
+      "end": 24156.865305,
+      "title": "[18]  Chapter 15 - The Gray Man"
+    },
+    {
+      "id": 18,
+      "start": 24156.865305,
+      "end": 25272.86857,
+      "title": "[19]  Chapter 16 - Hunters Three"
+    },
+    {
+      "id": 19,
+      "start": 25272.86857,
+      "end": 26139.794284,
+      "title": "[20]  Chapter 17 - The Red Sister"
+    },
+    {
+      "id": 20,
+      "start": 26139.794284,
+      "end": 27011.134692,
+      "title": "[21]  Chapter 18 - Healing"
+    },
+    {
+      "id": 21,
+      "start": 27011.134692,
+      "end": 28043.023672,
+      "title": "[22]  Chapter 19 - Awakening"
+    },
+    {
+      "id": 22,
+      "start": 28043.023672,
+      "end": 29837.818774,
+      "title": "[23]  Chapter 20 - Visitations"
+    },
+    {
+      "id": 23,
+      "start": 29837.818774,
+      "end": 30874.383672,
+      "title": "[24]  Chapter 21 - The World of Dreams"
+    },
+    {
+      "id": 24,
+      "start": 30874.383672,
+      "end": 34100.035917,
+      "title": "[25]  Chapter 22 - The Price of the Ring"
+    },
+    {
+      "id": 25,
+      "start": 34100.035917,
+      "end": 35257.991835,
+      "title": "[26]  Chapter 23 - Sealed"
+    },
+    {
+      "id": 26,
+      "start": 35257.991835,
+      "end": 37121.227753,
+      "title": "[27]  Chapter 24 - Scouting and Discoveries"
+    },
+    {
+      "id": 27,
+      "start": 37121.227753,
+      "end": 38602.893059,
+      "title": "[28]  Chapter 25 - Questions"
+    },
+    {
+      "id": 28,
+      "start": 38602.893059,
+      "end": 39590.765712,
+      "title": "[29]  Chapter 26 - Behind a Lock"
+    },
+    {
+      "id": 29,
+      "start": 39590.765712,
+      "end": 41642.344488,
+      "title": "[30]  Chapter 27 - Tel'aran'rhiod"
+    },
+    {
+      "id": 30,
+      "start": 41642.344488,
+      "end": 42562.115917,
+      "title": "[31]  Chapter 28 - A Way Out"
+    },
+    {
+      "id": 31,
+      "start": 42562.115917,
+      "end": 43789.583672,
+      "title": "[32]  Chapter 29 - A Trap to Spring"
+    },
+    {
+      "id": 32,
+      "start": 43789.583672,
+      "end": 45186.455509,
+      "title": "[33]  Chapter 30 - The First Toss"
+    },
+    {
+      "id": 33,
+      "start": 45186.455509,
+      "end": 46148.780407,
+      "title": "[34]  Chapter 31 - The Woman of Tanchico"
+    },
+    {
+      "id": 34,
+      "start": 46148.780407,
+      "end": 48279.222856,
+      "title": "[35]  Chapter 32 - The First Ship"
+    },
+    {
+      "id": 35,
+      "start": 48279.222856,
+      "end": 49900.408162,
+      "title": "[36]  Chapter 33 - Within the Weave"
+    },
+    {
+      "id": 36,
+      "start": 49900.408162,
+      "end": 51426.664489,
+      "title": "[37]  Chapter 34 - A Different Dance"
+    },
+    {
+      "id": 37,
+      "start": 51426.664489,
+      "end": 52611.683265,
+      "title": "[38]  Chapter 35 - The Falcon"
+    },
+    {
+      "id": 38,
+      "start": 52611.683265,
+      "end": 54482.494694,
+      "title": "[39]  Chapter 36 - Daughter of the Night"
+    },
+    {
+      "id": 39,
+      "start": 54482.494694,
+      "end": 55893.681633,
+      "title": "[40]  Chapter 37 - Fires in Cairhien"
+    },
+    {
+      "id": 40,
+      "start": 55893.681633,
+      "end": 57320.855511,
+      "title": "[41]  Chapter 38 - Maidens of the Spear"
+    },
+    {
+      "id": 41,
+      "start": 57320.855511,
+      "end": 60163.18694,
+      "title": "[42]  Chapter 39 - Threads in the Pattern"
+    },
+    {
+      "id": 42,
+      "start": 60163.18694,
+      "end": 62232.764083,
+      "title": "[43]  Chapter 40 - A Hero in the Night"
+    },
+    {
+      "id": 43,
+      "start": 62232.764083,
+      "end": 63323.559185000006,
+      "title": "[44]  Chapter 41 - A Hunter's Oath"
+    },
+    {
+      "id": 44,
+      "start": 63323.559185000006,
+      "end": 65336.764083,
+      "title": "[45]  Chapter 42 - Easing the Badger"
+    },
+    {
+      "id": 45,
+      "start": 65336.764083,
+      "end": 66461.91020500001,
+      "title": "[46]  Chapter 43 - Shadowbrothers"
+    },
+    {
+      "id": 46,
+      "start": 66461.91020500001,
+      "end": 68256.28734800001,
+      "title": "[47]  Chapter 44 - Hunted"
+    },
+    {
+      "id": 47,
+      "start": 68256.28734800001,
+      "end": 69600.52245000002,
+      "title": "[48]  Chapter 45 - Caemlyn"
+    },
+    {
+      "id": 48,
+      "start": 69600.52245000002,
+      "end": 71055.96081700001,
+      "title": "[49]  Chapter 46 - A Message Out of the Shadow"
+    },
+    {
+      "id": 49,
+      "start": 71055.96081700001,
+      "end": 72085.76000100002,
+      "title": "[50]  Chapter 47 - To Race the Shadow"
+    },
+    {
+      "id": 50,
+      "start": 72085.76000100002,
+      "end": 74328.03265400001,
+      "title": "[51]  Chapter 48 - Following the Craft"
+    },
+    {
+      "id": 51,
+      "start": 74328.03265400001,
+      "end": 77015.693062,
+      "title": "[52]  Chapter 49 - A Storm in Tear"
+    },
+    {
+      "id": 52,
+      "start": 77015.693062,
+      "end": 79166.328164,
+      "title": "[53]  Chapter 50 - The Hammer"
+    },
+    {
+      "id": 53,
+      "start": 79166.328164,
+      "end": 80467.200001,
+      "title": "[54]  Chapter 51 - Bait for the Net"
+    },
+    {
+      "id": 54,
+      "start": 80467.200001,
+      "end": 81388.40816400001,
+      "title": "[55]  Chapter 52 - In Search of a Remedy"
+    },
+    {
+      "id": 55,
+      "start": 81388.40816400001,
+      "end": 82509.191837,
+      "title": "[56]  Chapter 53 - A Flow of the Spirit"
+    },
+    {
+      "id": 56,
+      "start": 82509.191837,
+      "end": 85072.509388,
+      "title": "[57]  Chapter 54 - Into the Stone"
+    },
+    {
+      "id": 57,
+      "start": 85072.509388,
+      "end": 87774.406531,
+      "title": "[58]  Chapter 55 - What Is Written in Prophecy"
+    },
+    {
+      "id": 58,
+      "start": 87774.406531,
+      "end": 88887.405715,
+      "title": "[59]  Chapter 56 - People of the Dragon"
+    },
+    {
+      "id": 59,
+      "start": 88887.405715,
+      "end": 89263.908572,
+      "title": "[60]  Interview With Robert Jordan"
+    },
+    {
+      "id": 60,
+      "start": 89263.908572,
+      "end": 89294.86367400001,
+      "title": "[61]  Outro"
+    }
+  ],
+  "title": "The Dragon Reborn (The Wheel of Time #3)",
+  "subtitle": null,
+  "authors": [
+    "Robert Jordan"
+  ],
+  "narrators": [],
+  "series": [
+    "Robert Jordan - The Wheel of Time 12GB"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1991-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

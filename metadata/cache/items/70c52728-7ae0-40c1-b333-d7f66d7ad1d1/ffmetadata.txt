@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Space Opera (Unabridged)
+artist=Catherynne M. Valente
+album_artist=Catherynne M. Valente
+album=Space Opera (Unabridged)
+date=2018-01-01
+comment=his year, though, humankind has discovered the enormous universe. And while they expected to discover a grand drama of diplomacy, gunships, wormholes, and stoic councils of aliens, they have instead found glitter, lipstick, and electric guitars. Mankind
+description=his year, though, humankind has discovered the enormous universe. And while they expected to discover a grand drama of diplomacy, gunships, wormholes, and stoic councils of aliens, they have instead found glitter, lipstick, and electric guitars. Mankind
+composer=Heath Miller
+TRACKTOTAL=38

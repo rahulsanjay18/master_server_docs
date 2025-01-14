@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Paladin of Souls
+artist=Lois McMaster Bujold
+album_artist=Lois McMaster Bujold
+album=Paladin of Souls
+genre=Fantasy
+date=2005
+comment=Three years have passed since the widowed dowager Royina Ista found release from the curse of madness that kept her imprisoned in her familys castle of Valenda. Yet her newfound freedom is bittersweet, and so the roadescapebeckons.  As Ista and her little party of pilgrims wander at will, they are unexpectedly set upon, but a mysterious ally appears, a warrior nobleman who fights like a berserker. The temporary safety of her enigmatic champions castle cannot ease Istas mounting dread, however, when she finds his dark secrets are entangled with hers in a net of the gods own weaving.  What the inscrutable gods commanded of her in the past brought her land to the brink of devastation. Now, once again, they have chosen Ista as their instrument. And again, for good or for ill, she must comply.
+description=Three years have passed since the widowed dowager Royina Ista found release from the curse of madness that kept her imprisoned in her familys castle of Valenda. Yet her newfound freedom is bittersweet, and so the roadescapebeckons.  As Ista and her little party of pilgrims wander at will, they are unexpectedly set upon, but a mysterious ally appears, a warrior nobleman who fights like a berserker. The temporary safety of her enigmatic champions castle cannot ease Istas mounting dread, however, when she finds his dark secrets are entangled with hers in a net of the gods own weaving.  What the inscrutable gods commanded of her in the past brought her land to the brink of devastation. Now, once again, they have chosen Ista as their instrument. And again, for good or for ill, she must comply.
+TRACKTOTAL=15

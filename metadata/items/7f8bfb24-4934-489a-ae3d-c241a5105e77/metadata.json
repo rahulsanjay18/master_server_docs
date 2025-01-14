@@ -1,0 +1,202 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 37.78,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 37.78,
+      "end": 140.05,
+      "title": "Epigraph"
+    },
+    {
+      "id": 2,
+      "start": 140.05,
+      "end": 622.585,
+      "title": "Chapter 1"
+    },
+    {
+      "id": 3,
+      "start": 622.585,
+      "end": 2440.363,
+      "title": "Chapter 2"
+    },
+    {
+      "id": 4,
+      "start": 2440.363,
+      "end": 4706.311,
+      "title": "Chapter 3"
+    },
+    {
+      "id": 5,
+      "start": 4706.311,
+      "end": 5608.772,
+      "title": "Chapter 4"
+    },
+    {
+      "id": 6,
+      "start": 5608.772,
+      "end": 7262.206,
+      "title": "Chapter 5"
+    },
+    {
+      "id": 7,
+      "start": 7262.206,
+      "end": 8506.704,
+      "title": "Chapter 6"
+    },
+    {
+      "id": 8,
+      "start": 8506.704,
+      "end": 9884.48,
+      "title": "Chapter 7"
+    },
+    {
+      "id": 9,
+      "start": 9884.48,
+      "end": 10580.656,
+      "title": "Chapter 8"
+    },
+    {
+      "id": 10,
+      "start": 10580.656,
+      "end": 11398.443,
+      "title": "Chapter 9"
+    },
+    {
+      "id": 11,
+      "start": 11398.443,
+      "end": 12416.787,
+      "title": "Chapter 10"
+    },
+    {
+      "id": 12,
+      "start": 12416.787,
+      "end": 13336.253,
+      "title": "Chapter 11"
+    },
+    {
+      "id": 13,
+      "start": 13336.253,
+      "end": 15043.619,
+      "title": "Chapter 12"
+    },
+    {
+      "id": 14,
+      "start": 15043.619,
+      "end": 15985.555,
+      "title": "Chapter 13"
+    },
+    {
+      "id": 15,
+      "start": 15985.555,
+      "end": 16838.119,
+      "title": "Chapter 14"
+    },
+    {
+      "id": 16,
+      "start": 16838.119,
+      "end": 18756.645,
+      "title": "Chapter 15"
+    },
+    {
+      "id": 17,
+      "start": 18756.645,
+      "end": 19913.786,
+      "title": "Chapter 16"
+    },
+    {
+      "id": 18,
+      "start": 19913.786,
+      "end": 20267.601,
+      "title": "Chapter 17"
+    },
+    {
+      "id": 19,
+      "start": 20267.601,
+      "end": 21037.272,
+      "title": "Chapter 18"
+    },
+    {
+      "id": 20,
+      "start": 21037.272,
+      "end": 22502.766,
+      "title": "Chapter 19"
+    },
+    {
+      "id": 21,
+      "start": 22502.766,
+      "end": 23238.104,
+      "title": "Chapter 20"
+    },
+    {
+      "id": 22,
+      "start": 23238.104,
+      "end": 24311.062,
+      "title": "Chapter 21"
+    },
+    {
+      "id": 23,
+      "start": 24311.062,
+      "end": 26226.107,
+      "title": "Chapter 22"
+    },
+    {
+      "id": 24,
+      "start": 26226.107,
+      "end": 26776.361,
+      "title": "Chapter 23"
+    },
+    {
+      "id": 25,
+      "start": 26776.361,
+      "end": 27962.276,
+      "title": "Chapter 24"
+    },
+    {
+      "id": 26,
+      "start": 27962.276,
+      "end": 28650.597,
+      "title": "Chapter 25"
+    },
+    {
+      "id": 27,
+      "start": 28650.597,
+      "end": 28876.655,
+      "title": "Afterword"
+    },
+    {
+      "id": 28,
+      "start": 28876.655,
+      "end": 28991,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Sword Art Online, Vol. 01: Aincrad",
+  "subtitle": null,
+  "authors": [
+    "Bryce Papenbrook"
+  ],
+  "narrators": [
+    "Reki Kawahara"
+  ],
+  "series": [
+    "Sword Art Online #01"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "April 10, 2009 (08-10-21)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

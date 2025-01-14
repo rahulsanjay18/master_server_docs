@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=A Wizard of Earthsea
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=A Wizard of Earthsea
+genre=Audio Book
+date=1968
+comment=Read by Harlan Ellison & Ursula K. Le Guin
+description=Read by Harlan Ellison & Ursula K. Le Guin
+composer=511mb
+TRACKTOTAL=10

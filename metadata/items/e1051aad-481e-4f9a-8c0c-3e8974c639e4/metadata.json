@@ -1,0 +1,286 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 16.744,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 16.744,
+      "end": 787.368,
+      "title": "Chapter 1: Floating Castle"
+    },
+    {
+      "id": 2,
+      "start": 787.368,
+      "end": 1681.522,
+      "title": "Chapter 2: Fellow Captive"
+    },
+    {
+      "id": 3,
+      "start": 1681.522,
+      "end": 2478.222,
+      "title": "Chapter 3: Intentions"
+    },
+    {
+      "id": 4,
+      "start": 2478.222,
+      "end": 3392.578,
+      "title": "Chapter 4: Visitors"
+    },
+    {
+      "id": 5,
+      "start": 3392.578,
+      "end": 4492.437,
+      "title": "Chapter 5: Chess Pieces"
+    },
+    {
+      "id": 6,
+      "start": 4492.437,
+      "end": 5580.942,
+      "title": "Chapter 6: Peculiar Congregation"
+    },
+    {
+      "id": 7,
+      "start": 5580.942,
+      "end": 6625.608,
+      "title": "Chapter 7: The Great Eight"
+    },
+    {
+      "id": 8,
+      "start": 6625.608,
+      "end": 7399.111,
+      "title": "Chapter 8: When Ignorance Is Bliss"
+    },
+    {
+      "id": 9,
+      "start": 7399.111,
+      "end": 8219.101,
+      "title": "Chapter 9: Logic's Biggest Foe"
+    },
+    {
+      "id": 10,
+      "start": 8219.101,
+      "end": 9106.985,
+      "title": "Chapter 10: A Grudging Tolerance"
+    },
+    {
+      "id": 11,
+      "start": 9106.985,
+      "end": 10076.418,
+      "title": "Chapter 11: Ones Closest to Gods"
+    },
+    {
+      "id": 12,
+      "start": 10076.418,
+      "end": 10905.696,
+      "title": "Chapter 12: Snail's Pace"
+    },
+    {
+      "id": 13,
+      "start": 10905.696,
+      "end": 11864.541,
+      "title": "Chapter 13: The Lost Art"
+    },
+    {
+      "id": 14,
+      "start": 11864.541,
+      "end": 12746.388,
+      "title": "Chapter 14: Good Night"
+    },
+    {
+      "id": 15,
+      "start": 12746.388,
+      "end": 13716.425,
+      "title": "Chapter 15: Newfound Goal"
+    },
+    {
+      "id": 16,
+      "start": 13716.425,
+      "end": 14819.071,
+      "title": "Chapter 16: To Hunt a Prey"
+    },
+    {
+      "id": 17,
+      "start": 14819.071,
+      "end": 15634.602,
+      "title": "Chapter 17: Workings of a Single Step"
+    },
+    {
+      "id": 18,
+      "start": 15634.602,
+      "end": 16548.679,
+      "title": "Chapter 18: Predator's Domain"
+    },
+    {
+      "id": 19,
+      "start": 16548.679,
+      "end": 17307.577,
+      "title": "Chapter 19: What Lay Within"
+    },
+    {
+      "id": 20,
+      "start": 17307.577,
+      "end": 18035.847,
+      "title": "Chapter 20: Steps Forward and Back"
+    },
+    {
+      "id": 21,
+      "start": 18035.847,
+      "end": 18778.514,
+      "title": "Chapter 21: The Glass of Water"
+    },
+    {
+      "id": 22,
+      "start": 18778.514,
+      "end": 19480.825,
+      "title": "Chapter 22: Bearer of Grim News"
+    },
+    {
+      "id": 23,
+      "start": 19480.825,
+      "end": 20245.435,
+      "title": "Chapter 23: Opportunities to Learn"
+    },
+    {
+      "id": 24,
+      "start": 20245.435,
+      "end": 20919.649,
+      "title": "Chapter 24: The Last Mentor"
+    },
+    {
+      "id": 25,
+      "start": 20919.649,
+      "end": 21794.717,
+      "title": "Chapter 25: Wren Kain IV"
+    },
+    {
+      "id": 26,
+      "start": 21794.717,
+      "end": 22623.878,
+      "title": "Chapter 26: Battles in Various Scenarios"
+    },
+    {
+      "id": 27,
+      "start": 22623.878,
+      "end": 23486.29,
+      "title": "Chapter 27: Preparations"
+    },
+    {
+      "id": 28,
+      "start": 23486.29,
+      "end": 24145.389,
+      "title": "Chapter 28: The Calm of War"
+    },
+    {
+      "id": 29,
+      "start": 24145.389,
+      "end": 24899.48,
+      "title": "Chapter 29: Calm of War II"
+    },
+    {
+      "id": 30,
+      "start": 24899.48,
+      "end": 25574.925,
+      "title": "Chapter 30: Washed Up Omen"
+    },
+    {
+      "id": 31,
+      "start": 25574.925,
+      "end": 26372.252,
+      "title": "Chapter 31: Necessary Resolve"
+    },
+    {
+      "id": 32,
+      "start": 26372.252,
+      "end": 27258.14,
+      "title": "Chapter 32: Concealed Burdens"
+    },
+    {
+      "id": 33,
+      "start": 27258.14,
+      "end": 28112.147,
+      "title": "Chapter 33: From Princess to Soldier"
+    },
+    {
+      "id": 34,
+      "start": 28112.147,
+      "end": 28873.25,
+      "title": "Chapter 34: Reunion"
+    },
+    {
+      "id": 35,
+      "start": 28873.25,
+      "end": 29596.087,
+      "title": "Chapter 35: Drawing Closer"
+    },
+    {
+      "id": 36,
+      "start": 29596.087,
+      "end": 30259.435,
+      "title": "Chapter 36: Beyond the Door"
+    },
+    {
+      "id": 37,
+      "start": 30259.435,
+      "end": 31082.582,
+      "title": "Chapter 37: His Return"
+    },
+    {
+      "id": 38,
+      "start": 31082.582,
+      "end": 31837.765,
+      "title": "Chapter 38: A Warrior's Maiden Heart"
+    },
+    {
+      "id": 39,
+      "start": 31837.765,
+      "end": 32715.038,
+      "title": "Chapter 39: As Quickly as He Had Appeared"
+    },
+    {
+      "id": 40,
+      "start": 32715.038,
+      "end": 33715.702,
+      "title": "Chapter 40: Arrival"
+    },
+    {
+      "id": 41,
+      "start": 33715.702,
+      "end": 34909.208,
+      "title": "Chapter 41: To Right My Wrong"
+    },
+    {
+      "id": 42,
+      "start": 34909.208,
+      "end": 34951.837,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "The Beginning After the End, Vol. 05: Convergence",
+  "subtitle": null,
+  "authors": [
+    "Travis Baldree"
+  ],
+  "narrators": [
+    "Tae Ha Lee"
+  ],
+  "series": [
+    "The Beginning After the End #05"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "September 2, 2017 (05-26-20)",
+  "publishedDate": null,
+  "publisher": "Podium Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

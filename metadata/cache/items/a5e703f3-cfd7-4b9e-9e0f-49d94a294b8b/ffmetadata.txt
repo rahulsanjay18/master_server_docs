@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Poetry Centre of NY  - YM/YWHA
+artist=Noam Chomsky - Feb 16/1970
+album_artist=Noam Chomsky - Feb 16/1970
+album=Poetry Centre of NY  - YM/YWHA
+genre=Speech
+date=1970-01-01
+comment=freespeech.org/radiocognito
+description=freespeech.org/radiocognito
+TRACKTOTAL=1

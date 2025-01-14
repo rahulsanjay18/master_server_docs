@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Rite of Passage
+artist=Alexei Panshin
+album_artist=Alexei Panshin
+album=Rite of Passage
+genre=Coming of Age Sci-Fi (YA)
+date=1968
+comment=Unabridged
+description=Unabridged
+composer=Elizabeth Evans
+TRACKTOTAL=26

@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Trail of Lightning
+artist=Rebecca Roanhorse
+album_artist=Rebecca Roanhorse
+album=Trail of Lightning
+genre=audio book
+date=2019
+TRACKTOTAL=1

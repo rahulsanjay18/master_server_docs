@@ -1,0 +1,472 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 35.100998,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 35.100998,
+      "end": 39.194966,
+      "title": "Book the First - Poverty"
+    },
+    {
+      "id": 2,
+      "start": 39.194966,
+      "end": 2506.313923,
+      "title": "I. Sun and Shadow"
+    },
+    {
+      "id": 3,
+      "start": 2506.313923,
+      "end": 4776.481905,
+      "title": "II. Fellow Travellers"
+    },
+    {
+      "id": 4,
+      "start": 4776.481905,
+      "end": 7159.8239,
+      "title": "III. Home"
+    },
+    {
+      "id": 5,
+      "start": 7159.8239,
+      "end": 7705.35288,
+      "title": "IV. Mrs. Flintwinch has a Dream"
+    },
+    {
+      "id": 6,
+      "start": 7705.35288,
+      "end": 9801.556871,
+      "title": "V. Family Affairs"
+    },
+    {
+      "id": 7,
+      "start": 9801.556871,
+      "end": 11727.836871,
+      "title": "VI. The Father of the Marshalsea"
+    },
+    {
+      "id": 8,
+      "start": 11727.836871,
+      "end": 13596.856871,
+      "title": "VII. The Child of the Marshalsea"
+    },
+    {
+      "id": 9,
+      "start": 13596.856871,
+      "end": 15620.846848,
+      "title": "VIII. The Lock"
+    },
+    {
+      "id": 10,
+      "start": 15620.846848,
+      "end": 17996.897823,
+      "title": "IX. Little Mother"
+    },
+    {
+      "id": 11,
+      "start": 17996.897823,
+      "end": 21374.100816,
+      "title": "X. Containing the whole Science of Government"
+    },
+    {
+      "id": 12,
+      "start": 21374.100816,
+      "end": 23206.1078,
+      "title": "XI. Let Loose"
+    },
+    {
+      "id": 13,
+      "start": 23206.1078,
+      "end": 24768.995782,
+      "title": "XII. Bleeding Heart Yard"
+    },
+    {
+      "id": 14,
+      "start": 24768.995782,
+      "end": 28556.21678,
+      "title": "XIII. Patriarchal"
+    },
+    {
+      "id": 15,
+      "start": 28556.21678,
+      "end": 30629.014739,
+      "title": "XIV. Little Dorrit’s Party"
+    },
+    {
+      "id": 16,
+      "start": 30629.014739,
+      "end": 32230.912698,
+      "title": "XV. Mrs. Flintwinch has another Dream"
+    },
+    {
+      "id": 17,
+      "start": 32230.912698,
+      "end": 34625.493696,
+      "title": "XVI. Nobody’s Weakness"
+    },
+    {
+      "id": 18,
+      "start": 34625.493696,
+      "end": 36241.694694,
+      "title": "XVII. Nobody’s Rival"
+    },
+    {
+      "id": 19,
+      "start": 36241.694694,
+      "end": 38014.444671,
+      "title": "XVIII. Little Dorrit’s Lover"
+    },
+    {
+      "id": 20,
+      "start": 38014.444671,
+      "end": 40108.187664,
+      "title": "XIX. The Father of the Marshalsea in two or three Relations"
+    },
+    {
+      "id": 21,
+      "start": 40108.187664,
+      "end": 42577.861633,
+      "title": "XX. Moving in Society"
+    },
+    {
+      "id": 22,
+      "start": 42577.861633,
+      "end": 44082.14263,
+      "title": "XXI. Mr. Merdle’s Complaint"
+    },
+    {
+      "id": 23,
+      "start": 44082.14263,
+      "end": 45683.064626,
+      "title": "XXII. A Puzzle"
+    },
+    {
+      "id": 24,
+      "start": 45683.064626,
+      "end": 48365.944626,
+      "title": "XXIII. Machinery in Motion"
+    },
+    {
+      "id": 25,
+      "start": 48365.944626,
+      "end": 51151.177596,
+      "title": "XXIV. Fortune-Telling"
+    },
+    {
+      "id": 26,
+      "start": 51151.177596,
+      "end": 52981.745578,
+      "title": "XXV. Conspirators and Others"
+    },
+    {
+      "id": 27,
+      "start": 52981.745578,
+      "end": 55327.84254,
+      "title": "XXVI. Nobody’s State of Mind"
+    },
+    {
+      "id": 28,
+      "start": 55327.84254,
+      "end": 57553.892517,
+      "title": "XXVII. Five-and-Twenty"
+    },
+    {
+      "id": 29,
+      "start": 57553.892517,
+      "end": 58873.667483,
+      "title": "XXVIII. Nobody’s Disappearance"
+    },
+    {
+      "id": 30,
+      "start": 58873.667483,
+      "end": 60328.629478,
+      "title": "XXIX. Mrs. Flintwinch goes on Dreaming"
+    },
+    {
+      "id": 31,
+      "start": 60328.629478,
+      "end": 63276.959456,
+      "title": "XXX. The Word of a Gentleman"
+    },
+    {
+      "id": 32,
+      "start": 63276.959456,
+      "end": 66139.654422,
+      "title": "XXXI. Spirit"
+    },
+    {
+      "id": 33,
+      "start": 66139.654422,
+      "end": 67733.750385,
+      "title": "XXXII. More Fortune-Telling"
+    },
+    {
+      "id": 34,
+      "start": 67733.750385,
+      "end": 69579.875374,
+      "title": "XXXIII. Mrs. Merdle’s Complaint"
+    },
+    {
+      "id": 35,
+      "start": 69579.875374,
+      "end": 71219.018367,
+      "title": "XXXIV. A Shoal of Barnacles"
+    },
+    {
+      "id": 36,
+      "start": 71219.018367,
+      "end": 73506.973333,
+      "title": "XXXV. What was behind Mr. Pancks on Little Dorrit’s Hand"
+    },
+    {
+      "id": 37,
+      "start": 73506.973333,
+      "end": 74790.664308,
+      "title": "XXXVI. The Marshalsea becomes an Orphan"
+    },
+    {
+      "id": 38,
+      "start": 74790.664308,
+      "end": 74794.740272,
+      "title": "Book the Second - Riches"
+    },
+    {
+      "id": 39,
+      "start": 74794.740272,
+      "end": 77505.030249,
+      "title": "I. Fellow Travellers"
+    },
+    {
+      "id": 40,
+      "start": 77505.030249,
+      "end": 78267.991247,
+      "title": "II. Mrs. General"
+    },
+    {
+      "id": 41,
+      "start": 78267.991247,
+      "end": 81123.627211,
+      "title": "III. On the Road"
+    },
+    {
+      "id": 42,
+      "start": 81123.627211,
+      "end": 81803.600181,
+      "title": "IV. A Letter from Little Dorrit"
+    },
+    {
+      "id": 43,
+      "start": 81803.600181,
+      "end": 84735.722177,
+      "title": "V. Something Wrong Somewhere"
+    },
+    {
+      "id": 44,
+      "start": 84735.722177,
+      "end": 87331.202177,
+      "title": "VI. Something Right Somewhere"
+    },
+    {
+      "id": 45,
+      "start": 87331.202177,
+      "end": 89327.793152,
+      "title": "\"VII. Mostly, Prunes and Prism\""
+    },
+    {
+      "id": 46,
+      "start": 89327.793152,
+      "end": 91480.375147,
+      "title": "VIII. The Dowager Mrs. Gowan is reminded that It Never Does"
+    },
+    {
+      "id": 47,
+      "start": 91480.375147,
+      "end": 94196.970113,
+      "title": "IX. Appearance and Disappearance"
+    },
+    {
+      "id": 48,
+      "start": 94196.970113,
+      "end": 95553.990113,
+      "title": "X. The Dreams of Mrs. Flintwinch thicken"
+    },
+    {
+      "id": 49,
+      "start": 95553.990113,
+      "end": 96620.157098,
+      "title": "XI. A Letter from Little Dorrit"
+    },
+    {
+      "id": 50,
+      "start": 96620.157098,
+      "end": 99263.237098,
+      "title": "XII. In which a Great Patriotic Conference is holden"
+    },
+    {
+      "id": 51,
+      "start": 99263.237098,
+      "end": 101915.466077,
+      "title": "XIII. The Progress of an Epidemic"
+    },
+    {
+      "id": 52,
+      "start": 101915.466077,
+      "end": 103868.171066,
+      "title": "XIV. Taking Advice"
+    },
+    {
+      "id": 53,
+      "start": 103868.171066,
+      "end": 106895.495057,
+      "title": "XV. No Just Cause or Impediment why these Two Persons should not be joined together"
+    },
+    {
+      "id": 54,
+      "start": 106895.495057,
+      "end": 108175.982041,
+      "title": "XVI. Getting on"
+    },
+    {
+      "id": 55,
+      "start": 108175.982041,
+      "end": 109924.955011,
+      "title": "XVII. Missing"
+    },
+    {
+      "id": 56,
+      "start": 109924.955011,
+      "end": 111173.259002,
+      "title": "XVIII. A Castle in the Air"
+    },
+    {
+      "id": 57,
+      "start": 111173.259002,
+      "end": 114119.591973,
+      "title": "XIX. The Storming of the Castle in the Air"
+    },
+    {
+      "id": 58,
+      "start": 114119.591973,
+      "end": 115913.75093,
+      "title": "XX. Introduces the next"
+    },
+    {
+      "id": 59,
+      "start": 115913.75093,
+      "end": 117535.060907,
+      "title": "XXI. The History of a Self Tormentor"
+    },
+    {
+      "id": 60,
+      "start": 117535.060907,
+      "end": 118730.098866,
+      "title": "XXII. Who passes by this Road so late?"
+    },
+    {
+      "id": 61,
+      "start": 118730.098866,
+      "end": 120935.947846,
+      "title": "\"XXIII. Mistress Affery makes a Conditional Promise, respecting her Dreams\""
+    },
+    {
+      "id": 62,
+      "start": 120935.947846,
+      "end": 122872.212834,
+      "title": "XXIV. The Evening of a Long Day"
+    },
+    {
+      "id": 63,
+      "start": 122872.212834,
+      "end": 124521.478821,
+      "title": "XXV. The Chief Butler Resigns the Seals of Office"
+    },
+    {
+      "id": 64,
+      "start": 124521.478821,
+      "end": 126074.753787,
+      "title": "XXVI. Reaping the Whirlwind"
+    },
+    {
+      "id": 65,
+      "start": 126074.753787,
+      "end": 128712.539773,
+      "title": "XXVII. The Pupil of the Marshalsea"
+    },
+    {
+      "id": 66,
+      "start": 128712.539773,
+      "end": 132129.401769,
+      "title": "XXVIII. An Appearance in the Marshalsea"
+    },
+    {
+      "id": 67,
+      "start": 132129.401769,
+      "end": 133765.571746,
+      "title": "XXIX. A Plea in the Marshalsea"
+    },
+    {
+      "id": 68,
+      "start": 133765.571746,
+      "end": 138408.865714,
+      "title": "XXX. Closing in"
+    },
+    {
+      "id": 69,
+      "start": 138408.865714,
+      "end": 140010.113696,
+      "title": "XXXI. Closed"
+    },
+    {
+      "id": 70,
+      "start": 140010.113696,
+      "end": 141388.728662,
+      "title": "XXXII. Going"
+    },
+    {
+      "id": 71,
+      "start": 141388.728662,
+      "end": 143290.674649,
+      "title": "XXXIII. Going!"
+    },
+    {
+      "id": 72,
+      "start": 143290.674649,
+      "end": 145323.409615,
+      "title": "XXXIV. Gone"
+    },
+    {
+      "id": 73,
+      "start": 145323.409615,
+      "end": 145381.003356,
+      "title": "End Credits"
+    }
+  ],
+  "title": "Little Dorrit (Unabridged)",
+  "subtitle": "The Audible Dickens Collection",
+  "authors": [
+    "Charles Dickens"
+  ],
+  "narrators": [
+    "Juliet Stevenson"
+  ],
+  "series": [
+    "The Audible Dickens Collection #0"
+  ],
+  "genres": [
+    "Classics"
+  ],
+  "publishedYear": "2019",
+  "publishedDate": null,
+  "publisher": "Audible Studios",
+  "description": "This Audible Exclusive production revisits Charles Dickens’ tragi-comic novel Little Dorrit. Written during the Crimean War, it a story of fortunes won and lost and a masterly portrayal of the failings of Victorian Society, with the ever-present spectre of law enforcement and imprisonment looming over a fearful population. Divided into two parts, Book One: Poverty and Book Two: Riches, Little Dorrit satirises the debtors prisons and the detrimental effect of enforcing a British class system.",
+  "isbn": null,
+  "asin": "B07SB1R76T",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

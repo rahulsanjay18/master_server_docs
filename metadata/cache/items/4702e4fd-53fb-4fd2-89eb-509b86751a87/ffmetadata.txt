@@ -1,0 +1,42 @@
+;FFMETADATA1
+title=Beginnings
+artist=David Weber
+album_artist=David Weber
+album=Beginnings
+genre=Harrington, Honor (Fictitious character)
+date=2013-06-14T21:53:53Z
+comment=A collection of tales set in the Honor Harrington universe includes contributions by Timothy Zahn, Charles E. Gannon, and Joelle Presby and is complemented by a new novella by David Weber featuring a young Manticoran Royal Navy commander.
+description=A collection of tales set in the Honor Harrington universe includes contributions by Timothy Zahn, Charles E. Gannon, and Joelle Presby and is complemented by a new novella by David Weber featuring a young Manticoran Royal Navy commander.
+composer=James Patrick Cronin
+TRACKTOTAL=1
+grouping=Worlds of Honor \#6
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=14107000
+title=001
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14107000
+END=24340000
+title=002
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24340000
+END=41612000
+title=003
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=41612000
+END=47042000
+title=004
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=47042000
+END=56708191
+title=005

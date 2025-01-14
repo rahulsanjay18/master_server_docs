@@ -1,0 +1,104 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 198.216,
+      "title": "00: Prologue"
+    },
+    {
+      "id": 1,
+      "start": 198.216,
+      "end": 850.716,
+      "title": "01: The Eaten One"
+    },
+    {
+      "id": 2,
+      "start": 850.716,
+      "end": 2627.064,
+      "title": "02: The Wall Around the Place"
+    },
+    {
+      "id": 3,
+      "start": 2627.064,
+      "end": 4158.755999999999,
+      "title": "03: The Prisoners"
+    },
+    {
+      "id": 4,
+      "start": 4158.755999999999,
+      "end": 5976.324,
+      "title": "04: Dreams and Tales"
+    },
+    {
+      "id": 5,
+      "start": 5976.324,
+      "end": 7516.4039999999995,
+      "title": "05: Light Under the Hill"
+    },
+    {
+      "id": 6,
+      "start": 7516.4039999999995,
+      "end": 9348.804,
+      "title": "06: The Man Trap"
+    },
+    {
+      "id": 7,
+      "start": 9348.804,
+      "end": 10793.16,
+      "title": "07: The Great Treasure"
+    },
+    {
+      "id": 8,
+      "start": 10793.16,
+      "end": 11554.236,
+      "title": "08: Names"
+    },
+    {
+      "id": 9,
+      "start": 11554.236,
+      "end": 13033.62,
+      "title": "09: The Ring of Erreth-Akbe"
+    },
+    {
+      "id": 10,
+      "start": 13033.62,
+      "end": 14087.16,
+      "title": "10: The Anger of the Dark"
+    },
+    {
+      "id": 11,
+      "start": 14087.16,
+      "end": 15404.868,
+      "title": "11: The Western Mountains"
+    },
+    {
+      "id": 12,
+      "start": 15404.868,
+      "end": 16756.812,
+      "title": "12: Voyage"
+    }
+  ],
+  "title": "The Tombs of Atuan",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "192mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1971",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Karen Archer",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

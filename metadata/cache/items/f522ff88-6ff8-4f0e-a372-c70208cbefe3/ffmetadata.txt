@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Norwegian Wood
+artist=Haruki Murakami
+album_artist=Haruki Murakami
+album=Norwegian Wood
+TRACKTOTAL=22
+grouping=Haruki Murakami - Norwegian Wood

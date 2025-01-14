@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=The Quantum Rose
+artist=Catherine Asaro
+album_artist=Catherine Asaro
+album=The Quantum Rose
+genre=Audio Book
+date=2000
+comment=Read by Anna Fields
+description=Read by Anna Fields
+TRACKTOTAL=29

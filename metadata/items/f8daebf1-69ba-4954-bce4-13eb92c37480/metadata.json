@@ -1,0 +1,1114 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 396.7232,
+      "title": "Proven Guilty 001"
+    },
+    {
+      "id": 1,
+      "start": 396.7232,
+      "end": 734.4603999999999,
+      "title": "Proven Guilty 002"
+    },
+    {
+      "id": 2,
+      "start": 734.4603999999999,
+      "end": 1021.2242999999999,
+      "title": "Proven Guilty 003"
+    },
+    {
+      "id": 3,
+      "start": 1021.2242999999999,
+      "end": 1428.7006999999999,
+      "title": "Proven Guilty 004"
+    },
+    {
+      "id": 4,
+      "start": 1428.7006999999999,
+      "end": 1738.2759999999998,
+      "title": "Proven Guilty 005"
+    },
+    {
+      "id": 5,
+      "start": 1738.2759999999998,
+      "end": 2009.4320999999998,
+      "title": "Proven Guilty 006"
+    },
+    {
+      "id": 6,
+      "start": 2009.4320999999998,
+      "end": 2213.9287999999997,
+      "title": "Proven Guilty 007"
+    },
+    {
+      "id": 7,
+      "start": 2213.9287999999997,
+      "end": 2456.3487999999998,
+      "title": "Proven Guilty 008"
+    },
+    {
+      "id": 8,
+      "start": 2456.3487999999998,
+      "end": 2811.7817999999997,
+      "title": "Proven Guilty 009"
+    },
+    {
+      "id": 9,
+      "start": 2811.7817999999997,
+      "end": 3155.8091,
+      "title": "Proven Guilty 010"
+    },
+    {
+      "id": 10,
+      "start": 3155.8091,
+      "end": 3419.2918,
+      "title": "Proven Guilty 011"
+    },
+    {
+      "id": 11,
+      "start": 3419.2918,
+      "end": 3793.4646,
+      "title": "Proven Guilty 012"
+    },
+    {
+      "id": 12,
+      "start": 3793.4646,
+      "end": 4208.7971,
+      "title": "Proven Guilty 013"
+    },
+    {
+      "id": 13,
+      "start": 4208.7971,
+      "end": 4459.882299999999,
+      "title": "Proven Guilty 014"
+    },
+    {
+      "id": 14,
+      "start": 4459.882299999999,
+      "end": 4875.293099999999,
+      "title": "Proven Guilty 015"
+    },
+    {
+      "id": 15,
+      "start": 4875.293099999999,
+      "end": 5253.485299999999,
+      "title": "Proven Guilty 016"
+    },
+    {
+      "id": 16,
+      "start": 5253.485299999999,
+      "end": 5557.3969,
+      "title": "Proven Guilty 017"
+    },
+    {
+      "id": 17,
+      "start": 5557.3969,
+      "end": 5929.0118999999995,
+      "title": "Proven Guilty 018"
+    },
+    {
+      "id": 18,
+      "start": 5929.0118999999995,
+      "end": 6166.8904999999995,
+      "title": "Proven Guilty 019"
+    },
+    {
+      "id": 19,
+      "start": 6166.8904999999995,
+      "end": 6440.239,
+      "title": "Proven Guilty 020"
+    },
+    {
+      "id": 20,
+      "start": 6440.239,
+      "end": 6647.3457,
+      "title": "Proven Guilty 021"
+    },
+    {
+      "id": 21,
+      "start": 6647.3457,
+      "end": 6986.2573999999995,
+      "title": "Proven Guilty 022"
+    },
+    {
+      "id": 22,
+      "start": 6986.2573999999995,
+      "end": 7273.204,
+      "title": "Proven Guilty 023"
+    },
+    {
+      "id": 23,
+      "start": 7273.204,
+      "end": 7483.5993,
+      "title": "Proven Guilty 024"
+    },
+    {
+      "id": 24,
+      "start": 7483.5993,
+      "end": 7828.0442,
+      "title": "Proven Guilty 025"
+    },
+    {
+      "id": 25,
+      "start": 7828.0442,
+      "end": 8157.794800000001,
+      "title": "Proven Guilty 026"
+    },
+    {
+      "id": 26,
+      "start": 8157.794800000001,
+      "end": 8400.006000000001,
+      "title": "Proven Guilty 027"
+    },
+    {
+      "id": 27,
+      "start": 8400.006000000001,
+      "end": 8813.798600000002,
+      "title": "Proven Guilty 028"
+    },
+    {
+      "id": 28,
+      "start": 8813.798600000002,
+      "end": 9037.792000000001,
+      "title": "Proven Guilty 029"
+    },
+    {
+      "id": 29,
+      "start": 9037.792000000001,
+      "end": 9172.079700000002,
+      "title": "Proven Guilty 030"
+    },
+    {
+      "id": 30,
+      "start": 9172.079700000002,
+      "end": 9547.139900000002,
+      "title": "Proven Guilty 031"
+    },
+    {
+      "id": 31,
+      "start": 9547.139900000002,
+      "end": 10009.113100000002,
+      "title": "Proven Guilty 032"
+    },
+    {
+      "id": 32,
+      "start": 10009.113100000002,
+      "end": 10403.174100000002,
+      "title": "Proven Guilty 033"
+    },
+    {
+      "id": 33,
+      "start": 10403.174100000002,
+      "end": 10784.837600000003,
+      "title": "Proven Guilty 034"
+    },
+    {
+      "id": 34,
+      "start": 10784.837600000003,
+      "end": 11186.441500000003,
+      "title": "Proven Guilty 035"
+    },
+    {
+      "id": 35,
+      "start": 11186.441500000003,
+      "end": 11589.507000000003,
+      "title": "Proven Guilty 036"
+    },
+    {
+      "id": 36,
+      "start": 11589.507000000003,
+      "end": 11896.524500000003,
+      "title": "Proven Guilty 037"
+    },
+    {
+      "id": 37,
+      "start": 11896.524500000003,
+      "end": 12187.699300000004,
+      "title": "Proven Guilty 038"
+    },
+    {
+      "id": 38,
+      "start": 12187.699300000004,
+      "end": 12605.224200000004,
+      "title": "Proven Guilty 039"
+    },
+    {
+      "id": 39,
+      "start": 12605.224200000004,
+      "end": 12929.285000000003,
+      "title": "Proven Guilty 040"
+    },
+    {
+      "id": 40,
+      "start": 12929.285000000003,
+      "end": 13317.812800000003,
+      "title": "Proven Guilty 041"
+    },
+    {
+      "id": 41,
+      "start": 13317.812800000003,
+      "end": 13509.050700000003,
+      "title": "Proven Guilty 042"
+    },
+    {
+      "id": 42,
+      "start": 13509.050700000003,
+      "end": 13852.190600000004,
+      "title": "Proven Guilty 043"
+    },
+    {
+      "id": 43,
+      "start": 13852.190600000004,
+      "end": 14122.407100000004,
+      "title": "Proven Guilty 044"
+    },
+    {
+      "id": 44,
+      "start": 14122.407100000004,
+      "end": 14419.062900000004,
+      "title": "Proven Guilty 045"
+    },
+    {
+      "id": 45,
+      "start": 14419.062900000004,
+      "end": 14755.286300000005,
+      "title": "Proven Guilty 046"
+    },
+    {
+      "id": 46,
+      "start": 14755.286300000005,
+      "end": 14937.389200000005,
+      "title": "Proven Guilty 047"
+    },
+    {
+      "id": 47,
+      "start": 14937.389200000005,
+      "end": 15321.480000000005,
+      "title": "Proven Guilty 048"
+    },
+    {
+      "id": 48,
+      "start": 15321.480000000005,
+      "end": 15673.441700000005,
+      "title": "Proven Guilty 049"
+    },
+    {
+      "id": 49,
+      "start": 15673.441700000005,
+      "end": 15857.084500000004,
+      "title": "Proven Guilty 050"
+    },
+    {
+      "id": 50,
+      "start": 15857.084500000004,
+      "end": 16264.430400000005,
+      "title": "Proven Guilty 051"
+    },
+    {
+      "id": 51,
+      "start": 16264.430400000005,
+      "end": 16648.599500000004,
+      "title": "Proven Guilty 052"
+    },
+    {
+      "id": 52,
+      "start": 16648.599500000004,
+      "end": 16996.150300000005,
+      "title": "Proven Guilty 053"
+    },
+    {
+      "id": 53,
+      "start": 16996.150300000005,
+      "end": 17281.504800000006,
+      "title": "Proven Guilty 054"
+    },
+    {
+      "id": 54,
+      "start": 17281.504800000006,
+      "end": 17672.042300000005,
+      "title": "Proven Guilty 055"
+    },
+    {
+      "id": 55,
+      "start": 17672.042300000005,
+      "end": 18056.185300000005,
+      "title": "Proven Guilty 056"
+    },
+    {
+      "id": 56,
+      "start": 18056.185300000005,
+      "end": 18441.085200000005,
+      "title": "Proven Guilty 057"
+    },
+    {
+      "id": 57,
+      "start": 18441.085200000005,
+      "end": 18714.485900000003,
+      "title": "Proven Guilty 058"
+    },
+    {
+      "id": 58,
+      "start": 18714.485900000003,
+      "end": 19075.373800000005,
+      "title": "Proven Guilty 059"
+    },
+    {
+      "id": 59,
+      "start": 19075.373800000005,
+      "end": 19462.335600000006,
+      "title": "Proven Guilty 060"
+    },
+    {
+      "id": 60,
+      "start": 19462.335600000006,
+      "end": 19771.910900000006,
+      "title": "Proven Guilty 061"
+    },
+    {
+      "id": 61,
+      "start": 19771.910900000006,
+      "end": 20097.694300000006,
+      "title": "Proven Guilty 062"
+    },
+    {
+      "id": 62,
+      "start": 20097.694300000006,
+      "end": 20321.713800000005,
+      "title": "Proven Guilty 063"
+    },
+    {
+      "id": 63,
+      "start": 20321.713800000005,
+      "end": 20719.533200000005,
+      "title": "Proven Guilty 064"
+    },
+    {
+      "id": 64,
+      "start": 20719.533200000005,
+      "end": 21040.253200000006,
+      "title": "Proven Guilty 065"
+    },
+    {
+      "id": 65,
+      "start": 21040.253200000006,
+      "end": 21307.964100000005,
+      "title": "Proven Guilty 066"
+    },
+    {
+      "id": 66,
+      "start": 21307.964100000005,
+      "end": 21553.751000000004,
+      "title": "Proven Guilty 067"
+    },
+    {
+      "id": 67,
+      "start": 21553.751000000004,
+      "end": 21695.633800000003,
+      "title": "Proven Guilty 068"
+    },
+    {
+      "id": 68,
+      "start": 21695.633800000003,
+      "end": 22015.857900000003,
+      "title": "Proven Guilty 069"
+    },
+    {
+      "id": 69,
+      "start": 22015.857900000003,
+      "end": 22418.4275,
+      "title": "Proven Guilty 070"
+    },
+    {
+      "id": 70,
+      "start": 22418.4275,
+      "end": 22595.1016,
+      "title": "Proven Guilty 071"
+    },
+    {
+      "id": 71,
+      "start": 22595.1016,
+      "end": 22998.1149,
+      "title": "Proven Guilty 072"
+    },
+    {
+      "id": 72,
+      "start": 22998.1149,
+      "end": 23232.209,
+      "title": "Proven Guilty 073"
+    },
+    {
+      "id": 73,
+      "start": 23232.209,
+      "end": 23357.022399999998,
+      "title": "Proven Guilty 074"
+    },
+    {
+      "id": 74,
+      "start": 23357.022399999998,
+      "end": 23768.648699999998,
+      "title": "Proven Guilty 075"
+    },
+    {
+      "id": 75,
+      "start": 23768.648699999998,
+      "end": 24128.336,
+      "title": "Proven Guilty 076"
+    },
+    {
+      "id": 76,
+      "start": 24128.336,
+      "end": 24492.0166,
+      "title": "Proven Guilty 077"
+    },
+    {
+      "id": 77,
+      "start": 24492.0166,
+      "end": 24880.5183,
+      "title": "Proven Guilty 078"
+    },
+    {
+      "id": 78,
+      "start": 24880.5183,
+      "end": 25206.797599999998,
+      "title": "Proven Guilty 079"
+    },
+    {
+      "id": 79,
+      "start": 25206.797599999998,
+      "end": 25610.672199999997,
+      "title": "Proven Guilty 080"
+    },
+    {
+      "id": 80,
+      "start": 25610.672199999997,
+      "end": 25958.6406,
+      "title": "Proven Guilty 081"
+    },
+    {
+      "id": 81,
+      "start": 25958.6406,
+      "end": 26335.0841,
+      "title": "Proven Guilty 082"
+    },
+    {
+      "id": 82,
+      "start": 26335.0841,
+      "end": 26730.3457,
+      "title": "Proven Guilty 083"
+    },
+    {
+      "id": 83,
+      "start": 26730.3457,
+      "end": 27122.892900000003,
+      "title": "Proven Guilty 084"
+    },
+    {
+      "id": 84,
+      "start": 27122.892900000003,
+      "end": 27417.4085,
+      "title": "Proven Guilty 085"
+    },
+    {
+      "id": 85,
+      "start": 27417.4085,
+      "end": 27747.3679,
+      "title": "Proven Guilty 086"
+    },
+    {
+      "id": 86,
+      "start": 27747.3679,
+      "end": 28079.5197,
+      "title": "Proven Guilty 087"
+    },
+    {
+      "id": 87,
+      "start": 28079.5197,
+      "end": 28388.7557,
+      "title": "Proven Guilty 088"
+    },
+    {
+      "id": 88,
+      "start": 28388.7557,
+      "end": 28706.291500000003,
+      "title": "Proven Guilty 089"
+    },
+    {
+      "id": 89,
+      "start": 28706.291500000003,
+      "end": 28923.498900000002,
+      "title": "Proven Guilty 090"
+    },
+    {
+      "id": 90,
+      "start": 28923.498900000002,
+      "end": 29143.499000000003,
+      "title": "Proven Guilty 091"
+    },
+    {
+      "id": 91,
+      "start": 29143.499000000003,
+      "end": 29449.342000000004,
+      "title": "Proven Guilty 092"
+    },
+    {
+      "id": 92,
+      "start": 29449.342000000004,
+      "end": 29714.964900000003,
+      "title": "Proven Guilty 093"
+    },
+    {
+      "id": 93,
+      "start": 29714.964900000003,
+      "end": 30022.530500000004,
+      "title": "Proven Guilty 094"
+    },
+    {
+      "id": 94,
+      "start": 30022.530500000004,
+      "end": 30281.419600000005,
+      "title": "Proven Guilty 095"
+    },
+    {
+      "id": 95,
+      "start": 30281.419600000005,
+      "end": 30551.479500000005,
+      "title": "Proven Guilty 096"
+    },
+    {
+      "id": 96,
+      "start": 30551.479500000005,
+      "end": 30879.533600000006,
+      "title": "Proven Guilty 097"
+    },
+    {
+      "id": 97,
+      "start": 30879.533600000006,
+      "end": 31139.414500000006,
+      "title": "Proven Guilty 098"
+    },
+    {
+      "id": 98,
+      "start": 31139.414500000006,
+      "end": 31477.334400000007,
+      "title": "Proven Guilty 099"
+    },
+    {
+      "id": 99,
+      "start": 31477.334400000007,
+      "end": 31755.56360000001,
+      "title": "Proven Guilty 100"
+    },
+    {
+      "id": 100,
+      "start": 31755.56360000001,
+      "end": 31925.24290000001,
+      "title": "Proven Guilty 101"
+    },
+    {
+      "id": 101,
+      "start": 31925.24290000001,
+      "end": 32270.966700000008,
+      "title": "Proven Guilty 102"
+    },
+    {
+      "id": 102,
+      "start": 32270.966700000008,
+      "end": 32590.35560000001,
+      "title": "Proven Guilty 103"
+    },
+    {
+      "id": 103,
+      "start": 32590.35560000001,
+      "end": 32813.82700000001,
+      "title": "Proven Guilty 104"
+    },
+    {
+      "id": 104,
+      "start": 32813.82700000001,
+      "end": 33139.19280000001,
+      "title": "Proven Guilty 105"
+    },
+    {
+      "id": 105,
+      "start": 33139.19280000001,
+      "end": 33513.23510000001,
+      "title": "Proven Guilty 106"
+    },
+    {
+      "id": 106,
+      "start": 33513.23510000001,
+      "end": 33844.63000000001,
+      "title": "Proven Guilty 107"
+    },
+    {
+      "id": 107,
+      "start": 33844.63000000001,
+      "end": 34235.42850000001,
+      "title": "Proven Guilty 108"
+    },
+    {
+      "id": 108,
+      "start": 34235.42850000001,
+      "end": 34619.80640000001,
+      "title": "Proven Guilty 109"
+    },
+    {
+      "id": 109,
+      "start": 34619.80640000001,
+      "end": 35019.76600000001,
+      "title": "Proven Guilty 110"
+    },
+    {
+      "id": 110,
+      "start": 35019.76600000001,
+      "end": 35385.16920000001,
+      "title": "Proven Guilty 111"
+    },
+    {
+      "id": 111,
+      "start": 35385.16920000001,
+      "end": 35690.43800000001,
+      "title": "Proven Guilty 112"
+    },
+    {
+      "id": 112,
+      "start": 35690.43800000001,
+      "end": 36000.63970000001,
+      "title": "Proven Guilty 113"
+    },
+    {
+      "id": 113,
+      "start": 36000.63970000001,
+      "end": 36271.45650000001,
+      "title": "Proven Guilty 114"
+    },
+    {
+      "id": 114,
+      "start": 36271.45650000001,
+      "end": 36561.58730000001,
+      "title": "Proven Guilty 115"
+    },
+    {
+      "id": 115,
+      "start": 36561.58730000001,
+      "end": 36850.752400000005,
+      "title": "Proven Guilty 116"
+    },
+    {
+      "id": 116,
+      "start": 36850.752400000005,
+      "end": 37124.0748,
+      "title": "Proven Guilty 117"
+    },
+    {
+      "id": 117,
+      "start": 37124.0748,
+      "end": 37405.5143,
+      "title": "Proven Guilty 118"
+    },
+    {
+      "id": 118,
+      "start": 37405.5143,
+      "end": 37784.8027,
+      "title": "Proven Guilty 119"
+    },
+    {
+      "id": 119,
+      "start": 37784.8027,
+      "end": 38172.8607,
+      "title": "Proven Guilty 120"
+    },
+    {
+      "id": 120,
+      "start": 38172.8607,
+      "end": 38509.4756,
+      "title": "Proven Guilty 121"
+    },
+    {
+      "id": 121,
+      "start": 38509.4756,
+      "end": 38965.8373,
+      "title": "Proven Guilty 122"
+    },
+    {
+      "id": 122,
+      "start": 38965.8373,
+      "end": 39214.0515,
+      "title": "Proven Guilty 123"
+    },
+    {
+      "id": 123,
+      "start": 39214.0515,
+      "end": 39449.3984,
+      "title": "Proven Guilty 124"
+    },
+    {
+      "id": 124,
+      "start": 39449.3984,
+      "end": 39679.8646,
+      "title": "Proven Guilty 125"
+    },
+    {
+      "id": 125,
+      "start": 39679.8646,
+      "end": 40036.2633,
+      "title": "Proven Guilty 126"
+    },
+    {
+      "id": 126,
+      "start": 40036.2633,
+      "end": 40446.95,
+      "title": "Proven Guilty 127"
+    },
+    {
+      "id": 127,
+      "start": 40446.95,
+      "end": 40662.695799999994,
+      "title": "Proven Guilty 128"
+    },
+    {
+      "id": 128,
+      "start": 40662.695799999994,
+      "end": 40993.020599999996,
+      "title": "Proven Guilty 129"
+    },
+    {
+      "id": 129,
+      "start": 40993.020599999996,
+      "end": 41318.0732,
+      "title": "Proven Guilty 130"
+    },
+    {
+      "id": 130,
+      "start": 41318.0732,
+      "end": 41665.7806,
+      "title": "Proven Guilty 131"
+    },
+    {
+      "id": 131,
+      "start": 41665.7806,
+      "end": 42117.7575,
+      "title": "Proven Guilty 132"
+    },
+    {
+      "id": 132,
+      "start": 42117.7575,
+      "end": 42500.7521,
+      "title": "Proven Guilty 133"
+    },
+    {
+      "id": 133,
+      "start": 42500.7521,
+      "end": 42680.871399999996,
+      "title": "Proven Guilty 134"
+    },
+    {
+      "id": 134,
+      "start": 42680.871399999996,
+      "end": 42916.7403,
+      "title": "Proven Guilty 135"
+    },
+    {
+      "id": 135,
+      "start": 42916.7403,
+      "end": 43238.660899999995,
+      "title": "Proven Guilty 136"
+    },
+    {
+      "id": 136,
+      "start": 43238.660899999995,
+      "end": 43447.855599999995,
+      "title": "Proven Guilty 137"
+    },
+    {
+      "id": 137,
+      "start": 43447.855599999995,
+      "end": 43711.1556,
+      "title": "Proven Guilty 138"
+    },
+    {
+      "id": 138,
+      "start": 43711.1556,
+      "end": 44024.933,
+      "title": "Proven Guilty 139"
+    },
+    {
+      "id": 139,
+      "start": 44024.933,
+      "end": 44483.8264,
+      "title": "Proven Guilty 140"
+    },
+    {
+      "id": 140,
+      "start": 44483.8264,
+      "end": 44787.5553,
+      "title": "Proven Guilty 141"
+    },
+    {
+      "id": 141,
+      "start": 44787.5553,
+      "end": 45095.4602,
+      "title": "Proven Guilty 142"
+    },
+    {
+      "id": 142,
+      "start": 45095.4602,
+      "end": 45502.6495,
+      "title": "Proven Guilty 143"
+    },
+    {
+      "id": 143,
+      "start": 45502.6495,
+      "end": 45874.4994,
+      "title": "Proven Guilty 144"
+    },
+    {
+      "id": 144,
+      "start": 45874.4994,
+      "end": 46283.6201,
+      "title": "Proven Guilty 145"
+    },
+    {
+      "id": 145,
+      "start": 46283.6201,
+      "end": 46588.4713,
+      "title": "Proven Guilty 146"
+    },
+    {
+      "id": 146,
+      "start": 46588.4713,
+      "end": 46927.8267,
+      "title": "Proven Guilty 147"
+    },
+    {
+      "id": 147,
+      "start": 46927.8267,
+      "end": 47301.1382,
+      "title": "Proven Guilty 148"
+    },
+    {
+      "id": 148,
+      "start": 47301.1382,
+      "end": 47490.4447,
+      "title": "Proven Guilty 149"
+    },
+    {
+      "id": 149,
+      "start": 47490.4447,
+      "end": 47863.965,
+      "title": "Proven Guilty 150"
+    },
+    {
+      "id": 150,
+      "start": 47863.965,
+      "end": 48278.9843,
+      "title": "Proven Guilty 151"
+    },
+    {
+      "id": 151,
+      "start": 48278.9843,
+      "end": 48665.5807,
+      "title": "Proven Guilty 152"
+    },
+    {
+      "id": 152,
+      "start": 48665.5807,
+      "end": 49027.2777,
+      "title": "Proven Guilty 153"
+    },
+    {
+      "id": 153,
+      "start": 49027.2777,
+      "end": 49404.191,
+      "title": "Proven Guilty 154"
+    },
+    {
+      "id": 154,
+      "start": 49404.191,
+      "end": 49671.405999999995,
+      "title": "Proven Guilty 155"
+    },
+    {
+      "id": 155,
+      "start": 49671.405999999995,
+      "end": 49851.264299999995,
+      "title": "Proven Guilty 156"
+    },
+    {
+      "id": 156,
+      "start": 49851.264299999995,
+      "end": 50189.732299999996,
+      "title": "Proven Guilty 157"
+    },
+    {
+      "id": 157,
+      "start": 50189.732299999996,
+      "end": 50601.4108,
+      "title": "Proven Guilty 158"
+    },
+    {
+      "id": 158,
+      "start": 50601.4108,
+      "end": 50888.983799999995,
+      "title": "Proven Guilty 159"
+    },
+    {
+      "id": 159,
+      "start": 50888.983799999995,
+      "end": 51104.077099999995,
+      "title": "Proven Guilty 160"
+    },
+    {
+      "id": 160,
+      "start": 51104.077099999995,
+      "end": 51311.1055,
+      "title": "Proven Guilty 161"
+    },
+    {
+      "id": 161,
+      "start": 51311.1055,
+      "end": 51586.5159,
+      "title": "Proven Guilty 162"
+    },
+    {
+      "id": 162,
+      "start": 51586.5159,
+      "end": 51972.6686,
+      "title": "Proven Guilty 163"
+    },
+    {
+      "id": 163,
+      "start": 51972.6686,
+      "end": 52350.521499999995,
+      "title": "Proven Guilty 164"
+    },
+    {
+      "id": 164,
+      "start": 52350.521499999995,
+      "end": 52690.0335,
+      "title": "Proven Guilty 165"
+    },
+    {
+      "id": 165,
+      "start": 52690.0335,
+      "end": 53048.3114,
+      "title": "Proven Guilty 166"
+    },
+    {
+      "id": 166,
+      "start": 53048.3114,
+      "end": 53465.3926,
+      "title": "Proven Guilty 167"
+    },
+    {
+      "id": 167,
+      "start": 53465.3926,
+      "end": 53936.5008,
+      "title": "Proven Guilty 168"
+    },
+    {
+      "id": 168,
+      "start": 53936.5008,
+      "end": 54342.2024,
+      "title": "Proven Guilty 169"
+    },
+    {
+      "id": 169,
+      "start": 54342.2024,
+      "end": 54559.227100000004,
+      "title": "Proven Guilty 170"
+    },
+    {
+      "id": 170,
+      "start": 54559.227100000004,
+      "end": 54800.0811,
+      "title": "Proven Guilty 171"
+    },
+    {
+      "id": 171,
+      "start": 54800.0811,
+      "end": 55125.2381,
+      "title": "Proven Guilty 172"
+    },
+    {
+      "id": 172,
+      "start": 55125.2381,
+      "end": 55503.8479,
+      "title": "Proven Guilty 173"
+    },
+    {
+      "id": 173,
+      "start": 55503.8479,
+      "end": 55858.0281,
+      "title": "Proven Guilty 174"
+    },
+    {
+      "id": 174,
+      "start": 55858.0281,
+      "end": 56234.7326,
+      "title": "Proven Guilty 175"
+    },
+    {
+      "id": 175,
+      "start": 56234.7326,
+      "end": 56629.3678,
+      "title": "Proven Guilty 176"
+    },
+    {
+      "id": 176,
+      "start": 56629.3678,
+      "end": 56980.3377,
+      "title": "Proven Guilty 177"
+    },
+    {
+      "id": 177,
+      "start": 56980.3377,
+      "end": 57372.2846,
+      "title": "Proven Guilty 178"
+    },
+    {
+      "id": 178,
+      "start": 57372.2846,
+      "end": 57791.506,
+      "title": "Proven Guilty 179"
+    },
+    {
+      "id": 179,
+      "start": 57791.506,
+      "end": 58210.5447,
+      "title": "Proven Guilty 180"
+    },
+    {
+      "id": 180,
+      "start": 58210.5447,
+      "end": 58524.374299999996,
+      "title": "Proven Guilty 181"
+    }
+  ],
+  "title": "The Dresden Files 08.0 - Proven Guilty",
+  "subtitle": null,
+  "authors": [
+    "James Marsters"
+  ],
+  "narrators": [
+    "Jim Butcher"
+  ],
+  "series": [
+    "Jim Butcher - Dresden Files 22GB #8"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

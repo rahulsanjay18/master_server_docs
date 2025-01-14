@@ -1,0 +1,80 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4212.636735,
+      "title": "The Beginning Place 01"
+    },
+    {
+      "id": 1,
+      "start": 4212.636735,
+      "end": 7312.457143,
+      "title": "The Beginning Place 02"
+    },
+    {
+      "id": 2,
+      "start": 7312.457143,
+      "end": 9712.352653,
+      "title": "The Beginning Place 03"
+    },
+    {
+      "id": 3,
+      "start": 9712.352653,
+      "end": 14275.056326,
+      "title": "The Beginning Place 04"
+    },
+    {
+      "id": 4,
+      "start": 14275.056326,
+      "end": 16755.905306,
+      "title": "The Beginning Place 05"
+    },
+    {
+      "id": 5,
+      "start": 16755.905306,
+      "end": 19543.823673,
+      "title": "The Beginning Place 06"
+    },
+    {
+      "id": 6,
+      "start": 19543.823673,
+      "end": 22156.564897,
+      "title": "The Beginning Place 07"
+    },
+    {
+      "id": 7,
+      "start": 22156.564897,
+      "end": 24938.736326,
+      "title": "The Beginning Place 08"
+    },
+    {
+      "id": 8,
+      "start": 24938.736326,
+      "end": 26080.992652999998,
+      "title": "The Beginning Place 09"
+    }
+  ],
+  "title": "The Beginning Place",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "201mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1980",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Rob Inglis",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

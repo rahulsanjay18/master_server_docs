@@ -1,0 +1,38 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 28216.205378,
+      "title": "Skin Game 01"
+    },
+    {
+      "id": 1,
+      "start": 28216.205378,
+      "end": 57071.339634,
+      "title": "Skin Game 02"
+    }
+  ],
+  "title": "The Dresden Files 15.0 - Skin Game",
+  "subtitle": null,
+  "authors": [
+    "James Marsters"
+  ],
+  "narrators": [
+    "Jim Butcher"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2014-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

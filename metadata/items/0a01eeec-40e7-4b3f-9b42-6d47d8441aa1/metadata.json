@@ -1,0 +1,90 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3588.352,
+      "title": "Ringworld - Part 01"
+    },
+    {
+      "id": 1,
+      "start": 3588.352,
+      "end": 6868.04,
+      "title": "Ringworld - Part 02"
+    },
+    {
+      "id": 2,
+      "start": 6868.04,
+      "end": 10159.752,
+      "title": "Ringworld - Part 03"
+    },
+    {
+      "id": 3,
+      "start": 10159.752,
+      "end": 13610.728000000001,
+      "title": "Ringworld - Part 04"
+    },
+    {
+      "id": 4,
+      "start": 13610.728000000001,
+      "end": 17373.536,
+      "title": "Ringworld - Part 05"
+    },
+    {
+      "id": 5,
+      "start": 17373.536,
+      "end": 20649.264,
+      "title": "Ringworld - Part 06"
+    },
+    {
+      "id": 6,
+      "start": 20649.264,
+      "end": 25364.956,
+      "title": "Ringworld - Part 07"
+    },
+    {
+      "id": 7,
+      "start": 25364.956,
+      "end": 28881.343999999997,
+      "title": "Ringworld - Part 08"
+    },
+    {
+      "id": 8,
+      "start": 28881.343999999997,
+      "end": 33427.259999999995,
+      "title": "Ringworld - Part 09"
+    },
+    {
+      "id": 9,
+      "start": 33427.259999999995,
+      "end": 37104.31599999999,
+      "title": "Ringworld - Part 10"
+    },
+    {
+      "id": 10,
+      "start": 37104.31599999999,
+      "end": 40526.13199999999,
+      "title": "Ringworld - Part 11"
+    }
+  ],
+  "title": "Ringworld",
+  "subtitle": null,
+  "authors": [
+    "Larry Niven"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Science Fiction"
+  ],
+  "publishedYear": "1971",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "<p>A modern science-fiction classic, <I>Ringworld</I> won the Hugo and Nebula Awards for best novel in 1970. <p> \"I myself have dreamed up an intermediate step between Dyson Spheres and planets. build a ring 93 million miles in radius one Earth orbit which would make it 600 million miles long. If we have the mass of Jupiter to work with, and if we make it a million miles wide, we get a thickness of about a thousand meters. The Ringworld would thus be much sturdier than a Dyson sphere. <p> \"There are other advantages. We can spin it for gravity. A rotation on its axis of 770 miles/second would give the Ringworld one gravity outward. We wouldn't even have to roof it over. Put walls a thousand miles high at each rim, aimed at the sun, and very little of the air will leak over the edges.\" -Larry Niven",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

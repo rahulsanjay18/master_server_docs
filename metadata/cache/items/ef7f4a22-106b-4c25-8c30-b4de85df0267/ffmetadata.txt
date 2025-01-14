@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Warning: Contains Language (Disk 1)
+artist=Neil Gaiman
+album_artist=Neil Gaiman
+album=Warning: Contains Language (Disk 1)
+genre=Spoken Word
+TRACKTOTAL=6
+grouping=1995 - Warning Contains Language

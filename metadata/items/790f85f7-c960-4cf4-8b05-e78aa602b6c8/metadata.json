@@ -1,0 +1,472 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 13.511,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 13.511,
+      "end": 520.218,
+      "title": "Episode 1: The Mission"
+    },
+    {
+      "id": 2,
+      "start": 520.218,
+      "end": 1041.529,
+      "title": "Episode 2: Never Stop Moving"
+    },
+    {
+      "id": 3,
+      "start": 1041.529,
+      "end": 1530.262,
+      "title": "Episode 3: The Demon King"
+    },
+    {
+      "id": 4,
+      "start": 1530.262,
+      "end": 2050.83,
+      "title": "Episode 4: Returning to the Beginning"
+    },
+    {
+      "id": 5,
+      "start": 2050.83,
+      "end": 2526.258,
+      "title": "Episode 5: The Start of the Plan"
+    },
+    {
+      "id": 6,
+      "start": 2526.258,
+      "end": 3015.084,
+      "title": "Episode 6: Time Is Limited"
+    },
+    {
+      "id": 7,
+      "start": 3015.084,
+      "end": 3509.274,
+      "title": "Episode 7: A Happy Accident"
+    },
+    {
+      "id": 8,
+      "start": 3509.274,
+      "end": 4001.119,
+      "title": "Episode 8: The Party"
+    },
+    {
+      "id": 9,
+      "start": 4001.119,
+      "end": 4397.483,
+      "title": "Episode 9: The Second Meeting"
+    },
+    {
+      "id": 10,
+      "start": 4397.483,
+      "end": 4827.145,
+      "title": "Episode 10: No Time to Dance"
+    },
+    {
+      "id": 11,
+      "start": 4827.145,
+      "end": 5334.384,
+      "title": "Episode 11: All According to Plan"
+    },
+    {
+      "id": 12,
+      "start": 5334.384,
+      "end": 5803.752,
+      "title": "Episode 12: Preparing to Leave"
+    },
+    {
+      "id": 13,
+      "start": 5803.752,
+      "end": 6310.272,
+      "title": "Episode 13: Earning Her Trust"
+    },
+    {
+      "id": 14,
+      "start": 6310.272,
+      "end": 6815.306,
+      "title": "Episode 14: The Important Questions"
+    },
+    {
+      "id": 15,
+      "start": 6815.306,
+      "end": 7403.722,
+      "title": "Episode 15: The Hard Choices"
+    },
+    {
+      "id": 16,
+      "start": 7403.722,
+      "end": 7950.296,
+      "title": "Episode 16: The Last Option"
+    },
+    {
+      "id": 17,
+      "start": 7950.296,
+      "end": 8397.674,
+      "title": "Episode 17: Distraction of Dalion"
+    },
+    {
+      "id": 18,
+      "start": 8397.674,
+      "end": 8947.499,
+      "title": "Episode 18: His Persona"
+    },
+    {
+      "id": 19,
+      "start": 8947.499,
+      "end": 9432.587,
+      "title": "Episode 19: Huge Misunderstanding"
+    },
+    {
+      "id": 20,
+      "start": 9432.587,
+      "end": 9912.845,
+      "title": "Episode 20: Welcome to Fateir"
+    },
+    {
+      "id": 21,
+      "start": 9912.845,
+      "end": 10411.145,
+      "title": "Episode 21: The Land Beyond"
+    },
+    {
+      "id": 22,
+      "start": 10411.145,
+      "end": 10910.025,
+      "title": "Episode 22: The Golden Guard"
+    },
+    {
+      "id": 23,
+      "start": 10910.025,
+      "end": 11361.885,
+      "title": "Episode 23: A Sister's Conviction"
+    },
+    {
+      "id": 24,
+      "start": 11361.885,
+      "end": 11856.005,
+      "title": "Episode 24: Clearing Things Up"
+    },
+    {
+      "id": 25,
+      "start": 11856.005,
+      "end": 12383.399,
+      "title": "Episode 25: In It for the Money"
+    },
+    {
+      "id": 26,
+      "start": 12383.399,
+      "end": 12833.982,
+      "title": "Episode 26: Sneaking In"
+    },
+    {
+      "id": 27,
+      "start": 12833.982,
+      "end": 13353.691,
+      "title": "Episode 27: Old Friends"
+    },
+    {
+      "id": 28,
+      "start": 13353.691,
+      "end": 13862.486,
+      "title": "Episode 28: Spicy Flake Soup"
+    },
+    {
+      "id": 29,
+      "start": 13862.486,
+      "end": 14455.988,
+      "title": "Episode 29: Stage Fright"
+    },
+    {
+      "id": 30,
+      "start": 14455.988,
+      "end": 14975.418,
+      "title": "Episode 30: The Seed"
+    },
+    {
+      "id": 31,
+      "start": 14975.418,
+      "end": 15490.947,
+      "title": "Episode 31: Their Curiosity"
+    },
+    {
+      "id": 32,
+      "start": 15490.947,
+      "end": 15931.15,
+      "title": "Episode 32: Crushing Guilt"
+    },
+    {
+      "id": 33,
+      "start": 15931.15,
+      "end": 16412.221,
+      "title": "Episode 33: Sudden Motherhood"
+    },
+    {
+      "id": 34,
+      "start": 16412.221,
+      "end": 16989.167,
+      "title": "Episode 34: Causing a Ruckus"
+    },
+    {
+      "id": 35,
+      "start": 16989.167,
+      "end": 17462.621,
+      "title": "Episode 35: Bitter Victory"
+    },
+    {
+      "id": 36,
+      "start": 17462.621,
+      "end": 17887.731,
+      "title": "Episode 36: Impressed or Concerned"
+    },
+    {
+      "id": 37,
+      "start": 17887.731,
+      "end": 18419.839,
+      "title": "Episode 37: Contagious Laughter"
+    },
+    {
+      "id": 38,
+      "start": 18419.839,
+      "end": 18899.911,
+      "title": "Episode 38: Intruding Thoughts"
+    },
+    {
+      "id": 39,
+      "start": 18899.911,
+      "end": 19453.915,
+      "title": "Episode 39: Fleeing Memories"
+    },
+    {
+      "id": 40,
+      "start": 19453.915,
+      "end": 19957.788,
+      "title": "Episode 40: Attack of the Bees"
+    },
+    {
+      "id": 41,
+      "start": 19957.788,
+      "end": 20378.672,
+      "title": "Episode 41: Tired of Death"
+    },
+    {
+      "id": 42,
+      "start": 20378.672,
+      "end": 20882.428,
+      "title": "Episode 42: Growing Irritation"
+    },
+    {
+      "id": 43,
+      "start": 20882.428,
+      "end": 21387.229,
+      "title": "Episode 43: Kings & Cookies"
+    },
+    {
+      "id": 44,
+      "start": 21387.229,
+      "end": 21851.72,
+      "title": "Episode 44: Hand in the Cookie Jar"
+    },
+    {
+      "id": 45,
+      "start": 21851.72,
+      "end": 22300.979,
+      "title": "Episode 45: We All Have Fears"
+    },
+    {
+      "id": 46,
+      "start": 22300.979,
+      "end": 22818.876,
+      "title": "Episode 46: Damp Pillow"
+    },
+    {
+      "id": 47,
+      "start": 22818.876,
+      "end": 23273.778,
+      "title": "Episode 47: The Only Reason"
+    },
+    {
+      "id": 48,
+      "start": 23273.778,
+      "end": 23666.775,
+      "title": "Episode 48: Free Will"
+    },
+    {
+      "id": 49,
+      "start": 23666.775,
+      "end": 24114.804,
+      "title": "Episode 49: A River Date"
+    },
+    {
+      "id": 50,
+      "start": 24114.804,
+      "end": 24543.026,
+      "title": "Episode 50: Overwhelming"
+    },
+    {
+      "id": 51,
+      "start": 24543.026,
+      "end": 25073.044,
+      "title": "Episode 51: The Shrines"
+    },
+    {
+      "id": 52,
+      "start": 25073.044,
+      "end": 25428.82,
+      "title": "Episode 52: Oblivious Fool"
+    },
+    {
+      "id": 53,
+      "start": 25428.82,
+      "end": 25938.335,
+      "title": "Episode 53: The Treaty"
+    },
+    {
+      "id": 54,
+      "start": 25938.335,
+      "end": 26479.174,
+      "title": "Episode 54: The Demon's End"
+    },
+    {
+      "id": 55,
+      "start": 26479.174,
+      "end": 26919.494,
+      "title": "Episode 55: Unknowing Explanations"
+    },
+    {
+      "id": 56,
+      "start": 26919.494,
+      "end": 27351.872,
+      "title": "Episode 56: The Seed of Doubt"
+    },
+    {
+      "id": 57,
+      "start": 27351.872,
+      "end": 27740.457,
+      "title": "Episode 57: Dimwitted, Naive, and Cowardly"
+    },
+    {
+      "id": 58,
+      "start": 27740.457,
+      "end": 28178.083,
+      "title": "Episode 58: Eavesdropping"
+    },
+    {
+      "id": 59,
+      "start": 28178.083,
+      "end": 28756.12,
+      "title": "Episode 59: Disappointment"
+    },
+    {
+      "id": 60,
+      "start": 28756.12,
+      "end": 29179.768,
+      "title": "Episode 60: Your Words or His?"
+    },
+    {
+      "id": 61,
+      "start": 29179.768,
+      "end": 29633.067,
+      "title": "Episode 61: Survival"
+    },
+    {
+      "id": 62,
+      "start": 29633.067,
+      "end": 30190.113,
+      "title": "Episode 62: The Demon King's Return"
+    },
+    {
+      "id": 63,
+      "start": 30190.113,
+      "end": 30702.113,
+      "title": "Episode 63: Healing"
+    },
+    {
+      "id": 64,
+      "start": 30702.113,
+      "end": 31234.894,
+      "title": "Episode 64: Blaming Yourself"
+    },
+    {
+      "id": 65,
+      "start": 31234.894,
+      "end": 31788.318,
+      "title": "Episode 65: Interrogation"
+    },
+    {
+      "id": 66,
+      "start": 31788.318,
+      "end": 32189.349,
+      "title": "Episode 66: Growing Suspicions"
+    },
+    {
+      "id": 67,
+      "start": 32189.349,
+      "end": 32630.713,
+      "title": "Episode 67: Breakfast from a King"
+    },
+    {
+      "id": 68,
+      "start": 32630.713,
+      "end": 33071.009,
+      "title": "Episode 68: Jittery Farm Girl"
+    },
+    {
+      "id": 69,
+      "start": 33071.009,
+      "end": 33557.606,
+      "title": "Episode 69: Babying"
+    },
+    {
+      "id": 70,
+      "start": 33557.606,
+      "end": 34013.181,
+      "title": "Episode 70: Pain Is Pain"
+    },
+    {
+      "id": 71,
+      "start": 34013.181,
+      "end": 34472.146,
+      "title": "Episode 71: Against the Treaty"
+    },
+    {
+      "id": 72,
+      "start": 34472.146,
+      "end": 34844.57,
+      "title": "Episode 72: A New Hurdle"
+    },
+    {
+      "id": 73,
+      "start": 34844.57,
+      "end": 34870.148,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Save the Demon King, Vol. 01",
+  "subtitle": null,
+  "authors": [
+    "Catherine Ho"
+  ],
+  "narrators": [
+    "Sarah Roberts"
+  ],
+  "series": [
+    "Save the Demon King #01"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "May 06, 2021 (07-25-22)",
+  "publishedDate": null,
+  "publisher": "Recorded Books",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

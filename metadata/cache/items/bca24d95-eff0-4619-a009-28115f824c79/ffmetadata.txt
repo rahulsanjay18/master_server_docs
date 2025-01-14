@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Propaganda And Control Of The Public Mind
+artist=Noam Chomsky
+album_artist=Noam Chomsky
+album=Propaganda And Control Of The Public Mind
+genre=Comedy\; Spoken Word
+date=1998
+composer=Noam Chomsky/Noam Chomsky
+copyright=AK Press
+publisher=AK Press
+TRACKTOTAL=36

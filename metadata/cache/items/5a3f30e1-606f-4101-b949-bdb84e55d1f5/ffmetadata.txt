@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=A Song for a New Day
+artist=Sarah Pinsker
+album_artist=Sarah Pinsker
+album=A Song for a New Day
+genre=Fantasy\; Fiction\; Literature\; Science Fiction
+date=2020
+copyright=Books on Tape
+publisher=Books on Tape
+TRACKTOTAL=41

@@ -1,0 +1,206 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1533.708,
+      "title": "01: In the Provinces 01"
+    },
+    {
+      "id": 1,
+      "start": 1533.708,
+      "end": 3171.0240000000003,
+      "title": "02: In the Provinces 02"
+    },
+    {
+      "id": 2,
+      "start": 3171.0240000000003,
+      "end": 5217.372,
+      "title": "03: In the Provinces 03"
+    },
+    {
+      "id": 3,
+      "start": 5217.372,
+      "end": 7066.548000000001,
+      "title": "04: In the Provinces 04"
+    },
+    {
+      "id": 4,
+      "start": 7066.548000000001,
+      "end": 9187.704000000002,
+      "title": "05: In the Provinces 05"
+    },
+    {
+      "id": 5,
+      "start": 9187.704000000002,
+      "end": 11320.668000000001,
+      "title": "06: Exiles 01"
+    },
+    {
+      "id": 6,
+      "start": 11320.668000000001,
+      "end": 13781.232000000002,
+      "title": "07: Exiles 02"
+    },
+    {
+      "id": 7,
+      "start": 13781.232000000002,
+      "end": 15886.224000000002,
+      "title": "08: Exiles 03"
+    },
+    {
+      "id": 8,
+      "start": 15886.224000000002,
+      "end": 18386.712000000003,
+      "title": "09: Exiles 04"
+    },
+    {
+      "id": 9,
+      "start": 18386.712000000003,
+      "end": 21513.24,
+      "title": "10: Choices 01"
+    },
+    {
+      "id": 10,
+      "start": 21513.24,
+      "end": 23665.824,
+      "title": "11: Choices 02"
+    },
+    {
+      "id": 11,
+      "start": 23665.824,
+      "end": 24986.7,
+      "title": "12: Choices 03"
+    },
+    {
+      "id": 12,
+      "start": 24986.7,
+      "end": 27091.98,
+      "title": "13: Choices 04"
+    },
+    {
+      "id": 13,
+      "start": 27091.98,
+      "end": 29114.316,
+      "title": "14: Choices 05"
+    },
+    {
+      "id": 14,
+      "start": 29114.316,
+      "end": 31001.76,
+      "title": "15: The Way to Radiko 01"
+    },
+    {
+      "id": 15,
+      "start": 31001.76,
+      "end": 32734.584,
+      "title": "16: The Way to Radiko 02"
+    },
+    {
+      "id": 16,
+      "start": 32734.584,
+      "end": 33943.392,
+      "title": "17: The Way to Radiko 03"
+    },
+    {
+      "id": 17,
+      "start": 33943.392,
+      "end": 35620.02,
+      "title": "18: Prisons 01"
+    },
+    {
+      "id": 18,
+      "start": 35620.02,
+      "end": 38088.50399999999,
+      "title": "19: Prisons 02"
+    },
+    {
+      "id": 19,
+      "start": 38088.50399999999,
+      "end": 40750.30799999999,
+      "title": "20: Prisons 03"
+    },
+    {
+      "id": 20,
+      "start": 40750.30799999999,
+      "end": 43235.89199999999,
+      "title": "21: Prisons 04"
+    },
+    {
+      "id": 21,
+      "start": 43235.89199999999,
+      "end": 46177.63199999999,
+      "title": "22: Prisons 05"
+    },
+    {
+      "id": 22,
+      "start": 46177.63199999999,
+      "end": 48326.97599999999,
+      "title": "23: The Necessary Passion 01"
+    },
+    {
+      "id": 23,
+      "start": 48326.97599999999,
+      "end": 50347.07999999999,
+      "title": "24: The Necessary Passion 02"
+    },
+    {
+      "id": 24,
+      "start": 50347.07999999999,
+      "end": 53292.563999999984,
+      "title": "25: The Necessary Passion 03"
+    },
+    {
+      "id": 25,
+      "start": 53292.563999999984,
+      "end": 56581.81199999998,
+      "title": "26: The Necessary Passion 04"
+    },
+    {
+      "id": 26,
+      "start": 56581.81199999998,
+      "end": 57455.675999999985,
+      "title": "27: The Necessary Passion 05"
+    },
+    {
+      "id": 27,
+      "start": 57455.675999999985,
+      "end": 59585.25599999999,
+      "title": "28: Malafrena 01"
+    },
+    {
+      "id": 28,
+      "start": 59585.25599999999,
+      "end": 62235.503999999986,
+      "title": "29: Malafrena 02"
+    },
+    {
+      "id": 29,
+      "start": 62235.503999999986,
+      "end": 63610.23599999999,
+      "title": "30: Malafrena 03"
+    }
+  ],
+  "title": "Malafrena",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "429mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1979",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Robert Gladwell",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

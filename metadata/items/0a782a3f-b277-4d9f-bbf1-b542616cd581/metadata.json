@@ -1,0 +1,290 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 19.696327,
+      "title": "Start Voulme One"
+    },
+    {
+      "id": 1,
+      "start": 19.696327,
+      "end": 618.057143,
+      "title": "Introduction: Where on Earth"
+    },
+    {
+      "id": 2,
+      "start": 618.057143,
+      "end": 5964.460408,
+      "title": "Brothers and Sisters"
+    },
+    {
+      "id": 3,
+      "start": 5964.460408,
+      "end": 9476.231837,
+      "title": "A Week in the Country"
+    },
+    {
+      "id": 4,
+      "start": 9476.231837,
+      "end": 11404.956735,
+      "title": "Unlocking the Air"
+    },
+    {
+      "id": 5,
+      "start": 11404.956735,
+      "end": 12836.937143,
+      "title": "Imaginary Countries"
+    },
+    {
+      "id": 6,
+      "start": 12836.937143,
+      "end": 16412.891429,
+      "title": "The Diary of the Rose"
+    },
+    {
+      "id": 7,
+      "start": 16412.891429,
+      "end": 17512.907756,
+      "title": "Direction of the Road"
+    },
+    {
+      "id": 8,
+      "start": 17512.907756,
+      "end": 17899.311021,
+      "title": "The White Donkey"
+    },
+    {
+      "id": 9,
+      "start": 17899.311021,
+      "end": 18866.808164000002,
+      "title": "Gwilan's Harp"
+    },
+    {
+      "id": 10,
+      "start": 18866.808164000002,
+      "end": 20085.472654,
+      "title": "May's Lion"
+    },
+    {
+      "id": 11,
+      "start": 20085.472654,
+      "end": 24701.413878,
+      "title": "Buffalo Gals, Won't You Come Out Tonight"
+    },
+    {
+      "id": 12,
+      "start": 24701.413878,
+      "end": 25371.768164,
+      "title": "Horse Camp"
+    },
+    {
+      "id": 13,
+      "start": 25371.768164,
+      "end": 26928.039184,
+      "title": "The Water Is Wide"
+    },
+    {
+      "id": 14,
+      "start": 26928.039184,
+      "end": 27191.353470000002,
+      "title": "The Lost Children"
+    },
+    {
+      "id": 15,
+      "start": 27191.353470000002,
+      "end": 27594.44898,
+      "title": "Texts"
+    },
+    {
+      "id": 16,
+      "start": 27594.44898,
+      "end": 29013.655511,
+      "title": "Sleepwalkers"
+    },
+    {
+      "id": 17,
+      "start": 29013.655511,
+      "end": 32749.844899,
+      "title": "Hand, Cup, Shell"
+    },
+    {
+      "id": 18,
+      "start": 32749.844899,
+      "end": 37109.498777,
+      "title": "Ether, OR"
+    },
+    {
+      "id": 19,
+      "start": 37109.498777,
+      "end": 42228.088165,
+      "title": "Half Past Four"
+    },
+    {
+      "id": 20,
+      "start": 42228.088165,
+      "end": 42305.933063000004,
+      "title": "End Volume One"
+    },
+    {
+      "id": 21,
+      "start": 42305.933063000004,
+      "end": 42326.726532,
+      "title": "Start Volume Two"
+    },
+    {
+      "id": 22,
+      "start": 42326.726532,
+      "end": 42895.804083,
+      "title": "Introduction: Outer Space, Inner Lands"
+    },
+    {
+      "id": 23,
+      "start": 42895.804083,
+      "end": 44046.654695000005,
+      "title": "The Ones Who Walk Away from Omelas"
+    },
+    {
+      "id": 24,
+      "start": 44046.654695000005,
+      "end": 47079.91510300001,
+      "title": "Semley's Necklace"
+    },
+    {
+      "id": 25,
+      "start": 47079.91510300001,
+      "end": 51239.36653200001,
+      "title": "Nine Lives"
+    },
+    {
+      "id": 26,
+      "start": 51239.36653200001,
+      "end": 52047.07265400001,
+      "title": "Mazes"
+    },
+    {
+      "id": 27,
+      "start": 52047.07265400001,
+      "end": 53103.25551100001,
+      "title": "The First Contact with the Gorgonids"
+    },
+    {
+      "id": 28,
+      "start": 53103.25551100001,
+      "end": 57357.505307000014,
+      "title": "The Shobies' Story"
+    },
+    {
+      "id": 29,
+      "start": 57357.505307000014,
+      "end": 62623.97387800001,
+      "title": "Betrayals"
+    },
+    {
+      "id": 30,
+      "start": 62623.97387800001,
+      "end": 69044.16653100001,
+      "title": "The Matter of Seggri"
+    },
+    {
+      "id": 31,
+      "start": 69044.16653100001,
+      "end": 73822.85061300002,
+      "title": "Solitude"
+    },
+    {
+      "id": 32,
+      "start": 73822.85061300002,
+      "end": 78896.66612300002,
+      "title": "The Wild Girls"
+    },
+    {
+      "id": 33,
+      "start": 78896.66612300002,
+      "end": 81017.73061300002,
+      "title": "The Fliers of Gy"
+    },
+    {
+      "id": 34,
+      "start": 81017.73061300002,
+      "end": 82016.73142900002,
+      "title": "The Silence of the Asonu"
+    },
+    {
+      "id": 35,
+      "start": 82016.73142900002,
+      "end": 82428.63020500002,
+      "title": "The Ascent of the North Face"
+    },
+    {
+      "id": 36,
+      "start": 82428.63020500002,
+      "end": 83599.02040900002,
+      "title": "The Author of the Acacia Seeds and Other Extracts from the Journal of the Association of Therolinguistic"
+    },
+    {
+      "id": 37,
+      "start": 83599.02040900002,
+      "end": 84338.18122500002,
+      "title": "The Wife's Story"
+    },
+    {
+      "id": 38,
+      "start": 84338.18122500002,
+      "end": 86003.25224500003,
+      "title": "The Rule of Names"
+    },
+    {
+      "id": 39,
+      "start": 86003.25224500003,
+      "end": 86985.32571400002,
+      "title": "Small Change"
+    },
+    {
+      "id": 40,
+      "start": 86985.32571400002,
+      "end": 89405.41387700001,
+      "title": "The Poacher"
+    },
+    {
+      "id": 41,
+      "start": 89405.41387700001,
+      "end": 91929.39102000001,
+      "title": "Sur"
+    },
+    {
+      "id": 42,
+      "start": 91929.39102000001,
+      "end": 92328.202449,
+      "title": "She Unnames Them"
+    },
+    {
+      "id": 43,
+      "start": 92328.202449,
+      "end": 92450.142041,
+      "title": "End Volume Two"
+    }
+  ],
+  "title": "The Unreal and the Real: The Selected Short Stories of Ursula K. Le Guin",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "715mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "2012",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Tandy Cronyn",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

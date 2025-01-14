@@ -1,0 +1,192 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 49.946122,
+      "title": "01 - Intro"
+    },
+    {
+      "id": 1,
+      "start": 49.946122,
+      "end": 105.874285,
+      "title": "02 - Epigraphs"
+    },
+    {
+      "id": 2,
+      "start": 105.874285,
+      "end": 731.898775,
+      "title": "03 - Prelude"
+    },
+    {
+      "id": 3,
+      "start": 731.898775,
+      "end": 3460.3624480000003,
+      "title": "04 - Chapter One"
+    },
+    {
+      "id": 4,
+      "start": 3460.3624480000003,
+      "end": 5844.793468,
+      "title": "05 - Chapter Two"
+    },
+    {
+      "id": 5,
+      "start": 5844.793468,
+      "end": 8257.93306,
+      "title": "06 - Chapter Three"
+    },
+    {
+      "id": 6,
+      "start": 8257.93306,
+      "end": 11346.808162,
+      "title": "07 - Chapter Four"
+    },
+    {
+      "id": 7,
+      "start": 11346.808162,
+      "end": 14849.462855999998,
+      "title": "08 - Chapter Five"
+    },
+    {
+      "id": 8,
+      "start": 14849.462855999998,
+      "end": 18004.897957999998,
+      "title": "09 - Chapter Six"
+    },
+    {
+      "id": 9,
+      "start": 18004.897957999998,
+      "end": 18423.013875999997,
+      "title": "10 - Interlude"
+    },
+    {
+      "id": 10,
+      "start": 18423.013875999997,
+      "end": 21593.443263999998,
+      "title": "11 - Chapter Seven"
+    },
+    {
+      "id": 11,
+      "start": 21593.443263999998,
+      "end": 23501.217957999997,
+      "title": "12 - Chapter Eight"
+    },
+    {
+      "id": 12,
+      "start": 23501.217957999997,
+      "end": 26768.143672,
+      "title": "13 - Chapter Nine"
+    },
+    {
+      "id": 13,
+      "start": 26768.143672,
+      "end": 29384.359182,
+      "title": "14 - Chapter Ten"
+    },
+    {
+      "id": 14,
+      "start": 29384.359182,
+      "end": 29769.168978,
+      "title": "15 - Interlude"
+    },
+    {
+      "id": 15,
+      "start": 29769.168978,
+      "end": 31997.518366,
+      "title": "16 - Chapter Eleven"
+    },
+    {
+      "id": 16,
+      "start": 31997.518366,
+      "end": 35132.055509,
+      "title": "17 - Chapter Twelve"
+    },
+    {
+      "id": 17,
+      "start": 35132.055509,
+      "end": 37286.974693,
+      "title": "18 - Chapter Thirteen"
+    },
+    {
+      "id": 18,
+      "start": 37286.974693,
+      "end": 39629.55755,
+      "title": "19 - Chapter Fourteen"
+    },
+    {
+      "id": 19,
+      "start": 39629.55755,
+      "end": 41863.418774,
+      "title": "20 - Chapter Fifteen"
+    },
+    {
+      "id": 20,
+      "start": 41863.418774,
+      "end": 43609.991835,
+      "title": "21 - Chapter Sixteen"
+    },
+    {
+      "id": 21,
+      "start": 43609.991835,
+      "end": 43897.652243000004,
+      "title": "22 - Interlude"
+    },
+    {
+      "id": 22,
+      "start": 43897.652243000004,
+      "end": 46101.577141,
+      "title": "23 - Chapter Seventeen"
+    },
+    {
+      "id": 23,
+      "start": 46101.577141,
+      "end": 49364.688978,
+      "title": "24 - Chapter Eighteen"
+    },
+    {
+      "id": 24,
+      "start": 49364.688978,
+      "end": 51768.346120999995,
+      "title": "25 - Chapter Nineteen"
+    },
+    {
+      "id": 25,
+      "start": 51768.346120999995,
+      "end": 53908.81958999999,
+      "title": "26 - Chapter Twenty"
+    },
+    {
+      "id": 26,
+      "start": 53908.81958999999,
+      "end": 55446.569793999995,
+      "title": "27 - Chapter Twenty-One"
+    },
+    {
+      "id": 27,
+      "start": 55446.569793999995,
+      "end": 56222.093059,
+      "title": "28 - Aftermath"
+    }
+  ],
+  "title": "A Memory Called Empire: Teixcalaan, Book 1",
+  "subtitle": null,
+  "authors": [
+    "Arkady Martine"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "SF"
+  ],
+  "publishedYear": "2019-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "Ambassador Mahit Dzmare arrives in the center of the multi-system Teixcalaanli Empire only to discover that her predecessor, the previous ambassador from their small but fiercely independent mining station, has died. But no one will admit that his death wasn't an accident - or that Mahit might be next to die, during a time of political instability in the highest echelons of the imperial court. Now, Mahit must discover who is behind the murder, rescue herself, and save her station from Teixcalaan's unceasing expansion.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

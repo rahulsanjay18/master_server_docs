@@ -1,0 +1,417 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 12.294,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 12.434286,
+      "end": 31.505286,
+      "title": "Preface",
+      "id": 1
+    },
+    {
+      "start": 31.505286,
+      "end": 31.648286,
+      "title": "Chapter 01 - The Village of Saltus",
+      "id": 2
+    },
+    {
+      "start": 31.686531,
+      "end": 1030.448531,
+      "title": "Chapter 01 - The Village of Saltus",
+      "id": 3
+    },
+    {
+      "start": 1030.448531,
+      "end": 1030.566531,
+      "title": "Chapter 02 - The Man in the Dark",
+      "id": 4
+    },
+    {
+      "start": 1030.60898,
+      "end": 2067.56398,
+      "title": "Chapter 02 - The Man in the Dark",
+      "id": 5
+    },
+    {
+      "start": 2067.56398,
+      "end": 2067.69898,
+      "title": "Chapter 03 - The Showman's Tent",
+      "id": 6
+    },
+    {
+      "start": 2067.748572,
+      "end": 3270.6155719999997,
+      "title": "Chapter 03 - The Showman's Tent",
+      "id": 7
+    },
+    {
+      "start": 3270.6155719999997,
+      "end": 3270.748572,
+      "title": "Chapter 04 - The Bouquet",
+      "id": 8
+    },
+    {
+      "start": 3270.7918369999998,
+      "end": 4748.190837,
+      "title": "Chapter 04 - The Bouquet",
+      "id": 9
+    },
+    {
+      "start": 4748.190837,
+      "end": 4748.511837,
+      "title": "Chapter 05 - The Bourne",
+      "id": 10
+    },
+    {
+      "start": 4748.538775999999,
+      "end": 5872.319775999999,
+      "title": "Chapter 05 - The Bourne",
+      "id": 11
+    },
+    {
+      "start": 5872.378776,
+      "end": 7117.575776,
+      "title": "Chapter 06 - Blue Light",
+      "id": 12
+    },
+    {
+      "start": 7117.688163999999,
+      "end": 8295.461163999998,
+      "title": "Chapter 07 - The Assassins",
+      "id": 13
+    },
+    {
+      "start": 8295.549388,
+      "end": 9466.646388,
+      "title": "Chapter 08 - The Cultellarii",
+      "id": 14
+    },
+    {
+      "start": 9466.77551,
+      "end": 10513.16951,
+      "title": "Chapter 09 - The Liege of Leaves",
+      "id": 15
+    },
+    {
+      "start": 10513.16951,
+      "end": 10513.415509999999,
+      "title": "Chapter 10 - Thea",
+      "id": 16
+    },
+    {
+      "start": 10513.449795999999,
+      "end": 11975.652795999998,
+      "title": "Chapter 10 - Thea",
+      "id": 17
+    },
+    {
+      "start": 11975.732245,
+      "end": 13316.286245,
+      "title": "Chapter 11 - Thecla",
+      "id": 18
+    },
+    {
+      "start": 13316.286245,
+      "end": 13316.602244999998,
+      "title": "Chapter 12 - The Notules",
+      "id": 19
+    },
+    {
+      "start": 13316.649796,
+      "end": 14276.455796,
+      "title": "Chapter 12 - The Notules",
+      "id": 20
+    },
+    {
+      "start": 14276.455796,
+      "end": 14276.716796,
+      "title": "Chapter 13 - The Claw of the Conciliator",
+      "id": 21
+    },
+    {
+      "start": 14276.754286,
+      "end": 15224.856286,
+      "title": "Chapter 13 - The Claw of the Conciliator",
+      "id": 22
+    },
+    {
+      "start": 15224.999184,
+      "end": 16305.163184000001,
+      "title": "Chapter 14 - The Antechamber",
+      "id": 23
+    },
+    {
+      "start": 16305.163184000001,
+      "end": 16305.349184,
+      "title": "Chapter 15 - Fool's Fire",
+      "id": 24
+    },
+    {
+      "start": 16305.397551,
+      "end": 17435.260551,
+      "title": "Chapter 15 - Fool's Fire",
+      "id": 25
+    },
+    {
+      "start": 17435.260551,
+      "end": 17435.397551000002,
+      "title": "Chapter 16 - Jonas",
+      "id": 26
+    },
+    {
+      "start": 17435.428571,
+      "end": 18772.343571,
+      "title": "Chapter 16 - Jonas",
+      "id": 27
+    },
+    {
+      "start": 18772.343571,
+      "end": 18772.498571,
+      "title": "Chapter 17 - The Tale of the Student and His Son",
+      "id": 28
+    },
+    {
+      "start": 18772.532244,
+      "end": 18779.229244000002,
+      "title": "Chapter 17 - The Tale of the Student and His Son",
+      "id": 29
+    },
+    {
+      "start": 18779.229244000002,
+      "end": 18779.372244000002,
+      "title": "Part 1 - The Redoubt of the Magicians",
+      "id": 30
+    },
+    {
+      "start": 18779.402448,
+      "end": 19081.205448,
+      "title": "Part 1 - The Redoubt of the Magicians",
+      "id": 31
+    },
+    {
+      "start": 19081.205448,
+      "end": 19081.415448,
+      "title": "Part 2 - The Fleshing of the Hero",
+      "id": 32
+    },
+    {
+      "start": 19081.456326,
+      "end": 19482.647326,
+      "title": "Part 2 - The Fleshing of the Hero",
+      "id": 33
+    },
+    {
+      "start": 19482.647326,
+      "end": 19482.976326,
+      "title": "Part 3 - The Encounter with the Princess",
+      "id": 34
+    },
+    {
+      "start": 19483.010612,
+      "end": 20008.767612,
+      "title": "Part 3 - The Encounter with the Princess",
+      "id": 35
+    },
+    {
+      "start": 20008.767612,
+      "end": 20009.090612,
+      "title": "Part 4 - The Battle with the Ogre",
+      "id": 36
+    },
+    {
+      "start": 20009.116734,
+      "end": 20797.934734,
+      "title": "Part 4 - The Battle with the Ogre",
+      "id": 37
+    },
+    {
+      "start": 20798.058816,
+      "end": 21160.611816,
+      "title": "Part 5 - The Death of the Student",
+      "id": 39
+    },
+    {
+      "start": 21160.611816,
+      "end": 21160.787816,
+      "title": "Chapter 18 - Mirrors",
+      "id": 40
+    },
+    {
+      "start": 21160.829387,
+      "end": 22506.103387000003,
+      "title": "Chapter 18 - Mirrors",
+      "id": 40
+    },
+    {
+      "start": 22506.187754000002,
+      "end": 23380.067754000003,
+      "title": "Chapter 19 - Closets",
+      "id": 41
+    },
+    {
+      "start": 23380.114285000003,
+      "end": 24526.789285000003,
+      "title": "Chapter 20 - Pictures",
+      "id": 42
+    },
+    {
+      "start": 24526.789285000003,
+      "end": 24527.034285,
+      "title": "Chapter 21 - Hydromancy",
+      "id": 43
+    },
+    {
+      "start": 24527.072652000003,
+      "end": 25695.484652000003,
+      "title": "Chapter 21 - Hydromancy",
+      "id": 44
+    },
+    {
+      "start": 25695.484652000003,
+      "end": 25695.592652000003,
+      "title": "Chapter 22 - Personifications",
+      "id": 45
+    },
+    {
+      "start": 25695.634285000004,
+      "end": 27089.154285000004,
+      "title": "Chapter 22 - Personifications",
+      "id": 46
+    },
+    {
+      "start": 27089.188571000002,
+      "end": 28132.689571000003,
+      "title": "Chapter 23 - Jolenta",
+      "id": 47
+    },
+    {
+      "start": 28132.689571000003,
+      "end": 28132.918571000002,
+      "title": "Chapter 24 - Dr. Talos's Play - Eschatology & Genesis",
+      "id": 48
+    },
+    {
+      "start": 28132.963265000002,
+      "end": 31461.275265000004,
+      "title": "Chapter 24 - Dr. Talos's Play - Eschatology & Genesis",
+      "id": 49
+    },
+    {
+      "start": 31461.367102,
+      "end": 32456.017102,
+      "title": "Chapter 25 - The Attack on the Hierodules",
+      "id": 51
+    },
+    {
+      "start": 32456.017102,
+      "end": 32456.222102,
+      "title": "Chapter 26 - Parting",
+      "id": 52
+    },
+    {
+      "start": 32456.254694000003,
+      "end": 33821.791694,
+      "title": "Chapter 26 - Parting",
+      "id": 52
+    },
+    {
+      "start": 33821.791694,
+      "end": 33821.944694000005,
+      "title": "Chapter 27 - Toward Thrax",
+      "id": 53
+    },
+    {
+      "start": 33821.988572,
+      "end": 34826.134572,
+      "title": "Chapter 27 - Toward Thrax",
+      "id": 54
+    },
+    {
+      "start": 34826.134572,
+      "end": 34826.398572000006,
+      "title": "Chapter 28 - The Odalisque of Abaia",
+      "id": 55
+    },
+    {
+      "start": 34826.44898,
+      "end": 35970.86898,
+      "title": "Chapter 28 - The Odalisque of Abaia",
+      "id": 56
+    },
+    {
+      "start": 35970.86898,
+      "end": 35971.01898,
+      "title": "Chapter 29 - The Herdsmen",
+      "id": 57
+    },
+    {
+      "start": 35971.056327,
+      "end": 37052.090327,
+      "title": "Chapter 29 - The Herdsmen",
+      "id": 58
+    },
+    {
+      "start": 37052.090327,
+      "end": 37052.336327,
+      "title": "Chapter 30 - The Badger Again",
+      "id": 59
+    },
+    {
+      "start": 37052.36898,
+      "end": 38209.96598,
+      "title": "Chapter 30 - The Badger Again",
+      "id": 60
+    },
+    {
+      "start": 38209.96598,
+      "end": 38210.17898,
+      "title": "Chapter 31 - The Cleansing",
+      "id": 61
+    },
+    {
+      "start": 38210.220409,
+      "end": 39845.795409,
+      "title": "Chapter 31 - The Cleansing",
+      "id": 62
+    },
+    {
+      "start": 39845.795409,
+      "end": 39845.930409,
+      "title": "End Credits",
+      "id": 63
+    },
+    {
+      "start": 39845.982042,
+      "end": 39880.640042000006,
+      "title": "End Credits",
+      "id": 64
+    }
+  ],
+  "title": "02 The Claw of the Conciliator",
+  "subtitle": null,
+  "authors": [
+    "Gene Wolfe"
+  ],
+  "narrators": [
+    "James Lailey"
+  ],
+  "series": [],
+  "genres": [
+    "Dystopian Fantasy",
+    "Sci-Fi"
+  ],
+  "publishedYear": "1981",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Unabridged",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

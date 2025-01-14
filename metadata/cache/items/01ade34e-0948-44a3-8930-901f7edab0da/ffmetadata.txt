@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Dresden Files 07.0 - Dead Beat
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 07.0 - Dead Beat
+genre=Audiobook
+comment=1
+description=1
+composer=Jim Butcher
+TRACKTOTAL=144
+grouping=Jim Butcher - Dresden Files 22GB \#7

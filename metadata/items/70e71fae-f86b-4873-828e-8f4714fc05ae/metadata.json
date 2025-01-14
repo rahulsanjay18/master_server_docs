@@ -1,0 +1,372 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 41.866984,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 41.866984,
+      "end": 666.825941,
+      "title": "Introduction "
+    },
+    {
+      "id": 2,
+      "start": 666.825941,
+      "end": 1798.847937,
+      "title": "Chapter One"
+    },
+    {
+      "id": 3,
+      "start": 1798.847937,
+      "end": 5092.922902,
+      "title": "Chapter Two"
+    },
+    {
+      "id": 4,
+      "start": 5092.922902,
+      "end": 8464.970884,
+      "title": "Chapter Three"
+    },
+    {
+      "id": 5,
+      "start": 8464.970884,
+      "end": 12181.277868,
+      "title": "Chapter Four"
+    },
+    {
+      "id": 6,
+      "start": 12181.277868,
+      "end": 16240.310839,
+      "title": "Chapter Five"
+    },
+    {
+      "id": 7,
+      "start": 16240.310839,
+      "end": 18970.326803,
+      "title": "Chapter Six"
+    },
+    {
+      "id": 8,
+      "start": 18970.326803,
+      "end": 21946.520771,
+      "title": "Chapter Seven"
+    },
+    {
+      "id": 9,
+      "start": 21946.520771,
+      "end": 23966.00576,
+      "title": "Chapter Eight"
+    },
+    {
+      "id": 10,
+      "start": 23966.00576,
+      "end": 28974.827755,
+      "title": "Chapter Nine"
+    },
+    {
+      "id": 11,
+      "start": 28974.827755,
+      "end": 31806.314739,
+      "title": "Chapter Ten"
+    },
+    {
+      "id": 12,
+      "start": 31806.314739,
+      "end": 35602.497732,
+      "title": "Chapter Eleven"
+    },
+    {
+      "id": 13,
+      "start": 35602.497732,
+      "end": 39402.860726,
+      "title": "Chapter Twelve"
+    },
+    {
+      "id": 14,
+      "start": 39402.860726,
+      "end": 43210.328707,
+      "title": "Chapter Thirteen"
+    },
+    {
+      "id": 15,
+      "start": 43210.328707,
+      "end": 45217.553696,
+      "title": "Chapter Fourteen"
+    },
+    {
+      "id": 16,
+      "start": 45217.553696,
+      "end": 46980.179683,
+      "title": "Chapter Fifteen"
+    },
+    {
+      "id": 17,
+      "start": 46980.179683,
+      "end": 51017.153651,
+      "title": "Chapter Sixteen"
+    },
+    {
+      "id": 18,
+      "start": 51017.153651,
+      "end": 54492.715646,
+      "title": "Chapter Seventeen"
+    },
+    {
+      "id": 19,
+      "start": 54492.715646,
+      "end": 56559.383628,
+      "title": "Chapter Eighteen"
+    },
+    {
+      "id": 20,
+      "start": 56559.383628,
+      "end": 59546.072608,
+      "title": "Chapter Nineteen"
+    },
+    {
+      "id": 21,
+      "start": 59546.072608,
+      "end": 62091.675601,
+      "title": "Chapter Twenty"
+    },
+    {
+      "id": 22,
+      "start": 62091.675601,
+      "end": 65994.02059,
+      "title": "Chapter Twenty-one"
+    },
+    {
+      "id": 23,
+      "start": 65994.02059,
+      "end": 67863.13356,
+      "title": "Chapter Twenty-two"
+    },
+    {
+      "id": 24,
+      "start": 67863.13356,
+      "end": 69646.936553,
+      "title": "Chapter Twenty-three"
+    },
+    {
+      "id": 25,
+      "start": 69646.936553,
+      "end": 72745.685533,
+      "title": "Chapter Twenty-four"
+    },
+    {
+      "id": 26,
+      "start": 72745.685533,
+      "end": 75684.820499,
+      "title": "Chapter Twenty-five"
+    },
+    {
+      "id": 27,
+      "start": 75684.820499,
+      "end": 77269.674467,
+      "title": "Chapter Twenty-six"
+    },
+    {
+      "id": 28,
+      "start": 77269.674467,
+      "end": 81337.763447,
+      "title": "Chapter Twenty-seven"
+    },
+    {
+      "id": 29,
+      "start": 81337.763447,
+      "end": 83223.96644,
+      "title": "Chapter Twenty-eight"
+    },
+    {
+      "id": 30,
+      "start": 83223.96644,
+      "end": 85020.540408,
+      "title": "Chapter Twenty-nine"
+    },
+    {
+      "id": 31,
+      "start": 85020.540408,
+      "end": 88102.060408,
+      "title": "Chapter Thirty"
+    },
+    {
+      "id": 32,
+      "start": 88102.060408,
+      "end": 91568.241406,
+      "title": "Chapter Thirty-one"
+    },
+    {
+      "id": 33,
+      "start": 91568.241406,
+      "end": 92774.378367,
+      "title": "Chapter Thirty-two"
+    },
+    {
+      "id": 34,
+      "start": 92774.378367,
+      "end": 95976.409342,
+      "title": "Chapter Thirty-three"
+    },
+    {
+      "id": 35,
+      "start": 95976.409342,
+      "end": 99010.328299,
+      "title": "Chapter Thirty-four"
+    },
+    {
+      "id": 36,
+      "start": 99010.328299,
+      "end": 100276.465261,
+      "title": "Chapter Thirty-five"
+    },
+    {
+      "id": 37,
+      "start": 100276.465261,
+      "end": 104072.83424,
+      "title": "Chapter Thirty-six"
+    },
+    {
+      "id": 38,
+      "start": 104072.83424,
+      "end": 105867.690204,
+      "title": "Chapter Thirty-seven"
+    },
+    {
+      "id": 39,
+      "start": 105867.690204,
+      "end": 107595.068163,
+      "title": "Chapter Thirty-eight"
+    },
+    {
+      "id": 40,
+      "start": 107595.068163,
+      "end": 110869.685125,
+      "title": "Chapter Thirty-nine"
+    },
+    {
+      "id": 41,
+      "start": 110869.685125,
+      "end": 113551.821088,
+      "title": "Chapter Forty"
+    },
+    {
+      "id": 42,
+      "start": 113551.821088,
+      "end": 115166.675057,
+      "title": "Chapter Forty-one"
+    },
+    {
+      "id": 43,
+      "start": 115166.675057,
+      "end": 117024.550023,
+      "title": "Chapter Forty-two"
+    },
+    {
+      "id": 44,
+      "start": 117024.550023,
+      "end": 120962.932018,
+      "title": "Chapter Forty-three"
+    },
+    {
+      "id": 45,
+      "start": 120962.932018,
+      "end": 122679.815011,
+      "title": "Chapter Forty-four"
+    },
+    {
+      "id": 46,
+      "start": 122679.815011,
+      "end": 124355.412971,
+      "title": "Chapter Forty-five"
+    },
+    {
+      "id": 47,
+      "start": 124355.412971,
+      "end": 128430.28195,
+      "title": "Chapter Forty-six"
+    },
+    {
+      "id": 48,
+      "start": 128430.28195,
+      "end": 130193.65093,
+      "title": "Chapter Forty-seven"
+    },
+    {
+      "id": 49,
+      "start": 130193.65093,
+      "end": 133204.488889,
+      "title": "Chapter Forty-eight"
+    },
+    {
+      "id": 50,
+      "start": 133204.488889,
+      "end": 135790.494875,
+      "title": "Chapter Forty-nine"
+    },
+    {
+      "id": 51,
+      "start": 135790.494875,
+      "end": 137818.942857,
+      "title": "Chapter Fifty"
+    },
+    {
+      "id": 52,
+      "start": 137818.942857,
+      "end": 141869.338821,
+      "title": "Chapter Fifty-one"
+    },
+    {
+      "id": 53,
+      "start": 141869.338821,
+      "end": 145506.511791,
+      "title": "Chapter Fifty-two"
+    },
+    {
+      "id": 54,
+      "start": 145506.511791,
+      "end": 147313.673787,
+      "title": "Chapter Fifty-three"
+    },
+    {
+      "id": 55,
+      "start": 147313.673787,
+      "end": 149547.390748,
+      "title": "Chapter Fifty-four"
+    },
+    {
+      "id": 56,
+      "start": 149547.390748,
+      "end": 149605.055011,
+      "title": "End Credits "
+    }
+  ],
+  "title": "Martin Chuzzlewit (Unabridged)",
+  "subtitle": "The Audible Dickens Collection",
+  "authors": [
+    "Charles Dickens",
+    "William Boyd - introduction"
+  ],
+  "narrators": [
+    "Derek Jacobi",
+    "William Boyd - introduction"
+  ],
+  "series": [
+    "The Audible Dickens Collection #0"
+  ],
+  "genres": [
+    "Literary Fiction"
+  ],
+  "publishedYear": "2018",
+  "publishedDate": null,
+  "publisher": "Audible Studios",
+  "description": "Deeply distressed at thought of his singularly money-minded family circling around his inevitable death bed, when Old Martin Chuzzlewit comes across a young and kindly orphan girl, he immediately decides to take her into his employment. Offering her a comfortable living in exchange for her care and protection, Martin rests easy in the knowledge that her comfort will last only as long as he does; upon his death, Mary the orphan will find herself on the cold and dirty streets from whence she came.",
+  "isbn": null,
+  "asin": "B07GZNQ8F5",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

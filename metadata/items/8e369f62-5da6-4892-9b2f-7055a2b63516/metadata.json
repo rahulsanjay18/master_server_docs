@@ -1,0 +1,263 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 27.104989,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 27.104989,
+      "end": 1761.209977,
+      "title": "Chapter 1: The Riddle House"
+    },
+    {
+      "id": 2,
+      "start": 1761.209977,
+      "end": 2876.231973,
+      "title": "Chapter 2: The Scar"
+    },
+    {
+      "id": 3,
+      "start": 2876.231973,
+      "end": 4109.721973,
+      "title": "Chapter 3: The Invitation"
+    },
+    {
+      "id": 4,
+      "start": 4109.721973,
+      "end": 5309.078957,
+      "title": "Chapter 4: Back to the Burrow"
+    },
+    {
+      "id": 5,
+      "start": 5309.078957,
+      "end": 6710.379955,
+      "title": "Chapter 5: Weasleys’ Wizard Wheezes"
+    },
+    {
+      "id": 6,
+      "start": 6710.379955,
+      "end": 7588.070952,
+      "title": "Chapter 6: The Portkey"
+    },
+    {
+      "id": 7,
+      "start": 7588.070952,
+      "end": 9608.043946,
+      "title": "Chapter 7: Bagman and Crouch"
+    },
+    {
+      "id": 8,
+      "start": 9608.043946,
+      "end": 11966.493923,
+      "title": "Chapter 8: The Quidditch World Cup"
+    },
+    {
+      "id": 9,
+      "start": 11966.493923,
+      "end": 14774.783923,
+      "title": "Chapter 9: The Dark Mark"
+    },
+    {
+      "id": 10,
+      "start": 14774.783923,
+      "end": 16023.575918,
+      "title": "Chapter 10: Mayhem at the Ministry"
+    },
+    {
+      "id": 11,
+      "start": 16023.575918,
+      "end": 17323.6139,
+      "title": "Chapter 11: Aboard the Hogwarts Express"
+    },
+    {
+      "id": 12,
+      "start": 17323.6139,
+      "end": 19596.614898,
+      "title": "Chapter 12: The Triwizard Tournament"
+    },
+    {
+      "id": 13,
+      "start": 19596.614898,
+      "end": 21266.244898,
+      "title": "Chapter 13: Mad-Eye Moody"
+    },
+    {
+      "id": 14,
+      "start": 21266.244898,
+      "end": 23195.381882,
+      "title": "Chapter 14: The Unforgivable Curses"
+    },
+    {
+      "id": 15,
+      "start": 23195.381882,
+      "end": 25296.577868,
+      "title": "Chapter 15: Beauxbatons and Durmstrang"
+    },
+    {
+      "id": 16,
+      "start": 25296.577868,
+      "end": 27749.950862,
+      "title": "Chapter 16: The Goblet of Fire"
+    },
+    {
+      "id": 17,
+      "start": 27749.950862,
+      "end": 29465.718844,
+      "title": "Chapter 17: The Four Champions"
+    },
+    {
+      "id": 18,
+      "start": 29465.718844,
+      "end": 32121.012834,
+      "title": "Chapter 18: The Weighing of the Wands"
+    },
+    {
+      "id": 19,
+      "start": 32121.012834,
+      "end": 34542.063832,
+      "title": "Chapter 19: The Hungarian Horntail"
+    },
+    {
+      "id": 20,
+      "start": 34542.063832,
+      "end": 37332.149819,
+      "title": "Chapter 20: The First Task"
+    },
+    {
+      "id": 21,
+      "start": 37332.149819,
+      "end": 39434.692812,
+      "title": "Chapter 21: The House-Elf Liberation Front"
+    },
+    {
+      "id": 22,
+      "start": 39434.692812,
+      "end": 41078.15381,
+      "title": "Chapter 22: The Unexpected Task"
+    },
+    {
+      "id": 23,
+      "start": 41078.15381,
+      "end": 44090.918798,
+      "title": "Chapter 23: The Yule Ball"
+    },
+    {
+      "id": 24,
+      "start": 44090.918798,
+      "end": 46390.691791,
+      "title": "Chapter 24: Rita Skeeter’s Scoop"
+    },
+    {
+      "id": 25,
+      "start": 46390.691791,
+      "end": 48556.044785,
+      "title": "Chapter 25: The Egg and the Eye"
+    },
+    {
+      "id": 26,
+      "start": 48556.044785,
+      "end": 51571.45678,
+      "title": "Chapter 26: The Second Task"
+    },
+    {
+      "id": 27,
+      "start": 51571.45678,
+      "end": 54198.074762,
+      "title": "Chapter 27: Padfoot Returns"
+    },
+    {
+      "id": 28,
+      "start": 54198.074762,
+      "end": 57001.953741,
+      "title": "Chapter 28: The Madness of Mr Crouch"
+    },
+    {
+      "id": 29,
+      "start": 57001.953741,
+      "end": 58634.617732,
+      "title": "Chapter 29: The Dream"
+    },
+    {
+      "id": 30,
+      "start": 58634.617732,
+      "end": 61239.640726,
+      "title": "Chapter 30: The Pensieve"
+    },
+    {
+      "id": 31,
+      "start": 61239.640726,
+      "end": 64300.726712,
+      "title": "Chapter 31: The Third Task"
+    },
+    {
+      "id": 32,
+      "start": 64300.726712,
+      "end": 65201.613696,
+      "title": "Chapter 32: Flesh, Blood and Bone"
+    },
+    {
+      "id": 33,
+      "start": 65201.613696,
+      "end": 67053.543696,
+      "title": "Chapter 33: The Death Eaters"
+    },
+    {
+      "id": 34,
+      "start": 67053.543696,
+      "end": 68299.99068,
+      "title": "Chapter 34: Priori Incantatem"
+    },
+    {
+      "id": 35,
+      "start": 68299.99068,
+      "end": 70777.234671,
+      "title": "Chapter 35: Veritaserum"
+    },
+    {
+      "id": 36,
+      "start": 70777.234671,
+      "end": 73248.71966,
+      "title": "Chapter 36: The Parting of the Ways"
+    },
+    {
+      "id": 37,
+      "start": 73248.71966,
+      "end": 75199.58966,
+      "title": "Chapter 37: The Beginning"
+    },
+    {
+      "id": 38,
+      "start": 75199.58966,
+      "end": 75301.585011,
+      "title": "The Story Continues in Harry Potter and the Order of the Phoenix"
+    }
+  ],
+  "title": "04 Harry Potter and the Goblet of Fire",
+  "subtitle": null,
+  "authors": [
+    "J.K. Rowling"
+  ],
+  "narrators": [
+    "Stephen Fry"
+  ],
+  "series": [
+    "Harry Potter #4"
+  ],
+  "genres": [
+    "Academy",
+    "Portal Fantasy (YA)"
+  ],
+  "publishedYear": "2000",
+  "publishedDate": null,
+  "publisher": "Pottermore Publishing",
+  "description": "Unabridged",
+  "isbn": null,
+  "asin": "B079TLSCYG",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

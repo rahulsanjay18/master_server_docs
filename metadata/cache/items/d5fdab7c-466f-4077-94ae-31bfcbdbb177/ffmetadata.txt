@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=A Wizard of Earthsea
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=A Wizard of Earthsea
+genre=Audio Book
+date=1968
+comment=Read by Rob Inglis
+description=Read by Rob Inglis
+composer=202mb
+TRACKTOTAL=10

@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Northanger Abbey (read by Carmella Ross)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Northanger Abbey (read by Carmella Ross)
+date=1817
+TRACKTOTAL=15
+grouping=1817 - Northanger Abbey (read by Carmella Ross) \#1

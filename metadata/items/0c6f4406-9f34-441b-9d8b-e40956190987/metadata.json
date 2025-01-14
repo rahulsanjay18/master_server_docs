@@ -1,0 +1,110 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 304.195918,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 304.195918,
+      "end": 372.767347,
+      "title": "Foam Women, Rain Women"
+    },
+    {
+      "id": 2,
+      "start": 372.767347,
+      "end": 1778.337959,
+      "title": "The Ship Ahoy"
+    },
+    {
+      "id": 3,
+      "start": 1778.337959,
+      "end": 5010.573061,
+      "title": "Hand, Cup, Shell"
+    },
+    {
+      "id": 4,
+      "start": 5010.573061,
+      "end": 6110.563265,
+      "title": "Geezers"
+    },
+    {
+      "id": 5,
+      "start": 6110.563265,
+      "end": 7549.309386999999,
+      "title": "In and Out"
+    },
+    {
+      "id": 6,
+      "start": 7549.309386999999,
+      "end": 9226.031019999999,
+      "title": "Bill Weisler"
+    },
+    {
+      "id": 7,
+      "start": 9226.031019999999,
+      "end": 11298.768978999999,
+      "title": "True Love"
+    },
+    {
+      "id": 8,
+      "start": 11298.768978999999,
+      "end": 12587.284896999998,
+      "title": "Sleepwalkers"
+    },
+    {
+      "id": 9,
+      "start": 12587.284896999998,
+      "end": 14097.919998999998,
+      "title": "Quoits"
+    },
+    {
+      "id": 10,
+      "start": 14097.919998999998,
+      "end": 15234.612243999998,
+      "title": "Crosswords"
+    },
+    {
+      "id": 11,
+      "start": 15234.612243999998,
+      "end": 15598.210610999999,
+      "title": "Texts"
+    },
+    {
+      "id": 12,
+      "start": 15598.210610999999,
+      "end": 25706.266121,
+      "title": "Hernes"
+    },
+    {
+      "id": 13,
+      "start": 25706.266121,
+      "end": 25810.546937,
+      "title": "End"
+    }
+  ],
+  "title": "Searoad: Chronicles of Klatsand",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "201mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1991",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Mara Swanson",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

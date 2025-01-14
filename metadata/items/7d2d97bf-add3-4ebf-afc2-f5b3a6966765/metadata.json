@@ -1,0 +1,74 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 551.732245,
+      "title": "Episode 1: The Birth of A Song of Ice and Fire"
+    },
+    {
+      "id": 1,
+      "start": 551.732245,
+      "end": 1121.2016330000001,
+      "title": "Episode 2: The Origin of George R. R. Martin the Writer"
+    },
+    {
+      "id": 2,
+      "start": 1121.2016330000001,
+      "end": 1749.4987760000001,
+      "title": "Episode 3: Good Advice for Aspiring Writers"
+    },
+    {
+      "id": 3,
+      "start": 1749.4987760000001,
+      "end": 2579.748572,
+      "title": "Episode 4: Tales of Hollywood"
+    },
+    {
+      "id": 4,
+      "start": 2579.748572,
+      "end": 3211.807348,
+      "title": "Episode 5: The Fans"
+    },
+    {
+      "id": 5,
+      "start": 3211.807348,
+      "end": 4208.352654,
+      "title": "Episode 6: Weird Stuff -- Science Fiction, Fantasy, and Horror"
+    },
+    {
+      "id": 6,
+      "start": 4208.352654,
+      "end": 4941.792654000001,
+      "title": "Episode 7: An Excerpt from A Feast For Crows"
+    },
+    {
+      "id": 7,
+      "start": 4941.792654000001,
+      "end": 5601.149389000001,
+      "title": "Episode 8: Games, Comic Books, and Figures"
+    }
+  ],
+  "title": "The George R. R. Martin Podcast",
+  "subtitle": null,
+  "authors": [
+    "George R. R. Martin"
+  ],
+  "narrators": [
+    "65.5mb"
+  ],
+  "series": [],
+  "genres": [
+    "Podcast"
+  ],
+  "publishedYear": "2006",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Join the New York Times bestselling author of the epic A Song of Ice and Fire cycle, George R. R. Martin, for his very first podcast. In these eight episodes, George covers a range of topics from the birth of his acclaimed saga, to his experiences in Hollywood, to \"weird stuff,\" and even reads an excerpt his new paperback novel A FEAST FOR CROWS.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

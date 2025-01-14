@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Tales From Earthsea
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Tales From Earthsea
+genre=Audio Book
+date=2001
+comment=Read by Ursula K. Le Guin, Scott Brick, Gabrielle De Cuir, Amanda Karr, Harlan Ellison & Stefan Rudnicki
+description=Read by Ursula K. Le Guin, Scott Brick, Gabrielle De Cuir, Amanda Karr, Harlan Ellison & Stefan Rudnicki
+composer=200mb
+TRACKTOTAL=8

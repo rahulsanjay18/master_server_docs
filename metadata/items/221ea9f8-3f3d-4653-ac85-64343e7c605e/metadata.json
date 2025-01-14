@@ -1,0 +1,114 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 542.197551,
+      "title": "Volume 1 - Chapter 01"
+    },
+    {
+      "id": 1,
+      "start": 542.197551,
+      "end": 1286.5567350000001,
+      "title": "Volume 1 - Chapter 02"
+    },
+    {
+      "id": 2,
+      "start": 1286.5567350000001,
+      "end": 1871.856327,
+      "title": "Volume 1 - Chapter 03"
+    },
+    {
+      "id": 3,
+      "start": 1871.856327,
+      "end": 2298.2530619999998,
+      "title": "Volume 1 - Chapter 04"
+    },
+    {
+      "id": 4,
+      "start": 2298.2530619999998,
+      "end": 2721.462858,
+      "title": "Volume 1 - Chapter 05"
+    },
+    {
+      "id": 5,
+      "start": 2721.462858,
+      "end": 3262.249797,
+      "title": "Volume 1 - Chapter 06"
+    },
+    {
+      "id": 6,
+      "start": 3262.249797,
+      "end": 4167.627756,
+      "title": "Volume 1 - Chapter 07"
+    },
+    {
+      "id": 7,
+      "start": 4167.627756,
+      "end": 5017.678368,
+      "title": "Volume 1 - Chapter 08"
+    },
+    {
+      "id": 8,
+      "start": 5017.678368,
+      "end": 6073.80898,
+      "title": "Volume 1 - Chapter 09"
+    },
+    {
+      "id": 9,
+      "start": 6073.80898,
+      "end": 7328.261225,
+      "title": "Volume 1 - Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 7328.261225,
+      "end": 8306.964898,
+      "title": "Volume 1 - Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 8306.964898,
+      "end": 8961.044898,
+      "title": "Volume 1 - Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 8961.044898,
+      "end": 9975.928163,
+      "title": "Volume 1 - Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 9975.928163,
+      "end": 11057.449796,
+      "title": "Volume 1 - Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 11057.449796,
+      "end": 12110.001633,
+      "title": "Volume 1 - Chapter 15"
+    }
+  ],
+  "title": "Northanger Abbey (read by Donada Peters)",
+  "subtitle": null,
+  "authors": [
+    "Jane Austen"
+  ],
+  "narrators": [],
+  "series": [
+    "1817 - Northanger Abbey (read by Donada Peters) #1"
+  ],
+  "genres": [],
+  "publishedYear": "1817",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

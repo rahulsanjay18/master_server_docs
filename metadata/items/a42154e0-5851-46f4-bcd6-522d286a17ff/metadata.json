@@ -1,0 +1,561 @@
+{
+  "tags": [
+    "Science Fiction",
+    "Adventure",
+    "Space Opera"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 802.429388,
+      "title": "Navigators of Dune_Part 01"
+    },
+    {
+      "id": 1,
+      "start": 802.429388,
+      "end": 1602.3771430000002,
+      "title": "Navigators of Dune_Part 02"
+    },
+    {
+      "id": 2,
+      "start": 1602.3771430000002,
+      "end": 2274.66449,
+      "title": "Navigators of Dune_Part 03"
+    },
+    {
+      "id": 3,
+      "start": 2274.66449,
+      "end": 2986.4751020000003,
+      "title": "Navigators of Dune_Part 04"
+    },
+    {
+      "id": 4,
+      "start": 2986.4751020000003,
+      "end": 3844.205714,
+      "title": "Navigators of Dune_Part 05"
+    },
+    {
+      "id": 5,
+      "start": 3844.205714,
+      "end": 4608.391836,
+      "title": "Navigators of Dune_Part 06"
+    },
+    {
+      "id": 6,
+      "start": 4608.391836,
+      "end": 5277.12653,
+      "title": "Navigators of Dune_Part 07"
+    },
+    {
+      "id": 7,
+      "start": 5277.12653,
+      "end": 6013.884080999999,
+      "title": "Navigators of Dune_Part 08"
+    },
+    {
+      "id": 8,
+      "start": 6013.884080999999,
+      "end": 6628.284080999999,
+      "title": "Navigators of Dune_Part 09"
+    },
+    {
+      "id": 9,
+      "start": 6628.284080999999,
+      "end": 6959.647345999999,
+      "title": "Navigators of Dune_Part 10"
+    },
+    {
+      "id": 10,
+      "start": 6959.647345999999,
+      "end": 7480.3199989999985,
+      "title": "Navigators of Dune_Part 11"
+    },
+    {
+      "id": 11,
+      "start": 7480.3199989999985,
+      "end": 7940.414692999999,
+      "title": "Navigators of Dune_Part 12"
+    },
+    {
+      "id": 12,
+      "start": 7940.414692999999,
+      "end": 8585.795917,
+      "title": "Navigators of Dune_Part 13"
+    },
+    {
+      "id": 13,
+      "start": 8585.795917,
+      "end": 9288.01959,
+      "title": "Navigators of Dune_Part 14"
+    },
+    {
+      "id": 14,
+      "start": 9288.01959,
+      "end": 9893.903672,
+      "title": "Navigators of Dune_Part 15"
+    },
+    {
+      "id": 15,
+      "start": 9893.903672,
+      "end": 10881.61959,
+      "title": "Navigators of Dune_Part 16"
+    },
+    {
+      "id": 16,
+      "start": 10881.61959,
+      "end": 11572.506121,
+      "title": "Navigators of Dune_Part 17"
+    },
+    {
+      "id": 17,
+      "start": 11572.506121,
+      "end": 12210.102856,
+      "title": "Navigators of Dune_Part 18"
+    },
+    {
+      "id": 18,
+      "start": 12210.102856,
+      "end": 13179.219591,
+      "title": "Navigators of Dune_Part 20"
+    },
+    {
+      "id": 19,
+      "start": 13179.219591,
+      "end": 13551.412244,
+      "title": "Navigators of Dune_Part 21"
+    },
+    {
+      "id": 20,
+      "start": 13551.412244,
+      "end": 14263.275101,
+      "title": "Navigators of Dune_Part 22"
+    },
+    {
+      "id": 21,
+      "start": 14263.275101,
+      "end": 14584.555101,
+      "title": "Navigators of Dune_Part 23"
+    },
+    {
+      "id": 22,
+      "start": 14584.555101,
+      "end": 15091.95755,
+      "title": "Navigators of Dune_Part 24"
+    },
+    {
+      "id": 23,
+      "start": 15091.95755,
+      "end": 15881.534693,
+      "title": "Navigators of Dune_Part 25"
+    },
+    {
+      "id": 24,
+      "start": 15881.534693,
+      "end": 16448.940407,
+      "title": "Navigators of Dune_Part 26"
+    },
+    {
+      "id": 25,
+      "start": 16448.940407,
+      "end": 17098.501223,
+      "title": "Navigators of Dune_Part 27"
+    },
+    {
+      "id": 26,
+      "start": 17098.501223,
+      "end": 17490.860407,
+      "title": "Navigators of Dune_Part 28"
+    },
+    {
+      "id": 27,
+      "start": 17490.860407,
+      "end": 17989.146121,
+      "title": "Navigators of Dune_Part 29"
+    },
+    {
+      "id": 28,
+      "start": 17989.146121,
+      "end": 18325.890611000003,
+      "title": "Navigators of Dune_Part 30"
+    },
+    {
+      "id": 29,
+      "start": 18325.890611000003,
+      "end": 19019.650611,
+      "title": "Navigators of Dune_Part 31"
+    },
+    {
+      "id": 30,
+      "start": 19019.650611,
+      "end": 19616.339591,
+      "title": "Navigators of Dune_Part 32"
+    },
+    {
+      "id": 31,
+      "start": 19616.339591,
+      "end": 20370.99102,
+      "title": "Navigators of Dune_Part 33"
+    },
+    {
+      "id": 32,
+      "start": 20370.99102,
+      "end": 20966.974693,
+      "title": "Navigators of Dune_Part 34"
+    },
+    {
+      "id": 33,
+      "start": 20966.974693,
+      "end": 21987.186938,
+      "title": "Navigators of Dune_Part 35"
+    },
+    {
+      "id": 34,
+      "start": 21987.186938,
+      "end": 23017.952652,
+      "title": "Navigators of Dune_Part 36"
+    },
+    {
+      "id": 35,
+      "start": 23017.952652,
+      "end": 23729.39755,
+      "title": "Navigators of Dune_Part 37"
+    },
+    {
+      "id": 36,
+      "start": 23729.39755,
+      "end": 24308.950203,
+      "title": "Navigators of Dune_Part 38"
+    },
+    {
+      "id": 37,
+      "start": 24308.950203,
+      "end": 24878.785305,
+      "title": "Navigators of Dune_Part 39"
+    },
+    {
+      "id": 38,
+      "start": 24878.785305,
+      "end": 25602.429387,
+      "title": "Navigators of Dune_Part 40"
+    },
+    {
+      "id": 39,
+      "start": 25602.429387,
+      "end": 26708.584489,
+      "title": "Navigators of Dune_Part 41"
+    },
+    {
+      "id": 40,
+      "start": 26708.584489,
+      "end": 27348.767346,
+      "title": "Navigators of Dune_Part 42"
+    },
+    {
+      "id": 41,
+      "start": 27348.767346,
+      "end": 28154.435917,
+      "title": "Navigators of Dune_Part 43"
+    },
+    {
+      "id": 42,
+      "start": 28154.435917,
+      "end": 28911.098774,
+      "title": "Navigators of Dune_Part 44"
+    },
+    {
+      "id": 43,
+      "start": 28911.098774,
+      "end": 29351.993467999997,
+      "title": "Navigators of Dune_Part 45"
+    },
+    {
+      "id": 44,
+      "start": 29351.993467999997,
+      "end": 29822.406528999996,
+      "title": "Navigators of Dune_Part 46"
+    },
+    {
+      "id": 45,
+      "start": 29822.406528999996,
+      "end": 30579.826936999998,
+      "title": "Navigators of Dune_Part 47"
+    },
+    {
+      "id": 46,
+      "start": 30579.826936999998,
+      "end": 31108.153467999997,
+      "title": "Navigators of Dune_Part 48"
+    },
+    {
+      "id": 47,
+      "start": 31108.153467999997,
+      "end": 31866.070202999996,
+      "title": "Navigators of Dune_Part 49"
+    },
+    {
+      "id": 48,
+      "start": 31866.070202999996,
+      "end": 32871.444896999994,
+      "title": "Navigators of Dune_Part 50"
+    },
+    {
+      "id": 49,
+      "start": 32871.444896999994,
+      "end": 33818.253059999995,
+      "title": "Navigators of Dune_Part 51"
+    },
+    {
+      "id": 50,
+      "start": 33818.253059999995,
+      "end": 34597.015509,
+      "title": "Navigators of Dune_Part 52"
+    },
+    {
+      "id": 51,
+      "start": 34597.015509,
+      "end": 35827.330611,
+      "title": "Navigators of Dune_Part 53"
+    },
+    {
+      "id": 52,
+      "start": 35827.330611,
+      "end": 36279.90204,
+      "title": "Navigators of Dune_Part 54"
+    },
+    {
+      "id": 53,
+      "start": 36279.90204,
+      "end": 36890.017958000004,
+      "title": "Navigators of Dune_Part 55"
+    },
+    {
+      "id": 54,
+      "start": 36890.017958000004,
+      "end": 37221.95591700001,
+      "title": "Navigators of Dune_Part 56"
+    },
+    {
+      "id": 55,
+      "start": 37221.95591700001,
+      "end": 37906.57306000001,
+      "title": "Navigators of Dune_Part 57"
+    },
+    {
+      "id": 56,
+      "start": 37906.57306000001,
+      "end": 38917.14612100001,
+      "title": "Navigators of Dune_Part 58"
+    },
+    {
+      "id": 57,
+      "start": 38917.14612100001,
+      "end": 39674.80163100001,
+      "title": "Navigators of Dune_Part 59"
+    },
+    {
+      "id": 58,
+      "start": 39674.80163100001,
+      "end": 40416.33959000001,
+      "title": "Navigators of Dune_Part 60"
+    },
+    {
+      "id": 59,
+      "start": 40416.33959000001,
+      "end": 41129.97877400001,
+      "title": "Navigators of Dune_Part 61"
+    },
+    {
+      "id": 60,
+      "start": 41129.97877400001,
+      "end": 41956.85877400001,
+      "title": "Navigators of Dune_Part 62"
+    },
+    {
+      "id": 61,
+      "start": 41956.85877400001,
+      "end": 42682.43591700001,
+      "title": "Navigators of Dune_Part 63"
+    },
+    {
+      "id": 62,
+      "start": 42682.43591700001,
+      "end": 43569.78938600001,
+      "title": "Navigators of Dune_Part 64"
+    },
+    {
+      "id": 63,
+      "start": 43569.78938600001,
+      "end": 44264.01959000001,
+      "title": "Navigators of Dune_Part 65"
+    },
+    {
+      "id": 64,
+      "start": 44264.01959000001,
+      "end": 45469.20489600001,
+      "title": "Navigators of Dune_Part 66"
+    },
+    {
+      "id": 65,
+      "start": 45469.20489600001,
+      "end": 46654.32816100001,
+      "title": "Navigators of Dune_Part 67"
+    },
+    {
+      "id": 66,
+      "start": 46654.32816100001,
+      "end": 47603.173875000015,
+      "title": "Navigators of Dune_Part 68"
+    },
+    {
+      "id": 67,
+      "start": 47603.173875000015,
+      "end": 48252.447344000015,
+      "title": "Navigators of Dune_Part 69"
+    },
+    {
+      "id": 68,
+      "start": 48252.447344000015,
+      "end": 49006.23673200001,
+      "title": "Navigators of Dune_Part 70"
+    },
+    {
+      "id": 69,
+      "start": 49006.23673200001,
+      "end": 49868.14693600001,
+      "title": "Navigators of Dune_Part 71"
+    },
+    {
+      "id": 70,
+      "start": 49868.14693600001,
+      "end": 50550.125712000015,
+      "title": "Navigators of Dune_Part 72"
+    },
+    {
+      "id": 71,
+      "start": 50550.125712000015,
+      "end": 51025.78938500002,
+      "title": "Navigators of Dune_Part 73"
+    },
+    {
+      "id": 72,
+      "start": 51025.78938500002,
+      "end": 51779.448161000015,
+      "title": "Navigators of Dune_Part 74"
+    },
+    {
+      "id": 73,
+      "start": 51779.448161000015,
+      "end": 52968.15020200001,
+      "title": "Navigators of Dune_Part 75"
+    },
+    {
+      "id": 74,
+      "start": 52968.15020200001,
+      "end": 53629.675100000015,
+      "title": "Navigators of Dune_Part 76"
+    },
+    {
+      "id": 75,
+      "start": 53629.675100000015,
+      "end": 55198.406529000014,
+      "title": "Navigators of Dune_Part 77"
+    },
+    {
+      "id": 76,
+      "start": 55198.406529000014,
+      "end": 55926.96163100001,
+      "title": "Navigators of Dune_Part 78"
+    },
+    {
+      "id": 77,
+      "start": 55926.96163100001,
+      "end": 56643.60489600001,
+      "title": "Navigators of Dune_Part 79"
+    },
+    {
+      "id": 78,
+      "start": 56643.60489600001,
+      "end": 57608.88163100001,
+      "title": "Navigators of Dune_Part 80"
+    },
+    {
+      "id": 79,
+      "start": 57608.88163100001,
+      "end": 58431.89550900001,
+      "title": "Navigators of Dune_Part 81"
+    },
+    {
+      "id": 80,
+      "start": 58431.89550900001,
+      "end": 59626.89306000001,
+      "title": "Navigators of Dune_Part 82"
+    },
+    {
+      "id": 81,
+      "start": 59626.89306000001,
+      "end": 60611.68326400001,
+      "title": "Navigators of Dune_Part 83"
+    },
+    {
+      "id": 82,
+      "start": 60611.68326400001,
+      "end": 61183.294693,
+      "title": "Navigators of Dune_Part 84"
+    },
+    {
+      "id": 83,
+      "start": 61183.294693,
+      "end": 61700.49306,
+      "title": "Navigators of Dune_Part 85"
+    },
+    {
+      "id": 84,
+      "start": 61700.49306,
+      "end": 62516.244897000004,
+      "title": "Navigators of Dune_Part 86"
+    },
+    {
+      "id": 85,
+      "start": 62516.244897000004,
+      "end": 62999.980407,
+      "title": "Navigators of Dune_Part 87"
+    },
+    {
+      "id": 86,
+      "start": 62999.980407,
+      "end": 64054.230203,
+      "title": "Navigators of Dune_Part 88"
+    },
+    {
+      "id": 87,
+      "start": 64054.230203,
+      "end": 64929.358366,
+      "title": "Navigators of Dune_Part 89"
+    }
+  ],
+  "title": "Navigators of Dune",
+  "subtitle": null,
+  "authors": [
+    "Brian Herbert",
+    "Kevin J. Anderson"
+  ],
+  "narrators": [
+    "Scott Brick"
+  ],
+  "series": [
+    "Dune Saga #6"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2016-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "Brian Herbert and Kevin J. Anderson's Navigators of Dune is the climactic finale of the Great Schools of Dune trilogy, set 10,000 years before Frank Herbert's classic Dune.  The story line tells the origins of the Bene Gesserit Sisterhood and its breeding program, the human-computer Mentats, and the Navigators (the Spacing Guild), as well as a crucial battle for the future of the human race, in which reason faces off against fanaticism. These events have far-reaching consequences that will set the stage for Dune, millennia later.",
+  "isbn": null,
+  "asin": "B01JYCRKFM",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=Fish Soup
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Fish Soup
+genre=Allegories
+date=1992
+comment=When the Thinking Man of Moha and the Writing Woman of Maho talk about having a child, two children appear, shaped by the friends' expectations of what a child should be.
+description=When the Thinking Man of Moha and the Writing Woman of Maho talk about having a child, two children appear, shaped by the friends' expectations of what a child should be.
+copyright=Atheneum Books
+publisher=Atheneum Books
+TRACKTOTAL=1

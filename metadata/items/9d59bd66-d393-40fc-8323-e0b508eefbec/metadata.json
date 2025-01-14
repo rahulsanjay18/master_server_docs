@@ -1,0 +1,140 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "title": "Part 1",
+      "end": 2417.909878
+    },
+    {
+      "id": 1,
+      "start": 2417.909878,
+      "title": "Part 2",
+      "end": 8383.029128
+    },
+    {
+      "id": 2,
+      "start": 8383.029128,
+      "title": "Part 3",
+      "end": 10930.029128
+    },
+    {
+      "id": 3,
+      "start": 10930.029128,
+      "title": "Chapter 2",
+      "end": 13105.017253
+    },
+    {
+      "id": 4,
+      "start": 13105.017253,
+      "title": "Part 4",
+      "end": 15711.844631
+    },
+    {
+      "id": 5,
+      "start": 15711.844631,
+      "title": "Chapter 3",
+      "end": 18294.844631
+    },
+    {
+      "id": 6,
+      "start": 18294.844631,
+      "title": "Part 5",
+      "end": 19769.852387
+    },
+    {
+      "id": 7,
+      "start": 19769.852387,
+      "title": "Chapter 4",
+      "end": 21612.852387
+    },
+    {
+      "id": 8,
+      "start": 21612.852387,
+      "title": "Part 6",
+      "end": 23574.655264999998
+    },
+    {
+      "id": 9,
+      "start": 23574.655264999998,
+      "title": "Chapter 5",
+      "end": 24700.655264999998
+    },
+    {
+      "id": 10,
+      "start": 24700.655264999998,
+      "title": "Part 7",
+      "end": 26767.330765
+    },
+    {
+      "id": 11,
+      "start": 26767.330765,
+      "title": "Chapter 6",
+      "end": 29247.882265
+    },
+    {
+      "id": 12,
+      "start": 29247.882265,
+      "title": "Part 8",
+      "end": 31911.421521
+    },
+    {
+      "id": 13,
+      "start": 31911.421521,
+      "title": "Part 9",
+      "end": 34865.886399
+    },
+    {
+      "id": 14,
+      "start": 34865.886399,
+      "title": "Part 10",
+      "end": 37168.886399
+    },
+    {
+      "id": 15,
+      "start": 37168.886399,
+      "title": "Part 11",
+      "end": 38957.775024
+    },
+    {
+      "id": 16,
+      "start": 38957.775024,
+      "title": "Part 12",
+      "end": 41280.442402
+    },
+    {
+      "id": 17,
+      "start": 41280.442402,
+      "title": "Part 13",
+      "end": 43814.442402
+    },
+    {
+      "id": 18,
+      "start": 43814.442402,
+      "title": "Epilogue",
+      "end": 44459.351402
+    }
+  ],
+  "title": "The Ten Thousand Doors of January",
+  "subtitle": null,
+  "authors": [
+    "Alix E. Harrow"
+  ],
+  "narrators": [
+    "January LaVoy"
+  ],
+  "series": [],
+  "genres": [
+    "Fantasy"
+  ],
+  "publishedYear": "2019",
+  "publishedDate": null,
+  "publisher": "Blackstone Audio, Inc.",
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

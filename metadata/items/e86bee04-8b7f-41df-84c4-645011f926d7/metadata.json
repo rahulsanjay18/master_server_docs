@@ -1,0 +1,82 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 43.282,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 43.282,
+      "end": 3879.242,
+      "title": "Chapter One"
+    },
+    {
+      "id": 2,
+      "start": 3879.242,
+      "end": 7895.946,
+      "title": "Chapter Two"
+    },
+    {
+      "id": 3,
+      "start": 7895.946,
+      "end": 10863.2,
+      "title": "Chapter Three"
+    },
+    {
+      "id": 4,
+      "start": 10863.2,
+      "end": 15445.682,
+      "title": "Chapter Four"
+    },
+    {
+      "id": 5,
+      "start": 15445.682,
+      "end": 19391.286,
+      "title": "Chapter Five"
+    },
+    {
+      "id": 6,
+      "start": 19391.286,
+      "end": 23810.624,
+      "title": "Chapter Six"
+    },
+    {
+      "id": 7,
+      "start": 23810.624,
+      "end": 24569.615,
+      "title": "Epilogue"
+    },
+    {
+      "id": 8,
+      "start": 24569.615,
+      "end": 24703.189,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Spice and Wolf, Vol. 02",
+  "subtitle": null,
+  "authors": [
+    "J. Michael Tatum"
+  ],
+  "narrators": [
+    "Isuna Hasekura"
+  ],
+  "series": [
+    "Spice and Wolf #02"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "June 10, 2006 (06-14-22)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

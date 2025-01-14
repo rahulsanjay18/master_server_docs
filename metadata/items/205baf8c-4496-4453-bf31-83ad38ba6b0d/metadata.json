@@ -1,0 +1,714 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 9,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 1369,
+      "title": "1. I Accidentally Vaporize My Pre-Algebra Teacher"
+    },
+    {
+      "id": 2,
+      "start": 1369,
+      "end": 2495,
+      "title": "2. Three Old Ladies Knit the Socks of Death"
+    },
+    {
+      "id": 3,
+      "start": 2495,
+      "end": 3920,
+      "title": "3. Grover Unexpectedly Loses his Pants"
+    },
+    {
+      "id": 4,
+      "start": 3920,
+      "end": 5088,
+      "title": "4. My Mother Teaches Me Bullfighting"
+    },
+    {
+      "id": 5,
+      "start": 5088,
+      "end": 6808,
+      "title": "5. I Play Pinochle with a Horse"
+    },
+    {
+      "id": 6,
+      "start": 6808,
+      "end": 8430,
+      "title": "6. I Become Supreme Lord of the Bathroom"
+    },
+    {
+      "id": 7,
+      "start": 8430,
+      "end": 9672,
+      "title": "7. My Dinner Goes Up in Smoke"
+    },
+    {
+      "id": 8,
+      "start": 9672,
+      "end": 11537,
+      "title": "8. We Capture a Flag"
+    },
+    {
+      "id": 9,
+      "start": 11537,
+      "end": 13610,
+      "title": "9. I Am Offered a Quest"
+    },
+    {
+      "id": 10,
+      "start": 13610,
+      "end": 15518,
+      "title": "10. I Ruin a Perfectly Good Bus"
+    },
+    {
+      "id": 11,
+      "start": 15518,
+      "end": 17569,
+      "title": "11. We Visit the Garden Gnome Emporium"
+    },
+    {
+      "id": 12,
+      "start": 17569,
+      "end": 18403,
+      "title": "12. We Get Advice from a Poodle"
+    },
+    {
+      "id": 13,
+      "start": 18403,
+      "end": 19843,
+      "title": "13. I Plunge to My Death"
+    },
+    {
+      "id": 14,
+      "start": 19843,
+      "end": 20489,
+      "title": "14. I Become a Known Fugitive"
+    },
+    {
+      "id": 15,
+      "start": 20489,
+      "end": 22633,
+      "title": "15. A God Buys us Cheeseburgers"
+    },
+    {
+      "id": 16,
+      "start": 22633,
+      "end": 24975,
+      "title": "16. We Take a Zebra to Vegas"
+    },
+    {
+      "id": 17,
+      "start": 24975,
+      "end": 26695,
+      "title": "17. We Shop for Water Beds"
+    },
+    {
+      "id": 18,
+      "start": 26695,
+      "end": 28254,
+      "title": "18. Annabeth Does Obedience School"
+    },
+    {
+      "id": 19,
+      "start": 28254,
+      "end": 30372,
+      "title": "19. We Find Out the Truth, Sort Of"
+    },
+    {
+      "id": 20,
+      "start": 30372,
+      "end": 31738,
+      "title": "20. I Battle My Jerk Relative"
+    },
+    {
+      "id": 21,
+      "start": 31738,
+      "end": 33853,
+      "title": "21. I Settle My Tab"
+    },
+    {
+      "id": 22,
+      "start": 33853,
+      "end": 36020,
+      "title": "22. The Prophecy Comes True"
+    },
+    {
+      "id": 23,
+      "start": 36020,
+      "end": 36135.212336,
+      "title": "Outro"
+    },
+    {
+      "id": 24,
+      "start": 36135.212336,
+      "end": 36149.212336,
+      "title": "Intro"
+    },
+    {
+      "id": 25,
+      "start": 36149.212336,
+      "end": 36882.212336,
+      "title": "1. My Best Friend Shops for a Wedding Dress"
+    },
+    {
+      "id": 26,
+      "start": 36882.212336,
+      "end": 38650.212336,
+      "title": "2. I Play Dodgeball with Cannibals"
+    },
+    {
+      "id": 27,
+      "start": 38650.212336,
+      "end": 39945.212336,
+      "title": "3. We Hail the Taxi of Eternal Torment"
+    },
+    {
+      "id": 28,
+      "start": 39945.212336,
+      "end": 40981.212336,
+      "title": "4. Tyson Plays with Fire"
+    },
+    {
+      "id": 29,
+      "start": 40981.212336,
+      "end": 42871.212336,
+      "title": "5. I Get a New Cabin Mate"
+    },
+    {
+      "id": 30,
+      "start": 42871.212336,
+      "end": 44804.212336,
+      "title": "6. Demon Pigeons Attack"
+    },
+    {
+      "id": 31,
+      "start": 44804.212336,
+      "end": 47092.212336,
+      "title": "7. I Accept Gifts from a Stranger"
+    },
+    {
+      "id": 32,
+      "start": 47092.212336,
+      "end": 48568.212336,
+      "title": "8. We Board the Princess Andromeda"
+    },
+    {
+      "id": 33,
+      "start": 48568.212336,
+      "end": 49897.212336,
+      "title": "9. I Have the Worst Family Reunion Ever"
+    },
+    {
+      "id": 34,
+      "start": 49897.212336,
+      "end": 51306.212336,
+      "title": "10. We Hitch a Ride with Dead Confederates"
+    },
+    {
+      "id": 35,
+      "start": 51306.212336,
+      "end": 53079.212336,
+      "title": "11. Clarisse Blows Up Everything"
+    },
+    {
+      "id": 36,
+      "start": 53079.212336,
+      "end": 55250.212336,
+      "title": "12. We Check In to C.C.'s Spa & Resort"
+    },
+    {
+      "id": 37,
+      "start": 55250.212336,
+      "end": 56907.212336,
+      "title": "13. Annabeth Tries to Swim Home"
+    },
+    {
+      "id": 38,
+      "start": 56907.212336,
+      "end": 58248.212336,
+      "title": "14. We Meet the Sheep of Doom"
+    },
+    {
+      "id": 39,
+      "start": 58248.212336,
+      "end": 59257.212336,
+      "title": "15. Nobody Gets the Fleece"
+    },
+    {
+      "id": 40,
+      "start": 59257.212336,
+      "end": 59928.212652999995,
+      "title": "16. I Go Down with the Ship"
+    },
+    {
+      "id": 41,
+      "start": 59928.212652999995,
+      "end": 60909.212652999995,
+      "title": "17. We Get a Surprise on Miami Beach"
+    },
+    {
+      "id": 42,
+      "start": 60909.212652999995,
+      "end": 62129.21279,
+      "title": "18. The Party Ponies Invade"
+    },
+    {
+      "id": 43,
+      "start": 62129.21279,
+      "end": 63652.212336,
+      "title": "19. The Chariot Race Ends with a Bang"
+    },
+    {
+      "id": 44,
+      "start": 63652.212336,
+      "end": 64632.212336,
+      "title": "20. The Fleece Works Its Magic Too Well"
+    },
+    {
+      "id": 45,
+      "start": 64632.212336,
+      "end": 64716.279727999994,
+      "title": "Outro"
+    },
+    {
+      "id": 46,
+      "start": 64716.279727999994,
+      "end": 64729.279727999994,
+      "title": "Intro"
+    },
+    {
+      "id": 47,
+      "start": 64729.279727999994,
+      "end": 66345.279728,
+      "title": "1. My Rescue Operation Goes Very Wrong"
+    },
+    {
+      "id": 48,
+      "start": 66345.279728,
+      "end": 67525.279728,
+      "title": "2. The Vice Principal Gets a Missile Launcher"
+    },
+    {
+      "id": 49,
+      "start": 67525.279728,
+      "end": 69057.279728,
+      "title": "3. Bianca di Angelo Makes a Choice"
+    },
+    {
+      "id": 50,
+      "start": 69057.279728,
+      "end": 70277.279728,
+      "title": "4. Thalia Torches New England"
+    },
+    {
+      "id": 51,
+      "start": 70277.279728,
+      "end": 72089.279728,
+      "title": "5. I Place an Underwater Phone Call"
+    },
+    {
+      "id": 52,
+      "start": 72089.279728,
+      "end": 73703.279728,
+      "title": "6. An Old Dead Friend Comes to Visit"
+    },
+    {
+      "id": 53,
+      "start": 73703.279728,
+      "end": 75962.279728,
+      "title": "7. Everybody Hates Me but the Horse"
+    },
+    {
+      "id": 54,
+      "start": 75962.279728,
+      "end": 76957.279728,
+      "title": "8. I Make a Dangerous Promise"
+    },
+    {
+      "id": 55,
+      "start": 76957.279728,
+      "end": 78755.279728,
+      "title": "9. I Learn How to Grow Zombies"
+    },
+    {
+      "id": 56,
+      "start": 78755.279728,
+      "end": 79699.28018199999,
+      "title": "10. I Break a Few Rocket Ships"
+    },
+    {
+      "id": 57,
+      "start": 79699.28018199999,
+      "end": 80900.279728,
+      "title": "11. Grover Gets a Lamborghini"
+    },
+    {
+      "id": 58,
+      "start": 80900.279728,
+      "end": 82314.28018199999,
+      "title": "12. I Go Snowboarding with a Pig"
+    },
+    {
+      "id": 59,
+      "start": 82314.28018199999,
+      "end": 84759.279728,
+      "title": "13. We Visit the Junkyard of the Gods"
+    },
+    {
+      "id": 60,
+      "start": 84759.279728,
+      "end": 86803.279728,
+      "title": "14. I Have a Dam Problem"
+    },
+    {
+      "id": 61,
+      "start": 86803.279728,
+      "end": 88887.280091,
+      "title": "15. I Wrestle Santa's Evil Twin"
+    },
+    {
+      "id": 62,
+      "start": 88887.280091,
+      "end": 90967.279728,
+      "title": "16. We Meet the Dragon of Eternal Bad Breath"
+    },
+    {
+      "id": 63,
+      "start": 90967.279728,
+      "end": 92470.280091,
+      "title": "17. I Put on a Few Million Extra Pounds"
+    },
+    {
+      "id": 64,
+      "start": 92470.280091,
+      "end": 93309.279728,
+      "title": "18. A Friend Says Good-bye"
+    },
+    {
+      "id": 65,
+      "start": 93309.279728,
+      "end": 95127.28004499999,
+      "title": "19. The Gods Vote How to Kill Us"
+    },
+    {
+      "id": 66,
+      "start": 95127.28004499999,
+      "end": 96373.279728,
+      "title": "20. I Get a New Enemy for Christmas"
+    },
+    {
+      "id": 67,
+      "start": 96373.279728,
+      "end": 96444.57868499999,
+      "title": "Outro"
+    },
+    {
+      "id": 68,
+      "start": 96444.57868499999,
+      "end": 96458.57868499999,
+      "title": "Intro"
+    },
+    {
+      "id": 69,
+      "start": 96458.57868499999,
+      "end": 98102.57868499999,
+      "title": "1. I Battle the Cheerleading Squad"
+    },
+    {
+      "id": 70,
+      "start": 98102.57868499999,
+      "end": 100828.57868499999,
+      "title": "2. The Underworld Sends Me a Prank Call"
+    },
+    {
+      "id": 71,
+      "start": 100828.57868499999,
+      "end": 102816.57868499999,
+      "title": "3. We Play Tag with Scorpions"
+    },
+    {
+      "id": 72,
+      "start": 102816.57868499999,
+      "end": 104831.57868499999,
+      "title": "4. Annabeth Breaks the Rules"
+    },
+    {
+      "id": 73,
+      "start": 104831.57868499999,
+      "end": 106225.57868499999,
+      "title": "5. Nico Buys Happy Meals for the Dead"
+    },
+    {
+      "id": 74,
+      "start": 106225.57868499999,
+      "end": 107668.57868499999,
+      "title": "6. We Meet the God with Two Faces"
+    },
+    {
+      "id": 75,
+      "start": 107668.57868499999,
+      "end": 109155.57868499999,
+      "title": "7. Tyson Leads a Jailbreak"
+    },
+    {
+      "id": 76,
+      "start": 109155.57868499999,
+      "end": 111978.57868499999,
+      "title": "8. We Visit the Demon Dude Ranch"
+    },
+    {
+      "id": 77,
+      "start": 111978.57868499999,
+      "end": 113394.57868499999,
+      "title": "9. I Scoop Poop"
+    },
+    {
+      "id": 78,
+      "start": 113394.57868499999,
+      "end": 115956.57868499999,
+      "title": "10. We Play the Game Show of Death"
+    },
+    {
+      "id": 79,
+      "start": 115956.57868499999,
+      "end": 118104.57868499999,
+      "title": "11. I Set Myself on Fire"
+    },
+    {
+      "id": 80,
+      "start": 118104.57868499999,
+      "end": 120152.57868499999,
+      "title": "12. I Take a Permanent Vacation"
+    },
+    {
+      "id": 81,
+      "start": 120152.57868499999,
+      "end": 122621.57868499999,
+      "title": "13. We Hire a New Guide"
+    },
+    {
+      "id": 82,
+      "start": 122621.57868499999,
+      "end": 124635.57868499999,
+      "title": "14. My Brother Duels Me to the Death"
+    },
+    {
+      "id": 83,
+      "start": 124635.57868499999,
+      "end": 126713.57868499999,
+      "title": "15. We Steal Some Slightly Used Wings"
+    },
+    {
+      "id": 84,
+      "start": 126713.57868499999,
+      "end": 128444.57868499999,
+      "title": "16. I Open a Coffin"
+    },
+    {
+      "id": 85,
+      "start": 128444.57868499999,
+      "end": 129848.57868499999,
+      "title": "17. The Lost God Speaks"
+    },
+    {
+      "id": 86,
+      "start": 129848.57868499999,
+      "end": 131792.578685,
+      "title": "18. Grover Causes a Stampede"
+    },
+    {
+      "id": 87,
+      "start": 131792.578685,
+      "end": 132886.578685,
+      "title": "19. The Council Gets Cloven"
+    },
+    {
+      "id": 88,
+      "start": 132886.578685,
+      "end": 134383.578685,
+      "title": "20. My Birthday Party Takes a Dark Turn"
+    },
+    {
+      "id": 89,
+      "start": 134383.578685,
+      "end": 134415.548957,
+      "title": "Outro"
+    },
+    {
+      "id": 90,
+      "start": 134415.548957,
+      "end": 134428.548957,
+      "title": "Intro"
+    },
+    {
+      "id": 91,
+      "start": 134428.548957,
+      "end": 136907.548957,
+      "title": "1. I Go Cruising With Explosives"
+    },
+    {
+      "id": 92,
+      "start": 136907.548957,
+      "end": 138702.548957,
+      "title": "2. I Meet Some Fishy Relatives"
+    },
+    {
+      "id": 93,
+      "start": 138702.548957,
+      "end": 140679.548957,
+      "title": "3. I Get a Sneak Peek at My Death"
+    },
+    {
+      "id": 94,
+      "start": 140679.548957,
+      "end": 142286.548957,
+      "title": "4. We Burn a Metal Shroud"
+    },
+    {
+      "id": 95,
+      "start": 142286.548957,
+      "end": 143405.548957,
+      "title": "5. I Drive My Dog Into a Tree"
+    },
+    {
+      "id": 96,
+      "start": 143405.548957,
+      "end": 145506.548957,
+      "title": "6. My Cookies Get Scorched"
+    },
+    {
+      "id": 97,
+      "start": 145506.548957,
+      "end": 147428.548957,
+      "title": "7. My Math Teacher Gives Me a Lift"
+    },
+    {
+      "id": 98,
+      "start": 147428.548957,
+      "end": 148828.548957,
+      "title": "8. I Take the Worst Bath Ever"
+    },
+    {
+      "id": 99,
+      "start": 148828.548957,
+      "end": 151274.548957,
+      "title": "9. Two Snakes Save My Life"
+    },
+    {
+      "id": 100,
+      "start": 151274.548957,
+      "end": 153026.548957,
+      "title": "10. I Buy Some New Friends"
+    },
+    {
+      "id": 101,
+      "start": 153026.548957,
+      "end": 154366.548957,
+      "title": "11. We Break a Bridge"
+    },
+    {
+      "id": 102,
+      "start": 154366.548957,
+      "end": 156525.548957,
+      "title": "12. Rachel Makes a Bad Deal"
+    },
+    {
+      "id": 103,
+      "start": 156525.548957,
+      "end": 158206.548957,
+      "title": "13. A Titan Brings Me a Present"
+    },
+    {
+      "id": 104,
+      "start": 158206.548957,
+      "end": 160802.54936499998,
+      "title": "14. Pigs Fly"
+    },
+    {
+      "id": 105,
+      "start": 160802.54936499998,
+      "end": 162857.54911599998,
+      "title": "15. Chiron Throws a Party"
+    },
+    {
+      "id": 106,
+      "start": 162857.54911599998,
+      "end": 165069.548957,
+      "title": "16. We Get Help from a Thief"
+    },
+    {
+      "id": 107,
+      "start": 165069.548957,
+      "end": 166721.549274,
+      "title": "17. I Sit on the Hot Seat"
+    },
+    {
+      "id": 108,
+      "start": 166721.549274,
+      "end": 167619.549116,
+      "title": "18. My Parents Go Commando"
+    },
+    {
+      "id": 109,
+      "start": 167619.549116,
+      "end": 169581.549274,
+      "title": "19. We Trash the Eternal City"
+    },
+    {
+      "id": 110,
+      "start": 169581.549274,
+      "end": 171380.548957,
+      "title": "20. We Win Fabulous Prizes"
+    },
+    {
+      "id": 111,
+      "start": 171380.548957,
+      "end": 172088.549274,
+      "title": "21. Blackjack Gets Jacked"
+    },
+    {
+      "id": 112,
+      "start": 172088.549274,
+      "end": 173376.548957,
+      "title": "22. I Am Dumped"
+    },
+    {
+      "id": 113,
+      "start": 173376.548957,
+      "end": 174065.548957,
+      "title": "23. We Say Good-bye, Sort Of"
+    },
+    {
+      "id": 114,
+      "start": 174065.548957,
+      "end": 174099.214943,
+      "title": "Outro"
+    }
+  ],
+  "title": "Percy Jackson and the Olympians",
+  "subtitle": null,
+  "authors": [
+    "Rick Riordan"
+  ],
+  "narrators": [
+    "Jesse Bernstein"
+  ],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2006",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

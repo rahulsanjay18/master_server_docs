@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Man Plus
+artist=Frederik Pohl
+album_artist=Frederik Pohl
+album=Man Plus
+genre=Fiction
+date=1977
+copyright=Spectra
+publisher=Spectra
+TRACKTOTAL=87

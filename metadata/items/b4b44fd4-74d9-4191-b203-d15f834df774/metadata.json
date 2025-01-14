@@ -1,0 +1,76 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 33.9,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 33.9,
+      "end": 5188.333,
+      "title": "Chapter 1: Sister Panic"
+    },
+    {
+      "id": 2,
+      "start": 5188.333,
+      "end": 9571.098,
+      "title": "Chapter 2: The Cold War Commences"
+    },
+    {
+      "id": 3,
+      "start": 9571.098,
+      "end": 13957.346,
+      "title": "Chapter 3: It’s Not a Sister Complex"
+    },
+    {
+      "id": 4,
+      "start": 13957.346,
+      "end": 18923.142,
+      "title": "Chapter 4: Complex Congratulations"
+    },
+    {
+      "id": 5,
+      "start": 18923.142,
+      "end": 19814.394,
+      "title": "Last Chapter: And the Fall Brings…"
+    },
+    {
+      "id": 6,
+      "start": 19814.394,
+      "end": 19905.044,
+      "title": "Afterword"
+    },
+    {
+      "id": 7,
+      "start": 19905.044,
+      "end": 20029.856,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Rascal Does Not Dream of Siscon Idol",
+  "subtitle": null,
+  "authors": [
+    "Andrew Grace"
+  ],
+  "narrators": [
+    "Hajime Kamoshida"
+  ],
+  "series": [
+    "Rascal Does Not Dream of #04"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "May 9, 2015 (03-14-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

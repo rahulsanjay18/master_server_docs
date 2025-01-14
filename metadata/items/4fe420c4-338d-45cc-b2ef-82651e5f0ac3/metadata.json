@@ -1,0 +1,525 @@
+{
+  "tags": [
+    "Science Fiction",
+    "Adventure",
+    "Space Opera"
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 40.634014,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 40.634014,
+      "end": 75.634014,
+      "title": "Dedication",
+      "id": 1
+    },
+    {
+      "start": 75.634014,
+      "end": 90.634014,
+      "title": "Epigraph",
+      "id": 2
+    },
+    {
+      "start": 90.634014,
+      "end": 677.882018,
+      "title": "Prologue",
+      "id": 3
+    },
+    {
+      "start": 677.882018,
+      "end": 1479.876032,
+      "title": "1",
+      "id": 4
+    },
+    {
+      "start": 1479.876032,
+      "end": 2519.410045,
+      "title": "2",
+      "id": 5
+    },
+    {
+      "start": 2519.410045,
+      "end": 3719.045057,
+      "title": "3",
+      "id": 6
+    },
+    {
+      "start": 3719.045057,
+      "end": 4341.502063,
+      "title": "4",
+      "id": 7
+    },
+    {
+      "start": 4341.502063,
+      "end": 5053.843084,
+      "title": "5",
+      "id": 8
+    },
+    {
+      "start": 5053.843084,
+      "end": 6041.875102,
+      "title": "6",
+      "id": 9
+    },
+    {
+      "start": 6041.875102,
+      "end": 6894.836122,
+      "title": "7",
+      "id": 10
+    },
+    {
+      "start": 6894.836122,
+      "end": 7762.960136,
+      "title": "8",
+      "id": 11
+    },
+    {
+      "start": 7762.960136,
+      "end": 9163.703152,
+      "title": "9",
+      "id": 12
+    },
+    {
+      "start": 9163.703152,
+      "end": 10180.899161,
+      "title": "10",
+      "id": 13
+    },
+    {
+      "start": 10180.899161,
+      "end": 10612.813175,
+      "title": "11",
+      "id": 14
+    },
+    {
+      "start": 10612.813175,
+      "end": 11408.862177,
+      "title": "12",
+      "id": 15
+    },
+    {
+      "start": 11408.862177,
+      "end": 12322.660181,
+      "title": "13",
+      "id": 16
+    },
+    {
+      "start": 12322.660181,
+      "end": 13471.0022,
+      "title": "14",
+      "id": 17
+    },
+    {
+      "start": 13471.0022,
+      "end": 14126.756213,
+      "title": "15",
+      "id": 18
+    },
+    {
+      "start": 14126.756213,
+      "end": 14962.790227,
+      "title": "16",
+      "id": 19
+    },
+    {
+      "start": 14962.790227,
+      "end": 16029.468231,
+      "title": "17",
+      "id": 20
+    },
+    {
+      "start": 16029.468231,
+      "end": 17321.12424,
+      "title": "18",
+      "id": 21
+    },
+    {
+      "start": 17321.12424,
+      "end": 17979.87424,
+      "title": "19",
+      "id": 22
+    },
+    {
+      "start": 17979.87424,
+      "end": 18917.936259,
+      "title": "20",
+      "id": 23
+    },
+    {
+      "start": 18917.936259,
+      "end": 19909.450272,
+      "title": "21",
+      "id": 24
+    },
+    {
+      "start": 19909.450272,
+      "end": 20646.660272,
+      "title": "22",
+      "id": 25
+    },
+    {
+      "start": 20646.660272,
+      "end": 21214.875283,
+      "title": "23",
+      "id": 26
+    },
+    {
+      "start": 21214.875283,
+      "end": 21864.104286,
+      "title": "24",
+      "id": 27
+    },
+    {
+      "start": 21864.104286,
+      "end": 22615.896304,
+      "title": "25",
+      "id": 28
+    },
+    {
+      "start": 22615.896304,
+      "end": 23898.937324,
+      "title": "26",
+      "id": 29
+    },
+    {
+      "start": 23898.937324,
+      "end": 24607.145329,
+      "title": "27",
+      "id": 30
+    },
+    {
+      "start": 24607.145329,
+      "end": 25226.676349,
+      "title": "28",
+      "id": 31
+    },
+    {
+      "start": 25226.676349,
+      "end": 26668.611361,
+      "title": "29",
+      "id": 32
+    },
+    {
+      "start": 26668.611361,
+      "end": 27289.164376,
+      "title": "30",
+      "id": 33
+    },
+    {
+      "start": 27289.164376,
+      "end": 28186.963379,
+      "title": "31",
+      "id": 34
+    },
+    {
+      "start": 28186.963379,
+      "end": 29199.956395,
+      "title": "32",
+      "id": 35
+    },
+    {
+      "start": 29199.956395,
+      "end": 30020.224399,
+      "title": "33",
+      "id": 36
+    },
+    {
+      "start": 30020.224399,
+      "end": 30924.734399,
+      "title": "34",
+      "id": 37
+    },
+    {
+      "start": 30924.734399,
+      "end": 31697.81941,
+      "title": "35",
+      "id": 38
+    },
+    {
+      "start": 31697.81941,
+      "end": 32657.56941,
+      "title": "36",
+      "id": 39
+    },
+    {
+      "start": 32657.56941,
+      "end": 33790.981429,
+      "title": "37",
+      "id": 40
+    },
+    {
+      "start": 33790.981429,
+      "end": 34357.269433,
+      "title": "38",
+      "id": 41
+    },
+    {
+      "start": 34357.269433,
+      "end": 35206.817438,
+      "title": "39",
+      "id": 42
+    },
+    {
+      "start": 35206.817438,
+      "end": 36344.803447,
+      "title": "40",
+      "id": 43
+    },
+    {
+      "start": 36344.803447,
+      "end": 37726.250454,
+      "title": "41",
+      "id": 44
+    },
+    {
+      "start": 37726.250454,
+      "end": 38573.081474,
+      "title": "42",
+      "id": 45
+    },
+    {
+      "start": 38573.081474,
+      "end": 39276.436485,
+      "title": "43",
+      "id": 46
+    },
+    {
+      "start": 39276.436485,
+      "end": 39947.376485,
+      "title": "44",
+      "id": 47
+    },
+    {
+      "start": 39947.376485,
+      "end": 40569.159501,
+      "title": "45",
+      "id": 48
+    },
+    {
+      "start": 40569.159501,
+      "end": 42093.850522,
+      "title": "46",
+      "id": 49
+    },
+    {
+      "start": 42093.850522,
+      "end": 42751.021542,
+      "title": "47",
+      "id": 50
+    },
+    {
+      "start": 42751.021542,
+      "end": 43279.391542,
+      "title": "48",
+      "id": 51
+    },
+    {
+      "start": 43279.391542,
+      "end": 43800.864558,
+      "title": "49",
+      "id": 52
+    },
+    {
+      "start": 43800.864558,
+      "end": 44332.090567,
+      "title": "50",
+      "id": 53
+    },
+    {
+      "start": 44332.090567,
+      "end": 45570.619569,
+      "title": "51",
+      "id": 54
+    },
+    {
+      "start": 45570.619569,
+      "end": 46207.147574,
+      "title": "52",
+      "id": 55
+    },
+    {
+      "start": 46207.147574,
+      "end": 46855.982585,
+      "title": "53",
+      "id": 56
+    },
+    {
+      "start": 46855.982585,
+      "end": 47224.389592,
+      "title": "54",
+      "id": 57
+    },
+    {
+      "start": 47224.389592,
+      "end": 48606.37161,
+      "title": "55",
+      "id": 58
+    },
+    {
+      "start": 48606.37161,
+      "end": 49684.984626,
+      "title": "56",
+      "id": 59
+    },
+    {
+      "start": 49684.984626,
+      "end": 50229.027642,
+      "title": "57",
+      "id": 60
+    },
+    {
+      "start": 50229.027642,
+      "end": 51445.311655,
+      "title": "58",
+      "id": 61
+    },
+    {
+      "start": 51445.311655,
+      "end": 51879.965669,
+      "title": "59",
+      "id": 62
+    },
+    {
+      "start": 51879.965669,
+      "end": 53329.447687,
+      "title": "60",
+      "id": 63
+    },
+    {
+      "start": 53329.447687,
+      "end": 54284.367687,
+      "title": "61",
+      "id": 64
+    },
+    {
+      "start": 54284.367687,
+      "end": 55386.618707,
+      "title": "62",
+      "id": 65
+    },
+    {
+      "start": 55386.618707,
+      "end": 56203.054717,
+      "title": "63",
+      "id": 66
+    },
+    {
+      "start": 56203.054717,
+      "end": 57352.720726,
+      "title": "64",
+      "id": 67
+    },
+    {
+      "start": 57352.720726,
+      "end": 57782.800726,
+      "title": "65",
+      "id": 68
+    },
+    {
+      "start": 57782.800726,
+      "end": 58490.126735,
+      "title": "66",
+      "id": 69
+    },
+    {
+      "start": 58490.126735,
+      "end": 59562.284739,
+      "title": "67",
+      "id": 70
+    },
+    {
+      "start": 59562.284739,
+      "end": 60330.58576,
+      "title": "68",
+      "id": 71
+    },
+    {
+      "start": 60330.58576,
+      "end": 60978.653764,
+      "title": "69",
+      "id": 72
+    },
+    {
+      "start": 60978.653764,
+      "end": 61897.884785,
+      "title": "70",
+      "id": 73
+    },
+    {
+      "start": 61897.884785,
+      "end": 62857.564785,
+      "title": "71",
+      "id": 74
+    },
+    {
+      "start": 62857.564785,
+      "end": 63556.159796,
+      "title": "72",
+      "id": 75
+    },
+    {
+      "start": 63556.159796,
+      "end": 64289.885805,
+      "title": "73",
+      "id": 76
+    },
+    {
+      "start": 64289.885805,
+      "end": 65206.028821,
+      "title": "74",
+      "id": 77
+    },
+    {
+      "start": 65206.028821,
+      "end": 65888.973832,
+      "title": "75",
+      "id": 78
+    },
+    {
+      "start": 65888.973832,
+      "end": 66671.903832,
+      "title": "76",
+      "id": 79
+    },
+    {
+      "start": 66671.903832,
+      "end": 67051.061837,
+      "title": "77",
+      "id": 80
+    },
+    {
+      "start": 67051.061837,
+      "end": 67115,
+      "title": "End Credits",
+      "id": 81
+    }
+  ],
+  "title": "Navigators of Dune",
+  "subtitle": null,
+  "authors": [
+    "Brian Herbert",
+    "Kevin J. Anderson"
+  ],
+  "narrators": [
+    "Scott Brick"
+  ],
+  "series": [
+    "Dune Saga #6"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2022-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "Brian Herbert and Kevin J. Anderson's Navigators of Dune is the climactic finale of the Great Schools of Dune trilogy, set 10,000 years before Frank Herbert's classic Dune.  The story line tells the origins of the Bene Gesserit Sisterhood and its breeding program, the human-computer Mentats, and the Navigators (the Spacing Guild), as well as a crucial battle for the future of the human race, in which reason faces off against fanaticism. These events have far-reaching consequences that will set the stage for Dune, millennia later.",
+  "isbn": null,
+  "asin": "B01JYCRKFM",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

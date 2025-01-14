@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Dresden Files 10.0 - Small Favor
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 10.0 - Small Favor
+genre=Audiobook
+composer=Jim Butcher
+TRACKTOTAL=200
+grouping=Jim Butcher - Dresden Files 22GB \#10

@@ -1,0 +1,73 @@
+{
+  "tags": [
+    "Genre Fiction",
+    "Contemporary Fiction"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 143.668667,
+      "title": "1-7-The Monarch of the Glen-Neal Gaiman"
+    },
+    {
+      "id": 1,
+      "start": 143.668667,
+      "end": 1292.712,
+      "title": "2-7-The Monarch of the Glen-Neal Gaiman"
+    },
+    {
+      "id": 2,
+      "start": 1292.712,
+      "end": 2455.0516669999997,
+      "title": "3-7-The Monarch of the Glen-Neal Gaiman"
+    },
+    {
+      "id": 3,
+      "start": 2455.0516669999997,
+      "end": 3311.7848339999996,
+      "title": "4-7-The Monarch of the Glen-Neal Gaiman"
+    },
+    {
+      "id": 4,
+      "start": 3311.7848339999996,
+      "end": 4175.597167,
+      "title": "5-7-The Monarch of the Glen-Neal Gaiman"
+    },
+    {
+      "id": 5,
+      "start": 4175.597167,
+      "end": 5036.6666669999995,
+      "title": "6-7-The Monarch of the Glen-Neal Gaiman"
+    },
+    {
+      "id": 6,
+      "start": 5036.6666669999995,
+      "end": 5774.5165,
+      "title": "7-7-The Monarch of the Glen-Neal Gaiman"
+    }
+  ],
+  "title": "The Monarch of the Glen",
+  "subtitle": null,
+  "authors": [
+    "Neil Gaiman"
+  ],
+  "narrators": [
+    "Neil Gaiman"
+  ],
+  "series": [
+    "American Gods #1.5"
+  ],
+  "genres": [
+    "Literature & Fiction"
+  ],
+  "publishedYear": "2016-01-01",
+  "publishedDate": null,
+  "publisher": "Headline",
+  "description": "He was not sure what he had been looking for. He only knew that he had not found it.  Shadow Moon has been away from America for nearly two years. His nights are broken with dangerous dreams. Sometimes he almost believes he doesn't care if he ever returns home.  In the Highlands of Scotland, where the sky is pale white and it feels as remote as any place can possibly be, the beautiful and the wealthy gather at a grand old house in the glen. And when the strange local doctor offers him work at the party, Shadow is intrigued. He knows there is no good reason for him to be there. So what do they want with him?",
+  "isbn": null,
+  "asin": "B01LYRCT7L",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

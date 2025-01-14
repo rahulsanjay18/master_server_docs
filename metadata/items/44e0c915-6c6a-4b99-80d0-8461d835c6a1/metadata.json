@@ -1,0 +1,101 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3.46,
+      "title": "Intro - Audible Credits"
+    },
+    {
+      "id": 1,
+      "start": 3.46,
+      "end": 17.92,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 2,
+      "start": 17.92,
+      "end": 606.04,
+      "title": "Prologue"
+    },
+    {
+      "id": 3,
+      "start": 606.04,
+      "end": 5219.31,
+      "title": "1: Foreign Customs"
+    },
+    {
+      "id": 4,
+      "start": 5219.31,
+      "end": 9936.6,
+      "title": "2: The Baton Passes to Uruz-7"
+    },
+    {
+      "id": 5,
+      "start": 9936.6,
+      "end": 13906.8,
+      "title": "3: He Who Chases Two Hares..."
+    },
+    {
+      "id": 6,
+      "start": 13906.8,
+      "end": 17604.39,
+      "title": "4: The Fuse of Battle"
+    },
+    {
+      "id": 7,
+      "start": 17604.39,
+      "end": 23123.98,
+      "title": "5: Behemoth"
+    },
+    {
+      "id": 8,
+      "start": 23123.98,
+      "end": 23417.83,
+      "title": "Epilogue"
+    },
+    {
+      "id": 9,
+      "start": 23417.83,
+      "end": 23451.19,
+      "title": "Outro - Advertisement"
+    },
+    {
+      "id": 10,
+      "start": 23451.19,
+      "end": 23512.08,
+      "title": "Outro - Ending Credits ☕"
+    },
+    {
+      "id": 11,
+      "start": 23512.08,
+      "end": 23516.822,
+      "title": "Outro - Audible Credits"
+    }
+  ],
+  "title": "Full Metal Panic!, Vol. 02: Rampaging One Night Stand",
+  "subtitle": null,
+  "authors": [
+    "Luci Christian",
+    "Chris Patton"
+  ],
+  "narrators": [
+    "Shouji Gatou"
+  ],
+  "series": [
+    "Full Metal Panic! #02"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "December 18, 1998 (12-12-23)",
+  "publishedDate": null,
+  "publisher": "Podium Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

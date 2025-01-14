@@ -1,0 +1,285 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2773.809,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 2773.809,
+      "end": 3906.2,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 3906.2,
+      "end": 5424.831,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 5424.831,
+      "end": 6587.361,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 6587.361,
+      "end": 7605.324,
+      "title": "005"
+    },
+    {
+      "id": 5,
+      "start": 7605.324,
+      "end": 8523.58,
+      "title": "006"
+    },
+    {
+      "id": 6,
+      "start": 8523.58,
+      "end": 9097.438,
+      "title": "007"
+    },
+    {
+      "id": 7,
+      "start": 9097.438,
+      "end": 10645.42,
+      "title": "008"
+    },
+    {
+      "id": 8,
+      "start": 10645.42,
+      "end": 10956.382,
+      "title": "009"
+    },
+    {
+      "id": 9,
+      "start": 10956.382,
+      "end": 11665.519,
+      "title": "010"
+    },
+    {
+      "id": 10,
+      "start": 11665.519,
+      "end": 12559.627,
+      "title": "011"
+    },
+    {
+      "id": 11,
+      "start": 12559.627,
+      "end": 13922.359,
+      "title": "012"
+    },
+    {
+      "id": 12,
+      "start": 13922.359,
+      "end": 15139.735,
+      "title": "013"
+    },
+    {
+      "id": 13,
+      "start": 15139.735,
+      "end": 16224.06,
+      "title": "014"
+    },
+    {
+      "id": 14,
+      "start": 16224.06,
+      "end": 17346.42,
+      "title": "015"
+    },
+    {
+      "id": 15,
+      "start": 17346.42,
+      "end": 18034.892,
+      "title": "016"
+    },
+    {
+      "id": 16,
+      "start": 18034.892,
+      "end": 19158.645,
+      "title": "017"
+    },
+    {
+      "id": 17,
+      "start": 19158.645,
+      "end": 19524.591,
+      "title": "018"
+    },
+    {
+      "id": 18,
+      "start": 19524.591,
+      "end": 20581.192,
+      "title": "019"
+    },
+    {
+      "id": 19,
+      "start": 20581.192,
+      "end": 22379.578,
+      "title": "020"
+    },
+    {
+      "id": 20,
+      "start": 22379.578,
+      "end": 23620.777,
+      "title": "021"
+    },
+    {
+      "id": 21,
+      "start": 23620.777,
+      "end": 24459.946,
+      "title": "022"
+    },
+    {
+      "id": 22,
+      "start": 24459.946,
+      "end": 25417.816,
+      "title": "023"
+    },
+    {
+      "id": 23,
+      "start": 25417.816,
+      "end": 26538.457,
+      "title": "024"
+    },
+    {
+      "id": 24,
+      "start": 26538.457,
+      "end": 27758.062,
+      "title": "025"
+    },
+    {
+      "id": 25,
+      "start": 27758.062,
+      "end": 28287.013,
+      "title": "026"
+    },
+    {
+      "id": 26,
+      "start": 28287.013,
+      "end": 31085.389,
+      "title": "027"
+    },
+    {
+      "id": 27,
+      "start": 31085.389,
+      "end": 33211.919,
+      "title": "028"
+    },
+    {
+      "id": 28,
+      "start": 33211.919,
+      "end": 34847.579,
+      "title": "029"
+    },
+    {
+      "id": 29,
+      "start": 34847.579,
+      "end": 36076.843,
+      "title": "030"
+    },
+    {
+      "id": 30,
+      "start": 36076.843,
+      "end": 37227.903,
+      "title": "031"
+    },
+    {
+      "id": 31,
+      "start": 37227.903,
+      "end": 38137.428,
+      "title": "032"
+    },
+    {
+      "id": 32,
+      "start": 38137.428,
+      "end": 39145.499,
+      "title": "033"
+    },
+    {
+      "id": 33,
+      "start": 39145.499,
+      "end": 39500.95,
+      "title": "034"
+    },
+    {
+      "id": 34,
+      "start": 39500.95,
+      "end": 40669.936,
+      "title": "035"
+    },
+    {
+      "id": 35,
+      "start": 40669.936,
+      "end": 41672.806,
+      "title": "036"
+    },
+    {
+      "id": 36,
+      "start": 41672.806,
+      "end": 43795.435,
+      "title": "037"
+    },
+    {
+      "id": 37,
+      "start": 43795.435,
+      "end": 45087.579,
+      "title": "038"
+    },
+    {
+      "id": 38,
+      "start": 45087.579,
+      "end": 45782.505,
+      "title": "039"
+    },
+    {
+      "id": 39,
+      "start": 45782.505,
+      "end": 46813.425,
+      "title": "040"
+    },
+    {
+      "id": 40,
+      "start": 46813.425,
+      "end": 48047.008,
+      "title": "041"
+    },
+    {
+      "id": 41,
+      "start": 48047.008,
+      "end": 48911.719,
+      "title": "042"
+    },
+    {
+      "id": 42,
+      "start": 48911.719,
+      "end": 50204.142585,
+      "title": "043"
+    }
+  ],
+  "title": "The City in the Middle of the Night",
+  "subtitle": null,
+  "authors": [
+    "Charlie Jane Anders"
+  ],
+  "narrators": [
+    "Jennifer O'Donnell",
+    "Laura Knight Keating"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2019-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "January is a dying planet - divided between a permanently frozen darkness on one side, and blazing endless sunshine on the other. Humanity clings to life, spread across two archaic cities built in the sliver of habitable dusk. Sophie, a student and reluctant revolutionary, is supposed to be dead, after being exiled into the night. Saved only by forming an unusual bond with the enigmatic beasts who roam the ice, Sophie vows to stay hidden from the world, hoping she can heal.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

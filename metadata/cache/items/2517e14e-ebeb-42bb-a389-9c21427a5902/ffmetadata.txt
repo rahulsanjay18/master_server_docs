@@ -1,0 +1,15 @@
+;FFMETADATA1
+title=Peace Talks
+artist=Jim Butcher
+album_artist=Jim Butcher
+album=Peace Talks: The Dresden Files, Book 16
+TIT3=The Dresden Files, Book 16
+genre=Audiobook
+date=2020
+comment=Meet Harry Dresden, Chicago's first (and only) wizard PI. Turns out the 'everyday' world is full of strange and magical things - and most of them don't play well with humans. That's where Harry comes in.�But he's forgotten his own golden rule: magic - it can get a guy killed.
+description=Meet Harry Dresden, Chicago's first (and only) wizard PI. Turns out the 'everyday' world is full of strange and magical things - and most of them don't play well with humans. That's where Harry comes in.�But he's forgotten his own golden rule: magic - it can get a guy killed.
+composer=James Marsters
+copyright=Hachette Audio UK
+publisher=Hachette Audio UK
+TRACKTOTAL=38
+grouping=Jim Butcher - Dresden Files 22GB \#16

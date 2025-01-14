@@ -1,0 +1,286 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3316.877,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 3316.877,
+      "end": 6335.193,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 6335.193,
+      "end": 9008.785,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 9008.785,
+      "end": 11219.742,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 11219.742,
+      "end": 12671.918,
+      "title": "005"
+    },
+    {
+      "id": 5,
+      "start": 12671.918,
+      "end": 14297.779,
+      "title": "006"
+    },
+    {
+      "id": 6,
+      "start": 14297.779,
+      "end": 16417.854,
+      "title": "007"
+    },
+    {
+      "id": 7,
+      "start": 16417.854,
+      "end": 17874.767,
+      "title": "008"
+    },
+    {
+      "id": 8,
+      "start": 17874.767,
+      "end": 18849.169,
+      "title": "009"
+    },
+    {
+      "id": 9,
+      "start": 18849.169,
+      "end": 21144.508,
+      "title": "010"
+    },
+    {
+      "id": 10,
+      "start": 21144.508,
+      "end": 22899.983,
+      "title": "011"
+    },
+    {
+      "id": 11,
+      "start": 22899.983,
+      "end": 24393.166,
+      "title": "012"
+    },
+    {
+      "id": 12,
+      "start": 24393.166,
+      "end": 26099.786,
+      "title": "013"
+    },
+    {
+      "id": 13,
+      "start": 26099.786,
+      "end": 28468.175,
+      "title": "014"
+    },
+    {
+      "id": 14,
+      "start": 28468.175,
+      "end": 30544.642,
+      "title": "015"
+    },
+    {
+      "id": 15,
+      "start": 30544.642,
+      "end": 32311.449,
+      "title": "016"
+    },
+    {
+      "id": 16,
+      "start": 32311.449,
+      "end": 33382.028,
+      "title": "017"
+    },
+    {
+      "id": 17,
+      "start": 33382.028,
+      "end": 35642.491,
+      "title": "018"
+    },
+    {
+      "id": 18,
+      "start": 35642.491,
+      "end": 37584.933,
+      "title": "019"
+    },
+    {
+      "id": 19,
+      "start": 37584.933,
+      "end": 39632.515,
+      "title": "020"
+    },
+    {
+      "id": 20,
+      "start": 39632.515,
+      "end": 41666.443,
+      "title": "021"
+    },
+    {
+      "id": 21,
+      "start": 41666.443,
+      "end": 43335.865,
+      "title": "022"
+    },
+    {
+      "id": 22,
+      "start": 43335.865,
+      "end": 45543.293,
+      "title": "023"
+    },
+    {
+      "id": 23,
+      "start": 45543.293,
+      "end": 47595.52,
+      "title": "024"
+    },
+    {
+      "id": 24,
+      "start": 47595.52,
+      "end": 49517.76,
+      "title": "025"
+    },
+    {
+      "id": 25,
+      "start": 49517.76,
+      "end": 51490.528,
+      "title": "026"
+    },
+    {
+      "id": 26,
+      "start": 51490.528,
+      "end": 53203.231,
+      "title": "027"
+    },
+    {
+      "id": 27,
+      "start": 53203.231,
+      "end": 55514.546,
+      "title": "028"
+    },
+    {
+      "id": 28,
+      "start": 55514.546,
+      "end": 58149.221,
+      "title": "029"
+    },
+    {
+      "id": 29,
+      "start": 58149.221,
+      "end": 61872.773,
+      "title": "030"
+    },
+    {
+      "id": 30,
+      "start": 61872.773,
+      "end": 64229.645,
+      "title": "031"
+    },
+    {
+      "id": 31,
+      "start": 64229.645,
+      "end": 66035.693,
+      "title": "032"
+    },
+    {
+      "id": 32,
+      "start": 66035.693,
+      "end": 67585.811,
+      "title": "033"
+    },
+    {
+      "id": 33,
+      "start": 67585.811,
+      "end": 68514.237,
+      "title": "034"
+    },
+    {
+      "id": 34,
+      "start": 68514.237,
+      "end": 70666.402,
+      "title": "035"
+    },
+    {
+      "id": 35,
+      "start": 70666.402,
+      "end": 73031.029,
+      "title": "036"
+    },
+    {
+      "id": 36,
+      "start": 73031.029,
+      "end": 75160.346,
+      "title": "037"
+    },
+    {
+      "id": 37,
+      "start": 75160.346,
+      "end": 77888.83,
+      "title": "038"
+    },
+    {
+      "id": 38,
+      "start": 77888.83,
+      "end": 78992.567,
+      "title": "039"
+    },
+    {
+      "id": 39,
+      "start": 78992.567,
+      "end": 80963.895,
+      "title": "040"
+    },
+    {
+      "id": 40,
+      "start": 80963.895,
+      "end": 82677.109,
+      "title": "041"
+    },
+    {
+      "id": 41,
+      "start": 82677.109,
+      "end": 83006.833,
+      "title": "042"
+    },
+    {
+      "id": 42,
+      "start": 83006.833,
+      "end": 87246.657596,
+      "title": "043"
+    }
+  ],
+  "title": "12 - Mission of Honor",
+  "subtitle": null,
+  "authors": [
+    "David Weber"
+  ],
+  "narrators": [
+    "Allyson Johnson"
+  ],
+  "series": [
+    "Honor Harrington #12"
+  ],
+  "genres": [
+    "Space Opera, Military SF, Science Fiction"
+  ],
+  "publishedYear": "2010-06-21T20:55:43Z",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "The Star Kingdom of Manticore and the Republic of Haven have been enemies for Honor Harrington's entire life, and she has paid a price for the victories she's achieved in that conflict. And now the unstoppable juggernaut of the mighty Solarian League is on a collision course with Manticore. The millions who have already died may have been only a foretaste of the billions of casualties just over the horizon, and Honor sees it coming. She's prepared to do anything, risk anything, to stop it, and she has a plan that may finally bring an end to the Havenite Wars and give even the Solarian League pause. But there are things not even Honor knows about. There are forces in play, hidden enemies in motion, all converging on the Star Kingdom of Manticore to crush the very life out of it, and Honor's worst nightmares fall short of the oncoming reality. But Manticore's enemies may not have thought of everything after all. Because if everything Honor Harrington loves is going down to destruction, it won't be going alone. A Note from Author David Weber There’s been some confusion—not to say, um, energetic debate, readers and fans being readers and fans—about the correct pronunciation of “Manticoran.” The truth, alas, is that a stitch was dropped. An error occurred. A mistake was made... and it wasn’t Audible’s fault. It was mine. Before Audible recorded the very first Honor Harrington book, narrator Allyson Johnson and I not only corresponded by e-mail but actually spoke to one another by phone. She wanted to make absolutely certain she had the correct pronunciations for names, places, star nations, etc., and I tried to make certain all of her questions were answered. And so they were. Unfortunately, at some point in the process, I replied to one of her e-mails by telling her that “Man-ti-core-ahn” was pronounced “Man-tik-er-ahn.” Exactly how this happened is more than I can say at this point, except to blushingly disclose that ...",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

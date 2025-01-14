@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Record of a Spaceborn Few
+artist=Becky Chambers
+album_artist=Becky Chambers
+album=Record of a Spaceborn Few
+genre=Audiobooks
+date=2019-01-01
+TRACKTOTAL=1

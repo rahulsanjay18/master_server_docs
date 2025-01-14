@@ -1,0 +1,60 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 319.399184,
+      "title": "Introduction and Preface"
+    },
+    {
+      "id": 1,
+      "start": 319.399184,
+      "end": 7568.9534699999995,
+      "title": "Part I; The Palace"
+    },
+    {
+      "id": 2,
+      "start": 7568.9534699999995,
+      "end": 13405.75347,
+      "title": "Part II; The Temple"
+    },
+    {
+      "id": 3,
+      "start": 13405.75347,
+      "end": 17821.596735,
+      "title": "Part III; The Bell"
+    },
+    {
+      "id": 4,
+      "start": 17821.596735,
+      "end": 20943.151020999998,
+      "title": "Part IV; The Tower"
+    },
+    {
+      "id": 5,
+      "start": 20943.151020999998,
+      "end": 30504.019591999997,
+      "title": "Part V; Ascension"
+    }
+  ],
+  "title": "The Fountains of Paradise",
+  "subtitle": null,
+  "authors": [
+    "Arthur C. Clarke"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Science Fiction"
+  ],
+  "publishedYear": "1979",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Unabridged",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

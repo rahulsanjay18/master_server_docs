@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Dresden Files 11.5 - Love Hurts
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 11.5 - Love Hurts
+genre=Audiobook
+composer=Jim Butcher
+TRACKTOTAL=2
+grouping=Jim Butcher - Dresden Files 22GB \#11.5

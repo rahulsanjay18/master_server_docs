@@ -1,0 +1,14 @@
+;FFMETADATA1
+title=Sandworms of Dune
+artist=Brian Herbert, Kevin J. Anderson
+album_artist=Brian Herbert, Kevin J. Anderson
+album=Sandworms of Dune
+genre=Science Fiction & Fantasy
+date=2021-01-01
+comment=Book two in the stunning conclusion to Frank Herbert's worldwide best-selling Dune Chronicles  At the end of Frank Herbert's final novel, Chapterhouse: Dune, a ship carrying a crew of refugees escapes into the uncharted galaxy, fleeing from a terrifying, mysterious Enemy. The fugitives used genetic technology to revive key figures from Dune's past - including Paul Muad'Dib and Lady Jessica - to use their special talents to meet the challenges thrown at them. Based directly on Frank Herbert's final outline, which lay hidden in two safe-deposit boxes for a decade, Sandworms of Dune will answer the urgent questions Dune fans have been debating for two decades: the origin of the Honored Matres, the tantalizing future of the planet Arrakis, the final revelation of the Kwisatz Haderach, and the resolution to the war between Man and Machine. This breathtaking new novel in Frank Herbert's Dune series has enough surprises and plot twists to please even the most demanding listener.
+description=Book two in the stunning conclusion to Frank Herbert's worldwide best-selling Dune Chronicles  At the end of Frank Herbert's final novel, Chapterhouse: Dune, a ship carrying a crew of refugees escapes into the uncharted galaxy, fleeing from a terrifying, mysterious Enemy. The fugitives used genetic technology to revive key figures from Dune's past - including Paul Muad'Dib and Lady Jessica - to use their special talents to meet the challenges thrown at them. Based directly on Frank Herbert's final outline, which lay hidden in two safe-deposit boxes for a decade, Sandworms of Dune will answer the urgent questions Dune fans have been debating for two decades: the origin of the Honored Matres, the tantalizing future of the planet Arrakis, the final revelation of the Kwisatz Haderach, and the resolution to the war between Man and Machine. This breathtaking new novel in Frank Herbert's Dune series has enough surprises and plot twists to please even the most demanding listener.
+composer=Scott Brick
+copyright=Macmillan Audio
+publisher=Macmillan Audio
+TRACKTOTAL=1
+grouping=Dune 7 \#2

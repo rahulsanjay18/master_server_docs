@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Stations of the Tide
+artist=Michael Swanwick
+album_artist=Michael Swanwick
+album=Stations of the Tide: The bureaucrat is sent to the planet Miranda to track down the renegade scientist and magician, Gregorian, who has acquired forbidden technologies for unknown purposes. As the bureaucrat tries to counter Gregorian's powers, he must unravel the ecological mysteries of Miranda's Jubilee Tides, a cyclical inundation of the continents caused by the melting of the planet's icecaps every 200 years.
+TIT3=The bureaucrat is sent to the planet Miranda to track down the renegade scientist and magician, Gregorian, who has acquired forbidden technologies for unknown purposes. As the bureaucrat tries to counter Gregorian's powers, he must unravel the ecological mysteries of Miranda's Jubilee Tides, a cyclical inundation of the continents caused by the melting of the planet's icecaps every 200 years.
+genre=Audio Book
+date=1991
+comment=Read by James DeLotel
+description=Read by James DeLotel
+TRACKTOTAL=15

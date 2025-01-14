@@ -1,0 +1,120 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 348.504,
+      "title": "track01"
+    },
+    {
+      "id": 1,
+      "start": 348.504,
+      "end": 632.658,
+      "title": "track02"
+    },
+    {
+      "id": 2,
+      "start": 632.658,
+      "end": 958.2560000000001,
+      "title": "track03"
+    },
+    {
+      "id": 3,
+      "start": 958.2560000000001,
+      "end": 1159.8600000000001,
+      "title": "track04"
+    },
+    {
+      "id": 4,
+      "start": 1159.8600000000001,
+      "end": 1524.5100000000002,
+      "title": "track05"
+    },
+    {
+      "id": 5,
+      "start": 1524.5100000000002,
+      "end": 1869.3740000000003,
+      "title": "track06"
+    },
+    {
+      "id": 6,
+      "start": 1869.3740000000003,
+      "end": 2068.1960000000004,
+      "title": "track07"
+    },
+    {
+      "id": 7,
+      "start": 2068.1960000000004,
+      "end": 2442.6740000000004,
+      "title": "track08"
+    },
+    {
+      "id": 8,
+      "start": 2442.6740000000004,
+      "end": 2774.4600000000005,
+      "title": "track09"
+    },
+    {
+      "id": 9,
+      "start": 2774.4600000000005,
+      "end": 3068.8060000000005,
+      "title": "track10"
+    },
+    {
+      "id": 10,
+      "start": 3068.8060000000005,
+      "end": 3262.5060000000003,
+      "title": "track11"
+    },
+    {
+      "id": 11,
+      "start": 3262.5060000000003,
+      "end": 3524.2740000000003,
+      "title": "track12"
+    },
+    {
+      "id": 12,
+      "start": 3524.2740000000003,
+      "end": 3802.5780000000004,
+      "title": "track13"
+    },
+    {
+      "id": 13,
+      "start": 3802.5780000000004,
+      "end": 4154.826,
+      "title": "track14"
+    },
+    {
+      "id": 14,
+      "start": 4154.826,
+      "end": 4382.092,
+      "title": "track15"
+    },
+    {
+      "id": 15,
+      "start": 4382.092,
+      "end": 4648.826,
+      "title": "track16"
+    }
+  ],
+  "title": "disc 7",
+  "subtitle": null,
+  "authors": [
+    "Haruki Murakami"
+  ],
+  "narrators": [],
+  "series": [
+    "Haruki Murakami - Kafka on the Shore"
+  ],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

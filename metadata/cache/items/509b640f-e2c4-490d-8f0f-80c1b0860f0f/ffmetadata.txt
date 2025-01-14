@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Northanger Abbey (read by Nadia May)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Northanger Abbey (read by Nadia May)
+date=1817
+TRACKTOTAL=31

@@ -1,0 +1,316 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 28.8959,
+      "title": "Storm Front 01"
+    },
+    {
+      "id": 1,
+      "start": 28.8959,
+      "end": 728.5096,
+      "title": "Storm Front 02"
+    },
+    {
+      "id": 2,
+      "start": 728.5096,
+      "end": 1636.5579,
+      "title": "Storm Front 03"
+    },
+    {
+      "id": 3,
+      "start": 1636.5579,
+      "end": 2543.249,
+      "title": "Storm Front 04"
+    },
+    {
+      "id": 4,
+      "start": 2543.249,
+      "end": 3264.6823,
+      "title": "Storm Front 05"
+    },
+    {
+      "id": 5,
+      "start": 3264.6823,
+      "end": 4296.8622,
+      "title": "Storm Front 06"
+    },
+    {
+      "id": 6,
+      "start": 4296.8622,
+      "end": 4301.5112,
+      "title": "Storm Front 07"
+    },
+    {
+      "id": 7,
+      "start": 4301.5112,
+      "end": 5294.776,
+      "title": "Storm Front 08"
+    },
+    {
+      "id": 8,
+      "start": 5294.776,
+      "end": 6016.5225,
+      "title": "Storm Front 09"
+    },
+    {
+      "id": 9,
+      "start": 6016.5225,
+      "end": 6755.1035,
+      "title": "Storm Front 10"
+    },
+    {
+      "id": 10,
+      "start": 6755.1035,
+      "end": 7583.4424,
+      "title": "Storm Front 11"
+    },
+    {
+      "id": 11,
+      "start": 7583.4424,
+      "end": 7588.0914,
+      "title": "Storm Front 12"
+    },
+    {
+      "id": 12,
+      "start": 7588.0914,
+      "end": 8216.6348,
+      "title": "Storm Front 13"
+    },
+    {
+      "id": 13,
+      "start": 8216.6348,
+      "end": 8754.7417,
+      "title": "Storm Front 14"
+    },
+    {
+      "id": 14,
+      "start": 8754.7417,
+      "end": 9800.5458,
+      "title": "Storm Front 15"
+    },
+    {
+      "id": 15,
+      "start": 9800.5458,
+      "end": 10904.3963,
+      "title": "Storm Front 16"
+    },
+    {
+      "id": 16,
+      "start": 10904.3963,
+      "end": 10909.0453,
+      "title": "Storm Front 17"
+    },
+    {
+      "id": 17,
+      "start": 10909.0453,
+      "end": 11685.654,
+      "title": "Storm Front 18"
+    },
+    {
+      "id": 18,
+      "start": 11685.654,
+      "end": 12399.2312,
+      "title": "Storm Front 19"
+    },
+    {
+      "id": 19,
+      "start": 12399.2312,
+      "end": 12980.5075,
+      "title": "Storm Front 20"
+    },
+    {
+      "id": 20,
+      "start": 12980.5075,
+      "end": 13647.078599999999,
+      "title": "Storm Front 21"
+    },
+    {
+      "id": 21,
+      "start": 13647.078599999999,
+      "end": 14322.0278,
+      "title": "Storm Front 22"
+    },
+    {
+      "id": 22,
+      "start": 14322.0278,
+      "end": 14326.6768,
+      "title": "Storm Front 23"
+    },
+    {
+      "id": 23,
+      "start": 14326.6768,
+      "end": 15065.2056,
+      "title": "Storm Front 24"
+    },
+    {
+      "id": 24,
+      "start": 15065.2056,
+      "end": 15776.120599999998,
+      "title": "Storm Front 25"
+    },
+    {
+      "id": 25,
+      "start": 15776.120599999998,
+      "end": 16353.507999999998,
+      "title": "Storm Front 26"
+    },
+    {
+      "id": 26,
+      "start": 16353.507999999998,
+      "end": 17028.587699999996,
+      "title": "Storm Front 27"
+    },
+    {
+      "id": 27,
+      "start": 17028.587699999996,
+      "end": 17664.804499999995,
+      "title": "Storm Front 28"
+    },
+    {
+      "id": 28,
+      "start": 17664.804499999995,
+      "end": 18195.446799999994,
+      "title": "Storm Front 29"
+    },
+    {
+      "id": 29,
+      "start": 18195.446799999994,
+      "end": 18200.095799999996,
+      "title": "Storm Front 30"
+    },
+    {
+      "id": 30,
+      "start": 18200.095799999996,
+      "end": 18866.823499999995,
+      "title": "Storm Front 31"
+    },
+    {
+      "id": 31,
+      "start": 18866.823499999995,
+      "end": 19726.978299999995,
+      "title": "Storm Front 32"
+    },
+    {
+      "id": 32,
+      "start": 19726.978299999995,
+      "end": 20250.599699999995,
+      "title": "Storm Front 33"
+    },
+    {
+      "id": 33,
+      "start": 20250.599699999995,
+      "end": 21035.795299999994,
+      "title": "Storm Front 34"
+    },
+    {
+      "id": 34,
+      "start": 21035.795299999994,
+      "end": 21653.115699999995,
+      "title": "Storm Front 35"
+    },
+    {
+      "id": 35,
+      "start": 21653.115699999995,
+      "end": 21657.764699999996,
+      "title": "Storm Front 36"
+    },
+    {
+      "id": 36,
+      "start": 21657.764699999996,
+      "end": 22361.737099999995,
+      "title": "Storm Front 37"
+    },
+    {
+      "id": 37,
+      "start": 22361.737099999995,
+      "end": 23134.874499999994,
+      "title": "Storm Front 38"
+    },
+    {
+      "id": 38,
+      "start": 23134.874499999994,
+      "end": 23851.374899999995,
+      "title": "Storm Front 39"
+    },
+    {
+      "id": 39,
+      "start": 23851.374899999995,
+      "end": 24568.867099999996,
+      "title": "Storm Front 40"
+    },
+    {
+      "id": 40,
+      "start": 24568.867099999996,
+      "end": 25418.555799999995,
+      "title": "Storm Front 41"
+    },
+    {
+      "id": 41,
+      "start": 25418.555799999995,
+      "end": 25423.230899999995,
+      "title": "Storm Front 42"
+    },
+    {
+      "id": 42,
+      "start": 25423.230899999995,
+      "end": 26132.240599999994,
+      "title": "Storm Front 43"
+    },
+    {
+      "id": 43,
+      "start": 26132.240599999994,
+      "end": 27045.978699999992,
+      "title": "Storm Front 44"
+    },
+    {
+      "id": 44,
+      "start": 27045.978699999992,
+      "end": 27728.575199999992,
+      "title": "Storm Front 45"
+    },
+    {
+      "id": 45,
+      "start": 27728.575199999992,
+      "end": 28382.40949999999,
+      "title": "Storm Front 46"
+    },
+    {
+      "id": 46,
+      "start": 28382.40949999999,
+      "end": 28909.58049999999,
+      "title": "Storm Front 47"
+    },
+    {
+      "id": 47,
+      "start": 28909.58049999999,
+      "end": 28930.280999999988,
+      "title": "Storm Front 48"
+    }
+  ],
+  "title": "The Dresden Files 01.0 - Storm Front",
+  "subtitle": null,
+  "authors": [
+    "James Marsters"
+  ],
+  "narrators": [
+    "Jim Butcher"
+  ],
+  "series": [
+    "Jim Butcher - Dresden Files 22GB #1"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

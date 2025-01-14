@@ -1,0 +1,80 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4018.396,
+      "title": "Threshold 01"
+    },
+    {
+      "id": 1,
+      "start": 4018.396,
+      "end": 7312.4165,
+      "title": "Threshold 02"
+    },
+    {
+      "id": 2,
+      "start": 7312.4165,
+      "end": 9851.655,
+      "title": "Threshold 03"
+    },
+    {
+      "id": 3,
+      "start": 9851.655,
+      "end": 14293.4175,
+      "title": "Threshold 04"
+    },
+    {
+      "id": 4,
+      "start": 14293.4175,
+      "end": 16841.250256,
+      "title": "Threshold 05"
+    },
+    {
+      "id": 5,
+      "start": 16841.250256,
+      "end": 19736.015256,
+      "title": "Threshold 06"
+    },
+    {
+      "id": 6,
+      "start": 19736.015256,
+      "end": 22372.795012,
+      "title": "Threshold 07"
+    },
+    {
+      "id": 7,
+      "start": 22372.795012,
+      "end": 25140.134768,
+      "title": "Threshold 08"
+    },
+    {
+      "id": 8,
+      "start": 25140.134768,
+      "end": 26135.379768,
+      "title": "Threshold 09"
+    }
+  ],
+  "title": "Threshold",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "102mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1980",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Malcolm Ruthven",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

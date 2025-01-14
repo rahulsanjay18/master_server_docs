@@ -1,0 +1,92 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 256.391837,
+      "title": "00: Intro"
+    },
+    {
+      "id": 1,
+      "start": 256.391837,
+      "end": 1995.4155099999998,
+      "title": "01: Warriors in the Mist"
+    },
+    {
+      "id": 2,
+      "start": 1995.4155099999998,
+      "end": 4022.7526529999996,
+      "title": "02: The Shadow"
+    },
+    {
+      "id": 3,
+      "start": 4022.7526529999996,
+      "end": 6527.164081999999,
+      "title": "03: The School for Wizards"
+    },
+    {
+      "id": 4,
+      "start": 6527.164081999999,
+      "end": 9494.648163999998,
+      "title": "04: The Loosing of the Shadow"
+    },
+    {
+      "id": 5,
+      "start": 9494.648163999998,
+      "end": 11798.256327,
+      "title": "05: The Dragon of Pendor"
+    },
+    {
+      "id": 6,
+      "start": 11798.256327,
+      "end": 13721.495511,
+      "title": "06: Hunted"
+    },
+    {
+      "id": 7,
+      "start": 13721.495511,
+      "end": 16607.085715,
+      "title": "07: The Hawk's Flight"
+    },
+    {
+      "id": 8,
+      "start": 16607.085715,
+      "end": 19166.615511,
+      "title": "08: Hunting"
+    },
+    {
+      "id": 9,
+      "start": 19166.615511,
+      "end": 21183.817144,
+      "title": "09: Iffish"
+    },
+    {
+      "id": 10,
+      "start": 21183.817144,
+      "end": 23498.814695,
+      "title": "10: The Open Sea"
+    }
+  ],
+  "title": "A Wizard of Earthsea",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "183mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1968",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Robert Donley",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

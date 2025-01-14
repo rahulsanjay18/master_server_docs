@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Voices
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Voices
+genre=Audio Book
+date=2006
+comment=Read by Lindsay Ellison
+description=Read by Lindsay Ellison
+composer=227mb
+TRACKTOTAL=17

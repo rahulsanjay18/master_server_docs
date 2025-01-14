@@ -1,0 +1,308 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 40.986122,
+      "title": "[01]  Intro"
+    },
+    {
+      "id": 1,
+      "start": 40.986122,
+      "end": 91.21959100000001,
+      "title": "[02]  A Excerpt "
+    },
+    {
+      "id": 2,
+      "start": 91.21959100000001,
+      "end": 5515.650611,
+      "title": "[03]  Prologue - Lightnings"
+    },
+    {
+      "id": 3,
+      "start": 5515.650611,
+      "end": 7568.770611,
+      "title": "[04]  Prologue - Lightnings"
+    },
+    {
+      "id": 4,
+      "start": 7568.770611,
+      "end": 9944.137142,
+      "title": "[05]  Chapter 1 - High Chasaline"
+    },
+    {
+      "id": 5,
+      "start": 9944.137142,
+      "end": 13766.713469,
+      "title": "[06]  Chapter 2 - The Butcher's Yard"
+    },
+    {
+      "id": 6,
+      "start": 13766.713469,
+      "end": 16300.538775,
+      "title": "[07]  Chapter 3 - Hill of the Golden Dawn"
+    },
+    {
+      "id": 7,
+      "start": 16300.538775,
+      "end": 18298.540408,
+      "title": "[08]  Chapter 4 - Into Cairhien"
+    },
+    {
+      "id": 8,
+      "start": 18298.540408,
+      "end": 20494.889796,
+      "title": "[09]  Chapter 5 - A Broken Crown"
+    },
+    {
+      "id": 9,
+      "start": 20494.889796,
+      "end": 22272.679184,
+      "title": "[10]  Chapter 6 - Old Fear, and New Fear"
+    },
+    {
+      "id": 10,
+      "start": 22272.679184,
+      "end": 25440.41796,
+      "title": "[11]  Chapter 7 - Pitfalls and Tripwires"
+    },
+    {
+      "id": 11,
+      "start": 25440.41796,
+      "end": 27250.886531,
+      "title": "[12]  Chapter 8 - The Figurehead"
+    },
+    {
+      "id": 12,
+      "start": 27250.886531,
+      "end": 30180.022858,
+      "title": "[13]  Chapter 9 - A Pair of Silverpike"
+    },
+    {
+      "id": 13,
+      "start": 30180.022858,
+      "end": 33308.78694,
+      "title": "[14]  Chapter 10 - Unseen Eyes"
+    },
+    {
+      "id": 14,
+      "start": 33308.78694,
+      "end": 36212.401633999994,
+      "title": "[15]  Chapter 11 - An Oath"
+    },
+    {
+      "id": 15,
+      "start": 36212.401633999994,
+      "end": 41108.401633999994,
+      "title": "[16]  Chapter 12 - A Morning of Victory"
+    },
+    {
+      "id": 16,
+      "start": 41108.401633999994,
+      "end": 43949.792654,
+      "title": "[17]  Chapter 13 - The Bowl of the Winds"
+    },
+    {
+      "id": 17,
+      "start": 43949.792654,
+      "end": 46348.016327,
+      "title": "[18]  Chapter 14 - White Plumes"
+    },
+    {
+      "id": 18,
+      "start": 46348.016327,
+      "end": 47743.268572,
+      "title": "[19]  Chapter 15 - Insects"
+    },
+    {
+      "id": 19,
+      "start": 47743.268572,
+      "end": 49871.360001,
+      "title": "[20]  Chapter 16 - A Touch on the Cheek"
+    },
+    {
+      "id": 20,
+      "start": 49871.360001,
+      "end": 52508.003266,
+      "title": "[21]  Chapter 17 - The Triumph of Logic"
+    },
+    {
+      "id": 21,
+      "start": 52508.003266,
+      "end": 54884.022858,
+      "title": "[22]  Chapter 18 - As the Plow Breaks the Earth"
+    },
+    {
+      "id": 22,
+      "start": 54884.022858,
+      "end": 57114.72326599999,
+      "title": "[23]  Chapter 19 - Diamond and Stars"
+    },
+    {
+      "id": 23,
+      "start": 57114.72326599999,
+      "end": 58921.01224599999,
+      "title": "[24]  Chapter 20 - Patterns Within Patterns"
+    },
+    {
+      "id": 24,
+      "start": 58921.01224599999,
+      "end": 61106.25959299999,
+      "title": "[25]  Chapter 21 - Swovan Night"
+    },
+    {
+      "id": 25,
+      "start": 61106.25959299999,
+      "end": 63479.48408299999,
+      "title": "[26]  Chapter 22 - Small Sacrifices"
+    },
+    {
+      "id": 26,
+      "start": 63479.48408299999,
+      "end": 66255.307756,
+      "title": "[27]  Chapter 23 - Next Door to a Weaver"
+    },
+    {
+      "id": 27,
+      "start": 66255.307756,
+      "end": 67547.324083,
+      "title": "[28]  Chapter 24 - The Kin"
+    },
+    {
+      "id": 28,
+      "start": 67547.324083,
+      "end": 68997.146124,
+      "title": "[29]  Chapter 25 - Mindtrap"
+    },
+    {
+      "id": 29,
+      "start": 68997.146124,
+      "end": 72366.52408300001,
+      "title": "[30]  Chapter 26 - The Irrevocable Words"
+    },
+    {
+      "id": 30,
+      "start": 72366.52408300001,
+      "end": 73799.02694000001,
+      "title": "[31]  Chapter 27 - To Be Alone"
+    },
+    {
+      "id": 31,
+      "start": 73799.02694000001,
+      "end": 76321.90694000002,
+      "title": "[32]  Chapter 28 - Bread and Cheese"
+    },
+    {
+      "id": 32,
+      "start": 76321.90694000002,
+      "end": 78199.17061300001,
+      "title": "[33]  Chapter 29 - The Festival of Birds"
+    },
+    {
+      "id": 33,
+      "start": 78199.17061300001,
+      "end": 79975.418776,
+      "title": "[34]  Chapter 30 - The First Cup"
+    },
+    {
+      "id": 34,
+      "start": 79975.418776,
+      "end": 82790.243266,
+      "title": "[35]  Chapter 31 - Mashiara"
+    },
+    {
+      "id": 35,
+      "start": 82790.243266,
+      "end": 85372.186123,
+      "title": "[36]  Chapter 32 - Sealed to the Flame"
+    },
+    {
+      "id": 36,
+      "start": 85372.186123,
+      "end": 87192.320001,
+      "title": "[37]  Chapter 33 - A Bath"
+    },
+    {
+      "id": 37,
+      "start": 87192.320001,
+      "end": 89319.784491,
+      "title": "[38]  Chapter 34 - Ta'veren"
+    },
+    {
+      "id": 38,
+      "start": 89319.784491,
+      "end": 91865.626124,
+      "title": "[39]  Chapter 35 - Into the Woods"
+    },
+    {
+      "id": 39,
+      "start": 91865.626124,
+      "end": 94965.890614,
+      "title": "[40]  Chapter 36 - Blades"
+    },
+    {
+      "id": 40,
+      "start": 94965.890614,
+      "end": 96351.21632800001,
+      "title": "[41]  Chapter 37 - A Note From the Palace"
+    },
+    {
+      "id": 41,
+      "start": 96351.21632800001,
+      "end": 99551.08571600002,
+      "title": "[42]  Chapter 38 - Six Stories"
+    },
+    {
+      "id": 42,
+      "start": 99551.08571600002,
+      "end": 102574.21061400001,
+      "title": "[43]  Chapter 39 - Promises to Keep"
+    },
+    {
+      "id": 43,
+      "start": 102574.21061400001,
+      "end": 105009.63265500001,
+      "title": "[44]  Chapter 40 - Spears"
+    },
+    {
+      "id": 44,
+      "start": 105009.63265500001,
+      "end": 109428.84571600001,
+      "title": "[45]  Chapter 41 - A Crown of Swords"
+    },
+    {
+      "id": 45,
+      "start": 109428.84571600001,
+      "end": 109462.62204300001,
+      "title": "[46]  An Excerpt"
+    },
+    {
+      "id": 46,
+      "start": 109462.62204300001,
+      "end": 109511.23592100001,
+      "title": "[47]  Outro"
+    }
+  ],
+  "title": "A Crown of Swords (The Wheel of Time #7)",
+  "subtitle": null,
+  "authors": [
+    "Robert Jordan"
+  ],
+  "narrators": [],
+  "series": [
+    "Robert Jordan - The Wheel of Time 12GB"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1996-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

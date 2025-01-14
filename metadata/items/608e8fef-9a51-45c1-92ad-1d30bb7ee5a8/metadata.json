@@ -1,0 +1,234 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 131.212,
+      "title": "Chapter 1",
+      "id": 0
+    },
+    {
+      "start": 131.291429,
+      "end": 2362.097429,
+      "title": "Chapter 2",
+      "id": 1
+    },
+    {
+      "start": 2362.174694,
+      "end": 3697.0626939999997,
+      "title": "Chapter 3",
+      "id": 2
+    },
+    {
+      "start": 3697.1363269999997,
+      "end": 4207.018327,
+      "title": "Chapter 4",
+      "id": 3
+    },
+    {
+      "start": 4207.098776,
+      "end": 5298.548776,
+      "title": "Chapter 5",
+      "id": 4
+    },
+    {
+      "start": 5298.625307,
+      "end": 6334.904307000001,
+      "title": "Chapter 6",
+      "id": 5
+    },
+    {
+      "start": 6334.981225,
+      "end": 7080.546225,
+      "title": "Chapter 7",
+      "id": 6
+    },
+    {
+      "start": 7080.620409,
+      "end": 7226.135409,
+      "title": "Chapter 8",
+      "id": 7
+    },
+    {
+      "start": 7226.200817,
+      "end": 7919.195817,
+      "title": "Chapter 9",
+      "id": 8
+    },
+    {
+      "start": 7919.281633,
+      "end": 8833.098633,
+      "title": "Chapter 10",
+      "id": 9
+    },
+    {
+      "start": 8833.149388,
+      "end": 9925.342388,
+      "title": "Chapter 11",
+      "id": 10
+    },
+    {
+      "start": 9925.43347,
+      "end": 11586.00447,
+      "title": "Chapter 12",
+      "id": 11
+    },
+    {
+      "start": 11586.063674,
+      "end": 12459.523674,
+      "title": "Chapter 13",
+      "id": 12
+    },
+    {
+      "start": 12459.598368,
+      "end": 13950.803368,
+      "title": "Chapter 14",
+      "id": 13
+    },
+    {
+      "start": 13950.876735000002,
+      "end": 15223.395735000002,
+      "title": "Chapter 15",
+      "id": 14
+    },
+    {
+      "start": 15223.484082,
+      "end": 15861.866082,
+      "title": "Chapter 16",
+      "id": 15
+    },
+    {
+      "start": 15861.942858,
+      "end": 17268.579858,
+      "title": "Chapter 17",
+      "id": 16
+    },
+    {
+      "start": 17268.636736,
+      "end": 17898.333736,
+      "title": "Chapter 18",
+      "id": 17
+    },
+    {
+      "start": 17898.422858,
+      "end": 19678.994858000002,
+      "title": "Chapter 19",
+      "id": 18
+    },
+    {
+      "start": 19679.059593,
+      "end": 21765.205593000002,
+      "title": "Chapter 20",
+      "id": 19
+    },
+    {
+      "start": 21765.276736,
+      "end": 22533.364736,
+      "title": "Chapter 21",
+      "id": 20
+    },
+    {
+      "start": 22533.433471,
+      "end": 23040.576471,
+      "title": "Chapter 22",
+      "id": 21
+    },
+    {
+      "start": 23040.653063,
+      "end": 23622.564063,
+      "title": "Chapter 23",
+      "id": 22
+    },
+    {
+      "start": 23622.635104,
+      "end": 24430.151104,
+      "title": "Chapter 24",
+      "id": 23
+    },
+    {
+      "start": 24430.236737,
+      "end": 25347.025737,
+      "title": "Chapter 25",
+      "id": 24
+    },
+    {
+      "start": 25347.108573999998,
+      "end": 26405.539574,
+      "title": "Chapter 26",
+      "id": 25
+    },
+    {
+      "start": 26405.616328999997,
+      "end": 28207.457328999997,
+      "title": "Chapter 27",
+      "id": 26
+    },
+    {
+      "start": 28207.516736999998,
+      "end": 29210.962736999998,
+      "title": "Chapter 28",
+      "id": 27
+    },
+    {
+      "start": 29211.036737,
+      "end": 29606.584736999997,
+      "title": "Chapter 29",
+      "id": 28
+    },
+    {
+      "start": 29606.661226999997,
+      "end": 30038.060226999998,
+      "title": "Chapter 30",
+      "id": 29
+    },
+    {
+      "start": 30038.125716999995,
+      "end": 30835.703716999997,
+      "title": "Chapter 31",
+      "id": 30
+    },
+    {
+      "start": 30835.774696999997,
+      "end": 31492.639697,
+      "title": "Chapter 32",
+      "id": 31
+    },
+    {
+      "start": 31492.728165999997,
+      "end": 33685.593166,
+      "title": "Chapter 33",
+      "id": 32
+    },
+    {
+      "start": 33685.655513,
+      "end": 34101.496513,
+      "title": "Chapter 34",
+      "id": 33
+    },
+    {
+      "start": 34101.577145999996,
+      "end": 35053.011146,
+      "title": "Chapter 35",
+      "id": 34
+    }
+  ],
+  "title": "Six Wakes (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "Mur Lafferty"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2017-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "It was not common to awaken in a cloning vat streaked with drying blood....",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

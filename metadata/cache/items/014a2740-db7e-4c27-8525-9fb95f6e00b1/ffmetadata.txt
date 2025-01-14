@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Sense and Sensibility
+artist=Jane Austen
+album_artist=Jane Austen
+album=Sense and Sensibility
+genre=Classic literature
+date=1811
+comment=Two sisters, one practical and conventional and the other emotional and sentimental, find that only through compromise of their mutual differences can they get along.
+description=Two sisters, one practical and conventional and the other emotional and sentimental, find that only through compromise of their mutual differences can they get along.
+TRACKTOTAL=14
+grouping=1811 - Sense and Sensibility (read by Wanda McCaddon) \#2

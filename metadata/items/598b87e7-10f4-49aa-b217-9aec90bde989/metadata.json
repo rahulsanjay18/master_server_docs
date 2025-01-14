@@ -1,0 +1,1254 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 26,
+      "title": "Intro"
+    },
+    {
+      "id": 1,
+      "start": 26,
+      "end": 1186.011837,
+      "title": "1. Just Another Decapitated Head"
+    },
+    {
+      "id": 2,
+      "start": 1186.011837,
+      "end": 2530.027347,
+      "title": "2. This Is Why I Hate Clothes Shopping"
+    },
+    {
+      "id": 3,
+      "start": 2530.027347,
+      "end": 3641.024444,
+      "title": "3. This Little Light of Mine, I’m Gonna Let It Shine"
+    },
+    {
+      "id": 4,
+      "start": 3641.024444,
+      "end": 4831.014921,
+      "title": "4. Speaking of Trolls..."
+    },
+    {
+      "id": 5,
+      "start": 4831.014921,
+      "end": 5838.012971,
+      "title": "5. My Eighth-Grade Physics Actually Comes in Handy"
+    },
+    {
+      "id": 6,
+      "start": 5838.012971,
+      "end": 7229.022041,
+      "title": "6. Nice Doggy"
+    },
+    {
+      "id": 7,
+      "start": 7229.022041,
+      "end": 8379.038503,
+      "title": "7. So's Your Face!"
+    },
+    {
+      "id": 8,
+      "start": 8379.038503,
+      "end": 9353.023039,
+      "title": "8. Well, That was a Surprise"
+    },
+    {
+      "id": 9,
+      "start": 9353.023039,
+      "end": 10926.010975,
+      "title": "9. I Play with Fire"
+    },
+    {
+      "id": 10,
+      "start": 10926.010975,
+      "end": 10970,
+      "title": "10. Goal Achieved! Sort of..."
+    },
+    {
+      "id": 11,
+      "start": 10970,
+      "end": 11094.355011,
+      "title": "Outro"
+    },
+    {
+      "id": 12,
+      "start": 11094.355011,
+      "end": 11111.355011,
+      "title": "Intro"
+    },
+    {
+      "id": 13,
+      "start": 11111.355011,
+      "end": 11214.355011,
+      "title": "Starting"
+    },
+    {
+      "id": 14,
+      "start": 11214.355011,
+      "end": 11595.355011,
+      "title": "1. What in the Worlds? - A guide to the Nine Worlds and the World Tree"
+    },
+    {
+      "id": 15,
+      "start": 11595.355011,
+      "end": 14593.355011,
+      "title": "2. Gods and Goddesses - A guide to the different Norse gods and goddesses"
+    },
+    {
+      "id": 16,
+      "start": 14593.355011,
+      "end": 16119.355011,
+      "title": "3. Mythical Beings"
+    },
+    {
+      "id": 17,
+      "start": 16119.355011,
+      "end": 17354.355011,
+      "title": "4. Fantastic Creatures"
+    },
+    {
+      "id": 18,
+      "start": 17354.355011,
+      "end": 17454.355011,
+      "title": "Ending"
+    },
+    {
+      "id": 19,
+      "start": 17454.355011,
+      "end": 17669.355011,
+      "title": "Preview of Hammer of Thor"
+    },
+    {
+      "id": 20,
+      "start": 17669.355011,
+      "end": 17704.983220000002,
+      "title": "Outro"
+    },
+    {
+      "id": 21,
+      "start": 17704.983220000002,
+      "end": 17718.983220000002,
+      "title": "Intro"
+    },
+    {
+      "id": 22,
+      "start": 17718.983220000002,
+      "end": 18591.003923,
+      "title": "1. Good Morning! You're Going to Die"
+    },
+    {
+      "id": 23,
+      "start": 18591.003923,
+      "end": 19320.992086000002,
+      "title": "2. The Man with the Metal Bra"
+    },
+    {
+      "id": 24,
+      "start": 19320.992086000002,
+      "end": 19895.996735,
+      "title": "3. Don't Accept Rides from Strange Relatives"
+    },
+    {
+      "id": 25,
+      "start": 19895.996735,
+      "end": 20518.987052,
+      "title": "4. Seriously, the Dude Cannot Drive"
+    },
+    {
+      "id": 26,
+      "start": 20518.987052,
+      "end": 21262.985261,
+      "title": "5. I've Always Wanted to Destroy a Bridge"
+    },
+    {
+      "id": 27,
+      "start": 21262.985261,
+      "end": 21814.004422,
+      "title": "6. Make Way for Ducklings, or They Will Smack You Upside the Head"
+    },
+    {
+      "id": 28,
+      "start": 21814.004422,
+      "end": 22456.000930000002,
+      "title": "7. You Look Great Without a Nose, Really"
+    },
+    {
+      "id": 29,
+      "start": 22456.000930000002,
+      "end": 23235.005805,
+      "title": "8. Mind the Gap, and Also the Hairy Guy with the Axe"
+    },
+    {
+      "id": 30,
+      "start": 23235.005805,
+      "end": 23614.001497,
+      "title": "9. You Totally Want the Minibar Key"
+    },
+    {
+      "id": 31,
+      "start": 23614.001497,
+      "end": 24624.990884000003,
+      "title": "10. My Room Does Not Suck"
+    },
+    {
+      "id": 32,
+      "start": 24624.990884000003,
+      "end": 25354.987483,
+      "title": "11. Pleased to Meet You. I Will Now Crush Your Windpipe"
+    },
+    {
+      "id": 33,
+      "start": 25354.987483,
+      "end": 26030.003379,
+      "title": "12. At Least I'm Not on Goat-Chasing Duty"
+    },
+    {
+      "id": 34,
+      "start": 26030.003379,
+      "end": 26769.992245,
+      "title": "13. Phil the Potato Meets His Doom"
+    },
+    {
+      "id": 35,
+      "start": 26769.992245,
+      "end": 27397.999773000003,
+      "title": "14. Four Million Channels and There's Still Nothing On Except Valkyrie Vision"
+    },
+    {
+      "id": 36,
+      "start": 27397.999773000003,
+      "end": 27889.990998,
+      "title": "15. My Blooper Video Goes Viral"
+    },
+    {
+      "id": 37,
+      "start": 27889.990998,
+      "end": 28346.996599000002,
+      "title": "16. Norns. Why Did It Have to Be Norns?"
+    },
+    {
+      "id": 38,
+      "start": 28346.996599000002,
+      "end": 29091.984762,
+      "title": "17. I Did Not Ask for Biceps"
+    },
+    {
+      "id": 39,
+      "start": 29091.984762,
+      "end": 30107.989252,
+      "title": "18. I Do Mighty Combat with Eggs"
+    },
+    {
+      "id": 40,
+      "start": 30107.989252,
+      "end": 30990.002630000003,
+      "title": "19. Do Not Call Me Beantown. Like, Ever"
+    },
+    {
+      "id": 41,
+      "start": 30990.002630000003,
+      "end": 31860.000635000004,
+      "title": "20. Come to the Dark Side. We Have Pop-Tarts"
+    },
+    {
+      "id": 42,
+      "start": 31860.000635000004,
+      "end": 33223.998231000005,
+      "title": "21. Gunilla Gets Blowtorched and It's Not Funny. Okay, It's a Little Bit Funny"
+    },
+    {
+      "id": 43,
+      "start": 33223.998231000005,
+      "end": 34080.984581000004,
+      "title": "22. My Friends Fall Out of a Tree"
+    },
+    {
+      "id": 44,
+      "start": 34080.984581000004,
+      "end": 34522.994399,
+      "title": "23. I Recycle Myself"
+    },
+    {
+      "id": 45,
+      "start": 34522.994399,
+      "end": 35396.994376,
+      "title": "24. You Had One Job"
+    },
+    {
+      "id": 46,
+      "start": 35396.994376,
+      "end": 36294.993515,
+      "title": "25. My Funeral Director Dresses Me Funny"
+    },
+    {
+      "id": 47,
+      "start": 36294.993515,
+      "end": 36930.992336,
+      "title": "26. Hey, I Know You're Dead, But Call Me Maybe"
+    },
+    {
+      "id": 48,
+      "start": 36930.992336,
+      "end": 37660.00424,
+      "title": "27. Let's Play Frisbee with Bladed Weapons!"
+    },
+    {
+      "id": 49,
+      "start": 37660.00424,
+      "end": 39082.989773,
+      "title": "28. Talk to the Face, 'Cause That's Pretty Much All He's Got"
+    },
+    {
+      "id": 50,
+      "start": 39082.989773,
+      "end": 40149.986689,
+      "title": "29. We Are Falafel-Jacked by an Eagle"
+    },
+    {
+      "id": 51,
+      "start": 40149.986689,
+      "end": 40809.987823,
+      "title": "30. An Apple a Day Will Get You Killed"
+    },
+    {
+      "id": 52,
+      "start": 40809.987823,
+      "end": 41412.9978,
+      "title": "31. Go Smelly or Go Home"
+    },
+    {
+      "id": 53,
+      "start": 41412.9978,
+      "end": 42357.993719000006,
+      "title": "32. My Years of Playing Bassmasters 2000 Really Pay Off"
+    },
+    {
+      "id": 54,
+      "start": 42357.993719000006,
+      "end": 43110.985828000004,
+      "title": "33. Sam's Brother Wakes Up Kinda Cranky"
+    },
+    {
+      "id": 55,
+      "start": 43110.985828000004,
+      "end": 44134.998458,
+      "title": "34. My Sword Almost Ends Up on eBay"
+    },
+    {
+      "id": 56,
+      "start": 44134.998458,
+      "end": 45355.990000000005,
+      "title": "35. Thou Shalt Not Poop on the Head of Art"
+    },
+    {
+      "id": 57,
+      "start": 45355.990000000005,
+      "end": 45921.984943,
+      "title": "36. Duck!"
+    },
+    {
+      "id": 58,
+      "start": 45921.984943,
+      "end": 46495.404989,
+      "title": "37. I Am Trash-Talked by a Squirrel"
+    },
+    {
+      "id": 59,
+      "start": 46495.404989,
+      "end": 47302.40542,
+      "title": "38. I Break Down in a Volksvagen"
+    },
+    {
+      "id": 60,
+      "start": 47302.40542,
+      "end": 48641.405034,
+      "title": "39. Freya Is Pretty! She Has Cats!"
+    },
+    {
+      "id": 61,
+      "start": 48641.405034,
+      "end": 49561.405238,
+      "title": "40. My Friend Evolved from a -- Nope. I Can't Say It"
+    },
+    {
+      "id": 62,
+      "start": 49561.405238,
+      "end": 50333.405080000004,
+      "title": "41. Blitz Makes a Bad Deal"
+    },
+    {
+      "id": 63,
+      "start": 50333.405080000004,
+      "end": 51115.405374,
+      "title": "42. We Have a Pre-Decapitation Party, with Spring Rolls"
+    },
+    {
+      "id": 64,
+      "start": 51115.405374,
+      "end": 52254.404989,
+      "title": "43. Let the Crafting of Decorative Metal Waterfowl Begin"
+    },
+    {
+      "id": 65,
+      "start": 52254.404989,
+      "end": 53217.405329,
+      "title": "44. Junior Wins a Bag of Tears"
+    },
+    {
+      "id": 66,
+      "start": 53217.405329,
+      "end": 54061.405034,
+      "title": "45. I Get to Know Jack"
+    },
+    {
+      "id": 67,
+      "start": 54061.405034,
+      "end": 55121.40517,
+      "title": "46. Aboard the Good Ship Toenail"
+    },
+    {
+      "id": 68,
+      "start": 55121.40517,
+      "end": 55805.405125000005,
+      "title": "47. I Psychoanalyze a Goat"
+    },
+    {
+      "id": 69,
+      "start": 55805.405125000005,
+      "end": 56696.405443,
+      "title": "48. Hearthstone Passes Out Even More than Jason Grace (Though I Have No Idea Who That Is)"
+    },
+    {
+      "id": 70,
+      "start": 56696.405443,
+      "end": 57337.405306,
+      "title": "49. Well, There's Your Problem. You've Got a Sword Up Your Nose"
+    },
+    {
+      "id": 71,
+      "start": 57337.405306,
+      "end": 58468.405261,
+      "title": "50. No Spoilers. Thor Is Way Behind on His Shows"
+    },
+    {
+      "id": 72,
+      "start": 58468.405261,
+      "end": 59213.405080000004,
+      "title": "51. We Have the Talk-About-Turning-Into-Horseflies Chat"
+    },
+    {
+      "id": 73,
+      "start": 59213.405080000004,
+      "end": 60035.40517,
+      "title": "52. I Got the Horse Right Here. His Name Is Stanley"
+    },
+    {
+      "id": 74,
+      "start": 60035.40517,
+      "end": 60528.405488000004,
+      "title": "53. How to Kill Giants Politely"
+    },
+    {
+      "id": 75,
+      "start": 60528.405488000004,
+      "end": 61442.404989,
+      "title": "54. Why You Should Not Use a Steak Knife as a Diving Board"
+    },
+    {
+      "id": 76,
+      "start": 61442.404989,
+      "end": 62156.405284,
+      "title": "55. I'm Carried into Battle by the First Dwarven Airborne Division"
+    },
+    {
+      "id": 77,
+      "start": 62156.405284,
+      "end": 62704.405397,
+      "title": "56. Never Ask a Dwarf to \"Go Long\""
+    },
+    {
+      "id": 78,
+      "start": 62704.405397,
+      "end": 63758.405216,
+      "title": "57. Sam Hits the EJECT Button"
+    },
+    {
+      "id": 79,
+      "start": 63758.405216,
+      "end": 64573.405148000005,
+      "title": "58. What the Hel?"
+    },
+    {
+      "id": 80,
+      "start": 64573.405148000005,
+      "end": 65272.40523800001,
+      "title": "59. The Terror That Is Middle School"
+    },
+    {
+      "id": 81,
+      "start": 65272.40523800001,
+      "end": 65789.405261,
+      "title": "60. A Lovely Homicidal Sunset Cruise"
+    },
+    {
+      "id": 82,
+      "start": 65789.405261,
+      "end": 66386.405306,
+      "title": "61. Heather Is My New Least Favorite Flower"
+    },
+    {
+      "id": 83,
+      "start": 66386.405306,
+      "end": 67372.405306,
+      "title": "62. The Small Bad Wolf"
+    },
+    {
+      "id": 84,
+      "start": 67372.405306,
+      "end": 67933.405329,
+      "title": "63. I Hate Signing My Own Death Warrant"
+    },
+    {
+      "id": 85,
+      "start": 67933.405329,
+      "end": 68531.40517,
+      "title": "64. Whose Idea Was It to Make This Wolf Unkillable?"
+    },
+    {
+      "id": 86,
+      "start": 68531.40517,
+      "end": 69106.40528400001,
+      "title": "65. I Hate This Part"
+    },
+    {
+      "id": 87,
+      "start": 69106.40528400001,
+      "end": 69561.405216,
+      "title": "66. Sacrifices"
+    },
+    {
+      "id": 88,
+      "start": 69561.405216,
+      "end": 69977.40528400001,
+      "title": "67. One More, for a Friend"
+    },
+    {
+      "id": 89,
+      "start": 69977.40528400001,
+      "end": 70618.40542,
+      "title": "68. Don't Be a No-Bro, Bro"
+    },
+    {
+      "id": 90,
+      "start": 70618.40542,
+      "end": 70973.405238,
+      "title": "69. Oh... So That's Who Fenris Smelled in Chapter Sixty-Three"
+    },
+    {
+      "id": 91,
+      "start": 70973.405238,
+      "end": 71767.405125,
+      "title": "70. We Are Subjected to the PowerPoint of Doom"
+    },
+    {
+      "id": 92,
+      "start": 71767.405125,
+      "end": 72199.40508,
+      "title": "71. We Burn a Swan Boat, Which I'm Pretty Sure Is Illegal"
+    },
+    {
+      "id": 93,
+      "start": 72199.40508,
+      "end": 72546.405034,
+      "title": "72. I Lose a Bet"
+    },
+    {
+      "id": 94,
+      "start": 72546.405034,
+      "end": 72940.405034,
+      "title": "Epilogue"
+    },
+    {
+      "id": 95,
+      "start": 72940.405034,
+      "end": 72973.653334,
+      "title": "Outro"
+    },
+    {
+      "id": 96,
+      "start": 72973.653334,
+      "end": 72985.653334,
+      "title": "Intro"
+    },
+    {
+      "id": 97,
+      "start": 72985.653334,
+      "end": 73837.671633,
+      "title": "1. Could You Please Stop Killing My Goat?"
+    },
+    {
+      "id": 98,
+      "start": 73837.671633,
+      "end": 74524.66288,
+      "title": "2. Your Standard Rooftop Chase Scene with Talking Swords and Ninjas"
+    },
+    {
+      "id": 99,
+      "start": 74524.66288,
+      "end": 75193.670545,
+      "title": "3. My Friends Protect Me by Telling Me Absolutely Nothing. Thanks, Friends"
+    },
+    {
+      "id": 100,
+      "start": 75193.670545,
+      "end": 76001.653878,
+      "title": "4. A Cheetah Runs Me Over"
+    },
+    {
+      "id": 101,
+      "start": 76001.653878,
+      "end": 76683.667937,
+      "title": "5. My Sword Has a Better Social Life Than I Do"
+    },
+    {
+      "id": 102,
+      "start": 76683.667937,
+      "end": 77081.658232,
+      "title": "6. Love Me Some Weasel Soup"
+    },
+    {
+      "id": 103,
+      "start": 77081.658232,
+      "end": 77696.67095300001,
+      "title": "7. Have You or Someone You Love Ever Suffered From Lindworms?"
+    },
+    {
+      "id": 104,
+      "start": 77696.67095300001,
+      "end": 78114.66476300001,
+      "title": "8. I Am Saved From Certain Death By Being Killed"
+    },
+    {
+      "id": 105,
+      "start": 78114.66476300001,
+      "end": 78786.672858,
+      "title": "9. Never Take a Bubble Bath With a Decapitated God"
+    },
+    {
+      "id": 106,
+      "start": 78786.672858,
+      "end": 79424.675828,
+      "title": "10. The Most Awkward Viking Luau Ever"
+    },
+    {
+      "id": 107,
+      "start": 79424.675828,
+      "end": 80196.668844,
+      "title": "11. What's a Guy Gotta Do to Get a Standing Ovation?"
+    },
+    {
+      "id": 108,
+      "start": 80196.668844,
+      "end": 80893.671316,
+      "title": "12. Samirah and Magnus Sitting in a Tree, T-A-L-K-I-N-G"
+    },
+    {
+      "id": 109,
+      "start": 80893.671316,
+      "end": 81520.675193,
+      "title": "13. Relax, It's Just a Little Death Prophecy"
+    },
+    {
+      "id": 110,
+      "start": 81520.675193,
+      "end": 82131.668051,
+      "title": "14. Cry Me a Blood River. Wait. Actually, Don't"
+    },
+    {
+      "id": 111,
+      "start": 82131.668051,
+      "end": 83001.67553400001,
+      "title": "15. All in Favour of Slaughtering Magnus, Please Say Aye"
+    },
+    {
+      "id": 112,
+      "start": 83001.67553400001,
+      "end": 83342.655715,
+      "title": "16. Hearthstone Unleashes His Inner Bovine"
+    },
+    {
+      "id": 113,
+      "start": 83342.655715,
+      "end": 84023.67245,
+      "title": "17. Uncle Randolph Gets on My Naughty List BIG-TIME"
+    },
+    {
+      "id": 114,
+      "start": 84023.67245,
+      "end": 84720.666509,
+      "title": "18. I Need to Learn Many, Many More Cusswords in Sign Language"
+    },
+    {
+      "id": 115,
+      "start": 84720.666509,
+      "end": 85504.667529,
+      "title": "19. Should I Be Nervous that the Pilot is Praying?"
+    },
+    {
+      "id": 116,
+      "start": 85504.667529,
+      "end": 86147.661361,
+      "title": "20. In Case of Demonic Possession, Please Follow Illuminated Signs to the Nearest Exit"
+    },
+    {
+      "id": 117,
+      "start": 86147.661361,
+      "end": 86763.660885,
+      "title": "21. Loiterers Will Be Shot, Then Arrested and Shot Again"
+    },
+    {
+      "id": 118,
+      "start": 86763.660885,
+      "end": 87242.66889,
+      "title": "22. Pretty Sure Hearthstone’s Dad Is a Cow-Abducting Alien"
+    },
+    {
+      "id": 119,
+      "start": 87242.66889,
+      "end": 87918.669479,
+      "title": "23. Yep, His Other Car Is Definitely a UFO"
+    },
+    {
+      "id": 120,
+      "start": 87918.669479,
+      "end": 88499.660227,
+      "title": "24. Oh, You Wanted to Breathe? That’ll Be an Extra Three Gold"
+    },
+    {
+      "id": 121,
+      "start": 88499.660227,
+      "end": 88972.670545,
+      "title": "25. Hearthstone? More Like Hearthrob. Am I Right?"
+    },
+    {
+      "id": 122,
+      "start": 88972.670545,
+      "end": 89733.663425,
+      "title": "26. We Nuke All the Fish"
+    },
+    {
+      "id": 123,
+      "start": 89733.663425,
+      "end": 90362.66723400001,
+      "title": "27. Let Me Go Immediately, or I Will Make You a Billionaire"
+    },
+    {
+      "id": 124,
+      "start": 90362.66723400001,
+      "end": 91321.658459,
+      "title": "28. And If You Order Now, You Also Get This Cursed Ring!"
+    },
+    {
+      "id": 125,
+      "start": 91321.658459,
+      "end": 92002.66571500001,
+      "title": "29. Nøkk, Nøkk"
+    },
+    {
+      "id": 126,
+      "start": 92002.66571500001,
+      "end": 93099.66369700001,
+      "title": "30. Somewhere Over the Rainbow, There’s Some Messed-Up Stuff Going On"
+    },
+    {
+      "id": 127,
+      "start": 93099.66369700001,
+      "end": 94023.658776,
+      "title": "31. Heimdall Takes a Selfie with Literally Everyone"
+    },
+    {
+      "id": 128,
+      "start": 94023.658776,
+      "end": 94542.67381000001,
+      "title": "32. Godzilla Sends Me an Important Message"
+    },
+    {
+      "id": 129,
+      "start": 94542.67381000001,
+      "end": 95108.663493,
+      "title": "33. Falafel Break? Yes, Thank You"
+    },
+    {
+      "id": 130,
+      "start": 95108.663493,
+      "end": 95704.658459,
+      "title": "34. We Visit My Favorite Mausoleum"
+    },
+    {
+      "id": 131,
+      "start": 95704.658459,
+      "end": 96605.663289,
+      "title": "35. We Have a Tiny Problem"
+    },
+    {
+      "id": 132,
+      "start": 96605.663289,
+      "end": 96912.657302,
+      "title": "36. Solving Problems with Extreme Fashion"
+    },
+    {
+      "id": 133,
+      "start": 96912.657302,
+      "end": 97734.661202,
+      "title": "37. Meat S’mores Roasting on an Open Fire"
+    },
+    {
+      "id": 134,
+      "start": 97734.661202,
+      "end": 98284.66197300001,
+      "title": "38. You Will Never, Ever Guess Blitzen’s Password"
+    },
+    {
+      "id": 135,
+      "start": 98284.66197300001,
+      "end": 98888.653493,
+      "title": "39. Elvis Has Left the Bowling Bag"
+    },
+    {
+      "id": 136,
+      "start": 98888.653493,
+      "end": 99827.668572,
+      "title": "40. Little Billy Totally Deserved It"
+    },
+    {
+      "id": 137,
+      "start": 99827.668572,
+      "end": 100568.66635,
+      "title": "41. When in Doubt, Turn Into a Biting Insect"
+    },
+    {
+      "id": 138,
+      "start": 100568.66635,
+      "end": 101074.66233600001,
+      "title": "42. Or You Could Just Glow a Lot. That Works, Too"
+    },
+    {
+      "id": 139,
+      "start": 101074.66233600001,
+      "end": 101807.666713,
+      "title": "43. You Keep Using the Word Help. I Do Not Think It Means What You Think It Means"
+    },
+    {
+      "id": 140,
+      "start": 101807.666713,
+      "end": 102566.656486,
+      "title": "44. We Are Honored with Runes and Coupons"
+    },
+    {
+      "id": 141,
+      "start": 102566.656486,
+      "end": 103264.666826,
+      "title": "45. Pigtails Have Never Looked So Frightening"
+    },
+    {
+      "id": 142,
+      "start": 103264.666826,
+      "end": 103778.670976,
+      "title": "46. Here Comes the Bride and/or the Assassin"
+    },
+    {
+      "id": 143,
+      "start": 103778.670976,
+      "end": 104557.669547,
+      "title": "47. I Prepare for Funkytown Combat"
+    },
+    {
+      "id": 144,
+      "start": 104557.669547,
+      "end": 105294.6622,
+      "title": "48. All Aboard the Cheesy Gordita Express"
+    },
+    {
+      "id": 145,
+      "start": 105294.6622,
+      "end": 105973.675851,
+      "title": "49. Thrym!"
+    },
+    {
+      "id": 146,
+      "start": 105973.675851,
+      "end": 106817.670568,
+      "title": "50. A Little Refreshing Poison in Your Face, Sir?"
+    },
+    {
+      "id": 147,
+      "start": 106817.670568,
+      "end": 107435.66476300001,
+      "title": "51. Hello, Paranoia, My Old Friend"
+    },
+    {
+      "id": 148,
+      "start": 107435.66476300001,
+      "end": 108173.661066,
+      "title": "52. My Uncle Gets Some Backup Singers"
+    },
+    {
+      "id": 149,
+      "start": 108173.661066,
+      "end": 109020.659366,
+      "title": "53. It’s Hammer Time! (Someone Had to Say It)"
+    },
+    {
+      "id": 150,
+      "start": 109020.659366,
+      "end": 109686.661361,
+      "title": "54. Squirrels in the Window May Be Larger Than They Appear"
+    },
+    {
+      "id": 151,
+      "start": 109686.661361,
+      "end": 110305.66235900001,
+      "title": "55. Daisies in the Shape of an Elf"
+    },
+    {
+      "id": 152,
+      "start": 110305.66235900001,
+      "end": 110671.66535200001,
+      "title": "56. Let’s Try This Whole “Meeting for Coffee” Thing Again"
+    },
+    {
+      "id": 153,
+      "start": 110671.66535200001,
+      "end": 111005.66535200001,
+      "title": "57. I Call In Some Favors"
+    },
+    {
+      "id": 154,
+      "start": 111005.66535200001,
+      "end": 111033.41133900001,
+      "title": "Outro"
+    },
+    {
+      "id": 155,
+      "start": 111033.41133900001,
+      "end": 111047.41133900001,
+      "title": "Intro"
+    },
+    {
+      "id": 156,
+      "start": 111047.41133900001,
+      "end": 111886.41476300001,
+      "title": "1. Percy Jackson Does His Level Best to Kill Me"
+    },
+    {
+      "id": 157,
+      "start": 111886.41476300001,
+      "end": 112943.41201900001,
+      "title": "2. Falafel Sandwiches with a Side Order of Ragnarok"
+    },
+    {
+      "id": 158,
+      "start": 112943.41201900001,
+      "end": 113868.42022800002,
+      "title": "3. I Inherit a Dead Wolf and Some Underwear"
+    },
+    {
+      "id": 159,
+      "start": 113868.42022800002,
+      "end": 115063.41582900002,
+      "title": "4. But wait. Act Now, and You Get a Second Wolf Free!"
+    },
+    {
+      "id": 160,
+      "start": 115063.41582900002,
+      "end": 116515.41560200001,
+      "title": "5. I Bid Farewell to Erik, Erik, Erik and Also Erik"
+    },
+    {
+      "id": 161,
+      "start": 116515.41560200001,
+      "end": 117531.42512600002,
+      "title": "6. I Have a Nightmare About Toenails"
+    },
+    {
+      "id": 162,
+      "start": 117531.42512600002,
+      "end": 118703.42437800001,
+      "title": "7. We All Drown"
+    },
+    {
+      "id": 163,
+      "start": 118703.42437800001,
+      "end": 119631.42666800001,
+      "title": "8. In the Hall of the Huffy Hipster"
+    },
+    {
+      "id": 164,
+      "start": 119631.42666800001,
+      "end": 120678.42217800001,
+      "title": "9. I Become a Temporary Vegetarian"
+    },
+    {
+      "id": 165,
+      "start": 120678.42217800001,
+      "end": 121868.425851,
+      "title": "10. Can We Talk About Mead?"
+    },
+    {
+      "id": 166,
+      "start": 121868.425851,
+      "end": 122759.43208700001,
+      "title": "11. My Sword Takes You to (Dramatic Pause) Funkytown"
+    },
+    {
+      "id": 167,
+      "start": 122759.43208700001,
+      "end": 124049.41435500002,
+      "title": "12. The Guy With the Feet"
+    },
+    {
+      "id": 168,
+      "start": 124049.41435500002,
+      "end": 125035.41208700002,
+      "title": "13. Stupid Exploding Grandfathers"
+    },
+    {
+      "id": 169,
+      "start": 125035.41208700002,
+      "end": 125994.42948000002,
+      "title": "14. Nothing Happens. It's a Miracle"
+    },
+    {
+      "id": 170,
+      "start": 125994.42948000002,
+      "end": 126625.42224600002,
+      "title": "15. Monkey!"
+    },
+    {
+      "id": 171,
+      "start": 126625.42224600002,
+      "end": 127456.42952500001,
+      "title": "16. Spit Man Versus Chain Saw. Guess Who Wins"
+    },
+    {
+      "id": 172,
+      "start": 127456.42952500001,
+      "end": 128599.42063600001,
+      "title": "17. We Are Ambushed by a Pile of Rocks"
+    },
+    {
+      "id": 173,
+      "start": 128599.42063600001,
+      "end": 129662.41557900001,
+      "title": "18. I Roll Play-Doh to the Death"
+    },
+    {
+      "id": 174,
+      "start": 129662.41557900001,
+      "end": 130729.43356100001,
+      "title": "19. I Attend a Zombie Pep Rally"
+    },
+    {
+      "id": 175,
+      "start": 130729.43356100001,
+      "end": 131546.43290400002,
+      "title": "20. Tveirvigi = Worst Vigi"
+    },
+    {
+      "id": 176,
+      "start": 131546.43290400002,
+      "end": 132625.42201900002,
+      "title": "21. Fun with Open-Heart Surgery"
+    },
+    {
+      "id": 177,
+      "start": 132625.42201900002,
+      "end": 133578.42712100002,
+      "title": "22. I Have Bad News and - No, Actually I Just Have Bad News"
+    },
+    {
+      "id": 178,
+      "start": 133578.42712100002,
+      "end": 134672.420455,
+      "title": "23. Follow the Smell of Dead Frogs (to the Tune of \"Follow the Yellow Brick Road\")"
+    },
+    {
+      "id": 179,
+      "start": 134672.420455,
+      "end": 135375.425874,
+      "title": "24. I Liked Hearthstone's Dad Better as a Cow-Abducting Alien"
+    },
+    {
+      "id": 180,
+      "start": 135375.425874,
+      "end": 136040.426328,
+      "title": "25. We Devise a Fabulously Horrible Plan"
+    },
+    {
+      "id": 181,
+      "start": 136040.426328,
+      "end": 137174.424582,
+      "title": "26. Things Get Wyrd"
+    },
+    {
+      "id": 182,
+      "start": 137174.424582,
+      "end": 138090.42204200002,
+      "title": "27. We Win a Small Rock"
+    },
+    {
+      "id": 183,
+      "start": 138090.42204200002,
+      "end": 139063.423289,
+      "title": "28. Don't Ever Ask Me to Cook My Enemy's Heart"
+    },
+    {
+      "id": 184,
+      "start": 139063.423289,
+      "end": 140228.415715,
+      "title": "29. We Almost Become a Norwegian Tourist Attraction"
+    },
+    {
+      "id": 185,
+      "start": 140228.415715,
+      "end": 141224.413516,
+      "title": "30. Flām, Bomb, Thank You, Mom"
+    },
+    {
+      "id": 186,
+      "start": 141224.413516,
+      "end": 142247.41830000002,
+      "title": "31. Mallory Gets Nuts"
+    },
+    {
+      "id": 187,
+      "start": 142247.41830000002,
+      "end": 143006.42177000002,
+      "title": "32. Mallory Also Gets Fruit"
+    },
+    {
+      "id": 188,
+      "start": 143006.42177000002,
+      "end": 143803.416554,
+      "title": "33. We Devise a Horribly Fabulous Plan"
+    },
+    {
+      "id": 189,
+      "start": 143803.416554,
+      "end": 144678.419117,
+      "title": "34. First Prize: A Giant! Second Prize: Two Giants!"
+    },
+    {
+      "id": 190,
+      "start": 144678.419117,
+      "end": 145538.42694,
+      "title": "35. I Get an Assist from the Murder Murder"
+    },
+    {
+      "id": 191,
+      "start": 145538.42694,
+      "end": 146695.432291,
+      "title": "36. The Ballad of Halfborn, Hovel-Hero"
+    },
+    {
+      "id": 192,
+      "start": 146695.432291,
+      "end": 147647.422155,
+      "title": "37. Alex Bites My Face Off"
+    },
+    {
+      "id": 193,
+      "start": 147647.422155,
+      "end": 148949.42294900003,
+      "title": "38. Skadi Knows All, Shoots All"
+    },
+    {
+      "id": 194,
+      "start": 148949.42294900003,
+      "end": 149729.41567000002,
+      "title": "39. I Become as Poetic as... Like, a Poetic Person"
+    },
+    {
+      "id": 195,
+      "start": 149729.41567000002,
+      "end": 150955.41177,
+      "title": "40. I Get a Collect Call from Hel"
+    },
+    {
+      "id": 196,
+      "start": 150955.41177,
+      "end": 151909.42848200002,
+      "title": "41. I Call a Time-Out"
+    },
+    {
+      "id": 197,
+      "start": 151909.42848200002,
+      "end": 152997.43149800002,
+      "title": "42. I Start Small"
+    },
+    {
+      "id": 198,
+      "start": 152997.43149800002,
+      "end": 154041.41823200003,
+      "title": "43. I Have a Big Finish"
+    },
+    {
+      "id": 199,
+      "start": 154041.41823200003,
+      "end": 154665.428006,
+      "title": "44. Why Do They Get Cannons? I Want Cannons"
+    },
+    {
+      "id": 200,
+      "start": 154665.428006,
+      "end": 155265.423879,
+      "title": "45. If You Understand What Happens in This Chapter, Please Tell Me, Because I Have No Clue"
+    },
+    {
+      "id": 201,
+      "start": 155265.423879,
+      "end": 156543.428686,
+      "title": "46. I Win a Fluffy Bathrobe"
+    },
+    {
+      "id": 202,
+      "start": 156543.428686,
+      "end": 157290.41256300002,
+      "title": "47. Surprises All Around, Some of Them Even Good"
+    },
+    {
+      "id": 203,
+      "start": 157290.41256300002,
+      "end": 157748.41256300002,
+      "title": "48. The Chase Space Becomes a Place"
+    },
+    {
+      "id": 204,
+      "start": 157748.41256300002,
+      "end": 157785.957484,
+      "title": "Outro"
+    }
+  ],
+  "title": "Magnus Chase: 9 from the Nine Worlds",
+  "subtitle": null,
+  "authors": [
+    "Rick Riordan"
+  ],
+  "narrators": [
+    "Various"
+  ],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2018",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Paul Boehmer, Robertson Dean, Stephen Graybill, Nick Chamian, Devon Sorvari, Larry Herron, Sile Bermingham, Will Damron, Bahni Turpin",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,212 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 240.613878,
+      "title": "00: Intro"
+    },
+    {
+      "id": 1,
+      "start": 240.613878,
+      "end": 1364.6106129999998,
+      "title": "01: In the Provinces 01"
+    },
+    {
+      "id": 2,
+      "start": 1364.6106129999998,
+      "end": 2528.888164,
+      "title": "02: In the Provinces 02"
+    },
+    {
+      "id": 3,
+      "start": 2528.888164,
+      "end": 4136.359184,
+      "title": "03: In the Provinces 03"
+    },
+    {
+      "id": 4,
+      "start": 4136.359184,
+      "end": 5616.013062,
+      "title": "04: In the Provinces 04"
+    },
+    {
+      "id": 5,
+      "start": 5616.013062,
+      "end": 7211.964082,
+      "title": "05: In the Provinces 05"
+    },
+    {
+      "id": 6,
+      "start": 7211.964082,
+      "end": 8875.702858,
+      "title": "06: Exiles 01"
+    },
+    {
+      "id": 7,
+      "start": 8875.702858,
+      "end": 10695.392654000001,
+      "title": "07: Exiles 02"
+    },
+    {
+      "id": 8,
+      "start": 10695.392654000001,
+      "end": 12366.733062000001,
+      "title": "08: Exiles 03"
+    },
+    {
+      "id": 9,
+      "start": 12366.733062000001,
+      "end": 14236.943674000002,
+      "title": "09: Exiles 04"
+    },
+    {
+      "id": 10,
+      "start": 14236.943674000002,
+      "end": 16547.108572,
+      "title": "10: Choices 01"
+    },
+    {
+      "id": 11,
+      "start": 16547.108572,
+      "end": 18215.053062000003,
+      "title": "11: Choices 02"
+    },
+    {
+      "id": 12,
+      "start": 18215.053062000003,
+      "end": 19262.824491000003,
+      "title": "12: Choices 03"
+    },
+    {
+      "id": 13,
+      "start": 19262.824491000003,
+      "end": 20812.773879000004,
+      "title": "13: Choices 04"
+    },
+    {
+      "id": 14,
+      "start": 20812.773879000004,
+      "end": 22312.907757000004,
+      "title": "14: Choices 05"
+    },
+    {
+      "id": 15,
+      "start": 22312.907757000004,
+      "end": 23747.186941000004,
+      "title": "15: The Way to Radiko 01"
+    },
+    {
+      "id": 16,
+      "start": 23747.186941000004,
+      "end": 25088.496329000005,
+      "title": "16: The Way to Radiko 02"
+    },
+    {
+      "id": 17,
+      "start": 25088.496329000005,
+      "end": 26034.546941000004,
+      "title": "17: The Way to Radiko 03"
+    },
+    {
+      "id": 18,
+      "start": 26034.546941000004,
+      "end": 27371.102043000003,
+      "title": "18: Prisons 01"
+    },
+    {
+      "id": 19,
+      "start": 27371.102043000003,
+      "end": 29372.395104000003,
+      "title": "19: Prisons 02"
+    },
+    {
+      "id": 20,
+      "start": 29372.395104000003,
+      "end": 31519.947757,
+      "title": "20: Prisons 03"
+    },
+    {
+      "id": 21,
+      "start": 31519.947757,
+      "end": 33421.74041,
+      "title": "21: Prisons 04"
+    },
+    {
+      "id": 22,
+      "start": 33421.74041,
+      "end": 35650.168164999995,
+      "title": "22: Prisons 05"
+    },
+    {
+      "id": 23,
+      "start": 35650.168164999995,
+      "end": 37276.029388999996,
+      "title": "23: The Necessary Passion 01"
+    },
+    {
+      "id": 24,
+      "start": 37276.029388999996,
+      "end": 38828.199185,
+      "title": "24: The Necessary Passion 02"
+    },
+    {
+      "id": 25,
+      "start": 38828.199185,
+      "end": 41050.853878999995,
+      "title": "25: The Necessary Passion 03"
+    },
+    {
+      "id": 26,
+      "start": 41050.853878999995,
+      "end": 43395.86612399999,
+      "title": "26: The Necessary Passion 04"
+    },
+    {
+      "id": 27,
+      "start": 43395.86612399999,
+      "end": 44033.541225999994,
+      "title": "27: The Necessary Passion 05"
+    },
+    {
+      "id": 28,
+      "start": 44033.541225999994,
+      "end": 45576.306939999995,
+      "title": "28: Malafrena 01"
+    },
+    {
+      "id": 29,
+      "start": 45576.306939999995,
+      "end": 47601.92000099999,
+      "title": "29: Malafrena 02"
+    },
+    {
+      "id": 30,
+      "start": 47601.92000099999,
+      "end": 48670.354286999995,
+      "title": "30: Malafrena 03"
+    }
+  ],
+  "title": "Malafrena",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "378mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1979",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by John MacDonald",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

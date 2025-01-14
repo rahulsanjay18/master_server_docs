@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=So Far So Good: Final Poems: 2014-2018
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=So Far So Good: Final Poems: 2014-2018
+genre=Audio Book
+date=2018
+comment=Read by Jill Ferris
+description=Read by Jill Ferris
+composer=46.7mb
+TRACKTOTAL=81

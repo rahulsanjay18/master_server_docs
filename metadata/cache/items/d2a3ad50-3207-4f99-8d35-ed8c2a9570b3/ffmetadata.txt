@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Rendezvous with Rama
+artist=Arthur C. Clarke
+album_artist=Arthur C. Clarke
+album=Rendezvous with Rama
+genre=audiobook
+date=2000
+composer=Duke Robillard
+copyright=Dixiefrog
+publisher=Dixiefrog
+TRACKTOTAL=16

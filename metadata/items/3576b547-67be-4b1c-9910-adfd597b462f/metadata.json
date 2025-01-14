@@ -1,0 +1,114 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 187.585306,
+      "title": "00: Intro"
+    },
+    {
+      "id": 1,
+      "start": 187.585306,
+      "end": 701.831837,
+      "title": "01: A Bad Thing"
+    },
+    {
+      "id": 2,
+      "start": 701.831837,
+      "end": 2175.03347,
+      "title": "02: Going to the Falcon's Nest"
+    },
+    {
+      "id": 3,
+      "start": 2175.03347,
+      "end": 3332.4408169999997,
+      "title": "03: Ogion"
+    },
+    {
+      "id": 4,
+      "start": 3332.4408169999997,
+      "end": 5402.775511,
+      "title": "04: Kalessin"
+    },
+    {
+      "id": 5,
+      "start": 5402.775511,
+      "end": 8095.4253069999995,
+      "title": "05: Bettering"
+    },
+    {
+      "id": 6,
+      "start": 8095.4253069999995,
+      "end": 9375.34694,
+      "title": "06: Worsening"
+    },
+    {
+      "id": 7,
+      "start": 9375.34694,
+      "end": 11352.320001,
+      "title": "07: Mice"
+    },
+    {
+      "id": 8,
+      "start": 11352.320001,
+      "end": 13573.799185,
+      "title": "08: Hawks"
+    },
+    {
+      "id": 9,
+      "start": 13573.799185,
+      "end": 15684.048981,
+      "title": "09: Finding Words"
+    },
+    {
+      "id": 10,
+      "start": 15684.048981,
+      "end": 17872.901226,
+      "title": "10: The Dolphin"
+    },
+    {
+      "id": 11,
+      "start": 17872.901226,
+      "end": 21459.017144,
+      "title": "11: Home"
+    },
+    {
+      "id": 12,
+      "start": 21459.017144,
+      "end": 24298.527348000003,
+      "title": "12: Winter"
+    },
+    {
+      "id": 13,
+      "start": 24298.527348000003,
+      "end": 26287.647348000002,
+      "title": "13: The Master"
+    },
+    {
+      "id": 14,
+      "start": 26287.647348000002,
+      "end": 27141.433470000004,
+      "title": "14: Tehanu"
+    }
+  ],
+  "title": "Tehanu",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1990",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Robert Donley",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

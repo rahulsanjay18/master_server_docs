@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=Seeker
+artist=Jack McDevitt
+album_artist=Jack McDevitt
+album=Seeker
+genre=Fiction
+date=2005
+comment=Read by Jennfier VanDyck
+description=Read by Jennfier VanDyck
+copyright=Audible Frontiers
+publisher=Audible Frontiers
+TRACKTOTAL=36

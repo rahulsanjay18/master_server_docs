@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Working for Bigfoot (Unabridged)
+artist=Jim Butcher
+album_artist=Jim Butcher
+album=Working for Bigfoot (Unabridged)
+date=2015
+TRACKTOTAL=31
+grouping=Jim Butcher - Dresden Files 22GB \#15.5

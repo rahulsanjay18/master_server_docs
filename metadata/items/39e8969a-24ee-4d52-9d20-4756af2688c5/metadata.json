@@ -1,0 +1,104 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 358.152,
+      "title": "00: Prologue"
+    },
+    {
+      "id": 1,
+      "start": 358.152,
+      "end": 988.44,
+      "title": "01: The Eaten One"
+    },
+    {
+      "id": 2,
+      "start": 988.44,
+      "end": 2883.4080000000004,
+      "title": "02: The Wall Around the Place"
+    },
+    {
+      "id": 3,
+      "start": 2883.4080000000004,
+      "end": 4560.144,
+      "title": "03: The Prisoners"
+    },
+    {
+      "id": 4,
+      "start": 4560.144,
+      "end": 6550.224,
+      "title": "04: Dreams and Tales"
+    },
+    {
+      "id": 5,
+      "start": 6550.224,
+      "end": 8160.360000000001,
+      "title": "05: Light Under the Hill"
+    },
+    {
+      "id": 6,
+      "start": 8160.360000000001,
+      "end": 10189.344000000001,
+      "title": "06: The Man Trap"
+    },
+    {
+      "id": 7,
+      "start": 10189.344000000001,
+      "end": 11824.248000000001,
+      "title": "07: The Great Treasure"
+    },
+    {
+      "id": 8,
+      "start": 11824.248000000001,
+      "end": 12671.664,
+      "title": "08: Names"
+    },
+    {
+      "id": 9,
+      "start": 12671.664,
+      "end": 14361.024000000001,
+      "title": "09: The Ring of Erreth-Akbe"
+    },
+    {
+      "id": 10,
+      "start": 14361.024000000001,
+      "end": 15497.856000000002,
+      "title": "10: The Anger of the Dark"
+    },
+    {
+      "id": 11,
+      "start": 15497.856000000002,
+      "end": 16905.624000000003,
+      "title": "11: The Western Mountains"
+    },
+    {
+      "id": 12,
+      "start": 16905.624000000003,
+      "end": 18277.632000000005,
+      "title": "12: Voyage"
+    }
+  ],
+  "title": "The Tombs of Atuan",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "142mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1971",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Robert Donley",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

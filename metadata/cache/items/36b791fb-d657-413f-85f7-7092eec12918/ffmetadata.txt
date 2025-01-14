@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Warbound (Unabridged)
+artist=Larry Correia
+album_artist=Larry Correia
+album=Warbound (Unabridged)
+genre=Audiobook
+date=2013
+comment=Tough P.I. Jack Sullivan battles an interdimensional monster that wants to suck magic power out of the world....
+description=Tough P.I. Jack Sullivan battles an interdimensional monster that wants to suck magic power out of the world....
+TRACKTOTAL=1

@@ -1,0 +1,14 @@
+;FFMETADATA1
+title=Noam Chomsky - What We Say Goes
+artist=Noam Chomsky
+album_artist=Noam Chomsky
+album=Noam Chomsky - What We Say Goes: Conversations on U.S. Power in a Changing World
+TIT3=Conversations on U.S. Power in a Changing World
+genre=Blues
+date=2010
+comment=In this all new collection of conversations, Noam Chomsky explores the most immediate and urgent concerns: Iran’s challenge to the United States, the deterioration of the Israel-Palestine conflict, the ongoing occupations of Iraq and Afghanistan, the rise of China, and the growing power of the left in Latin America, as well as the Democratic victory in the U.S. midterm elections and its ramifications for the future. As always, Chomsky presents his ideas clearly and accessibly, with uncompromising principle and clarifying insight.  The latest audiobook from a long-established, trusted partnership, What We Say Goes shows once again that no interlocutor engages with Noam Chomsky more effectively than David Barsamian. These interviews confirm that Chomsky is an unparalleled resource for anyone seeking to understand our world today.
+description=In this all new collection of conversations, Noam Chomsky explores the most immediate and urgent concerns: Iran’s challenge to the United States, the deterioration of the Israel-Palestine conflict, the ongoing occupations of Iraq and Afghanistan, the rise of China, and the growing power of the left in Latin America, as well as the Democratic victory in the U.S. midterm elections and its ramifications for the future. As always, Chomsky presents his ideas clearly and accessibly, with uncompromising principle and clarifying insight.  The latest audiobook from a long-established, trusted partnership, What We Say Goes shows once again that no interlocutor engages with Noam Chomsky more effectively than David Barsamian. These interviews confirm that Chomsky is an unparalleled resource for anyone seeking to understand our world today.
+composer=Noam Chomsky, David Barsamian
+copyright=Macmillan Audio
+publisher=Macmillan Audio
+TRACKTOTAL=5

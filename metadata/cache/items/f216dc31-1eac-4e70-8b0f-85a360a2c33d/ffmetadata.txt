@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Orsinian Tales
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Orsinian Tales
+genre=Audio Book
+date=1976
+comment=Read by Richard Braun
+description=Read by Richard Braun
+composer=193mb
+TRACKTOTAL=13

@@ -1,0 +1,394 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 17.832,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 17.832,
+      "end": 1038.326,
+      "title": "Chapter 1: Next Stage"
+    },
+    {
+      "id": 2,
+      "start": 1038.326,
+      "end": 2009.988,
+      "title": "Chapter 2: Questioning"
+    },
+    {
+      "id": 3,
+      "start": 2009.988,
+      "end": 3084.422,
+      "title": "Chapter 3: Torn"
+    },
+    {
+      "id": 4,
+      "start": 3084.422,
+      "end": 4093.933,
+      "title": "Chapter 4: A City Within"
+    },
+    {
+      "id": 5,
+      "start": 4093.933,
+      "end": 4860.099,
+      "title": "Chapter 5: Return"
+    },
+    {
+      "id": 6,
+      "start": 4860.099,
+      "end": 5843.557,
+      "title": "Chapter 6: Responsibilities"
+    },
+    {
+      "id": 7,
+      "start": 5843.557,
+      "end": 6789.839,
+      "title": "Chapter 7: Allocation"
+    },
+    {
+      "id": 8,
+      "start": 6789.839,
+      "end": 7645.425,
+      "title": "Chapter 8: Traitor's Request"
+    },
+    {
+      "id": 9,
+      "start": 7645.425,
+      "end": 8494.556,
+      "title": "Chapter 9: A Poem"
+    },
+    {
+      "id": 10,
+      "start": 8494.556,
+      "end": 9403.338,
+      "title": "Chapter 10: Lost Words"
+    },
+    {
+      "id": 11,
+      "start": 9403.338,
+      "end": 10436.58,
+      "title": "Chapter 11: Enemy Territory"
+    },
+    {
+      "id": 12,
+      "start": 10436.58,
+      "end": 11438.962,
+      "title": "Chapter 12: Brother’s Consent"
+    },
+    {
+      "id": 13,
+      "start": 11438.962,
+      "end": 12142.016,
+      "title": "Chapter 13: Coordination"
+    },
+    {
+      "id": 14,
+      "start": 12142.016,
+      "end": 13172.053,
+      "title": "Chapter 14: Enemy Territory II"
+    },
+    {
+      "id": 15,
+      "start": 13172.053,
+      "end": 14027.987,
+      "title": "Chapter 15: Deployed"
+    },
+    {
+      "id": 16,
+      "start": 14027.987,
+      "end": 14786.745,
+      "title": "Chapter 16: Awaiting the Horde"
+    },
+    {
+      "id": 17,
+      "start": 14786.745,
+      "end": 15539.025,
+      "title": "Chapter 17: Awaiting the Horde II"
+    },
+    {
+      "id": 18,
+      "start": 15539.025,
+      "end": 16750.921,
+      "title": "Chapter 18: A Promise"
+    },
+    {
+      "id": 19,
+      "start": 16750.921,
+      "end": 17723.396,
+      "title": "Chapter 19: Enemy Territory III"
+    },
+    {
+      "id": 20,
+      "start": 17723.396,
+      "end": 18415.142,
+      "title": "Chapter 20: Welcoming Gift"
+    },
+    {
+      "id": 21,
+      "start": 18415.142,
+      "end": 19538.918,
+      "title": "Chapter 21: Two Versus an Army"
+    },
+    {
+      "id": 22,
+      "start": 19538.918,
+      "end": 20194.394,
+      "title": "Chapter 22: Battlefield"
+    },
+    {
+      "id": 23,
+      "start": 20194.394,
+      "end": 21155.166,
+      "title": "Chapter 23: Decisions Made"
+    },
+    {
+      "id": 24,
+      "start": 21155.166,
+      "end": 22308.269,
+      "title": "Chapter 24: From Leader to Soldier"
+    },
+    {
+      "id": 25,
+      "start": 22308.269,
+      "end": 23168.383,
+      "title": "Chapter 25: Army Approaching"
+    },
+    {
+      "id": 26,
+      "start": 23168.383,
+      "end": 23971.096,
+      "title": "Chapter 26: The Weight of a Choice"
+    },
+    {
+      "id": 27,
+      "start": 23971.096,
+      "end": 24798.586,
+      "title": "Chapter 27: Backtrack"
+    },
+    {
+      "id": 28,
+      "start": 24798.586,
+      "end": 25798.182,
+      "title": "Chapter 28: Dim Tunnels"
+    },
+    {
+      "id": 29,
+      "start": 25798.182,
+      "end": 26445.972,
+      "title": "Chapter 29: Future’s First Step"
+    },
+    {
+      "id": 30,
+      "start": 26445.972,
+      "end": 27198.554,
+      "title": "Chapter 30: In Her Element"
+    },
+    {
+      "id": 31,
+      "start": 27198.554,
+      "end": 27727.389,
+      "title": "Chapter 31: Dim Tunnels II"
+    },
+    {
+      "id": 32,
+      "start": 27727.389,
+      "end": 28555.923,
+      "title": "Chapter 32: Carried Back"
+    },
+    {
+      "id": 33,
+      "start": 28555.923,
+      "end": 29430.294,
+      "title": "Chapter 33: Shared Affliction"
+    },
+    {
+      "id": 34,
+      "start": 29430.294,
+      "end": 30271.344,
+      "title": "Chapter 34: Punishable Actions"
+    },
+    {
+      "id": 35,
+      "start": 30271.344,
+      "end": 31376.242,
+      "title": "Chapter 35: Above Limitations"
+    },
+    {
+      "id": 36,
+      "start": 31376.242,
+      "end": 32231.247,
+      "title": "Chapter 36: Anchor"
+    },
+    {
+      "id": 37,
+      "start": 32231.247,
+      "end": 33178.877,
+      "title": "Chapter 37: Field of White"
+    },
+    {
+      "id": 38,
+      "start": 33178.877,
+      "end": 34137.327,
+      "title": "Chapter 38: Resounding Horns"
+    },
+    {
+      "id": 39,
+      "start": 34137.327,
+      "end": 35111.636,
+      "title": "Chapter 39: Dim Tunnels III (Book Exclusive)"
+    },
+    {
+      "id": 40,
+      "start": 35111.636,
+      "end": 35948.855,
+      "title": "Chapter 40: Following Orders"
+    },
+    {
+      "id": 41,
+      "start": 35948.855,
+      "end": 36765.733,
+      "title": "Chapter 41: Tainted Blood"
+    },
+    {
+      "id": 42,
+      "start": 36765.733,
+      "end": 37506.263,
+      "title": "Chapter 42: Treason"
+    },
+    {
+      "id": 43,
+      "start": 37506.263,
+      "end": 38897.162,
+      "title": "Chapter 43: Dim Tunnels IV (Book Exclusive)"
+    },
+    {
+      "id": 44,
+      "start": 38897.162,
+      "end": 39708.676,
+      "title": "Chapter 44: Remembrance"
+    },
+    {
+      "id": 45,
+      "start": 39708.676,
+      "end": 40567.188,
+      "title": "Chapter 45: Wavering Pillar"
+    },
+    {
+      "id": 46,
+      "start": 40567.188,
+      "end": 42267.515,
+      "title": "Chapter 46: Darkening Grey"
+    },
+    {
+      "id": 47,
+      "start": 42267.515,
+      "end": 43172.466,
+      "title": "Chapter 47: Expired Arrangement"
+    },
+    {
+      "id": 48,
+      "start": 43172.466,
+      "end": 43882.556,
+      "title": "Chapter 48: Hidden in Sand"
+    },
+    {
+      "id": 49,
+      "start": 43882.556,
+      "end": 44651.276,
+      "title": "Chapter 49: Passage of Time"
+    },
+    {
+      "id": 50,
+      "start": 44651.276,
+      "end": 45509.926,
+      "title": "Chapter 50: Reconciliation"
+    },
+    {
+      "id": 51,
+      "start": 45509.926,
+      "end": 46409.421,
+      "title": "Chapter 51: Hope and Trust"
+    },
+    {
+      "id": 52,
+      "start": 46409.421,
+      "end": 47437.995,
+      "title": "Chapter 52: Two Loves"
+    },
+    {
+      "id": 53,
+      "start": 47437.995,
+      "end": 48124.795,
+      "title": "Chapter 53: On the Surface"
+    },
+    {
+      "id": 54,
+      "start": 48124.795,
+      "end": 48939.816,
+      "title": "Chapter 54: Day of Rebirth"
+    },
+    {
+      "id": 55,
+      "start": 48939.816,
+      "end": 49842.05,
+      "title": "Chapter 55: Walking Catastrophe"
+    },
+    {
+      "id": 56,
+      "start": 49842.05,
+      "end": 50877.196,
+      "title": "Chapter 56: Dear Old Friend"
+    },
+    {
+      "id": 57,
+      "start": 50877.196,
+      "end": 51899.919,
+      "title": "Chapter 57: Not Alone"
+    },
+    {
+      "id": 58,
+      "start": 51899.919,
+      "end": 52930.536,
+      "title": "Chapter 58: His Name"
+    },
+    {
+      "id": 59,
+      "start": 52930.536,
+      "end": 54469.88,
+      "title": "Chapter 59: Gone"
+    },
+    {
+      "id": 60,
+      "start": 54469.88,
+      "end": 54527.559,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "The Beginning After the End, Vol 07: Divergence",
+  "subtitle": null,
+  "authors": [
+    "Travis Baldree"
+  ],
+  "narrators": [
+    "Tae Ha Lee"
+  ],
+  "series": [
+    "The Beginning After the End #07"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "February 15, 2020 (11-10-20)",
+  "publishedDate": null,
+  "publisher": "Podium Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

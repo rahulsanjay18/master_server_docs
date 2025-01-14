@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Wild Angels
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Wild Angels
+genre=Audio Book
+date=1975
+comment=Read by Ursula K. Le Guin
+description=Read by Ursula K. Le Guin
+composer=4.03mb
+TRACKTOTAL=4

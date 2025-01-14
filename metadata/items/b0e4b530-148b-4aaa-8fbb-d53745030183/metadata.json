@@ -1,0 +1,82 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 21.493,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 21.493,
+      "end": 3592.261,
+      "title": "Prologue"
+    },
+    {
+      "id": 2,
+      "start": 3592.261,
+      "end": 6545.305,
+      "title": "Chapter One"
+    },
+    {
+      "id": 3,
+      "start": 6545.305,
+      "end": 11290.005,
+      "title": "Chapter Two"
+    },
+    {
+      "id": 4,
+      "start": 11290.005,
+      "end": 15330.876,
+      "title": "Chapter Three"
+    },
+    {
+      "id": 5,
+      "start": 15330.876,
+      "end": 22309.121,
+      "title": "Chapter Four"
+    },
+    {
+      "id": 6,
+      "start": 22309.121,
+      "end": 23823.9,
+      "title": "Final Chapter"
+    },
+    {
+      "id": 7,
+      "start": 23823.9,
+      "end": 25291.234,
+      "title": "Side Story: The Moon’s Journey"
+    },
+    {
+      "id": 8,
+      "start": 25291.234,
+      "end": 25348.389,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "The Faraway Paladin, Vol. 03 Secundus: The Lord of the Rust Mountains",
+  "subtitle": null,
+  "authors": [
+    "Liam Price"
+  ],
+  "narrators": [
+    "Kanata Yanagino"
+  ],
+  "series": [
+    "The Faraway Paladin #03.2"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "December 21, 2016 (08-15-23)",
+  "publishedDate": null,
+  "publisher": "Tantor Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

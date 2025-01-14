@@ -1,0 +1,296 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 23.986009,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 23.986009,
+      "end": 464.166009,
+      "title": "Prologue",
+      "id": 1
+    },
+    {
+      "start": 464.166009,
+      "end": 941.405011,
+      "title": "Chapter 1",
+      "id": 2
+    },
+    {
+      "start": 941.405011,
+      "end": 1670.51102,
+      "title": "Chapter 2",
+      "id": 3
+    },
+    {
+      "start": 1670.51102,
+      "end": 2439.579025,
+      "title": "Chapter 3",
+      "id": 4
+    },
+    {
+      "start": 2439.579025,
+      "end": 3145.419025,
+      "title": "Chapter 4",
+      "id": 5
+    },
+    {
+      "start": 3145.419025,
+      "end": 3833.286032,
+      "title": "Chapter 5",
+      "id": 6
+    },
+    {
+      "start": 3833.286032,
+      "end": 4506.711043,
+      "title": "Chapter 6",
+      "id": 7
+    },
+    {
+      "start": 4506.711043,
+      "end": 5233.309048,
+      "title": "Chapter 7",
+      "id": 8
+    },
+    {
+      "start": 5233.309048,
+      "end": 5945.34805,
+      "title": "Chapter 8",
+      "id": 9
+    },
+    {
+      "start": 5945.34805,
+      "end": 6582.991066,
+      "title": "Chapter 9",
+      "id": 10
+    },
+    {
+      "start": 6582.991066,
+      "end": 7393.274082,
+      "title": "Chapter 10",
+      "id": 11
+    },
+    {
+      "start": 7393.274082,
+      "end": 8021.861088,
+      "title": "Chapter 11",
+      "id": 12
+    },
+    {
+      "start": 8021.861088,
+      "end": 8729.883107,
+      "title": "Chapter 12",
+      "id": 13
+    },
+    {
+      "start": 8729.883107,
+      "end": 9361.071111,
+      "title": "Chapter 13",
+      "id": 14
+    },
+    {
+      "start": 9361.071111,
+      "end": 9991.95712,
+      "title": "Chapter 14",
+      "id": 15
+    },
+    {
+      "start": 9991.95712,
+      "end": 10686.280136,
+      "title": "Chapter 15",
+      "id": 16
+    },
+    {
+      "start": 10686.280136,
+      "end": 11273.419138,
+      "title": "Chapter 16",
+      "id": 17
+    },
+    {
+      "start": 11273.419138,
+      "end": 11940.249138,
+      "title": "Chapter 17",
+      "id": 18
+    },
+    {
+      "start": 11940.249138,
+      "end": 12392.480159,
+      "title": "Chapter 18",
+      "id": 19
+    },
+    {
+      "start": 12392.480159,
+      "end": 12991.624172,
+      "title": "Chapter 19",
+      "id": 20
+    },
+    {
+      "start": 12991.624172,
+      "end": 13486.673175,
+      "title": "Chapter 20",
+      "id": 21
+    },
+    {
+      "start": 13486.673175,
+      "end": 14048.804195,
+      "title": "Chapter 21",
+      "id": 22
+    },
+    {
+      "start": 14048.804195,
+      "end": 14545.478209,
+      "title": "Chapter 22",
+      "id": 23
+    },
+    {
+      "start": 14545.478209,
+      "end": 15218.786213,
+      "title": "Chapter 23",
+      "id": 24
+    },
+    {
+      "start": 15218.786213,
+      "end": 16060.625215,
+      "title": "Chapter 24",
+      "id": 25
+    },
+    {
+      "start": 16060.625215,
+      "end": 16788.454218,
+      "title": "Chapter 25",
+      "id": 26
+    },
+    {
+      "start": 16788.454218,
+      "end": 17469.402222,
+      "title": "Chapter 26",
+      "id": 27
+    },
+    {
+      "start": 17469.402222,
+      "end": 18007.361224,
+      "title": "Chapter 27",
+      "id": 28
+    },
+    {
+      "start": 18007.361224,
+      "end": 18446.682245,
+      "title": "Chapter 28",
+      "id": 29
+    },
+    {
+      "start": 18446.682245,
+      "end": 19268.018254,
+      "title": "Chapter 29",
+      "id": 30
+    },
+    {
+      "start": 19268.018254,
+      "end": 19800.149274,
+      "title": "Chapter 30",
+      "id": 31
+    },
+    {
+      "start": 19800.149274,
+      "end": 20326.150295,
+      "title": "Chapter 31",
+      "id": 32
+    },
+    {
+      "start": 20326.150295,
+      "end": 21003.592313,
+      "title": "Chapter 32",
+      "id": 33
+    },
+    {
+      "start": 21003.592313,
+      "end": 21636.93932,
+      "title": "Chapter 33",
+      "id": 34
+    },
+    {
+      "start": 21636.93932,
+      "end": 22383.576327,
+      "title": "Chapter 34",
+      "id": 35
+    },
+    {
+      "start": 22383.576327,
+      "end": 23249.448345,
+      "title": "Chapter 35",
+      "id": 36
+    },
+    {
+      "start": 23249.448345,
+      "end": 24312.155351,
+      "title": "Chapter 36",
+      "id": 37
+    },
+    {
+      "start": 24312.155351,
+      "end": 25542.580363,
+      "title": "Chapter 37",
+      "id": 38
+    },
+    {
+      "start": 25542.580363,
+      "end": 26506.835374,
+      "title": "Chapter 38",
+      "id": 39
+    },
+    {
+      "start": 26506.835374,
+      "end": 27386.84839,
+      "title": "Chapter 39",
+      "id": 40
+    },
+    {
+      "start": 27386.84839,
+      "end": 27815.55839,
+      "title": "Chapter 40",
+      "id": 41
+    },
+    {
+      "start": 27815.55839,
+      "end": 28544.26941,
+      "title": "Chapter 41",
+      "id": 42
+    },
+    {
+      "start": 28544.26941,
+      "end": 28886.22941,
+      "title": "Epilogue",
+      "id": 43
+    },
+    {
+      "start": 28886.22941,
+      "end": 28924,
+      "title": "End Credits",
+      "id": 44
+    }
+  ],
+  "title": "Bookshops & Bonedust (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "Travis Baldree"
+  ],
+  "narrators": [],
+  "series": [
+    "Travis Baldree - Legends & Lattes"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2023-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Viv's career with the notorious mercenary company Rackam's Ravens isn't going as planned. Wounded during the hunt for a powerful necromancer, she's packed off against her will to recuperate in the sleepy beach town of Murk—so far from the action that she worries she'll never be able to return to it. What's a thwarted soldier of fortune to do? Spending her hours at a beleaguered bookshop in the company of its foul-mouthed proprietor is the last thing Viv would have predicted, but it may be both exactly what she needs and the seed of changes she couldn't possibly imagine.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

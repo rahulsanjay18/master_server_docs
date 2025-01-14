@@ -1,0 +1,80 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 104.698,
+      "title": " 00 Intoduction "
+    },
+    {
+      "id": 1,
+      "start": 104.698,
+      "end": 2467.787,
+      "title": " 01 Echoes "
+    },
+    {
+      "id": 2,
+      "start": 2467.787,
+      "end": 5399.013,
+      "title": " 02 Why it happened "
+    },
+    {
+      "id": 3,
+      "start": 5399.013,
+      "end": 7120.404,
+      "title": " 03 How it happened "
+    },
+    {
+      "id": 4,
+      "start": 7120.404,
+      "end": 9289.116,
+      "title": " 03b Polarization - War "
+    },
+    {
+      "id": 5,
+      "start": 9289.116,
+      "end": 11839.346,
+      "title": " 04 What it ended "
+    },
+    {
+      "id": 6,
+      "start": 11839.346,
+      "end": 14175.084,
+      "title": " 05 What it started "
+    },
+    {
+      "id": 7,
+      "start": 14175.084,
+      "end": 15775.423,
+      "title": " 06 Where it stands "
+    },
+    {
+      "id": 8,
+      "start": 15775.423,
+      "end": 16684.458,
+      "title": " 07 Timeline "
+    }
+  ],
+  "title": "Very Short Introductions",
+  "subtitle": null,
+  "authors": [
+    "William Doyle"
+  ],
+  "narrators": [
+    "Suzanne Toren"
+  ],
+  "series": [],
+  "genres": [
+    "History"
+  ],
+  "publishedYear": "2021",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Terra Ignota: Too Like The Lightning (1 of 2)
+artist=Graphic Audio, Llc
+album_artist=Graphic Audio, Llc
+album=Terra Ignota: Too Like The Lightning (1 of 2)
+genre=Audiobook
+date=2021-01-01
+comment=Written by Ada Palmer - Performed by Chris Stinson as Mycroft Canner, Kay Eluvian as Carlyle Foster, Wyn Delano as The Major, Nazia Chaudhry as Thisbe Saneer, Zeke Alton as Ockham Saneer, and Alejandro Ruiz as J.E.D.D. Mason, Nora Achrati, Lise Bruneau, Jacob Yeh, Marni Penning, Taylor Coan, Ryan Carlo Dalusung, Brandon Burton, Dawn Ursula, Holly Adams, Lydia Kraniotis, Neha Gargava, James Konicek, Elena Anderson, Emlyn McFarland, Bradley Foster Smith, Robb Moreira, Chris Davenport, Anthony Palmini, Daniel Llaca, Niusha Nawab, Christopher Walker, Bianca Bryan, Shawn K. Jain, Mark Harrietha, Duyen Washington, Matthew Schleigh, Shravan Amin, Nanette Savard, Shanta Parasuraman, Nicole Perez, Megan Poppy, Torian Brackett, Natalie Van Sistine, James Lewis, Carolyn Kashner, Christopher Walker, Christopher Williams, Colleen Delany, Tia Shearer, Yasmin Tuazon, Megan Dominy, Stephon Walker, Terence Aselford, Scott McCormick, and Rose Elizabeth Supan.
+description=Written by Ada Palmer - Performed by Chris Stinson as Mycroft Canner, Kay Eluvian as Carlyle Foster, Wyn Delano as The Major, Nazia Chaudhry as Thisbe Saneer, Zeke Alton as Ockham Saneer, and Alejandro Ruiz as J.E.D.D. Mason, Nora Achrati, Lise Bruneau, Jacob Yeh, Marni Penning, Taylor Coan, Ryan Carlo Dalusung, Brandon Burton, Dawn Ursula, Holly Adams, Lydia Kraniotis, Neha Gargava, James Konicek, Elena Anderson, Emlyn McFarland, Bradley Foster Smith, Robb Moreira, Chris Davenport, Anthony Palmini, Daniel Llaca, Niusha Nawab, Christopher Walker, Bianca Bryan, Shawn K. Jain, Mark Harrietha, Duyen Washington, Matthew Schleigh, Shravan Amin, Nanette Savard, Shanta Parasuraman, Nicole Perez, Megan Poppy, Torian Brackett, Natalie Van Sistine, James Lewis, Carolyn Kashner, Christopher Walker, Christopher Williams, Colleen Delany, Tia Shearer, Yasmin Tuazon, Megan Dominy, Stephon Walker, Terence Aselford, Scott McCormick, and Rose Elizabeth Supan.
+TRACKTOTAL=13

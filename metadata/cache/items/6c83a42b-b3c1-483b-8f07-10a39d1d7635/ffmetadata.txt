@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Threshold
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Threshold
+genre=Audio Book
+date=1980
+comment=Read by Malcolm Ruthven
+description=Read by Malcolm Ruthven
+composer=102mb
+TRACKTOTAL=9

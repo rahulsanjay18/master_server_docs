@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=StarShipSofa \#389
+artist=George R. R. Martin, Howard Waldrop
+album_artist=George R. R. Martin, Howard Waldrop
+album=StarShipSofa \#389
+genre=Audio Book
+date=1976
+comment=Read by Nick Camm
+description=Read by Nick Camm
+TRACKTOTAL=1

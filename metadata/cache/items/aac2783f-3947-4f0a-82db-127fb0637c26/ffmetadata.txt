@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=The Watsons (read by Carmella Ross)
+artist=Jane Austen
+album_artist=Jane Austen
+album=The Watsons (read by Carmella Ross)
+date=1804
+TRACKTOTAL=1
+grouping=-Short Fiction

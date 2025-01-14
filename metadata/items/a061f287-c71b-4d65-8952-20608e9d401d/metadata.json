@@ -1,0 +1,104 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 187.585306,
+      "title": "00: Prologue"
+    },
+    {
+      "id": 1,
+      "start": 187.585306,
+      "end": 916.3755100000001,
+      "title": "01: The Eaten One"
+    },
+    {
+      "id": 2,
+      "start": 916.3755100000001,
+      "end": 2935.196734,
+      "title": "02: The Wall Around the Place"
+    },
+    {
+      "id": 3,
+      "start": 2935.196734,
+      "end": 4719.229387,
+      "title": "03: The Prisoners"
+    },
+    {
+      "id": 4,
+      "start": 4719.229387,
+      "end": 6840.97306,
+      "title": "04: Dreams and Tales"
+    },
+    {
+      "id": 5,
+      "start": 6840.97306,
+      "end": 8714.370611,
+      "title": "05: Light Under the Hill"
+    },
+    {
+      "id": 6,
+      "start": 8714.370611,
+      "end": 11017.769795,
+      "title": "06: The Man Trap"
+    },
+    {
+      "id": 7,
+      "start": 11017.769795,
+      "end": 12770.559999000001,
+      "title": "07: The Great Treasure"
+    },
+    {
+      "id": 8,
+      "start": 12770.559999000001,
+      "end": 13632.862040000002,
+      "title": "08: Names"
+    },
+    {
+      "id": 9,
+      "start": 13632.862040000002,
+      "end": 15363.970611000002,
+      "title": "09: The Ring of Erreth-Akbe"
+    },
+    {
+      "id": 10,
+      "start": 15363.970611000002,
+      "end": 16599.301223000002,
+      "title": "10: The Anger of the Dark"
+    },
+    {
+      "id": 11,
+      "start": 16599.301223000002,
+      "end": 18221.400815,
+      "title": "11: The Western Mountains"
+    },
+    {
+      "id": 12,
+      "start": 18221.400815,
+      "end": 19829.394284,
+      "title": "12: Voyage"
+    }
+  ],
+  "title": "The Tombs of Atuan",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "457mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1971",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Rob Inglis",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

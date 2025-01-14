@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=No Enemy But Time
+artist=Michael Bishop
+album_artist=Michael Bishop
+album=No Enemy But Time
+genre=Other
+date=1982
+comment=Narrated by Bob Askey
+description=Narrated by Bob Askey
+TRACKTOTAL=12

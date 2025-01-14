@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Dresden Files 12.5 - Side Jobs
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 12.5 - Side Jobs
+genre=Audiobook
+composer=Jim Butcher
+TRACKTOTAL=3
+grouping=Jim Butcher - Dresden Files 22GB \#12.1

@@ -1,0 +1,114 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 239.278,
+      "title": "track01"
+    },
+    {
+      "id": 1,
+      "start": 239.278,
+      "end": 485.004,
+      "title": "track02"
+    },
+    {
+      "id": 2,
+      "start": 485.004,
+      "end": 743.262,
+      "title": "track03"
+    },
+    {
+      "id": 3,
+      "start": 743.262,
+      "end": 1107.626,
+      "title": "track04"
+    },
+    {
+      "id": 4,
+      "start": 1107.626,
+      "end": 1364.61,
+      "title": "track05"
+    },
+    {
+      "id": 5,
+      "start": 1364.61,
+      "end": 1675.596,
+      "title": "track06"
+    },
+    {
+      "id": 6,
+      "start": 1675.596,
+      "end": 1892.696,
+      "title": "track07"
+    },
+    {
+      "id": 7,
+      "start": 1892.696,
+      "end": 2229.37,
+      "title": "track08"
+    },
+    {
+      "id": 8,
+      "start": 2229.37,
+      "end": 2497.7419999999997,
+      "title": "track09"
+    },
+    {
+      "id": 9,
+      "start": 2497.7419999999997,
+      "end": 2890.758,
+      "title": "track10"
+    },
+    {
+      "id": 10,
+      "start": 2890.758,
+      "end": 3098.2639999999997,
+      "title": "track11"
+    },
+    {
+      "id": 11,
+      "start": 3098.2639999999997,
+      "end": 3396.5099999999998,
+      "title": "track12"
+    },
+    {
+      "id": 12,
+      "start": 3396.5099999999998,
+      "end": 3637.6339999999996,
+      "title": "track13"
+    },
+    {
+      "id": 13,
+      "start": 3637.6339999999996,
+      "end": 3825.6659999999997,
+      "title": "track14"
+    },
+    {
+      "id": 14,
+      "start": 3825.6659999999997,
+      "end": 4117.672,
+      "title": "track15"
+    }
+  ],
+  "title": "disc 1",
+  "subtitle": null,
+  "authors": [
+    "Haruki Murakami"
+  ],
+  "narrators": [],
+  "series": [
+    "Haruki Murakami - Kafka on the Shore"
+  ],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,88 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 42.281,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 42.281,
+      "end": 56.33,
+      "title": "Intro - Warning"
+    },
+    {
+      "id": 2,
+      "start": 56.33,
+      "end": 1222.064,
+      "title": "Prologue"
+    },
+    {
+      "id": 3,
+      "start": 1222.064,
+      "end": 5884.282,
+      "title": "Chapter 1: A Boy’s Feelings"
+    },
+    {
+      "id": 4,
+      "start": 5884.282,
+      "end": 11109.909,
+      "title": "Chapter 2: The Blue Roses"
+    },
+    {
+      "id": 5,
+      "start": 11109.909,
+      "end": 11936.887,
+      "title": "Intermission"
+    },
+    {
+      "id": 6,
+      "start": 11936.887,
+      "end": 18524.968,
+      "title": "Chapter 3: The Finders and the Found"
+    },
+    {
+      "id": 7,
+      "start": 18524.968,
+      "end": 23425.213,
+      "title": "Chapter 4: Congregated Men"
+    },
+    {
+      "id": 8,
+      "start": 23425.213,
+      "end": 29844.949,
+      "title": "Chapter 5: Extinguished Embers, Flying Sparks"
+    },
+    {
+      "id": 9,
+      "start": 29844.949,
+      "end": 29957.896,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Overlord, Vol. 05: The Men of the Kingdom, Part I",
+  "subtitle": null,
+  "authors": [
+    "Chris Guerrero"
+  ],
+  "narrators": [
+    "Kugane Maruyama"
+  ],
+  "series": [
+    "Overlord #05"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "December 28, 2013 (07-12-22)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

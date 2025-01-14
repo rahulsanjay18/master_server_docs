@@ -1,0 +1,124 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4747.102041,
+      "title": "Disc 1"
+    },
+    {
+      "id": 1,
+      "start": 4747.102041,
+      "end": 9508.284082,
+      "title": "Disc 2"
+    },
+    {
+      "id": 2,
+      "start": 9508.284082,
+      "end": 14271.399184,
+      "title": "Disc 3"
+    },
+    {
+      "id": 3,
+      "start": 14271.399184,
+      "end": 18946.298776,
+      "title": "Disc 4"
+    },
+    {
+      "id": 4,
+      "start": 18946.298776,
+      "end": 23699.539592,
+      "title": "Disc 5"
+    },
+    {
+      "id": 5,
+      "start": 23699.539592,
+      "end": 28429.244082,
+      "title": "Disc 6"
+    },
+    {
+      "id": 6,
+      "start": 28429.244082,
+      "end": 33124.075102,
+      "title": "Disc 7"
+    },
+    {
+      "id": 7,
+      "start": 33124.075102,
+      "end": 37889.044898,
+      "title": "Disc 8"
+    },
+    {
+      "id": 8,
+      "start": 37889.044898,
+      "end": 42659.709388,
+      "title": "Disc 9"
+    },
+    {
+      "id": 9,
+      "start": 42659.709388,
+      "end": 47415.196735000005,
+      "title": "Disc 10"
+    },
+    {
+      "id": 10,
+      "start": 47415.196735000005,
+      "end": 52099.735511000006,
+      "title": "Disc 11"
+    },
+    {
+      "id": 11,
+      "start": 52099.735511000006,
+      "end": 56835.422042000006,
+      "title": "Disc 12"
+    },
+    {
+      "id": 12,
+      "start": 56835.422042000006,
+      "end": 61530.253062,
+      "title": "Disc 13"
+    },
+    {
+      "id": 13,
+      "start": 61530.253062,
+      "end": 66253.897144,
+      "title": "Disc 14"
+    },
+    {
+      "id": 14,
+      "start": 66253.897144,
+      "end": 70941.257144,
+      "title": "Disc 15"
+    },
+    {
+      "id": 15,
+      "start": 70941.257144,
+      "end": 75696.404899,
+      "title": "Disc 16"
+    },
+    {
+      "id": 16,
+      "start": 75696.404899,
+      "end": 77637.355103,
+      "title": "Disc 17"
+    }
+  ],
+  "title": "Swann's Way [Naxos]",
+  "subtitle": null,
+  "authors": [
+    "Proust - Remembrance of Things Past"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

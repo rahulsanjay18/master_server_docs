@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Social Strategy Q&A (Budapest, June 2004)
+artist=Noam Chomsky
+album_artist=Noam Chomsky
+album=Social Strategy Q&A (Budapest, June 2004)
+genre=Books & Spoken
+TRACKTOTAL=13
+grouping=Various Interviews and Talks

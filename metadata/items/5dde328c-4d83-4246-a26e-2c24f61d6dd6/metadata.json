@@ -1,0 +1,288 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 13.923968,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 13.923968,
+      "end": 47.923968,
+      "title": "Content Warning"
+    },
+    {
+      "id": 2,
+      "start": 47.923968,
+      "end": 72.923968,
+      "title": "Dedication"
+    },
+    {
+      "id": 3,
+      "start": 72.923968,
+      "end": 92.923968,
+      "title": "Preamble"
+    },
+    {
+      "id": 4,
+      "start": 92.923968,
+      "end": 3309.585941,
+      "title": "Chapter 1"
+    },
+    {
+      "id": 5,
+      "start": 3309.585941,
+      "end": 4548.787914,
+      "title": "Chapter 2"
+    },
+    {
+      "id": 6,
+      "start": 4548.787914,
+      "end": 7118.005896,
+      "title": "Chapter 3"
+    },
+    {
+      "id": 7,
+      "start": 7118.005896,
+      "end": 8455.89288,
+      "title": "Chapter 4"
+    },
+    {
+      "id": 8,
+      "start": 8455.89288,
+      "end": 10490.958844,
+      "title": "Chapter 5"
+    },
+    {
+      "id": 9,
+      "start": 10490.958844,
+      "end": 11730.299841,
+      "title": "Chapter 6"
+    },
+    {
+      "id": 10,
+      "start": 11730.299841,
+      "end": 13572.964807,
+      "title": "Chapter 7"
+    },
+    {
+      "id": 11,
+      "start": 13572.964807,
+      "end": 15752.319796,
+      "title": "Chapter 8"
+    },
+    {
+      "id": 12,
+      "start": 15752.319796,
+      "end": 17231.383764,
+      "title": "Chapter 9"
+    },
+    {
+      "id": 13,
+      "start": 17231.383764,
+      "end": 19878.945737,
+      "title": "Chapter 10"
+    },
+    {
+      "id": 14,
+      "start": 19878.945737,
+      "end": 21266.546712,
+      "title": "Chapter 11"
+    },
+    {
+      "id": 15,
+      "start": 21266.546712,
+      "end": 23034.699705,
+      "title": "Chapter 12"
+    },
+    {
+      "id": 16,
+      "start": 23034.699705,
+      "end": 24181.741678,
+      "title": "Chapter 13"
+    },
+    {
+      "id": 17,
+      "start": 24181.741678,
+      "end": 25251.670658,
+      "title": "Chapter 14"
+    },
+    {
+      "id": 18,
+      "start": 25251.670658,
+      "end": 26395.206621,
+      "title": "Chapter 15"
+    },
+    {
+      "id": 19,
+      "start": 26395.206621,
+      "end": 28610.575601,
+      "title": "Chapter 16"
+    },
+    {
+      "id": 20,
+      "start": 28610.575601,
+      "end": 30539.781587,
+      "title": "Chapter 17"
+    },
+    {
+      "id": 21,
+      "start": 30539.781587,
+      "end": 33011.312562,
+      "title": "Chapter 18"
+    },
+    {
+      "id": 22,
+      "start": 33011.312562,
+      "end": 35301.147528,
+      "title": "Chapter 19"
+    },
+    {
+      "id": 23,
+      "start": 35301.147528,
+      "end": 36678.740522,
+      "title": "Chapter 20"
+    },
+    {
+      "id": 24,
+      "start": 36678.740522,
+      "end": 38708.790522,
+      "title": "Chapter 21"
+    },
+    {
+      "id": 25,
+      "start": 38708.790522,
+      "end": 41669.589501,
+      "title": "Chapter 22"
+    },
+    {
+      "id": 26,
+      "start": 41669.589501,
+      "end": 44015.756463,
+      "title": "Chapter 23"
+    },
+    {
+      "id": 27,
+      "start": 44015.756463,
+      "end": 46186.264444,
+      "title": "Chapter 24"
+    },
+    {
+      "id": 28,
+      "start": 46186.264444,
+      "end": 47924.463424,
+      "title": "Chapter 25"
+    },
+    {
+      "id": 29,
+      "start": 47924.463424,
+      "end": 49305.02839,
+      "title": "Chapter 26"
+    },
+    {
+      "id": 30,
+      "start": 49305.02839,
+      "end": 51468.779388,
+      "title": "Chapter 27"
+    },
+    {
+      "id": 31,
+      "start": 51468.779388,
+      "end": 53949.877347,
+      "title": "Chapter 28"
+    },
+    {
+      "id": 32,
+      "start": 53949.877347,
+      "end": 55469.042336,
+      "title": "Chapter 29"
+    },
+    {
+      "id": 33,
+      "start": 55469.042336,
+      "end": 58033.128299,
+      "title": "Chapter 30"
+    },
+    {
+      "id": 34,
+      "start": 58033.128299,
+      "end": 60843.044286,
+      "title": "Chapter 31"
+    },
+    {
+      "id": 35,
+      "start": 60843.044286,
+      "end": 63201.309274,
+      "title": "Chapter 32"
+    },
+    {
+      "id": 36,
+      "start": 63201.309274,
+      "end": 64450.542245,
+      "title": "Chapter 33"
+    },
+    {
+      "id": 37,
+      "start": 64450.542245,
+      "end": 65659.651224,
+      "title": "Chapter 34"
+    },
+    {
+      "id": 38,
+      "start": 65659.651224,
+      "end": 67707.25619,
+      "title": "Chapter 35"
+    },
+    {
+      "id": 39,
+      "start": 67707.25619,
+      "end": 71497.332177,
+      "title": "Chapter 36"
+    },
+    {
+      "id": 40,
+      "start": 71497.332177,
+      "end": 72456.896145,
+      "title": "Chapter 37"
+    },
+    {
+      "id": 41,
+      "start": 72456.896145,
+      "end": 73116.783129,
+      "title": "Chapter 38"
+    },
+    {
+      "id": 42,
+      "start": 73116.783129,
+      "end": 74614.284104,
+      "title": "Chapter 39"
+    },
+    {
+      "id": 43,
+      "start": 74614.284104,
+      "end": 74637.863333,
+      "title": "End Credits"
+    }
+  ],
+  "title": "Fourth Wing",
+  "subtitle": "DISCOVER THE INSTANT SUNDAY TIMES AND NUMBER ONE GLOBAL BESTSELLING PHENOMENON!",
+  "authors": [
+    "Rebecca Yarros"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Fiction"
+  ],
+  "publishedYear": "2023",
+  "publishedDate": null,
+  "publisher": "Hachette UK",
+  "description": "Don't miss out on the series that everyone can't stop talking about! 'Pure escapism - think Hunger Games meets Fifty Shades' -The Sun 'We weren't expecting to become obsessed with Rebecca Yarros's Fourth Wing, but we very much are - and we're not alone . . .' -Sunday Times Style 'I couldn't put it down!' -Millie Bobby Brown 'This book contains an addictive, drug like essence that will make you relinquish all responsibility until the very last word. Do not say I didn't warn you' -Glamour 'Yarros had me hooked from the first chapter' -Mail on Sunday __________________________________________ Welcome to the brutal and elite world of Basgiath War College . . . Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, living a quiet life among books and history. Now, the commanding general - also known as her tough-as-talons mother - has ordered Violet to join the hundreds of candidates striving to become the elite of Navarre: dragon riders. But when you're smaller than everyone else and your body is brittle, death is only a heartbeat away . . . because dragons don't bond to 'fragile' humans. They incinerate them. With fewer dragons willing to bond than cadets, most would kill Violet to better their own chances of success. The rest would kill her just for being her mother's daughter - like Xaden Riorson, the most powerful and ruthless wingleader in the Riders Quadrant. She'll need every edge her wits can give her just to see the next sunrise. Yet, with every day that passes, the war outside grows more deadly, the kingdom's protective wards are failing, and the death toll continues to rise. Even worse, Violet begins to suspect leadership is hiding a terrible secret. Everyone at Basgiath has an agenda, and every night could be your last. So, sleep with one eye open because once you enter, there are only two ways out: graduate or die. __________________________________________ OVER A QUARTER OF A MILLION READERS HAVE ALREADY GIVEN FOURTH WING FIVE STARS. ARE YOU READY TO ENTER THE WORLD OF BASGIATH WAR COLLEGE? 'If I can convince you to read one book I recommend it would be this one' 'I didn't sleep, I didn't eat, and when I finished, I had the overwhelming urge to just start it all over again' 'This book is probably the best fantasy book I have ever read' 'FIVE. FREAKING. STARS. There is no universe where I could give this book any less of a rating' 'There are some stories you read and enjoy but every so often you come across one that just obliterates everything and takes over your entire being within a few pages and becomes your world and personality. Well, this is the one' 'The world building in this was phenomenal. I lived, breathed and became a part of the college' 'You know when you finish a book, and it leaves an ache in your chest because it was so good, and now it's over? That's exactly how I feel after finishing Fourth Wing' OTHER BOOKS IN THE EMPYREAN SERIES: - FOURTH WING - IRON FLAME",
+  "isbn": "9780349436982",
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

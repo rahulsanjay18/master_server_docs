@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Ten Thousand Doors of January
+artist=Alix E. Harrow
+album_artist=Alix E. Harrow
+album=The Ten Thousand Doors of January
+genre=Fantasy
+date=2019
+composer=January LaVoy
+copyright=Blackstone Audio, Inc.
+publisher=Blackstone Audio, Inc.
+TRACKTOTAL=14

@@ -1,0 +1,110 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 230.217143,
+      "title": "00: Intro"
+    },
+    {
+      "id": 1,
+      "start": 230.217143,
+      "end": 1819.3763270000002,
+      "title": "01: The Rowan Tree"
+    },
+    {
+      "id": 2,
+      "start": 1819.3763270000002,
+      "end": 4316.36898,
+      "title": "02: The Masters of Roke"
+    },
+    {
+      "id": 3,
+      "start": 4316.36898,
+      "end": 7734.700409,
+      "title": "03: Hort Town"
+    },
+    {
+      "id": 4,
+      "start": 7734.700409,
+      "end": 9381.694695,
+      "title": "04: Magelight"
+    },
+    {
+      "id": 5,
+      "start": 9381.694695,
+      "end": 10556.421226,
+      "title": "05: Sea Dreams"
+    },
+    {
+      "id": 6,
+      "start": 10556.421226,
+      "end": 12782.576328000001,
+      "title": "06: Lorbanery"
+    },
+    {
+      "id": 7,
+      "start": 12782.576328000001,
+      "end": 14889.482450000001,
+      "title": "07: The Madman"
+    },
+    {
+      "id": 8,
+      "start": 14889.482450000001,
+      "end": 17084.368981,
+      "title": "08: The Children of the Open Sea"
+    },
+    {
+      "id": 9,
+      "start": 17084.368981,
+      "end": 19912.254695,
+      "title": "09: Orm Embar"
+    },
+    {
+      "id": 10,
+      "start": 19912.254695,
+      "end": 21400.215511,
+      "title": "10: The Dragons' Run"
+    },
+    {
+      "id": 11,
+      "start": 21400.215511,
+      "end": 23270.635102999997,
+      "title": "11: Selidor"
+    },
+    {
+      "id": 12,
+      "start": 23270.635102999997,
+      "end": 25466.984490999996,
+      "title": "12: The Dry Land"
+    },
+    {
+      "id": 13,
+      "start": 25466.984490999996,
+      "end": 26716.003266999996,
+      "title": "13: The Stone of Pain"
+    }
+  ],
+  "title": "The Farthest Shore",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "207mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1972",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Robert Donley",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

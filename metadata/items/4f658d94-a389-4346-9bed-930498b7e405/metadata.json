@@ -1,0 +1,364 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 16.946,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 16.946,
+      "end": 22.482,
+      "title": "Epigraph"
+    },
+    {
+      "id": 2,
+      "start": 22.482,
+      "end": 463.213,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 1"
+    },
+    {
+      "id": 3,
+      "start": 463.213,
+      "end": 905.995,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 2"
+    },
+    {
+      "id": 4,
+      "start": 905.995,
+      "end": 1351.423,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 3"
+    },
+    {
+      "id": 5,
+      "start": 1351.423,
+      "end": 1791.959,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 4"
+    },
+    {
+      "id": 6,
+      "start": 1791.959,
+      "end": 2236.594,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 5"
+    },
+    {
+      "id": 7,
+      "start": 2236.594,
+      "end": 2679.375,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 6"
+    },
+    {
+      "id": 8,
+      "start": 2679.375,
+      "end": 3126.313,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 7"
+    },
+    {
+      "id": 9,
+      "start": 3126.313,
+      "end": 3569.721,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 8"
+    },
+    {
+      "id": 10,
+      "start": 3569.721,
+      "end": 3950.923,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 9"
+    },
+    {
+      "id": 11,
+      "start": 3950.923,
+      "end": 4335.376,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 10"
+    },
+    {
+      "id": 12,
+      "start": 4335.376,
+      "end": 4717.437,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 11"
+    },
+    {
+      "id": 13,
+      "start": 4717.437,
+      "end": 5103.747,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 12"
+    },
+    {
+      "id": 14,
+      "start": 5103.747,
+      "end": 5485.228,
+      "title": "Chapter 1: Manifestation of a Girl’s Dream ~ 13"
+    },
+    {
+      "id": 15,
+      "start": 5485.228,
+      "end": 5871.26,
+      "title": "Chapter 2: Her Future Schedule ~ 1"
+    },
+    {
+      "id": 16,
+      "start": 5871.26,
+      "end": 6259.822,
+      "title": "Chapter 2: Her Future Schedule ~ 2"
+    },
+    {
+      "id": 17,
+      "start": 6259.822,
+      "end": 6649.593,
+      "title": "Chapter 2: Her Future Schedule ~ 3"
+    },
+    {
+      "id": 18,
+      "start": 6649.593,
+      "end": 7034.394,
+      "title": "Chapter 2: Her Future Schedule ~ 4"
+    },
+    {
+      "id": 19,
+      "start": 7034.394,
+      "end": 7426.95,
+      "title": "Chapter 2: Her Future Schedule ~ 5"
+    },
+    {
+      "id": 20,
+      "start": 7426.95,
+      "end": 7812.703,
+      "title": "Chapter 2: Her Future Schedule ~ 6"
+    },
+    {
+      "id": 21,
+      "start": 7812.703,
+      "end": 8265.609,
+      "title": "Chapter 2: Her Future Schedule ~ 7"
+    },
+    {
+      "id": 22,
+      "start": 8265.609,
+      "end": 8718.653,
+      "title": "Chapter 2: Her Future Schedule ~ 8"
+    },
+    {
+      "id": 23,
+      "start": 8718.653,
+      "end": 9056.689,
+      "title": "Chapter 2: Her Future Schedule ~ 9"
+    },
+    {
+      "id": 24,
+      "start": 9056.689,
+      "end": 9622.188,
+      "title": "Chapter 2: Her Future Schedule ~ 10"
+    },
+    {
+      "id": 25,
+      "start": 9622.188,
+      "end": 10078.46,
+      "title": "Chapter 2: Her Future Schedule ~ 11"
+    },
+    {
+      "id": 26,
+      "start": 10078.46,
+      "end": 10526.233,
+      "title": "Chapter 2: Her Future Schedule ~ 12"
+    },
+    {
+      "id": 27,
+      "start": 10526.233,
+      "end": 10950.485,
+      "title": "Chapter 3: Shouko Makinohara ~ 1"
+    },
+    {
+      "id": 28,
+      "start": 10950.485,
+      "end": 11369.141,
+      "title": "Chapter 3: Shouko Makinohara ~ 2"
+    },
+    {
+      "id": 29,
+      "start": 11369.141,
+      "end": 11861.677,
+      "title": "Chapter 3: Shouko Makinohara ~ 3"
+    },
+    {
+      "id": 30,
+      "start": 11861.677,
+      "end": 12205.271,
+      "title": "Chapter 3: Shouko Makinohara ~ 4"
+    },
+    {
+      "id": 31,
+      "start": 12205.271,
+      "end": 12627.131,
+      "title": "Chapter 3: Shouko Makinohara ~ 5"
+    },
+    {
+      "id": 32,
+      "start": 12627.131,
+      "end": 13029.44,
+      "title": "Chapter 3: Shouko Makinohara ~ 6"
+    },
+    {
+      "id": 33,
+      "start": 13029.44,
+      "end": 13427.802,
+      "title": "Chapter 3: Shouko Makinohara ~ 7"
+    },
+    {
+      "id": 34,
+      "start": 13427.802,
+      "end": 13828.067,
+      "title": "Chapter 3: Shouko Makinohara ~ 8"
+    },
+    {
+      "id": 35,
+      "start": 13828.067,
+      "end": 14224.873,
+      "title": "Chapter 3: Shouko Makinohara ~ 9"
+    },
+    {
+      "id": 36,
+      "start": 14224.873,
+      "end": 14627.623,
+      "title": "Chapter 3: Shouko Makinohara ~ 10"
+    },
+    {
+      "id": 37,
+      "start": 14627.623,
+      "end": 15026.054,
+      "title": "Chapter 3: Shouko Makinohara ~ 11"
+    },
+    {
+      "id": 38,
+      "start": 15026.054,
+      "end": 15337.591,
+      "title": "Chapter 3: Shouko Makinohara ~ 12"
+    },
+    {
+      "id": 39,
+      "start": 15337.591,
+      "end": 15826.589,
+      "title": "Chapter 3: Shouko Makinohara ~ 13"
+    },
+    {
+      "id": 40,
+      "start": 15826.589,
+      "end": 16242.202,
+      "title": "Chapter 4: Two Paths ~ 1"
+    },
+    {
+      "id": 41,
+      "start": 16242.202,
+      "end": 16660.998,
+      "title": "Chapter 4: Two Paths ~ 2"
+    },
+    {
+      "id": 42,
+      "start": 16660.998,
+      "end": 17077.215,
+      "title": "Chapter 4: Two Paths ~ 3"
+    },
+    {
+      "id": 43,
+      "start": 17077.215,
+      "end": 17497.729,
+      "title": "Chapter 4: Two Paths ~ 4"
+    },
+    {
+      "id": 44,
+      "start": 17497.729,
+      "end": 17922.265,
+      "title": "Chapter 4: Two Paths ~ 5"
+    },
+    {
+      "id": 45,
+      "start": 17922.265,
+      "end": 18333.046,
+      "title": "Chapter 4: Two Paths ~ 6"
+    },
+    {
+      "id": 46,
+      "start": 18333.046,
+      "end": 18900.082,
+      "title": "Chapter 4: Two Paths ~ 7"
+    },
+    {
+      "id": 47,
+      "start": 18900.082,
+      "end": 19229.119,
+      "title": "Chapter 4: Two Paths ~ 8"
+    },
+    {
+      "id": 48,
+      "start": 19229.119,
+      "end": 19578.155,
+      "title": "Chapter 4: Two Paths ~ 9"
+    },
+    {
+      "id": 49,
+      "start": 19578.155,
+      "end": 20002.172,
+      "title": "Chapter 4: Two Paths ~ 10"
+    },
+    {
+      "id": 50,
+      "start": 20002.172,
+      "end": 20413.885,
+      "title": "Chapter 5: Dye the White Snow ~ 1"
+    },
+    {
+      "id": 51,
+      "start": 20413.885,
+      "end": 20828.083,
+      "title": "Chapter 5: Dye the White Snow ~ 2"
+    },
+    {
+      "id": 52,
+      "start": 20828.083,
+      "end": 21283.119,
+      "title": "Chapter 5: Dye the White Snow ~ 3"
+    },
+    {
+      "id": 53,
+      "start": 21283.119,
+      "end": 21681.155,
+      "title": "Chapter 5: Dye the White Snow ~ 4"
+    },
+    {
+      "id": 54,
+      "start": 21681.155,
+      "end": 22063.377,
+      "title": "Chapter 5: Dye the White Snow ~ 5"
+    },
+    {
+      "id": 55,
+      "start": 22063.377,
+      "end": 44316,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Rascal Does Not Dream of a Dreaming Girl",
+  "subtitle": null,
+  "authors": [
+    "Andrew Grace"
+  ],
+  "narrators": [
+    "Hajime Kamoshida"
+  ],
+  "series": [
+    "Rascal Does Not Dream of #06"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "June 10, 2016 (09-12-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

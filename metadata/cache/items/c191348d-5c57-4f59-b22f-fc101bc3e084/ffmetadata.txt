@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Dresden Files 02.0 - Fool Moon
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 02.0 - Fool Moon
+genre=Audiobook
+composer=Jim Butcher
+TRACKTOTAL=70
+grouping=Jim Butcher - Dresden Files 22GB \#2

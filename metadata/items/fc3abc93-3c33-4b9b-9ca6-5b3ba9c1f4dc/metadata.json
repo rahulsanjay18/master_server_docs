@@ -1,0 +1,508 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 10,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 10,
+      "end": 184.97,
+      "title": "Prologue"
+    },
+    {
+      "id": 2,
+      "start": 184.97,
+      "end": 476.518,
+      "title": "Chapter 1: Summer's Saturday"
+    },
+    {
+      "id": 3,
+      "start": 476.518,
+      "end": 904.879,
+      "title": "Chapter 2.1: The Thief"
+    },
+    {
+      "id": 4,
+      "start": 904.879,
+      "end": 1570.2,
+      "title": "Chapter 2.2: The Thief"
+    },
+    {
+      "id": 5,
+      "start": 1570.2,
+      "end": 2144.8,
+      "title": "Chapter 3: The Best"
+    },
+    {
+      "id": 6,
+      "start": 2144.8,
+      "end": 2657.217,
+      "title": "Chapter 4.1: Ruined Lunch"
+    },
+    {
+      "id": 7,
+      "start": 2657.217,
+      "end": 3046.058,
+      "title": "Chapter 4.2: Ruined Lunch"
+    },
+    {
+      "id": 8,
+      "start": 3046.058,
+      "end": 3496.13,
+      "title": "Chapter 5.1: Haunted Mansion"
+    },
+    {
+      "id": 9,
+      "start": 3496.13,
+      "end": 3880.907,
+      "title": "Chapter 5.2: Haunted Mansion"
+    },
+    {
+      "id": 10,
+      "start": 3880.907,
+      "end": 4238.587,
+      "title": "Chapter 5.3: Haunted Mansion"
+    },
+    {
+      "id": 11,
+      "start": 4238.587,
+      "end": 4722.049,
+      "title": "Chapter 5.4: Haunted Mansion"
+    },
+    {
+      "id": 12,
+      "start": 4722.049,
+      "end": 5136.037,
+      "title": "Chapter 5.5: Haunted Mansion"
+    },
+    {
+      "id": 13,
+      "start": 5136.037,
+      "end": 5622.68,
+      "title": "Chapter 6.1: Abducted"
+    },
+    {
+      "id": 14,
+      "start": 5622.68,
+      "end": 6239.843,
+      "title": "Chapter 7: The Court's Trial"
+    },
+    {
+      "id": 15,
+      "start": 6239.843,
+      "end": 6860.28,
+      "title": "Chapter 6.2: Abducted"
+    },
+    {
+      "id": 16,
+      "start": 6860.28,
+      "end": 7526.646,
+      "title": "Chapter 7.1: Jailbreak"
+    },
+    {
+      "id": 17,
+      "start": 7526.646,
+      "end": 8035.418,
+      "title": "Chapter 7.2: Jailbreak"
+    },
+    {
+      "id": 18,
+      "start": 8035.418,
+      "end": 8660.824,
+      "title": "Chapter 7.3: Jailbreak"
+    },
+    {
+      "id": 19,
+      "start": 8660.824,
+      "end": 9542.601,
+      "title": "Chapter 8: Celeste Academy"
+    },
+    {
+      "id": 20,
+      "start": 9542.601,
+      "end": 10177.597,
+      "title": "Chapter 9: Entrance Exam"
+    },
+    {
+      "id": 21,
+      "start": 10177.597,
+      "end": 10858.684,
+      "title": "Chapter 10: Ten Hours"
+    },
+    {
+      "id": 22,
+      "start": 10858.684,
+      "end": 11647.93,
+      "title": "Chapter 11: Dawn"
+    },
+    {
+      "id": 23,
+      "start": 11647.93,
+      "end": 12519.607,
+      "title": "Chapter 12.1: Duel"
+    },
+    {
+      "id": 24,
+      "start": 12519.607,
+      "end": 13216.043,
+      "title": "Chapter 12.2: Duel"
+    },
+    {
+      "id": 25,
+      "start": 13216.043,
+      "end": 13786.278,
+      "title": "Chapter 13: Back Home"
+    },
+    {
+      "id": 26,
+      "start": 13786.278,
+      "end": 14592.312,
+      "title": "Chapter 14.1: Getting Started"
+    },
+    {
+      "id": 27,
+      "start": 14592.312,
+      "end": 15406.078,
+      "title": "Chapter 14.2: Getting Started"
+    },
+    {
+      "id": 28,
+      "start": 15406.078,
+      "end": 16033.179,
+      "title": "Chapter 15.1: First Day"
+    },
+    {
+      "id": 29,
+      "start": 16033.179,
+      "end": 16684.545,
+      "title": "Chapter 15.2: First Day"
+    },
+    {
+      "id": 30,
+      "start": 16684.545,
+      "end": 17098.347,
+      "title": "Chapter 15.3: First Day"
+    },
+    {
+      "id": 31,
+      "start": 17098.347,
+      "end": 17643.76,
+      "title": "Chapter 16: Power Control"
+    },
+    {
+      "id": 32,
+      "start": 17643.76,
+      "end": 18235.984,
+      "title": "Chapter 17: Spoiled Lunch"
+    },
+    {
+      "id": 33,
+      "start": 18235.984,
+      "end": 18884.261,
+      "title": "Chapter 18: Weapon's Art"
+    },
+    {
+      "id": 34,
+      "start": 18884.261,
+      "end": 19413.42,
+      "title": "Chapter 19: Hungry Demon"
+    },
+    {
+      "id": 35,
+      "start": 19413.42,
+      "end": 20002.069,
+      "title": "Chapter 20.1: Meeting the Twelve"
+    },
+    {
+      "id": 36,
+      "start": 20002.069,
+      "end": 20913.521,
+      "title": "Chapter 20.2: Meeting the Twelve"
+    },
+    {
+      "id": 37,
+      "start": 20913.521,
+      "end": 21579.051,
+      "title": "Chapter 21: This Isn't So Bad"
+    },
+    {
+      "id": 38,
+      "start": 21579.051,
+      "end": 22293.018,
+      "title": "Chapter 22: Seraphina's Summoning"
+    },
+    {
+      "id": 39,
+      "start": 22293.018,
+      "end": 23084.214,
+      "title": "Chapter 23.1: Charles' Kitchen"
+    },
+    {
+      "id": 40,
+      "start": 23084.214,
+      "end": 23988.143,
+      "title": "Chapter 23.2: Charles' Kitchen"
+    },
+    {
+      "id": 41,
+      "start": 23988.143,
+      "end": 24595.159,
+      "title": "Chapter 24: A New Challenge"
+    },
+    {
+      "id": 42,
+      "start": 24595.159,
+      "end": 25182.647,
+      "title": "Chapter 24.1: A New Challenge"
+    },
+    {
+      "id": 43,
+      "start": 25182.647,
+      "end": 25759.569,
+      "title": "Chapter 24.2: A New Challenge"
+    },
+    {
+      "id": 44,
+      "start": 25759.569,
+      "end": 26578.815,
+      "title": "Chapter 25.1: Ancient History"
+    },
+    {
+      "id": 45,
+      "start": 26578.815,
+      "end": 27551.173,
+      "title": "Chapter 25.2: Ancient History"
+    },
+    {
+      "id": 46,
+      "start": 27551.173,
+      "end": 28500.613,
+      "title": "Chapter 26: Stupid Witch vs. Idiot Devil"
+    },
+    {
+      "id": 47,
+      "start": 28500.613,
+      "end": 29216.878,
+      "title": "Chapter 27: Prepare"
+    },
+    {
+      "id": 48,
+      "start": 29216.878,
+      "end": 29955.853,
+      "title": "Chapter 28.1: Roaring Tiger"
+    },
+    {
+      "id": 49,
+      "start": 29955.853,
+      "end": 30766.879,
+      "title": "Chapter 28.2: Roaring Tiger"
+    },
+    {
+      "id": 50,
+      "start": 30766.879,
+      "end": 31647.913,
+      "title": "Chapter 28.3: Roaring Tiger"
+    },
+    {
+      "id": 51,
+      "start": 31647.913,
+      "end": 32339.008,
+      "title": "Chapter 28.4: Roaring Tiger"
+    },
+    {
+      "id": 52,
+      "start": 32339.008,
+      "end": 32977.324,
+      "title": "Chapter 29.1: Recognition and Confession"
+    },
+    {
+      "id": 53,
+      "start": 32977.324,
+      "end": 33759.929,
+      "title": "Chapter 30: Tradition"
+    },
+    {
+      "id": 54,
+      "start": 33759.929,
+      "end": 34594.523,
+      "title": "Chapter 29.2: Recognition and Confession"
+    },
+    {
+      "id": 55,
+      "start": 34594.523,
+      "end": 35306.33,
+      "title": "Chapter 30: Out of Energy"
+    },
+    {
+      "id": 56,
+      "start": 35306.33,
+      "end": 35912.161,
+      "title": "Chapter 31: Concern or Guilt"
+    },
+    {
+      "id": 57,
+      "start": 35912.161,
+      "end": 36516.878,
+      "title": "Chapter 31: The Journal"
+    },
+    {
+      "id": 58,
+      "start": 36516.878,
+      "end": 37300.481,
+      "title": "Chapter 32.1: The Twelve's Movie Adventure"
+    },
+    {
+      "id": 59,
+      "start": 37300.481,
+      "end": 37953.635,
+      "title": "Chapter 32.2: The Twelve's Movie Adventure"
+    },
+    {
+      "id": 60,
+      "start": 37953.635,
+      "end": 38652.764,
+      "title": "Chapter 33: The Reflection"
+    },
+    {
+      "id": 61,
+      "start": 38652.764,
+      "end": 39272.829,
+      "title": "Chapter 34: Meeting with Royalty"
+    },
+    {
+      "id": 62,
+      "start": 39272.829,
+      "end": 40054.784,
+      "title": "Chapter 35.1: The King"
+    },
+    {
+      "id": 63,
+      "start": 40054.784,
+      "end": 40676.103,
+      "title": "Chapter 35.2: The King"
+    },
+    {
+      "id": 64,
+      "start": 40676.103,
+      "end": 41216.013,
+      "title": "Chapter 36.1: Corvan's Cousin"
+    },
+    {
+      "id": 65,
+      "start": 41216.013,
+      "end": 41783.322,
+      "title": "Chapter 36.2: Corvan's Cousin"
+    },
+    {
+      "id": 66,
+      "start": 41783.322,
+      "end": 42247.488,
+      "title": "Chapter 36.3: Corvan's Cousin"
+    },
+    {
+      "id": 67,
+      "start": 42247.488,
+      "end": 42967.445,
+      "title": "Chapter 37: A New Acquaintance"
+    },
+    {
+      "id": 68,
+      "start": 42967.445,
+      "end": 43682.039,
+      "title": "Chapter 38: An Enemy Returns"
+    },
+    {
+      "id": 69,
+      "start": 43682.039,
+      "end": 44297.878,
+      "title": "Chapter 39: Lunch Break"
+    },
+    {
+      "id": 70,
+      "start": 44297.878,
+      "end": 44735.899,
+      "title": "Chapter 40: The Return"
+    },
+    {
+      "id": 71,
+      "start": 44735.899,
+      "end": 45669.852,
+      "title": "Chapter 41: Demon's Attack"
+    },
+    {
+      "id": 72,
+      "start": 45669.852,
+      "end": 46768.666,
+      "title": "Chapter 42.1: Savior"
+    },
+    {
+      "id": 73,
+      "start": 46768.666,
+      "end": 47215.835,
+      "title": "Chapter 43.1: Thanks"
+    },
+    {
+      "id": 74,
+      "start": 47215.835,
+      "end": 48198.248,
+      "title": "Chapter 43.2: Thanks"
+    },
+    {
+      "id": 75,
+      "start": 48198.248,
+      "end": 48597.631,
+      "title": "Chapter 44: Trouble in Sight"
+    },
+    {
+      "id": 76,
+      "start": 48597.631,
+      "end": 49079.305,
+      "title": "Chapter 45.1: Not Over Yet"
+    },
+    {
+      "id": 77,
+      "start": 49079.305,
+      "end": 49533.255,
+      "title": "Chapter 45.2: Not Over Yet"
+    },
+    {
+      "id": 78,
+      "start": 49533.255,
+      "end": 50352.431,
+      "title": "Epilogue"
+    },
+    {
+      "id": 79,
+      "start": 50352.431,
+      "end": 50369.723,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Celeste Academy, Vol. 01: Knight",
+  "subtitle": null,
+  "authors": [
+    "Cindy Kay"
+  ],
+  "narrators": [
+    "Raquel A. Gil"
+  ],
+  "series": [
+    "Celeste Academy #01"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "Jun 23, 2020 (10-04-22)",
+  "publishedDate": null,
+  "publisher": "Recorded Books",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

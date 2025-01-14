@@ -1,0 +1,60 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4440.058776,
+      "title": "01-Robert_McMahon-CD01-SQN"
+    },
+    {
+      "id": 1,
+      "start": 4440.058776,
+      "end": 8880.143673999999,
+      "title": "02-Robert_McMahon-CD02-SQN"
+    },
+    {
+      "id": 2,
+      "start": 8880.143673999999,
+      "end": 13320.228572,
+      "title": "03-Robert_McMahon-CD03-SQN"
+    },
+    {
+      "id": 3,
+      "start": 13320.228572,
+      "end": 17760.287347999998,
+      "title": "04-Robert_McMahon-CD04-SQN"
+    },
+    {
+      "id": 4,
+      "start": 17760.287347999998,
+      "end": 22200.346123999996,
+      "title": "05-Robert_McMahon-CD05-SQN"
+    },
+    {
+      "id": 5,
+      "start": 22200.346123999996,
+      "end": 22801.580409999995,
+      "title": "06-Robert_McMahon-CD06-SQN"
+    }
+  ],
+  "title": "The Cold War: A Very Short Introduction",
+  "subtitle": null,
+  "authors": [
+    "Robert McMahon"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Speech"
+  ],
+  "publishedYear": "2009",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

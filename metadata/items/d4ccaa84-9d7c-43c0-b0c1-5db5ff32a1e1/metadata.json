@@ -1,0 +1,108 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 884.349388,
+      "title": "Volume 2 - Chapter 01"
+    },
+    {
+      "id": 1,
+      "start": 884.349388,
+      "end": 1686.360817,
+      "title": "Volume 2 - Chapter 02"
+    },
+    {
+      "id": 2,
+      "start": 1686.360817,
+      "end": 2387.017144,
+      "title": "Volume 2 - Chapter 03"
+    },
+    {
+      "id": 3,
+      "start": 2387.017144,
+      "end": 3344.587756,
+      "title": "Volume 2 - Chapter 04"
+    },
+    {
+      "id": 4,
+      "start": 3344.587756,
+      "end": 4341.00245,
+      "title": "Volume 2 - Chapter 05"
+    },
+    {
+      "id": 5,
+      "start": 4341.00245,
+      "end": 4892.943674,
+      "title": "Volume 2 - Chapter 06"
+    },
+    {
+      "id": 6,
+      "start": 4892.943674,
+      "end": 6386.834286,
+      "title": "Volume 2 - Chapter 07"
+    },
+    {
+      "id": 7,
+      "start": 6386.834286,
+      "end": 7582.981225,
+      "title": "Volume 2 - Chapter 08"
+    },
+    {
+      "id": 8,
+      "start": 7582.981225,
+      "end": 9202.782041,
+      "title": "Volume 2 - Chapter 09"
+    },
+    {
+      "id": 9,
+      "start": 9202.782041,
+      "end": 10189.531429,
+      "title": "Volume 2 - Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 10189.531429,
+      "end": 11342.733062000001,
+      "title": "Volume 2 - Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 11342.733062000001,
+      "end": 12387.422042000002,
+      "title": "Volume 2 - Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 12387.422042000002,
+      "end": 13323.258777000003,
+      "title": "Volume 2 - Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 13323.258777000003,
+      "end": 14488.006532000003,
+      "title": "Volume 2 - Chapter 14"
+    }
+  ],
+  "title": "Sense and Sensibility (read by Juliet Stevenson)",
+  "subtitle": null,
+  "authors": [
+    "Jane Austen"
+  ],
+  "narrators": [],
+  "series": [
+    "1811 - Sense and Sensibility (read by Juliet Stevenson) #2"
+  ],
+  "genres": [],
+  "publishedYear": "1811",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

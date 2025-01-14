@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=Towers of Midnight (The Wheel of Time \#13)
+artist=Robert Jordan, Brandon Sanderson
+album_artist=Robert Jordan, Brandon Sanderson
+album=Towers of Midnight (The Wheel of Time \#13)
+genre=Audiobook
+date=2010
+TRACKTOTAL=64
+grouping=Robert Jordan - The Wheel of Time 12GB

@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Wind's Twelve Quarters
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=The Wind's Twelve Quarters
+genre=Audio Book
+date=1975
+comment=Read by Patricia Beaudry
+description=Read by Patricia Beaudry
+composer=290mb
+TRACKTOTAL=20

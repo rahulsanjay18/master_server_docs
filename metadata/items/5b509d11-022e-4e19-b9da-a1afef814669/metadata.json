@@ -1,0 +1,584 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1395.879184,
+      "title": "01 - Darwin's Radio: Part One: Herod's Winter: Chapter One: The Alps, Near the Austrian Border with Italy August"
+    },
+    {
+      "id": 1,
+      "start": 1395.879184,
+      "end": 3027.670204,
+      "title": "02 - Darwin's Radio: Part One: Herod's Winter: Chapter Two: Republic of Georgia"
+    },
+    {
+      "id": 2,
+      "start": 3027.670204,
+      "end": 4439.431837,
+      "title": "03 - Darwin's Radio: Part One: Herod's Winter: Chapter Three"
+    },
+    {
+      "id": 3,
+      "start": 4439.431837,
+      "end": 5260.982857,
+      "title": "04 - Darwin's Radio: Part One: Herod's Winter: Chapter Four: Gordi"
+    },
+    {
+      "id": 4,
+      "start": 5260.982857,
+      "end": 5816.711837,
+      "title": "05 - Darwin's Radio: Part One: Herod's Winter: Chapter Five: Innsbruck, Austria"
+    },
+    {
+      "id": 5,
+      "start": 5816.711837,
+      "end": 7314.285715,
+      "title": "06 - Darwin's Radio: Part One: Herod's Winter: Chapter Six: Eliava Phage Institute, Tbilisi"
+    },
+    {
+      "id": 6,
+      "start": 7314.285715,
+      "end": 7906.76898,
+      "title": "07 - Darwin's Radio: Part One: Herod's Winter: Chapter Seven: New York"
+    },
+    {
+      "id": 7,
+      "start": 7906.76898,
+      "end": 8456.646531,
+      "title": "08 - Darwin's Radio: Part One: Herod's Winter: Chapter Eight: Long Island, New York"
+    },
+    {
+      "id": 8,
+      "start": 8456.646531,
+      "end": 8782.367347,
+      "title": "09 - Darwin's Radio: Part One: Herod's Winter: Chapter Nine: Manhattan"
+    },
+    {
+      "id": 9,
+      "start": 8782.367347,
+      "end": 9402.226939,
+      "title": "10 - Darwin's Radio: Part One: Herod's Winter: Chapter Ten"
+    },
+    {
+      "id": 10,
+      "start": 9402.226939,
+      "end": 10534.844082,
+      "title": "11 - Darwin's Radio: Part One: Herod's Winter: Chapter Eleven"
+    },
+    {
+      "id": 11,
+      "start": 10534.844082,
+      "end": 11152.065306,
+      "title": "12 - Darwin's Radio: Part One: Herod's Winter: Chapter Twelve: Atlanta, 1600 Clifton Road: The Centers for Disease Control and Prevention September"
+    },
+    {
+      "id": 12,
+      "start": 11152.065306,
+      "end": 11912.75102,
+      "title": "13 - Darwin's Radio: Part One: Herod's Winter: Chapter Thirteen"
+    },
+    {
+      "id": 13,
+      "start": 11912.75102,
+      "end": 12413.466122,
+      "title": "14 - Darwin's Radio: Part One: Herod's Winter: Chapter Fourteen: Atlanta, Georgia October"
+    },
+    {
+      "id": 14,
+      "start": 12413.466122,
+      "end": 13448.829387,
+      "title": "15 - Darwin's Radio: Part One: Herod's Winter: Chapter Fifteen: Boston"
+    },
+    {
+      "id": 15,
+      "start": 13448.829387,
+      "end": 13782.386938,
+      "title": "16 - Darwin's Radio: Part One: Herod's Winter: Chapter Sixteen: Innsbruck, Austria"
+    },
+    {
+      "id": 16,
+      "start": 13782.386938,
+      "end": 14796.199182999999,
+      "title": "17 - Darwin's Radio: Part One: Herod's Winter: Chapter Seventeen: Long Island"
+    },
+    {
+      "id": 17,
+      "start": 14796.199182999999,
+      "end": 15134.641631999999,
+      "title": "18 - Darwin's Radio: Part One: Herod's Winter: Chapter Eighteen: Atlanta, the CDC"
+    },
+    {
+      "id": 18,
+      "start": 15134.641631999999,
+      "end": 15870.432652,
+      "title": "19 - Darwin's Radio: Part One: Herod's Winter: Chapter Nineteen: Long Island"
+    },
+    {
+      "id": 19,
+      "start": 15870.432652,
+      "end": 16023.222856,
+      "title": "20 - Darwin's Radio: Part One: Herod's Winter: Chapter Twenty: London"
+    },
+    {
+      "id": 20,
+      "start": 16023.222856,
+      "end": 16847.098774000002,
+      "title": "21 - Darwin's Radio: Part One: Herod's Winter: Chapter Twenty-One: Washington, DC"
+    },
+    {
+      "id": 21,
+      "start": 16847.098774000002,
+      "end": 17317.982039000002,
+      "title": "22 - Darwin's Radio: Part One: Herod's Winter: Chapter Twenty-Two"
+    },
+    {
+      "id": 22,
+      "start": 17317.982039000002,
+      "end": 17527.745304000004,
+      "title": "23 - Darwin's Radio: Part One: Herod's Winter: Chapter Twenty-Three: Atlanta, the CDC"
+    },
+    {
+      "id": 23,
+      "start": 17527.745304000004,
+      "end": 17829.746937000004,
+      "title": "24 - Darwin's Radio: Part One: Herod's Winter: Chapter Twenty-Four: Long Island"
+    },
+    {
+      "id": 24,
+      "start": 17829.746937000004,
+      "end": 18281.795917000003,
+      "title": "25 - Darwin's Radio: Part One: Herod's Winter: Chapter Twenty-Five: Washington, DC"
+    },
+    {
+      "id": 25,
+      "start": 18281.795917000003,
+      "end": 18861.923264000005,
+      "title": "26 - Darwin's Radio: Part One: Herod's Winter: Chapter Twenty-Six: Seattle"
+    },
+    {
+      "id": 26,
+      "start": 18861.923264000005,
+      "end": 19194.514284000004,
+      "title": "27 - Darwin's Radio: Part One: Herod's Winter: Chapter Twenty-Seven: Atlanta, the CDC"
+    },
+    {
+      "id": 27,
+      "start": 19194.514284000004,
+      "end": 20254.302039000006,
+      "title": "28 - Darwin's Radio: Part One: Herod's Winter: Chapter Twenty-Eight: Long Island"
+    },
+    {
+      "id": 28,
+      "start": 20254.302039000006,
+      "end": 21237.786121000005,
+      "title": "29 - Darwin's Radio: Part One: Herod's Winter: Chapter Twenty-Nine: Taskforce Primate Lab, Baltimore, Maryland"
+    },
+    {
+      "id": 29,
+      "start": 21237.786121000005,
+      "end": 21780.062039000004,
+      "title": "30 - Darwin's Radio: Part One: Herod's Winter: Chapter Thirty: University of Washington, Seattle"
+    },
+    {
+      "id": 30,
+      "start": 21780.062039000004,
+      "end": 22234.148570000005,
+      "title": "31 - Darwin's Radio: Part One: Herod's Winter: Chapter Thirty-One: Bethesda, the National Institutes of Health Campus"
+    },
+    {
+      "id": 31,
+      "start": 22234.148570000005,
+      "end": 22652.656325000004,
+      "title": "32 - Darwin's Radio: Part One: Herod's Winter: Chapter Thirty-Two: University of Washington, Seattle"
+    },
+    {
+      "id": 32,
+      "start": 22652.656325000004,
+      "end": 23326.223672000004,
+      "title": "33 - Darwin's Radio: Part One: Herod's Winter: Chapter Thirty-Three: Bethesda, the NIH Campus, the Magnuson Clinical Center, Building 10"
+    },
+    {
+      "id": 33,
+      "start": 23326.223672000004,
+      "end": 23823.621223000002,
+      "title": "34 - Darwin's Radio: Part One: Herod's Winter: Chapter Thirty-Four: Seattle"
+    },
+    {
+      "id": 34,
+      "start": 23823.621223000002,
+      "end": 24358.608978,
+      "title": "35 - Darwin's Radio: Part One: Herod's Winter: Chapter Thirty-Five: Bethesda, the NIH Campus"
+    },
+    {
+      "id": 35,
+      "start": 24358.608978,
+      "end": 25422.550202,
+      "title": "36 - Darwin's Radio: Part Two: Sheva Spring: Chapter Thirty-Six: Eastern Washington State"
+    },
+    {
+      "id": 36,
+      "start": 25422.550202,
+      "end": 25992.489793999997,
+      "title": "37 - Darwin's Radio: Part Two: Sheva Spring: Chapter Thirty-Seven: Baltimore, Maryland"
+    },
+    {
+      "id": 37,
+      "start": 25992.489793999997,
+      "end": 26585.835099999997,
+      "title": "38 - Darwin's Radio: Part Two: Sheva Spring: Chapter Thirty-Eight: Baltimore, Americol Headquarters"
+    },
+    {
+      "id": 38,
+      "start": 26585.835099999997,
+      "end": 27118.445711999997,
+      "title": "39 - Darwin's Radio: Part Two: Sheva Spring: Chapter Thirty-Nine: Bethesda"
+    },
+    {
+      "id": 39,
+      "start": 27118.445711999997,
+      "end": 27476.062038999997,
+      "title": "40 - Darwin's Radio: Part Two: Sheva Spring: Chapter Forty: Baltimore"
+    },
+    {
+      "id": 40,
+      "start": 27476.062038999997,
+      "end": 27677.466120999998,
+      "title": "41 - Darwin's Radio: Part Two: Sheva Spring: Chapter Forty-One: Seattle"
+    },
+    {
+      "id": 41,
+      "start": 27677.466120999998,
+      "end": 27883.755101,
+      "title": "42 - Darwin's Radio: Part Two: Sheva Spring: Chapter Forty-Two: Atlanta"
+    },
+    {
+      "id": 42,
+      "start": 27883.755101,
+      "end": 30324.453877,
+      "title": "43 - Darwin's Radio: Part Two: Sheva Spring: Chapter Forty-Three: San Diego, California"
+    },
+    {
+      "id": 43,
+      "start": 30324.453877,
+      "end": 31355.454693,
+      "title": "44 - Darwin's Radio: Part Two: Sheva Spring: Chapter Forty-Four"
+    },
+    {
+      "id": 44,
+      "start": 31355.454693,
+      "end": 31875.291428,
+      "title": "45 - Darwin's Radio: Part Two: Sheva Spring: Chapter Forty-Five: Baltimore"
+    },
+    {
+      "id": 45,
+      "start": 31875.291428,
+      "end": 32422.844081,
+      "title": "46 - Darwin's Radio: Part Two: Sheva Spring: Chapter Forty-Six: Atlanta"
+    },
+    {
+      "id": 46,
+      "start": 32422.844081,
+      "end": 32953.599999,
+      "title": "47 - Darwin's Radio: Part Two: Sheva Spring: Chapter Forty-Seven: Bethesda, the NIH Campus"
+    },
+    {
+      "id": 47,
+      "start": 32953.599999,
+      "end": 33430.752651999996,
+      "title": "48 - Darwin's Radio: Part Two: Sheva Spring: Chapter Forty-Eight"
+    },
+    {
+      "id": 48,
+      "start": 33430.752651999996,
+      "end": 34404.72816199999,
+      "title": "49 - Darwin's Radio: Part Two: Sheva Spring: Chapter Forty-Nine: Baltimore"
+    },
+    {
+      "id": 49,
+      "start": 34404.72816199999,
+      "end": 36100.28407999999,
+      "title": "50 - Darwin's Radio: Part Two: Sheva Spring: Chapter Fifty: Baltimore"
+    },
+    {
+      "id": 50,
+      "start": 36100.28407999999,
+      "end": 36578.97795799999,
+      "title": "51 - Darwin's Radio: Part Two: Sheva Spring: Chapter Fifty-One: Richmond, Virginia"
+    },
+    {
+      "id": 51,
+      "start": 36578.97795799999,
+      "end": 36929.541222999986,
+      "title": "52 - Darwin's Radio: Part Two: Sheva Spring: Chapter Fifty-Two"
+    },
+    {
+      "id": 52,
+      "start": 36929.541222999986,
+      "end": 37189.92979399999,
+      "title": "53 - Darwin's Radio: Part Two: Sheva Spring: Chapter Fifty-Three: Washington, DC"
+    },
+    {
+      "id": 53,
+      "start": 37189.92979399999,
+      "end": 38019.10856999999,
+      "title": "54 - Darwin's Radio: Part Two: Sheva Spring: Chapter Fifty-Four: Baltimore"
+    },
+    {
+      "id": 54,
+      "start": 38019.10856999999,
+      "end": 38585.70448799999,
+      "title": "55 - Darwin's Radio: Part Two: Sheva Spring: Chapter Fifty-Five: Washington, DC"
+    },
+    {
+      "id": 55,
+      "start": 38585.70448799999,
+      "end": 38697.11673299999,
+      "title": "56 - Darwin's Radio: Part Two: Sheva Spring: Chapter Fifty-Six: New York"
+    },
+    {
+      "id": 56,
+      "start": 38697.11673299999,
+      "end": 39001.28652899999,
+      "title": "57 - Darwin's Radio: Part Two: Sheva Spring: Chapter Fifty-Seven: Baltimore"
+    },
+    {
+      "id": 57,
+      "start": 39001.28652899999,
+      "end": 40000.99265099999,
+      "title": "58 - Darwin's Radio: Part Two: Sheva Spring: Chapter Fifty-Eight: Beresford, New York"
+    },
+    {
+      "id": 58,
+      "start": 40000.99265099999,
+      "end": 40178.703670999996,
+      "title": "59 - Darwin's Radio: Part Two: Sheva Spring: Chapter Fifty-Nine: Bethesda, the NIH, Building 10"
+    },
+    {
+      "id": 59,
+      "start": 40178.703670999996,
+      "end": 40239.020405999996,
+      "title": "60 - Darwin's Radio: Part Two: Sheva Spring: Chapter Sixty"
+    },
+    {
+      "id": 60,
+      "start": 40239.020405999996,
+      "end": 41557.159181999996,
+      "title": "61 - Darwin's Radio: Part Two: Sheva Spring: Chapter Sixty-One"
+    },
+    {
+      "id": 61,
+      "start": 41557.159181999996,
+      "end": 41744.065303999996,
+      "title": "62 - Darwin's Radio: Part Two: Sheva Spring: Chapter Sixty-Two: Albany, State University of New York"
+    },
+    {
+      "id": 62,
+      "start": 41744.065303999996,
+      "end": 41968.22203899999,
+      "title": "63 - Darwin's Radio: Part Two: Sheva Spring: Chapter Sixty-Three: Baltimore"
+    },
+    {
+      "id": 63,
+      "start": 41968.22203899999,
+      "end": 42099.17387599999,
+      "title": "64 - Darwin's Radio: Part Two: Sheva Spring: Chapter Sixty-Four: Atlanta"
+    },
+    {
+      "id": 64,
+      "start": 42099.17387599999,
+      "end": 42232.73795799999,
+      "title": "65 - Darwin's Radio: Part Two: Sheva Spring: Chapter Sixty-Five: Baltimore"
+    },
+    {
+      "id": 65,
+      "start": 42232.73795799999,
+      "end": 42431.68652899999,
+      "title": "66 - Darwin's Radio: Part Two: Sheva Spring: Chapter Sixty-Six: Approaching Washington, DC"
+    },
+    {
+      "id": 66,
+      "start": 42431.68652899999,
+      "end": 43612.081630999994,
+      "title": "67 - Darwin's Radio: Part Two: Sheva Spring: Chapter Sixty-Seven: Leaving Baltimore"
+    },
+    {
+      "id": 67,
+      "start": 43612.081630999994,
+      "end": 44314.566528999996,
+      "title": "68 - Darwin's Radio: Part Two: Sheva Spring: Chapter Sixty-Eight: West Virginia and Ohio"
+    },
+    {
+      "id": 68,
+      "start": 44314.566528999996,
+      "end": 45512.620406999995,
+      "title": "69 - Darwin's Radio: Part Two: Sheva Spring: Chapter Sixty-Nine: Athens, Ohio"
+    },
+    {
+      "id": 69,
+      "start": 45512.620406999995,
+      "end": 46253.08734599999,
+      "title": "70 - Darwin's Radio: Part Two: Sheva Spring: Chapter Seventy: Bethesda"
+    },
+    {
+      "id": 70,
+      "start": 46253.08734599999,
+      "end": 46972.29061099999,
+      "title": "71 - Darwin's Radio: Part Two: Sheva Spring: Chapter Seventy-One: Oregon"
+    },
+    {
+      "id": 71,
+      "start": 46972.29061099999,
+      "end": 48191.92163099999,
+      "title": "72 - Darwin's Radio: Part Two: Sheva Spring: Chapter Seventy-Two: Seattle, Washington/Washington, DC"
+    },
+    {
+      "id": 72,
+      "start": 48191.92163099999,
+      "end": 48784.84897799999,
+      "title": "73 - Darwin's Radio: Part Two: Sheva Spring: Chapter Seventy-Three"
+    },
+    {
+      "id": 73,
+      "start": 48784.84897799999,
+      "end": 49115.29795799999,
+      "title": "74 - Darwin's Radio: Part Three: Stella Nova: Chapter Seventy-Four: Seattle"
+    },
+    {
+      "id": 74,
+      "start": 49115.29795799999,
+      "end": 49555.06938699999,
+      "title": "75 - Darwin's Radio: Part Three: Stella Nova: Chapter Seventy-Five: Bethesda, the NIH, Building 10 July"
+    },
+    {
+      "id": 75,
+      "start": 49555.06938699999,
+      "end": 50245.35510099999,
+      "title": "76 - Darwin's Radio: Part Three: Stella Nova: Chapter Seventy-Six"
+    },
+    {
+      "id": 76,
+      "start": 50245.35510099999,
+      "end": 51087.856324999986,
+      "title": "77 - Darwin's Radio: Part Three: Stella Nova: Chapter Seventy-Seven"
+    },
+    {
+      "id": 77,
+      "start": 51087.856324999986,
+      "end": 51409.29305999999,
+      "title": "78 - Darwin's Radio: Part Three: Stella Nova: Chapter Seventy-Eight: Bethesda, the NIH, Building 52"
+    },
+    {
+      "id": 78,
+      "start": 51409.29305999999,
+      "end": 51930.43591699999,
+      "title": "79 - Darwin's Radio: Part Three: Stella Nova: Chapter Seventy-Nine: Seattle"
+    },
+    {
+      "id": 79,
+      "start": 51930.43591699999,
+      "end": 52568.84244799999,
+      "title": "80 - Darwin's Radio: Part Three: Stella Nova: Chapter Eighty: Bethesda, the NIH, Building 52"
+    },
+    {
+      "id": 80,
+      "start": 52568.84244799999,
+      "end": 53401.91346799999,
+      "title": "81 - Darwin's Radio: Part Three: Stella Nova: Chapter Eighty-One: Seattle"
+    },
+    {
+      "id": 81,
+      "start": 53401.91346799999,
+      "end": 53912.84244799999,
+      "title": "82 - Darwin's Radio: Part Three: Stella Nova: Chapter Eighty-Two: Bethesda, the NIH, Building 52"
+    },
+    {
+      "id": 82,
+      "start": 53912.84244799999,
+      "end": 55043.60489699999,
+      "title": "83 - Darwin's Radio: Part Three: Stella Nova: Chapter Eighty-Three: Snohomish County"
+    },
+    {
+      "id": 83,
+      "start": 55043.60489699999,
+      "end": 55670.77877499999,
+      "title": "84 - Darwin's Radio: Part Three: Stella Nova: Chapter Eighty-Four: Kumash County, Eastern Washington"
+    },
+    {
+      "id": 84,
+      "start": 55670.77877499999,
+      "end": 56399.83020399999,
+      "title": "85 - Darwin's Radio: Part Three: Stella Nova: Chapter Eighty-Five"
+    },
+    {
+      "id": 85,
+      "start": 56399.83020399999,
+      "end": 57143.09224499999,
+      "title": "86 - Darwin's Radio: Part Three: Stella Nova: Chapter Eighty-Six"
+    },
+    {
+      "id": 86,
+      "start": 57143.09224499999,
+      "end": 59015.31428599999,
+      "title": "87 - Darwin's Radio: Part Three: Stella Nova: Chapter Eighty-Seven"
+    },
+    {
+      "id": 87,
+      "start": 59015.31428599999,
+      "end": 59213.24408199999,
+      "title": "88 - Darwin's Radio: Part Three: Stella Nova: Chapter Eighty-Eight: Arlington, Virginia"
+    },
+    {
+      "id": 88,
+      "start": 59213.24408199999,
+      "end": 59608.99918399999,
+      "title": "89 - Darwin's Radio: Part Three: Stella Nova: Chapter Eighty-Nine: Kumash, Washington"
+    },
+    {
+      "id": 89,
+      "start": 59608.99918399999,
+      "end": 60405.10693899999,
+      "title": "90 - Darwin's Radio: Part Three: Stella Nova: Chapter Ninety"
+    },
+    {
+      "id": 90,
+      "start": 60405.10693899999,
+      "end": 61072.35265299999,
+      "title": "91 - Darwin's Radio: Part Three: Stella Nova: Chapter Ninety-One"
+    },
+    {
+      "id": 91,
+      "start": 61072.35265299999,
+      "end": 61271.327346999984,
+      "title": "92 - Darwin's Radio: Part Three: Stella Nova: Chapter Ninety-Two: Northeastern Oregon"
+    },
+    {
+      "id": 92,
+      "start": 61271.327346999984,
+      "end": 62095.359999999986,
+      "title": "93 - Darwin's Radio: Epilogue: Tucson, Arizona Three Years Later"
+    }
+  ],
+  "title": "Darwin's Radio",
+  "subtitle": null,
+  "authors": [
+    "Greg Bear"
+  ],
+  "narrators": [
+    "George Guidall"
+  ],
+  "series": [],
+  "genres": [
+    "Science Fiction"
+  ],
+  "publishedYear": "2007",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "In a cave high in the Alps, a renegade anthropologist discovers a frozen Neanderthal couple with a Homo sapiens baby....",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

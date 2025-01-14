@@ -1,0 +1,80 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 65.828571,
+      "title": "0 - Intro & Epigraphs"
+    },
+    {
+      "id": 1,
+      "start": 65.828571,
+      "end": 1704.228571,
+      "title": "1 - Part 1 - Piranesi"
+    },
+    {
+      "id": 2,
+      "start": 1704.228571,
+      "end": 8360.228571,
+      "title": "2 - Part 2 - The Other"
+    },
+    {
+      "id": 3,
+      "start": 8360.228571,
+      "end": 12926.40653,
+      "title": "3 - Part 3 - The Prophet"
+    },
+    {
+      "id": 4,
+      "start": 12926.40653,
+      "end": 17744.195918,
+      "title": "4 - Part 4 - 16"
+    },
+    {
+      "id": 5,
+      "start": 17744.195918,
+      "end": 18908.786938,
+      "title": "5 - Part 5 - Valentine Ketterley"
+    },
+    {
+      "id": 6,
+      "start": 18908.786938,
+      "end": 23662.315101,
+      "title": "6 - Part 6 - Wave"
+    },
+    {
+      "id": 7,
+      "start": 23662.315101,
+      "end": 25106.834285,
+      "title": "7 - Part 7 - Matthew Rose Sorensen"
+    },
+    {
+      "id": 8,
+      "start": 25106.834285,
+      "end": 25126.008163000002,
+      "title": "8 - Outro"
+    }
+  ],
+  "title": "Piranesi",
+  "subtitle": null,
+  "authors": [
+    "Susanna Clarke"
+  ],
+  "narrators": [
+    "Chiwetel Ejiofor"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2020-01-01",
+  "publishedDate": null,
+  "publisher": "Bloomsbury Publishing Plc",
+  "description": "Jonathan Strange & Mr Norrell transported countless listeners into its mysterious world. It became an instant classic and has been hailed as one of the finest works of fiction of the 21st century. Fifteen years later, it is finally time to enter the House and meet Piranesi. May your paths be safe and your floors unbroken, and may the house fill your eyes with Beauty.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

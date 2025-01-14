@@ -1,0 +1,94 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 36.29,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 36.29,
+      "end": 1697.15,
+      "title": "Prologue"
+    },
+    {
+      "id": 2,
+      "start": 1697.15,
+      "end": 7642.94,
+      "title": "Chapter 1: An Invitation to Death"
+    },
+    {
+      "id": 3,
+      "start": 7642.94,
+      "end": 10934.95,
+      "title": "Chapter 2: Butterflies Caught in a Spider’s Web ~ 1"
+    },
+    {
+      "id": 4,
+      "start": 10934.95,
+      "end": 16640.07,
+      "title": "Chapter 2: Butterflies Caught in a Spider’s Web ~ 2"
+    },
+    {
+      "id": 5,
+      "start": 16640.07,
+      "end": 23129.58,
+      "title": "Chapter 3: The Great Tomb"
+    },
+    {
+      "id": 6,
+      "start": 23129.58,
+      "end": 23725.04,
+      "title": "Intermission"
+    },
+    {
+      "id": 7,
+      "start": 23725.04,
+      "end": 28220.07,
+      "title": "Chapter 4: A Handful of Hope ~ 1"
+    },
+    {
+      "id": 8,
+      "start": 28220.07,
+      "end": 31869.2,
+      "title": "Chapter 4: A Handful of Hope ~ 2"
+    },
+    {
+      "id": 9,
+      "start": 31869.2,
+      "end": 32304.25,
+      "title": "Epilogue"
+    },
+    {
+      "id": 10,
+      "start": 32304.25,
+      "end": 32426.017,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Overlord, Vol. 07: The Invaders of the Great Tomb",
+  "subtitle": null,
+  "authors": [
+    "Chris Guerrero"
+  ],
+  "narrators": [
+    "Kugane Maruyama"
+  ],
+  "series": [
+    "Overlord #07"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "August 30, 2014 (01-10-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

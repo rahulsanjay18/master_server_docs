@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Word for World Is Forest
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=The Word for World Is Forest
+genre=Audio Book
+date=1976
+comment=Read by Laurence Ballard
+description=Read by Laurence Ballard
+composer=172mb
+TRACKTOTAL=8

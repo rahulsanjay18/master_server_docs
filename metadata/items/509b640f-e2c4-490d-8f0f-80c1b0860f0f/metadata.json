@@ -1,0 +1,208 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 520.228571,
+      "title": "Chapter 01"
+    },
+    {
+      "id": 1,
+      "start": 520.228571,
+      "end": 1342.458775,
+      "title": "Chapter 02"
+    },
+    {
+      "id": 2,
+      "start": 1342.458775,
+      "end": 1952.1567340000001,
+      "title": "Chapter 03"
+    },
+    {
+      "id": 3,
+      "start": 1952.1567340000001,
+      "end": 2428.342856,
+      "title": "Chapter 04"
+    },
+    {
+      "id": 4,
+      "start": 2428.342856,
+      "end": 2894.184489,
+      "title": "Chapter 05"
+    },
+    {
+      "id": 5,
+      "start": 2894.184489,
+      "end": 3466.292244,
+      "title": "Chapter 06"
+    },
+    {
+      "id": 6,
+      "start": 3466.292244,
+      "end": 4439.536326,
+      "title": "Chapter 07"
+    },
+    {
+      "id": 7,
+      "start": 4439.536326,
+      "end": 5359.934693,
+      "title": "Chapter 08"
+    },
+    {
+      "id": 8,
+      "start": 5359.934693,
+      "end": 6504.777142,
+      "title": "Chapter 09"
+    },
+    {
+      "id": 9,
+      "start": 6504.777142,
+      "end": 7824.483264,
+      "title": "Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 7824.483264,
+      "end": 8869.616325,
+      "title": "Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 8869.616325,
+      "end": 9543.888978,
+      "title": "Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 9543.888978,
+      "end": 10601.325713,
+      "title": "Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 10601.325713,
+      "end": 11726.106121,
+      "title": "Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 11726.106121,
+      "end": 12855.980407000001,
+      "title": "Chapter 15"
+    },
+    {
+      "id": 15,
+      "start": 12855.980407000001,
+      "end": 13836.904489,
+      "title": "Chapter 16"
+    },
+    {
+      "id": 16,
+      "start": 13836.904489,
+      "end": 14352.457142000001,
+      "title": "Chapter 17"
+    },
+    {
+      "id": 17,
+      "start": 14352.457142000001,
+      "end": 15057.188571,
+      "title": "Chapter 18"
+    },
+    {
+      "id": 18,
+      "start": 15057.188571,
+      "end": 15603.748571,
+      "title": "Chapter 19"
+    },
+    {
+      "id": 19,
+      "start": 15603.748571,
+      "end": 16742.817959,
+      "title": "Chapter 20"
+    },
+    {
+      "id": 20,
+      "start": 16742.817959,
+      "end": 17811.121632,
+      "title": "Chapter 21"
+    },
+    {
+      "id": 21,
+      "start": 17811.121632,
+      "end": 19024.901223999997,
+      "title": "Chapter 22"
+    },
+    {
+      "id": 22,
+      "start": 19024.901223999997,
+      "end": 19955.147754999998,
+      "title": "Chapter 23"
+    },
+    {
+      "id": 23,
+      "start": 19955.147754999998,
+      "end": 20974.706939,
+      "title": "Chapter 24"
+    },
+    {
+      "id": 24,
+      "start": 20974.706939,
+      "end": 22026.945306,
+      "title": "Chapter 25"
+    },
+    {
+      "id": 25,
+      "start": 22026.945306,
+      "end": 22897.972245,
+      "title": "Chapter 26"
+    },
+    {
+      "id": 26,
+      "start": 22897.972245,
+      "end": 23314.102857,
+      "title": "Chapter 27"
+    },
+    {
+      "id": 27,
+      "start": 23314.102857,
+      "end": 24551.601633000002,
+      "title": "Chapter 28"
+    },
+    {
+      "id": 28,
+      "start": 24551.601633000002,
+      "end": 25746.834286,
+      "title": "Chapter 29"
+    },
+    {
+      "id": 29,
+      "start": 25746.834286,
+      "end": 26770.520817,
+      "title": "Chapter 30"
+    },
+    {
+      "id": 30,
+      "start": 26770.520817,
+      "end": 27230.145307,
+      "title": "Chapter 31"
+    }
+  ],
+  "title": "Northanger Abbey (read by Nadia May)",
+  "subtitle": null,
+  "authors": [
+    "Jane Austen"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "1817",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

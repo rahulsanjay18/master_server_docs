@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=The Dresden Files 11.3 - Even Hand
+artist=Joe Barrett
+album_artist=Joe Barrett
+album=The Dresden Files 11.3 - Even Hand
+genre=Audiobook
+date=2010-01-01
+comment=Takes place between Turn Coat and Changes. Published in Dark and Stormy Knights (July 20, 2010)
+description=Takes place between Turn Coat and Changes. Published in Dark and Stormy Knights (July 20, 2010)
+composer=Jim Butcher
+TRACKTOTAL=1
+grouping=Jim Butcher - Dresden Files 22GB \#11.3

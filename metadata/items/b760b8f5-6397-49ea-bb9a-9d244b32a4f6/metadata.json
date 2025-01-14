@@ -1,0 +1,156 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 42.282,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 42.282,
+      "end": 123.016,
+      "title": "Prologue"
+    },
+    {
+      "id": 2,
+      "start": 123.016,
+      "end": 4583.476,
+      "title": "Chapter 1: The Fate of Some Adventurers"
+    },
+    {
+      "id": 3,
+      "start": 4583.476,
+      "end": 4720.821,
+      "title": "Interlude: The Gods"
+    },
+    {
+      "id": 4,
+      "start": 4720.821,
+      "end": 6784.795,
+      "title": "Chapter 2: Cow Girl’s Day"
+    },
+    {
+      "id": 5,
+      "start": 6784.795,
+      "end": 8181.961,
+      "title": "Chapter 3: Guild Girl’s Reflections"
+    },
+    {
+      "id": 6,
+      "start": 8181.961,
+      "end": 9489.871,
+      "title": "Chapter 4: The Mountain Fortress Burns"
+    },
+    {
+      "id": 7,
+      "start": 9489.871,
+      "end": 9705.374,
+      "title": "Interlude: Guild Girl"
+    },
+    {
+      "id": 8,
+      "start": 9705.374,
+      "end": 12058.436,
+      "title": "Chapter 5: Unexpected Visitors"
+    },
+    {
+      "id": 9,
+      "start": 12058.436,
+      "end": 12266.091,
+      "title": "Interlude: The Heavy Warrior"
+    },
+    {
+      "id": 10,
+      "start": 12266.091,
+      "end": 13478.752,
+      "title": "Chapter 6: Traveling Companions"
+    },
+    {
+      "id": 11,
+      "start": 13478.752,
+      "end": 13575.299,
+      "title": "Adventurers Guild, Monster Manual: Goblin"
+    },
+    {
+      "id": 12,
+      "start": 13575.299,
+      "end": 14971.444,
+      "title": "Chapter 7: Goblin Slayer"
+    },
+    {
+      "id": 13,
+      "start": 14971.444,
+      "end": 16253.602,
+      "title": "Chapter 8: Goblin Slaying"
+    },
+    {
+      "id": 14,
+      "start": 16253.602,
+      "end": 18043.07,
+      "title": "Chapter 9: The Strong Ones"
+    },
+    {
+      "id": 15,
+      "start": 18043.07,
+      "end": 18237.42,
+      "title": "Interlude: The Hero"
+    },
+    {
+      "id": 16,
+      "start": 18237.42,
+      "end": 20650.738,
+      "title": "Chapter 10: Dozing"
+    },
+    {
+      "id": 17,
+      "start": 20650.738,
+      "end": 22207.379,
+      "title": "Chapter 11: A Party of Adventurers"
+    },
+    {
+      "id": 18,
+      "start": 22207.379,
+      "end": 23950.244,
+      "title": "Chapter 12: Over the Goblins’ Hill"
+    },
+    {
+      "id": 19,
+      "start": 23950.244,
+      "end": 24929.498,
+      "title": "Chapter 20"
+    },
+    {
+      "id": 20,
+      "start": 24929.498,
+      "end": 25060.345,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Goblin Slayer, Vol. 01",
+  "subtitle": null,
+  "authors": [
+    "Hayden Daviau",
+    "Brad Hawkins",
+    "Josh Bangle"
+  ],
+  "narrators": [
+    "Kumo Kagyu"
+  ],
+  "series": [
+    "Goblin Slayer #1"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "February 13, 2016 (11-28-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": "B0CCFWWLMK",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

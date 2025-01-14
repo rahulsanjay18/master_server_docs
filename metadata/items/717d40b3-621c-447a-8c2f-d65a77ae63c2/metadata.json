@@ -1,0 +1,268 @@
+{
+  "tags": [
+    "Fantasy",
+    "Science Fiction",
+    "Hard Science Fiction",
+    "Space Opera"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3239.288163,
+      "title": "House Atreides_Part 01"
+    },
+    {
+      "id": 1,
+      "start": 3239.288163,
+      "end": 6163.539592,
+      "title": "House Atreides_Part 02"
+    },
+    {
+      "id": 2,
+      "start": 6163.539592,
+      "end": 7480.111021000001,
+      "title": "House Atreides_Part 03"
+    },
+    {
+      "id": 3,
+      "start": 7480.111021000001,
+      "end": 9297.789388000001,
+      "title": "House Atreides_Part 04"
+    },
+    {
+      "id": 4,
+      "start": 9297.789388000001,
+      "end": 10905.364898000002,
+      "title": "House Atreides_Part 05"
+    },
+    {
+      "id": 5,
+      "start": 10905.364898000002,
+      "end": 13233.867755000001,
+      "title": "House Atreides_Part 06"
+    },
+    {
+      "id": 6,
+      "start": 13233.867755000001,
+      "end": 16480.026122000003,
+      "title": "House Atreides_Part 07"
+    },
+    {
+      "id": 7,
+      "start": 16480.026122000003,
+      "end": 19343.360000000004,
+      "title": "House Atreides_Part 08"
+    },
+    {
+      "id": 8,
+      "start": 19343.360000000004,
+      "end": 21203.069388000004,
+      "title": "House Atreides_Part 09"
+    },
+    {
+      "id": 9,
+      "start": 21203.069388000004,
+      "end": 23353.182041000004,
+      "title": "House Atreides_Part 10"
+    },
+    {
+      "id": 10,
+      "start": 23353.182041000004,
+      "end": 25691.663674000003,
+      "title": "House Atreides_Part 11"
+    },
+    {
+      "id": 11,
+      "start": 25691.663674000003,
+      "end": 28030.693878000002,
+      "title": "House Atreides_Part 12"
+    },
+    {
+      "id": 12,
+      "start": 28030.693878000002,
+      "end": 29936.74449,
+      "title": "House Atreides_Part 13"
+    },
+    {
+      "id": 13,
+      "start": 29936.74449,
+      "end": 32431.412245,
+      "title": "House Atreides_Part 14"
+    },
+    {
+      "id": 14,
+      "start": 32431.412245,
+      "end": 35599.124898,
+      "title": "House Atreides_Part 15"
+    },
+    {
+      "id": 15,
+      "start": 35599.124898,
+      "end": 38092.538776,
+      "title": "House Atreides_Part 16"
+    },
+    {
+      "id": 16,
+      "start": 38092.538776,
+      "end": 39896.946939,
+      "title": "House Atreides_Part 17"
+    },
+    {
+      "id": 17,
+      "start": 39896.946939,
+      "end": 42475.363266,
+      "title": "House Atreides_Part 18"
+    },
+    {
+      "id": 18,
+      "start": 42475.363266,
+      "end": 44804.780409,
+      "title": "House Atreides_Part 19"
+    },
+    {
+      "id": 19,
+      "start": 44804.780409,
+      "end": 47097.391020999996,
+      "title": "House Atreides_Part 20"
+    },
+    {
+      "id": 20,
+      "start": 47097.391020999996,
+      "end": 48874.187756,
+      "title": "House Atreides_Part 21"
+    },
+    {
+      "id": 21,
+      "start": 48874.187756,
+      "end": 51276.408164,
+      "title": "House Atreides_Part 22"
+    },
+    {
+      "id": 22,
+      "start": 51276.408164,
+      "end": 53961.58694,
+      "title": "House Atreides_Part 23"
+    },
+    {
+      "id": 23,
+      "start": 53961.58694,
+      "end": 56465.319185,
+      "title": "House Atreides_Part 24"
+    },
+    {
+      "id": 24,
+      "start": 56465.319185,
+      "end": 58706.233471,
+      "title": "House Atreides_Part 25"
+    },
+    {
+      "id": 25,
+      "start": 58706.233471,
+      "end": 60968.150206,
+      "title": "House Atreides_Part 26"
+    },
+    {
+      "id": 26,
+      "start": 60968.150206,
+      "end": 63490.533878999995,
+      "title": "House Atreides_Part 27"
+    },
+    {
+      "id": 27,
+      "start": 63490.533878999995,
+      "end": 65419.493878999994,
+      "title": "House Atreides_Part 28"
+    },
+    {
+      "id": 28,
+      "start": 65419.493878999994,
+      "end": 67810.481634,
+      "title": "House Atreides_Part 29"
+    },
+    {
+      "id": 29,
+      "start": 67810.481634,
+      "end": 70084.23183799999,
+      "title": "House Atreides_Part 30"
+    },
+    {
+      "id": 30,
+      "start": 70084.23183799999,
+      "end": 72509.544491,
+      "title": "House Atreides_Part 31"
+    },
+    {
+      "id": 31,
+      "start": 72509.544491,
+      "end": 74589.440001,
+      "title": "House Atreides_Part 32"
+    },
+    {
+      "id": 32,
+      "start": 74589.440001,
+      "end": 77086.06693999999,
+      "title": "House Atreides_Part 33"
+    },
+    {
+      "id": 33,
+      "start": 77086.06693999999,
+      "end": 79379.35673599999,
+      "title": "House Atreides_Part 34"
+    },
+    {
+      "id": 34,
+      "start": 79379.35673599999,
+      "end": 81822.43265399999,
+      "title": "House Atreides_Part 35"
+    },
+    {
+      "id": 35,
+      "start": 81822.43265399999,
+      "end": 84842.94530699999,
+      "title": "House Atreides_Part 36"
+    },
+    {
+      "id": 36,
+      "start": 84842.94530699999,
+      "end": 87085.06122499998,
+      "title": "House Atreides_Part 37"
+    },
+    {
+      "id": 37,
+      "start": 87085.06122499998,
+      "end": 90089.90040899998,
+      "title": "House Atreides_Part 38"
+    },
+    {
+      "id": 38,
+      "start": 90089.90040899998,
+      "end": 90602.89306199997,
+      "title": "House Atreides_Part 39"
+    }
+  ],
+  "title": "Dune: The Battle of Corrin",
+  "subtitle": null,
+  "authors": [
+    "Brian Herbert",
+    "Kevin J. Anderson"
+  ],
+  "narrators": [
+    "Scott Brick"
+  ],
+  "series": [
+    "Dune Saga #3"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "1999-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "Fifty-six hard years after the events of The Machine Crusade, after the death of Serena Butler, the bloodiest decades of the Jihad take place. The human worlds begin to hope that the end of the centuries-long conflict with the thinking machines is finally in sight. Unfortunately, Omnius has one last, deadly card to play. In a last-ditch effort to destroy humankind, virulent plagues are let loose throughout the galaxy, decimating the populations of whole planets. The war that has lasted many lifetimes will be decided in the apocalyptic Battle of Corrin. In the greatest battle of science fiction history, human and machine face off one last time....And on the desert planet of Arrakis, the legendary Fremen of Dune become the feared fighting force to be discovered by Paul Maud'Dib in Frank Herbert's classic, Dune.",
+  "isbn": null,
+  "asin": "B002VA3EQ4",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

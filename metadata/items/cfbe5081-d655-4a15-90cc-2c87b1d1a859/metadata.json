@@ -1,0 +1,58 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 701.195,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 701.195,
+      "end": 3135.389,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 3135.389,
+      "end": 5771.783,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 5771.783,
+      "end": 8397.402,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 8397.402,
+      "end": 9194.032472,
+      "title": "005"
+    }
+  ],
+  "title": "The Metamorphosis",
+  "subtitle": null,
+  "authors": [
+    "Franz Kafka"
+  ],
+  "narrators": [
+    "Edoardo Ballerini",
+    "Victor Bevine",
+    "Christa Lewis"
+  ],
+  "series": [],
+  "genres": [
+    "Fiction"
+  ],
+  "publishedYear": "2014",
+  "publishedDate": null,
+  "publisher": "Strelbytskyy Multimedia Publishing",
+  "description": "New translation of The Metamorphosis by Franz Kafka. Poor Gregor Samsa! This guy wakes up one morning to discover that he's become a \"monstrous vermin\". The first pages of The Metamorphosis where Gregor tries to communicate through the bedroom door with his family, who think he’s merely being lazy, is vintage screwball comedy. Indeed, scholars and readers alike have delighted in Kafka’s gallows humor and matter-of-fact handling of the absurd and the terrifying. But it is one of the most enigmatic stories of all time, with an opening sentence that’s unparalleled in all of literature.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

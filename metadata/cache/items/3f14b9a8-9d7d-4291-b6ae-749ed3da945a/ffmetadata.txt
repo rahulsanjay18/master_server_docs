@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Spinning Silver (Unabridged)
+artist=Naomi Novik
+album_artist=Naomi Novik
+album=Spinning Silver (Unabridged)
+genre=Audiobook
+date=2018-01-01
+comment=A fresh and imaginative retelling of the Rumpelstiltskin fairy tale from the best-selling author of Uprooted, called "a very enjoyable fantasy with the air of a modern classic" by The New York Times Book Review.
+description=A fresh and imaginative retelling of the Rumpelstiltskin fairy tale from the best-selling author of Uprooted, called "a very enjoyable fantasy with the air of a modern classic" by The New York Times Book Review.
+composer=Lisa Flanagan
+TRACKTOTAL=28

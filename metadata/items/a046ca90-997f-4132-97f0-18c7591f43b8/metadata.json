@@ -1,0 +1,120 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 897.044898,
+      "title": "Volume 2 - Chapter 01"
+    },
+    {
+      "id": 1,
+      "start": 897.044898,
+      "end": 1361.502041,
+      "title": "Volume 2 - Chapter 02"
+    },
+    {
+      "id": 2,
+      "start": 1361.502041,
+      "end": 2013.074286,
+      "title": "Volume 2 - Chapter 03"
+    },
+    {
+      "id": 3,
+      "start": 2013.074286,
+      "end": 2512.013062,
+      "title": "Volume 2 - Chapter 04"
+    },
+    {
+      "id": 4,
+      "start": 2512.013062,
+      "end": 3568.300409,
+      "title": "Volume 2 - Chapter 05"
+    },
+    {
+      "id": 5,
+      "start": 3568.300409,
+      "end": 4572.917552,
+      "title": "Volume 2 - Chapter 06"
+    },
+    {
+      "id": 6,
+      "start": 4572.917552,
+      "end": 5697.541225,
+      "title": "Volume 2 - Chapter 07"
+    },
+    {
+      "id": 7,
+      "start": 5697.541225,
+      "end": 6557.675103,
+      "title": "Volume 2 - Chapter 08"
+    },
+    {
+      "id": 8,
+      "start": 6557.675103,
+      "end": 7509.890613,
+      "title": "Volume 2 - Chapter 09"
+    },
+    {
+      "id": 9,
+      "start": 7509.890613,
+      "end": 8504.790205,
+      "title": "Volume 2 - Chapter 10"
+    },
+    {
+      "id": 10,
+      "start": 8504.790205,
+      "end": 9330.651429,
+      "title": "Volume 2 - Chapter 11"
+    },
+    {
+      "id": 11,
+      "start": 9330.651429,
+      "end": 9735.392652999999,
+      "title": "Volume 2 - Chapter 12"
+    },
+    {
+      "id": 12,
+      "start": 9735.392652999999,
+      "end": 10887.314285999999,
+      "title": "Volume 2 - Chapter 13"
+    },
+    {
+      "id": 13,
+      "start": 10887.314285999999,
+      "end": 11999.503674,
+      "title": "Volume 2 - Chapter 14"
+    },
+    {
+      "id": 14,
+      "start": 11999.503674,
+      "end": 12954.305306999999,
+      "title": "Volume 2 - Chapter 15"
+    },
+    {
+      "id": 15,
+      "start": 12954.305306999999,
+      "end": 13382.400000999998,
+      "title": "Volume 2 - Chapter 16"
+    }
+  ],
+  "title": "Northanger Abbey (read by Donada Peters)",
+  "subtitle": null,
+  "authors": [
+    "Jane Austen"
+  ],
+  "narrators": [],
+  "series": [
+    "1817 - Northanger Abbey (read by Donada Peters) #2"
+  ],
+  "genres": [],
+  "publishedYear": "1817",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

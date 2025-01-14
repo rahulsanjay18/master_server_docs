@@ -1,0 +1,13 @@
+;FFMETADATA1
+title=The Relentless Moon: Lady Astronaut, Book 3
+artist=Mary Robinette Kowal
+album_artist=Mary Robinette Kowal
+album=The Relentless Moon: Lady Astronaut, Book 3
+genre=Audiobook
+date=2020-01-01
+comment=The Earth is coming to the boiling point as the climate disaster of the meteor strike becomes more and more clear, but the political situation is already overheated. Riots and sabotage plague the space program. The IAC's goal of getting as many people as possible off Earth before it becomes uninhabitable is being threatened.
+description=The Earth is coming to the boiling point as the climate disaster of the meteor strike becomes more and more clear, but the political situation is already overheated. Riots and sabotage plague the space program. The IAC's goal of getting as many people as possible off Earth before it becomes uninhabitable is being threatened.
+composer=Mary Robinette Kowal
+copyright=Audible Studios
+publisher=Audible Studios
+TRACKTOTAL=58

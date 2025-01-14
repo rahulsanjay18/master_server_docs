@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Super Powereds: Year 2 (1 of 3)
+artist=Graphic Audio, Llc
+album_artist=Graphic Audio, Llc
+album=Super Powereds: Year 2 (1 of 3)
+genre=Audiobook
+date=2021-01-01
+comment=Written by Drew Hayes - Performed by Alejandro Ruiz as Nick Campbell, Darius Johnson as Vince Reynolds, Rana Kay as Alice Adair, Megan Poppy as Mary Smith, John Kielty as Mr. Numbers, Zeke Alton as Roy Daniels, Yasmin Tuazon as Sasha Foster, James J. Johnson as Hershel Daniels, James Konicek as Dean Blaine Geffries, and Kay Eluvian as Mr. Transport. Also featuring the voices of Tanja Milojevic, Chris Stinson, Holly Adams, Robb Moreira, Shanta Parasuraman, Rayner Gabriel, Jacob Yeh, Michael John Casey, Matthew Schleigh, Matthew Bassett, Emlyn McFarland, Jessica Lauren Ball, Steven Carpenter, Carolyn Kashner, Richard Rohan, Scott McCormick, Joel David Santner, Nora Achrati, Wyn Delano, Terence Aselford, Daniel Llaca, Patrick Bussink, David Zitney, Tyler Hyrchuk, Sara Matsui-Colby, Niusha Nawab, Eric Messner, Stephon Walker, Triya Leong, Rob McFadyen, Lolita Horne, and Ken Jackson.
+description=Written by Drew Hayes - Performed by Alejandro Ruiz as Nick Campbell, Darius Johnson as Vince Reynolds, Rana Kay as Alice Adair, Megan Poppy as Mary Smith, John Kielty as Mr. Numbers, Zeke Alton as Roy Daniels, Yasmin Tuazon as Sasha Foster, James J. Johnson as Hershel Daniels, James Konicek as Dean Blaine Geffries, and Kay Eluvian as Mr. Transport. Also featuring the voices of Tanja Milojevic, Chris Stinson, Holly Adams, Robb Moreira, Shanta Parasuraman, Rayner Gabriel, Jacob Yeh, Michael John Casey, Matthew Schleigh, Matthew Bassett, Emlyn McFarland, Jessica Lauren Ball, Steven Carpenter, Carolyn Kashner, Richard Rohan, Scott McCormick, Joel David Santner, Nora Achrati, Wyn Delano, Terence Aselford, Daniel Llaca, Patrick Bussink, David Zitney, Tyler Hyrchuk, Sara Matsui-Colby, Niusha Nawab, Eric Messner, Stephon Walker, Triya Leong, Rob McFadyen, Lolita Horne, and Ken Jackson.
+TRACKTOTAL=18

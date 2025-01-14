@@ -1,0 +1,79 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4574.098866,
+      "title": "BBC Radio Shakespeare A Collection of Four History Plays - 1"
+    },
+    {
+      "id": 1,
+      "start": 4574.098866,
+      "end": 8232.588481,
+      "title": "BBC Radio Shakespeare A Collection of Four History Plays - 2"
+    },
+    {
+      "id": 2,
+      "start": 8232.588481,
+      "end": 12629.774513,
+      "title": "BBC Radio Shakespeare A Collection of Four History Plays - 3"
+    },
+    {
+      "id": 3,
+      "start": 12629.774513,
+      "end": 16492.622948,
+      "title": "BBC Radio Shakespeare A Collection of Four History Plays - 4"
+    },
+    {
+      "id": 4,
+      "start": 16492.622948,
+      "end": 20042.907574,
+      "title": "BBC Radio Shakespeare A Collection of Four History Plays - 5"
+    },
+    {
+      "id": 5,
+      "start": 20042.907574,
+      "end": 23474.979411,
+      "title": "BBC Radio Shakespeare A Collection of Four History Plays - 6"
+    },
+    {
+      "id": 6,
+      "start": 23474.979411,
+      "end": 27101.634468,
+      "title": "BBC Radio Shakespeare A Collection of Four History Plays - 7"
+    },
+    {
+      "id": 7,
+      "start": 27101.634468,
+      "end": 33115.091883,
+      "title": "BBC Radio Shakespeare A Collection of Four History Plays - 8"
+    }
+  ],
+  "title": "BBC Radio Shakespeare",
+  "subtitle": "A Collection of Four History Plays",
+  "authors": [
+    "William Shakespeare"
+  ],
+  "narrators": [
+    "Benjamin Zephaniah",
+    "Full Cast",
+    "Jamie Glover",
+    "Julian Glover",
+    "Samuel West",
+    "Timothy West"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2020",
+  "publishedDate": null,
+  "publisher": "BBC Audio",
+  "description": "Introduced by Sir Richard Eyre, these four iconic productions, dramatised with star casts, bring Shakespeare�s gripping histories to life in all their rich complexity.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

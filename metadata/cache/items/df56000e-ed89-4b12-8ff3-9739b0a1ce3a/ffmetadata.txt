@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Slow River
+artist=Nicola Griffith
+album_artist=Nicola Griffith
+album=Slow River
+genre=Science Fiction
+date=1995
+TRACKTOTAL=9

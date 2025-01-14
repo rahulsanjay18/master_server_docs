@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Pride and Prejudice (read by Kate Redding)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Pride and Prejudice (read by Kate Redding)
+date=1813
+TRACKTOTAL=62

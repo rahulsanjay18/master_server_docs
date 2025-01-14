@@ -1,0 +1,224 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 14.14,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 14.14,
+      "end": 215.782,
+      "title": "Prologue"
+    },
+    {
+      "id": 2,
+      "start": 215.782,
+      "end": 1309.256,
+      "title": "Chapter 1"
+    },
+    {
+      "id": 3,
+      "start": 1309.256,
+      "end": 2270.747,
+      "title": "Chapter 2"
+    },
+    {
+      "id": 4,
+      "start": 2270.747,
+      "end": 3190.721,
+      "title": "Chapter 3"
+    },
+    {
+      "id": 5,
+      "start": 3190.721,
+      "end": 4224.682,
+      "title": "Chapter 4"
+    },
+    {
+      "id": 6,
+      "start": 4224.682,
+      "end": 4846.489,
+      "title": "Chapter 5"
+    },
+    {
+      "id": 7,
+      "start": 4846.489,
+      "end": 5821.123,
+      "title": "Chapter 6"
+    },
+    {
+      "id": 8,
+      "start": 5821.123,
+      "end": 6497.566,
+      "title": "Chapter 7"
+    },
+    {
+      "id": 9,
+      "start": 6497.566,
+      "end": 7233.336,
+      "title": "Chapter 8"
+    },
+    {
+      "id": 10,
+      "start": 7233.336,
+      "end": 7882.891,
+      "title": "Chapter 9"
+    },
+    {
+      "id": 11,
+      "start": 7882.891,
+      "end": 8775.535,
+      "title": "Chapter 10"
+    },
+    {
+      "id": 12,
+      "start": 8775.535,
+      "end": 9353.038,
+      "title": "Chapter 11"
+    },
+    {
+      "id": 13,
+      "start": 9353.038,
+      "end": 10015.085,
+      "title": "Chapter 12"
+    },
+    {
+      "id": 14,
+      "start": 10015.085,
+      "end": 10690.483,
+      "title": "Chapter 13"
+    },
+    {
+      "id": 15,
+      "start": 10690.483,
+      "end": 11370.386,
+      "title": "Chapter 14"
+    },
+    {
+      "id": 16,
+      "start": 11370.386,
+      "end": 12211.853,
+      "title": "Chapter 15"
+    },
+    {
+      "id": 17,
+      "start": 12211.853,
+      "end": 12880.471,
+      "title": "Chapter 16"
+    },
+    {
+      "id": 18,
+      "start": 12880.471,
+      "end": 13651.303,
+      "title": "Chapter 17"
+    },
+    {
+      "id": 19,
+      "start": 13651.303,
+      "end": 14315.997,
+      "title": "Chapter 18"
+    },
+    {
+      "id": 20,
+      "start": 14315.997,
+      "end": 14991.674,
+      "title": "Chapter 19"
+    },
+    {
+      "id": 21,
+      "start": 14991.674,
+      "end": 15737.754,
+      "title": "Chapter 20"
+    },
+    {
+      "id": 22,
+      "start": 15737.754,
+      "end": 16533.525,
+      "title": "Chapter 21"
+    },
+    {
+      "id": 23,
+      "start": 16533.525,
+      "end": 17273.823,
+      "title": "Chapter 22"
+    },
+    {
+      "id": 24,
+      "start": 17273.823,
+      "end": 18071.59,
+      "title": "Chapter 23"
+    },
+    {
+      "id": 25,
+      "start": 18071.59,
+      "end": 19018.871,
+      "title": "Chapter 24"
+    },
+    {
+      "id": 26,
+      "start": 19018.871,
+      "end": 19830.501,
+      "title": "Chapter 25"
+    },
+    {
+      "id": 27,
+      "start": 19830.501,
+      "end": 20570.52,
+      "title": "Chapter 26"
+    },
+    {
+      "id": 28,
+      "start": 20570.52,
+      "end": 21223.906,
+      "title": "Chapter 27"
+    },
+    {
+      "id": 29,
+      "start": 21223.906,
+      "end": 22129.553,
+      "title": "Chapter 28"
+    },
+    {
+      "id": 30,
+      "start": 22129.553,
+      "end": 22599.478,
+      "title": "Chapter 29"
+    },
+    {
+      "id": 31,
+      "start": 22599.478,
+      "end": 22882.366,
+      "title": "Epilogue"
+    },
+    {
+      "id": 32,
+      "start": 22882.366,
+      "end": 22905.065,
+      "title": "End Credits"
+    }
+  ],
+  "title": "Legends and Lattes",
+  "subtitle": null,
+  "authors": [
+    "Travis Baldree"
+  ],
+  "narrators": [
+    "Travis Baldree"
+  ],
+  "series": [],
+  "genres": [
+    "Romance"
+  ],
+  "publishedYear": "2022-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "Worn out after decades of packing steel and raising hell, Viv, the orc barbarian, cashes out of the warrior’s life. A forgotten legend, a fabled artifact, and unreasonable hope lead her to the streets of Thune, where she plans to open the first coffee shop the city's ever seen....",
+  "isbn": null,
+  "asin": null,
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

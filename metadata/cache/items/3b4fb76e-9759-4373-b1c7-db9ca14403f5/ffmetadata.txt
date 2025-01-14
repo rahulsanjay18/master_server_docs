@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=The Dresden Files 12.0 - Changes
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 12.0 - Changes
+genre=Audiobook
+date=2010-01-01
+composer=Jim Butcher
+TRACKTOTAL=145
+grouping=Jim Butcher - Dresden Files 22GB \#12

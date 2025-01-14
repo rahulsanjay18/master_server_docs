@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=Rules and Representations
+artist=Noam Chomsky
+album_artist=Noam Chomsky
+album=Rules and Representations
+genre=Language and languages
+date=1997-01-01
+comment=In Rules and Representations, first published in 1980, Noam Chomsky lays out many of the concepts that have made his approach to linguistics and human cognition so instrumental to our understanding of language.Chomsky arrives at his well-known position that there is a universal grammar, structured in the human mind and common to all human languages. Based on Chomsky's 1978 Woodbridge Lectures, this edition contains revised versions of the lectures and two new essays.
+description=In Rules and Representations, first published in 1980, Noam Chomsky lays out many of the concepts that have made his approach to linguistics and human cognition so instrumental to our understanding of language.Chomsky arrives at his well-known position that there is a universal grammar, structured in the human mind and common to all human languages. Based on Chomsky's 1978 Woodbridge Lectures, this edition contains revised versions of the lectures and two new essays.
+copyright=Wiley-Blackwell
+publisher=Wiley-Blackwell
+TRACKTOTAL=18

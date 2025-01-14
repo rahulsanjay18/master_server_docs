@@ -1,0 +1,13 @@
+;FFMETADATA1
+title=Rendezvous With Rama
+artist=Arthur C. Clarke
+album_artist=Arthur C. Clarke
+album=Rendezvous With Rama
+genre=Fiction
+date=2006
+comment=At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft.<br><br>Space explorers and planet-bound scientists alike prepare for mankind's first encounter with alien intelligence. It will kindle their wildest dreams...and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits - just behind a Raman airlock door.<br><br>BONUS AUDIO: Includes an exclusive introduction by Hugo Award-winning author Robert J. Sawyer, who explains why Rendezvous with Rama will make the listener "feel both humbled and exhilarated at the same time".<br><br>
+description=At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft.<br><br>Space explorers and planet-bound scientists alike prepare for mankind's first encounter with alien intelligence. It will kindle their wildest dreams...and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits - just behind a Raman airlock door.<br><br>BONUS AUDIO: Includes an exclusive introduction by Hugo Award-winning author Robert J. Sawyer, who explains why Rendezvous with Rama will make the listener "feel both humbled and exhilarated at the same time".<br><br>
+composer=Duke Robillard
+copyright=DixieFrog
+publisher=DixieFrog
+TRACKTOTAL=8

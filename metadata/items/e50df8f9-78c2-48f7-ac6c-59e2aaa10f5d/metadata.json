@@ -1,0 +1,102 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3413.603265,
+      "title": "The Dispossessed 01"
+    },
+    {
+      "id": 1,
+      "start": 3413.603265,
+      "end": 8101.276734000001,
+      "title": "The Dispossessed 02"
+    },
+    {
+      "id": 2,
+      "start": 8101.276734000001,
+      "end": 11730.181224,
+      "title": "The Dispossessed 03"
+    },
+    {
+      "id": 3,
+      "start": 11730.181224,
+      "end": 16159.033469,
+      "title": "The Dispossessed 04"
+    },
+    {
+      "id": 4,
+      "start": 16159.033469,
+      "end": 19822.393469,
+      "title": "The Dispossessed 05"
+    },
+    {
+      "id": 5,
+      "start": 19822.393469,
+      "end": 24514.481632,
+      "title": "The Dispossessed 06"
+    },
+    {
+      "id": 6,
+      "start": 24514.481632,
+      "end": 29563.689795,
+      "title": "The Dispossessed 07"
+    },
+    {
+      "id": 7,
+      "start": 29563.689795,
+      "end": 34109.361632,
+      "title": "The Dispossessed 08"
+    },
+    {
+      "id": 8,
+      "start": 34109.361632,
+      "end": 38542.524081,
+      "title": "The Dispossessed 09"
+    },
+    {
+      "id": 9,
+      "start": 38542.524081,
+      "end": 41847.928163000004,
+      "title": "The Dispossessed 10"
+    },
+    {
+      "id": 10,
+      "start": 41847.928163000004,
+      "end": 43877.015510000005,
+      "title": "The Dispossessed 11"
+    },
+    {
+      "id": 11,
+      "start": 43877.015510000005,
+      "end": 47319.90204100001,
+      "title": "The Dispossessed 12"
+    },
+    {
+      "id": 12,
+      "start": 47319.90204100001,
+      "end": 48323.86612300001,
+      "title": "The Dispossessed 13"
+    }
+  ],
+  "title": "The Dispossessed",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1974",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Don Leslie",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

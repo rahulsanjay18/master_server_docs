@@ -1,0 +1,441 @@
+{
+  "tags": [
+    "Science Fiction",
+    "Adventure",
+    "Space Opera"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 46.347,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 46.347,
+      "end": 114.732,
+      "title": "Dedication"
+    },
+    {
+      "id": 2,
+      "start": 114.732,
+      "end": 860.415,
+      "title": "Chapter 01"
+    },
+    {
+      "id": 3,
+      "start": 860.415,
+      "end": 1898.045,
+      "title": "Chapter 02"
+    },
+    {
+      "id": 4,
+      "start": 1898.045,
+      "end": 2942.293,
+      "title": "Chapter 03"
+    },
+    {
+      "id": 5,
+      "start": 2942.293,
+      "end": 3827.345,
+      "title": "Chapter 04"
+    },
+    {
+      "id": 6,
+      "start": 3827.345,
+      "end": 4476.667,
+      "title": "Chapter 05"
+    },
+    {
+      "id": 7,
+      "start": 4476.667,
+      "end": 5501.155,
+      "title": "Chapter 06"
+    },
+    {
+      "id": 8,
+      "start": 5501.155,
+      "end": 6118.132,
+      "title": "Chapter 07"
+    },
+    {
+      "id": 9,
+      "start": 6118.132,
+      "end": 6837.858,
+      "title": "Chapter 08"
+    },
+    {
+      "id": 10,
+      "start": 6837.858,
+      "end": 8128.864,
+      "title": "Chapter 09"
+    },
+    {
+      "id": 11,
+      "start": 8128.864,
+      "end": 9266.317,
+      "title": "Chapter 10"
+    },
+    {
+      "id": 12,
+      "start": 9266.317,
+      "end": 10470.713,
+      "title": "Chapter 11"
+    },
+    {
+      "id": 13,
+      "start": 10470.713,
+      "end": 11196.662,
+      "title": "Chapter 12"
+    },
+    {
+      "id": 14,
+      "start": 11196.662,
+      "end": 11957.487,
+      "title": "Chapter 13"
+    },
+    {
+      "id": 15,
+      "start": 11957.487,
+      "end": 12604.905,
+      "title": "Chapter 14"
+    },
+    {
+      "id": 16,
+      "start": 12604.905,
+      "end": 13408.153,
+      "title": "Chapter 15"
+    },
+    {
+      "id": 17,
+      "start": 13408.153,
+      "end": 14313.267,
+      "title": "Chapter 16"
+    },
+    {
+      "id": 18,
+      "start": 14313.267,
+      "end": 14782.519,
+      "title": "Chapter 17"
+    },
+    {
+      "id": 19,
+      "start": 14782.519,
+      "end": 15532.64,
+      "title": "Chapter 18"
+    },
+    {
+      "id": 20,
+      "start": 15532.64,
+      "end": 15992.627,
+      "title": "Chapter 19"
+    },
+    {
+      "id": 21,
+      "start": 15992.627,
+      "end": 16599.295,
+      "title": "Chapter 20"
+    },
+    {
+      "id": 22,
+      "start": 16599.295,
+      "end": 18492.186,
+      "title": "Chapter 21"
+    },
+    {
+      "id": 23,
+      "start": 18492.186,
+      "end": 19216.811,
+      "title": "Chapter 22"
+    },
+    {
+      "id": 24,
+      "start": 19216.811,
+      "end": 20536.378,
+      "title": "Chapter 23"
+    },
+    {
+      "id": 25,
+      "start": 20536.378,
+      "end": 21665.889,
+      "title": "Chapter 24"
+    },
+    {
+      "id": 26,
+      "start": 21665.889,
+      "end": 22711.437,
+      "title": "Chapter 25"
+    },
+    {
+      "id": 27,
+      "start": 22711.437,
+      "end": 23842.481,
+      "title": "Chapter 26"
+    },
+    {
+      "id": 28,
+      "start": 23842.481,
+      "end": 24744.112,
+      "title": "Chapter 27"
+    },
+    {
+      "id": 29,
+      "start": 24744.112,
+      "end": 25430.54,
+      "title": "Chapter 28"
+    },
+    {
+      "id": 30,
+      "start": 25430.54,
+      "end": 26332.125,
+      "title": "Chapter 29"
+    },
+    {
+      "id": 31,
+      "start": 26332.125,
+      "end": 27275.087,
+      "title": "Chapter 30"
+    },
+    {
+      "id": 32,
+      "start": 27275.087,
+      "end": 27988.938,
+      "title": "Chapter 31"
+    },
+    {
+      "id": 33,
+      "start": 27988.938,
+      "end": 29563.692,
+      "title": "Chapter 32"
+    },
+    {
+      "id": 34,
+      "start": 29563.692,
+      "end": 30193.859,
+      "title": "Chapter 33"
+    },
+    {
+      "id": 35,
+      "start": 30193.859,
+      "end": 31559.447,
+      "title": "Chapter 34"
+    },
+    {
+      "id": 36,
+      "start": 31559.447,
+      "end": 32663.208,
+      "title": "Chapter 35"
+    },
+    {
+      "id": 37,
+      "start": 32663.208,
+      "end": 33479.877,
+      "title": "Chapter 36"
+    },
+    {
+      "id": 38,
+      "start": 33479.877,
+      "end": 34549.852,
+      "title": "Chapter 37"
+    },
+    {
+      "id": 39,
+      "start": 34549.852,
+      "end": 35858.854,
+      "title": "Chapter 38"
+    },
+    {
+      "id": 40,
+      "start": 35858.854,
+      "end": 36815.307,
+      "title": "Chapter 39"
+    },
+    {
+      "id": 41,
+      "start": 36815.307,
+      "end": 37379.25,
+      "title": "Chapter 40"
+    },
+    {
+      "id": 42,
+      "start": 37379.25,
+      "end": 38097.908,
+      "title": "Chapter 41"
+    },
+    {
+      "id": 43,
+      "start": 38097.908,
+      "end": 39006.064,
+      "title": "Chapter 42"
+    },
+    {
+      "id": 44,
+      "start": 39006.064,
+      "end": 39472.018,
+      "title": "Chapter 43"
+    },
+    {
+      "id": 45,
+      "start": 39472.018,
+      "end": 39985.342,
+      "title": "Chapter 44"
+    },
+    {
+      "id": 46,
+      "start": 39985.342,
+      "end": 41060.983,
+      "title": "Chapter 45"
+    },
+    {
+      "id": 47,
+      "start": 41060.983,
+      "end": 41800.121,
+      "title": "Chapter 46"
+    },
+    {
+      "id": 48,
+      "start": 41800.121,
+      "end": 42256.973,
+      "title": "Chapter 47"
+    },
+    {
+      "id": 49,
+      "start": 42256.973,
+      "end": 43784.8,
+      "title": "Chapter 48"
+    },
+    {
+      "id": 50,
+      "start": 43784.8,
+      "end": 45004.103,
+      "title": "Chapter 49"
+    },
+    {
+      "id": 51,
+      "start": 45004.103,
+      "end": 46012.755,
+      "title": "Chapter 50"
+    },
+    {
+      "id": 52,
+      "start": 46012.755,
+      "end": 47079.781,
+      "title": "Chapter 51"
+    },
+    {
+      "id": 53,
+      "start": 47079.781,
+      "end": 47859.275,
+      "title": "Chapter 52"
+    },
+    {
+      "id": 54,
+      "start": 47859.275,
+      "end": 48835.442,
+      "title": "Chapter 53"
+    },
+    {
+      "id": 55,
+      "start": 48835.442,
+      "end": 50230.172,
+      "title": "Chapter 54"
+    },
+    {
+      "id": 56,
+      "start": 50230.172,
+      "end": 51029.194,
+      "title": "Chapter 55"
+    },
+    {
+      "id": 57,
+      "start": 51029.194,
+      "end": 51806.365,
+      "title": "Chapter 56"
+    },
+    {
+      "id": 58,
+      "start": 51806.365,
+      "end": 52463.165,
+      "title": "Chapter 57"
+    },
+    {
+      "id": 59,
+      "start": 52463.165,
+      "end": 53804.768,
+      "title": "Chapter 58"
+    },
+    {
+      "id": 60,
+      "start": 53804.768,
+      "end": 55199.521,
+      "title": "Chapter 59"
+    },
+    {
+      "id": 61,
+      "start": 55199.521,
+      "end": 56239.728,
+      "title": "Chapter 60"
+    },
+    {
+      "id": 62,
+      "start": 56239.728,
+      "end": 57583.862,
+      "title": "Chapter 61"
+    },
+    {
+      "id": 63,
+      "start": 57583.862,
+      "end": 58430.438,
+      "title": "Chapter 62"
+    },
+    {
+      "id": 64,
+      "start": 58430.438,
+      "end": 60070.812,
+      "title": "Chapter 63"
+    },
+    {
+      "id": 65,
+      "start": 60070.812,
+      "end": 60918.201,
+      "title": "Chapter 64"
+    },
+    {
+      "id": 66,
+      "start": 60918.201,
+      "end": 61582.268,
+      "title": "Chapter 65"
+    },
+    {
+      "id": 67,
+      "start": 61582.268,
+      "end": 61651.394467,
+      "title": "End Credits"
+    }
+  ],
+  "title": "Navigators of Dune",
+  "subtitle": null,
+  "authors": [
+    "Brian Herbert",
+    "Kevin J. Anderson"
+  ],
+  "narrators": [
+    "Scott Brick"
+  ],
+  "series": [
+    "Dune Saga #6"
+  ],
+  "genres": [
+    "Science Fiction & Fantasy"
+  ],
+  "publishedYear": "2023-01-01",
+  "publishedDate": null,
+  "publisher": "Macmillan Audio",
+  "description": "Brian Herbert and Kevin J. Anderson's Navigators of Dune is the climactic finale of the Great Schools of Dune trilogy, set 10,000 years before Frank Herbert's classic Dune.  The story line tells the origins of the Bene Gesserit Sisterhood and its breeding program, the human-computer Mentats, and the Navigators (the Spacing Guild), as well as a crucial battle for the future of the human race, in which reason faces off against fanaticism. These events have far-reaching consequences that will set the stage for Dune, millennia later.",
+  "isbn": null,
+  "asin": "B01JYCRKFM",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

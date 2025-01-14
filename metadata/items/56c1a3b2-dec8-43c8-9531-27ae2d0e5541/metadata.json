@@ -1,0 +1,838 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 17.449,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 17.449,
+      "end": 1682.75,
+      "title": "The Story So Far"
+    },
+    {
+      "id": 2,
+      "start": 1682.75,
+      "end": 2513.652,
+      "title": "Chapter 001 - Aelin"
+    },
+    {
+      "id": 3,
+      "start": 2513.652,
+      "end": 3432.791,
+      "title": "Chapter 002 - Xander Brindle"
+    },
+    {
+      "id": 4,
+      "start": 3432.791,
+      "end": 4062.052,
+      "title": "Chapter 003 - Arita"
+    },
+    {
+      "id": 5,
+      "start": 4062.052,
+      "end": 4597.829,
+      "title": "Chapter 004 - Anton Colicos"
+    },
+    {
+      "id": 6,
+      "start": 4597.829,
+      "end": 5088.142,
+      "title": "Chapter 005 - Mage-Imperator Jora'h"
+    },
+    {
+      "id": 7,
+      "start": 5088.142,
+      "end": 5662.836,
+      "title": "Chapter 006 - Adar Zan'nh"
+    },
+    {
+      "id": 8,
+      "start": 5662.836,
+      "end": 6563.352,
+      "title": "Chapter 007 - General Nalani Keah"
+    },
+    {
+      "id": 9,
+      "start": 6563.352,
+      "end": 7108.928,
+      "title": "Chapter 008 - Exxos"
+    },
+    {
+      "id": 10,
+      "start": 7108.928,
+      "end": 7784.582,
+      "title": "Chapter 009 - Orli Kovitz"
+    },
+    {
+      "id": 11,
+      "start": 7784.582,
+      "end": 8675.393,
+      "title": "Chapter 010 - Tom Rom"
+    },
+    {
+      "id": 12,
+      "start": 8675.393,
+      "end": 9319.421,
+      "title": "Chapter 011 - Lee Iswander"
+    },
+    {
+      "id": 13,
+      "start": 9319.421,
+      "end": 9737.984,
+      "title": "Chapter 012 - Mage-Imperator Jora'h"
+    },
+    {
+      "id": 14,
+      "start": 9737.984,
+      "end": 10460.357,
+      "title": "Chapter 013 - Xander Brindle"
+    },
+    {
+      "id": 15,
+      "start": 10460.357,
+      "end": 11025.345,
+      "title": "Chapter 014 - Zoe Alakis"
+    },
+    {
+      "id": 16,
+      "start": 11025.345,
+      "end": 11569.574,
+      "title": "Chapter 015 - Prince Reyn"
+    },
+    {
+      "id": 17,
+      "start": 11569.574,
+      "end": 11955.768,
+      "title": "Chapter 016 - Shareen Fitzkellum"
+    },
+    {
+      "id": 18,
+      "start": 11955.768,
+      "end": 12422.629,
+      "title": "Chapter 017 - Zhett Kellum"
+    },
+    {
+      "id": 19,
+      "start": 12422.629,
+      "end": 12937.462,
+      "title": "Chapter 018 - Tamo'l"
+    },
+    {
+      "id": 20,
+      "start": 12937.462,
+      "end": 13490.747,
+      "title": "Chapter 019 - Rod'h"
+    },
+    {
+      "id": 21,
+      "start": 13490.747,
+      "end": 13982.685,
+      "title": "Chapter 020 - Mage-Imperator Jora'h"
+    },
+    {
+      "id": 22,
+      "start": 13982.685,
+      "end": 14763.804,
+      "title": "Chapter 021 - Adar Zan'nh"
+    },
+    {
+      "id": 23,
+      "start": 14763.804,
+      "end": 15142.846,
+      "title": "Chapter 022 - Exxos"
+    },
+    {
+      "id": 24,
+      "start": 15142.846,
+      "end": 15890.901,
+      "title": "Chapter 023 - Tasia Tamblyn"
+    },
+    {
+      "id": 25,
+      "start": 15890.901,
+      "end": 16531.028,
+      "title": "Chapter 024 - Orli Kovitz"
+    },
+    {
+      "id": 26,
+      "start": 16531.028,
+      "end": 17070.335,
+      "title": "Chapter 025 - General Nalani Keah"
+    },
+    {
+      "id": 27,
+      "start": 17070.335,
+      "end": 17946.888,
+      "title": "Chapter 026 - Tom Rom"
+    },
+    {
+      "id": 28,
+      "start": 17946.888,
+      "end": 18722.853,
+      "title": "Chapter 027 - Lee Iswander"
+    },
+    {
+      "id": 29,
+      "start": 18722.853,
+      "end": 19346.169,
+      "title": "Chapter 028 - Del Kellum"
+    },
+    {
+      "id": 30,
+      "start": 19346.169,
+      "end": 19787.58,
+      "title": "Chapter 029 - Tamo'l"
+    },
+    {
+      "id": 31,
+      "start": 19787.58,
+      "end": 20195.927,
+      "title": "Chapter 030 - Anton Colicos"
+    },
+    {
+      "id": 32,
+      "start": 20195.927,
+      "end": 20648.298,
+      "title": "Chapter 031 - Arita"
+    },
+    {
+      "id": 33,
+      "start": 20648.298,
+      "end": 21278.905,
+      "title": "Chapter 032 - Rod'h"
+    },
+    {
+      "id": 34,
+      "start": 21278.905,
+      "end": 22394.624,
+      "title": "Chapter 033 - Adar Zan'nh"
+    },
+    {
+      "id": 35,
+      "start": 22394.624,
+      "end": 23110.217,
+      "title": "Chapter 034 - Yazra'h"
+    },
+    {
+      "id": 36,
+      "start": 23110.217,
+      "end": 23476.395,
+      "title": "Chapter 035 - Mage-Imperator Jora'h"
+    },
+    {
+      "id": 37,
+      "start": 23476.395,
+      "end": 24274.744,
+      "title": "Chapter 036 - Aelin"
+    },
+    {
+      "id": 38,
+      "start": 24274.744,
+      "end": 24921.373,
+      "title": "Chapter 037 - Patrick Fitzpatrick III"
+    },
+    {
+      "id": 39,
+      "start": 24921.373,
+      "end": 25367.475,
+      "title": "Chapter 038 - Celli"
+    },
+    {
+      "id": 40,
+      "start": 25367.475,
+      "end": 25890.667,
+      "title": "Chapter 039 - Orli Kovitz"
+    },
+    {
+      "id": 41,
+      "start": 25890.667,
+      "end": 26290.329,
+      "title": "Chapter 040 - Osira'h"
+    },
+    {
+      "id": 42,
+      "start": 26290.329,
+      "end": 26814.868,
+      "title": "Chapter 041 - Rod'h"
+    },
+    {
+      "id": 43,
+      "start": 26814.868,
+      "end": 27314.375,
+      "title": "Chapter 042 - Zoe Alakis"
+    },
+    {
+      "id": 44,
+      "start": 27314.375,
+      "end": 27772.691,
+      "title": "Chapter 043 - Lee Iswander"
+    },
+    {
+      "id": 45,
+      "start": 27772.691,
+      "end": 28474.862,
+      "title": "Chapter 044 - Aelin"
+    },
+    {
+      "id": 46,
+      "start": 28474.862,
+      "end": 29169.557,
+      "title": "Chapter 045 - Xander Brindle"
+    },
+    {
+      "id": 47,
+      "start": 29169.557,
+      "end": 29873.307,
+      "title": "Chapter 046 - Garrison Reeves"
+    },
+    {
+      "id": 48,
+      "start": 29873.307,
+      "end": 30628.699,
+      "title": "Chapter 047 - Arita"
+    },
+    {
+      "id": 49,
+      "start": 30628.699,
+      "end": 31148.686,
+      "title": "Chapter 048 - Prince Reyn"
+    },
+    {
+      "id": 50,
+      "start": 31148.686,
+      "end": 31825.455,
+      "title": "Chapter 049 - Mage-Imperator Jora'h"
+    },
+    {
+      "id": 51,
+      "start": 31825.455,
+      "end": 32250.659,
+      "title": "Chapter 050 - Exxos"
+    },
+    {
+      "id": 52,
+      "start": 32250.659,
+      "end": 33093.125,
+      "title": "Chapter 051 - General Nalani Keah"
+    },
+    {
+      "id": 53,
+      "start": 33093.125,
+      "end": 33765.111,
+      "title": "Chapter 052 - Aelin"
+    },
+    {
+      "id": 54,
+      "start": 33765.111,
+      "end": 34210.655,
+      "title": "Chapter 053 - Tamo'l"
+    },
+    {
+      "id": 55,
+      "start": 34210.655,
+      "end": 34851.898,
+      "title": "Chapter 054 - Osira'h"
+    },
+    {
+      "id": 56,
+      "start": 34851.898,
+      "end": 35093.106,
+      "title": "Chapter 055 - Tal Gale'nh"
+    },
+    {
+      "id": 57,
+      "start": 35093.106,
+      "end": 35584.301,
+      "title": "Chapter 056 - King Peter"
+    },
+    {
+      "id": 58,
+      "start": 35584.301,
+      "end": 36076.054,
+      "title": "Chapter 057 - Sarein"
+    },
+    {
+      "id": 59,
+      "start": 36076.054,
+      "end": 36683.859,
+      "title": "Chapter 058 - Shareen Fitzkellum"
+    },
+    {
+      "id": 60,
+      "start": 36683.859,
+      "end": 37209.93,
+      "title": "Chapter 059 - Orli Kovitz"
+    },
+    {
+      "id": 61,
+      "start": 37209.93,
+      "end": 37970.477,
+      "title": "Chapter 060 - Xander Brindle"
+    },
+    {
+      "id": 62,
+      "start": 37970.477,
+      "end": 38284.689,
+      "title": "Chapter 061 - Aelin"
+    },
+    {
+      "id": 63,
+      "start": 38284.689,
+      "end": 38804.677,
+      "title": "Chapter 062 - Lee Iswander"
+    },
+    {
+      "id": 64,
+      "start": 38804.677,
+      "end": 39176.707,
+      "title": "Chapter 063 - Elisa Enturi"
+    },
+    {
+      "id": 65,
+      "start": 39176.707,
+      "end": 39662.376,
+      "title": "Chapter 064 - General Nalani Keah"
+    },
+    {
+      "id": 66,
+      "start": 39662.376,
+      "end": 40341.606,
+      "title": "Chapter 065 - Rlinda Kett"
+    },
+    {
+      "id": 67,
+      "start": 40341.606,
+      "end": 40695.246,
+      "title": "Chapter 066 - Osira'h"
+    },
+    {
+      "id": 68,
+      "start": 40695.246,
+      "end": 41183.84,
+      "title": "Chapter 067 - Arita"
+    },
+    {
+      "id": 69,
+      "start": 41183.84,
+      "end": 41765.035,
+      "title": "Chapter 068 - Kotto Okiah"
+    },
+    {
+      "id": 70,
+      "start": 41765.035,
+      "end": 42195.44,
+      "title": "Chapter 069 - Garrison Reeves"
+    },
+    {
+      "id": 71,
+      "start": 42195.44,
+      "end": 42964.625,
+      "title": "Chapter 070 - Tom Rom"
+    },
+    {
+      "id": 72,
+      "start": 42964.625,
+      "end": 43567.182,
+      "title": "Chapter 071 - Lee Iswander"
+    },
+    {
+      "id": 73,
+      "start": 43567.182,
+      "end": 44164.911,
+      "title": "Chapter 072 - Elisa Enturi"
+    },
+    {
+      "id": 74,
+      "start": 44164.911,
+      "end": 44634.325,
+      "title": "Chapter 073 - Orli Kovitz"
+    },
+    {
+      "id": 75,
+      "start": 44634.325,
+      "end": 45007.423,
+      "title": "Chapter 074 - General Nalani Keah"
+    },
+    {
+      "id": 76,
+      "start": 45007.423,
+      "end": 45634.641,
+      "title": "Chapter 075 - Prince Reyn"
+    },
+    {
+      "id": 77,
+      "start": 45634.641,
+      "end": 46430.667,
+      "title": "Chapter 076 - Zoe Alakis"
+    },
+    {
+      "id": 78,
+      "start": 46430.667,
+      "end": 46758.579,
+      "title": "Chapter 077 - Garrison Reeves"
+    },
+    {
+      "id": 79,
+      "start": 46758.579,
+      "end": 47215.687,
+      "title": "Chapter 078 - Orli Kovitz"
+    },
+    {
+      "id": 80,
+      "start": 47215.687,
+      "end": 47591.711,
+      "title": "Chapter 079 - Aelin"
+    },
+    {
+      "id": 81,
+      "start": 47591.711,
+      "end": 48038.092,
+      "title": "Chapter 080 - Exxos"
+    },
+    {
+      "id": 82,
+      "start": 48038.092,
+      "end": 48709.009,
+      "title": "Chapter 081 - Xander Brindle"
+    },
+    {
+      "id": 83,
+      "start": 48709.009,
+      "end": 49189.569,
+      "title": "Chapter 082 - Adar Zan'nh"
+    },
+    {
+      "id": 84,
+      "start": 49189.569,
+      "end": 49927.36,
+      "title": "Chapter 083 - General Nalani Keah"
+    },
+    {
+      "id": 85,
+      "start": 49927.36,
+      "end": 50758.681,
+      "title": "Chapter 084 - Xander Brindle"
+    },
+    {
+      "id": 86,
+      "start": 50758.681,
+      "end": 51377.818,
+      "title": "Chapter 085 - Aelin"
+    },
+    {
+      "id": 87,
+      "start": 51377.818,
+      "end": 52043.116,
+      "title": "Chapter 086 - Arita"
+    },
+    {
+      "id": 88,
+      "start": 52043.116,
+      "end": 52692.903,
+      "title": "Chapter 087 - Zoe Alakis"
+    },
+    {
+      "id": 89,
+      "start": 52692.903,
+      "end": 53532.583,
+      "title": "Chapter 088 - Rod'h"
+    },
+    {
+      "id": 90,
+      "start": 53532.583,
+      "end": 54000.976,
+      "title": "Chapter 089 - Shareen Fitzkellum"
+    },
+    {
+      "id": 91,
+      "start": 54000.976,
+      "end": 54250.312,
+      "title": "Chapter 090 - Garrison Reeves"
+    },
+    {
+      "id": 92,
+      "start": 54250.312,
+      "end": 55022.004,
+      "title": "Chapter 091 - Tasia Tamblyn"
+    },
+    {
+      "id": 93,
+      "start": 55022.004,
+      "end": 55436.48,
+      "title": "Chapter 092 - Xander Brindle"
+    },
+    {
+      "id": 94,
+      "start": 55436.48,
+      "end": 55785.244,
+      "title": "Chapter 093 - Exxos"
+    },
+    {
+      "id": 95,
+      "start": 55785.244,
+      "end": 56214.117,
+      "title": "Chapter 094 - Elisa Enturi"
+    },
+    {
+      "id": 96,
+      "start": 56214.117,
+      "end": 56643.825,
+      "title": "Chapter 095 - Mage-Imperator Jora'h"
+    },
+    {
+      "id": 97,
+      "start": 56643.825,
+      "end": 57077.063,
+      "title": "Chapter 096 - Adar Zan'nh"
+    },
+    {
+      "id": 98,
+      "start": 57077.063,
+      "end": 57586.184,
+      "title": "Chapter 097 - General Nalani Keah"
+    },
+    {
+      "id": 99,
+      "start": 57586.184,
+      "end": 57984.359,
+      "title": "Chapter 098 - Prince Reyn"
+    },
+    {
+      "id": 100,
+      "start": 57984.359,
+      "end": 58741.841,
+      "title": "Chapter 099 - Zoe Alakis"
+    },
+    {
+      "id": 101,
+      "start": 58741.841,
+      "end": 59250.729,
+      "title": "Chapter 100 - Orli Kovitz"
+    },
+    {
+      "id": 102,
+      "start": 59250.729,
+      "end": 59951.136,
+      "title": "Chapter 101 - Rod'h"
+    },
+    {
+      "id": 103,
+      "start": 59951.136,
+      "end": 60514.173,
+      "title": "Chapter 102 - Tal Gale'nh"
+    },
+    {
+      "id": 104,
+      "start": 60514.173,
+      "end": 61102.103,
+      "title": "Chapter 103 - Elisa Enturi"
+    },
+    {
+      "id": 105,
+      "start": 61102.103,
+      "end": 61583.731,
+      "title": "Chapter 104 - Exxos"
+    },
+    {
+      "id": 106,
+      "start": 61583.731,
+      "end": 62136.134,
+      "title": "Chapter 105 - Rod'h"
+    },
+    {
+      "id": 107,
+      "start": 62136.134,
+      "end": 62482.947,
+      "title": "Chapter 106 - Arita"
+    },
+    {
+      "id": 108,
+      "start": 62482.947,
+      "end": 63036.789,
+      "title": "Chapter 107 - King Peter"
+    },
+    {
+      "id": 109,
+      "start": 63036.789,
+      "end": 64026.192,
+      "title": "Chapter 108 - Tom Rom"
+    },
+    {
+      "id": 110,
+      "start": 64026.192,
+      "end": 64492.123,
+      "title": "Chapter 109 - Tasia Tamblyn"
+    },
+    {
+      "id": 111,
+      "start": 64492.123,
+      "end": 64921.042,
+      "title": "Chapter 110 - Xander Brindle"
+    },
+    {
+      "id": 112,
+      "start": 64921.042,
+      "end": 65168.335,
+      "title": "Chapter 111 - Tal Gale'nh"
+    },
+    {
+      "id": 113,
+      "start": 65168.335,
+      "end": 65763.787,
+      "title": "Chapter 112 - Kotto Okiah"
+    },
+    {
+      "id": 114,
+      "start": 65763.787,
+      "end": 66264.409,
+      "title": "Chapter 113 - Zhett Kellum"
+    },
+    {
+      "id": 115,
+      "start": 66264.409,
+      "end": 66740.465,
+      "title": "Chapter 114 - Rod'h"
+    },
+    {
+      "id": 116,
+      "start": 66740.465,
+      "end": 67648.319,
+      "title": "Chapter 115 - Lee Iswander"
+    },
+    {
+      "id": 117,
+      "start": 67648.319,
+      "end": 68240.985,
+      "title": "Chapter 116 - Prince Reyn"
+    },
+    {
+      "id": 118,
+      "start": 68240.985,
+      "end": 68657.086,
+      "title": "Chapter 117 - Nira"
+    },
+    {
+      "id": 119,
+      "start": 68657.086,
+      "end": 69079.272,
+      "title": "Chapter 118 - Tal Gale'nh"
+    },
+    {
+      "id": 120,
+      "start": 69079.272,
+      "end": 69361.069,
+      "title": "Chapter 119 - Garrison Reeves"
+    },
+    {
+      "id": 121,
+      "start": 69361.069,
+      "end": 70048.287,
+      "title": "Chapter 120 - General Nalani Keah"
+    },
+    {
+      "id": 122,
+      "start": 70048.287,
+      "end": 70743.91,
+      "title": "Chapter 121 - Tasia Tamblyn"
+    },
+    {
+      "id": 123,
+      "start": 70743.91,
+      "end": 71275.554,
+      "title": "Chapter 122 - Exxos"
+    },
+    {
+      "id": 124,
+      "start": 71275.554,
+      "end": 72238.114,
+      "title": "Chapter 123 - Tamo'l"
+    },
+    {
+      "id": 125,
+      "start": 72238.114,
+      "end": 72650.733,
+      "title": "Chapter 124 - Arita"
+    },
+    {
+      "id": 126,
+      "start": 72650.733,
+      "end": 73340.505,
+      "title": "Chapter 125 - Kotto Okiah"
+    },
+    {
+      "id": 127,
+      "start": 73340.505,
+      "end": 73888.774,
+      "title": "Chapter 126 - Adar Zan'nh"
+    },
+    {
+      "id": 128,
+      "start": 73888.774,
+      "end": 74544.97,
+      "title": "Chapter 127 - Tal Gale'nh"
+    },
+    {
+      "id": 129,
+      "start": 74544.97,
+      "end": 75226.337,
+      "title": "Chapter 128 - Tom Rom"
+    },
+    {
+      "id": 130,
+      "start": 75226.337,
+      "end": 75561.168,
+      "title": "Chapter 129 - Rod'h"
+    },
+    {
+      "id": 131,
+      "start": 75561.168,
+      "end": 76457.227,
+      "title": "Chapter 130 - Sarein"
+    },
+    {
+      "id": 132,
+      "start": 76457.227,
+      "end": 77153.686,
+      "title": "Chapter 131 - Mage-Imperator Jora'h"
+    },
+    {
+      "id": 133,
+      "start": 77153.686,
+      "end": 77625.744,
+      "title": "Chapter 132 - Exxos"
+    },
+    {
+      "id": 134,
+      "start": 77625.744,
+      "end": 77661.274558,
+      "title": "End Credits"
+    }
+  ],
+  "title": "The Saga of Shadows (The Saga of Seven Suns) Book 2 - Blood of the Cosmos",
+  "subtitle": null,
+  "authors": [
+    "Kevin J. Anderson"
+  ],
+  "narrators": [
+    "Mark Boyett"
+  ],
+  "series": [
+    "Kevin J. Anderson - The Saga of Shadoes"
+  ],
+  "genres": [
+    "Light Sci-Fi/Space Opera"
+  ],
+  "publishedYear": "2015",
+  "publishedDate": null,
+  "publisher": "Audible Studios",
+  "description": "An epic space opera of the titanic conflict of several galactic civilizations against a life-destroying force of shadows, a dark, cosmic force that has swept through the undercurrents of the human interstellar empire. The intertwined plots, overflowing with colorful ideas, a large cast of characters, and complex storylines span dozens of solar systems, alien races, and strange creatures.\n\nAs the second book of the trilogy opens, the humans and Ildirans, having narrowly escaped annihilation at the hands of the Shana Rei and their robot allies in book one, are desperate to find a way to combat the black cloud of antimatter of the Shana Rei. The mysterious alien Gardeners, who had helped them previously, turn out to be a disaster in disguise and because of them the world tree forests are again in danger. The allies believing they have found a way to stop their dreaded enemies, a new weapon is tested, but it's a horrible failure, throwing the human race and its allies to the brink of extinction.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Persuasion (read by Flo Gibson)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Persuasion (read by Flo Gibson)
+date=1817
+TRACKTOTAL=24

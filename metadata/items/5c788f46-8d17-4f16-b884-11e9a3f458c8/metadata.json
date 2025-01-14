@@ -1,0 +1,664 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 15,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 15,
+      "end": 513.252,
+      "title": "Episode 102: The Protagonist"
+    },
+    {
+      "id": 2,
+      "start": 513.252,
+      "end": 910.707,
+      "title": "Episode 103: Rat in a Cage"
+    },
+    {
+      "id": 3,
+      "start": 910.707,
+      "end": 1398.279,
+      "title": "Episode 104: No Solid Clues"
+    },
+    {
+      "id": 4,
+      "start": 1398.279,
+      "end": 1900.271,
+      "title": "Episode 105: The Great Escape"
+    },
+    {
+      "id": 5,
+      "start": 1900.271,
+      "end": 2297.634,
+      "title": "Episode 106: A Tough Decision"
+    },
+    {
+      "id": 6,
+      "start": 2297.634,
+      "end": 2820.895,
+      "title": "Episode 107: I Tried"
+    },
+    {
+      "id": 7,
+      "start": 2820.895,
+      "end": 3208.087,
+      "title": "Episode 108: The Man"
+    },
+    {
+      "id": 8,
+      "start": 3208.087,
+      "end": 3645.69,
+      "title": "Episode 109: Partners"
+    },
+    {
+      "id": 9,
+      "start": 3645.69,
+      "end": 4097.178,
+      "title": "Episode 110: True Colors"
+    },
+    {
+      "id": 10,
+      "start": 4097.178,
+      "end": 4526.259,
+      "title": "Episode 111: Preparations"
+    },
+    {
+      "id": 11,
+      "start": 4526.259,
+      "end": 4947.143,
+      "title": "Episode 112: Good Luck Charm"
+    },
+    {
+      "id": 12,
+      "start": 4947.143,
+      "end": 5398.794,
+      "title": "Episode 113: The Call"
+    },
+    {
+      "id": 13,
+      "start": 5398.794,
+      "end": 5811.528,
+      "title": "Episode 114: Surrounded"
+    },
+    {
+      "id": 14,
+      "start": 5811.528,
+      "end": 6300.238,
+      "title": "Episode 115: Heartbreaker"
+    },
+    {
+      "id": 15,
+      "start": 6300.238,
+      "end": 6684.272,
+      "title": "Episode 116: On the Road Again"
+    },
+    {
+      "id": 16,
+      "start": 6684.272,
+      "end": 7148.833,
+      "title": "Episode 117: Wait for Me"
+    },
+    {
+      "id": 17,
+      "start": 7148.833,
+      "end": 7605.569,
+      "title": "Episode 118: Good News"
+    },
+    {
+      "id": 18,
+      "start": 7605.569,
+      "end": 8042.754,
+      "title": "Episode 119: Truce"
+    },
+    {
+      "id": 19,
+      "start": 8042.754,
+      "end": 8455.651,
+      "title": "Episode 120: Believing In Me"
+    },
+    {
+      "id": 20,
+      "start": 8455.651,
+      "end": 8840.544,
+      "title": "Episode 121: Welcoming Party"
+    },
+    {
+      "id": 21,
+      "start": 8840.544,
+      "end": 9297.419,
+      "title": "Episode 122: Family Comes First"
+    },
+    {
+      "id": 22,
+      "start": 9297.419,
+      "end": 9692.552,
+      "title": "Episode 123: Jealous"
+    },
+    {
+      "id": 23,
+      "start": 9692.552,
+      "end": 10193.406,
+      "title": "Episode 124: Villager's Request"
+    },
+    {
+      "id": 24,
+      "start": 10193.406,
+      "end": 10676.381,
+      "title": "Episode 125: Raiders"
+    },
+    {
+      "id": 25,
+      "start": 10676.381,
+      "end": 11224.697,
+      "title": "Episode 126: The Fourth Trial"
+    },
+    {
+      "id": 26,
+      "start": 11224.697,
+      "end": 11598.398,
+      "title": "Episode 127: Tension Between Friends"
+    },
+    {
+      "id": 27,
+      "start": 11598.398,
+      "end": 11981.55,
+      "title": "Episode 128: His Confession"
+    },
+    {
+      "id": 28,
+      "start": 11981.55,
+      "end": 12446.576,
+      "title": "Episode 129: Drunken Stupor"
+    },
+    {
+      "id": 29,
+      "start": 12446.576,
+      "end": 12898.413,
+      "title": "Episode 130: Vatore Greed"
+    },
+    {
+      "id": 30,
+      "start": 12898.413,
+      "end": 13374.677,
+      "title": "Episode 131: A Job"
+    },
+    {
+      "id": 31,
+      "start": 13374.677,
+      "end": 13827.535,
+      "title": "Episode 132: The Emperor's Return"
+    },
+    {
+      "id": 32,
+      "start": 13827.535,
+      "end": 14277.142,
+      "title": "Episode 133: True Strength"
+    },
+    {
+      "id": 33,
+      "start": 14277.142,
+      "end": 14737.965,
+      "title": "Episode 134: A Terrifying Truth"
+    },
+    {
+      "id": 34,
+      "start": 14737.965,
+      "end": 15171.504,
+      "title": "Episode 135: Set Up"
+    },
+    {
+      "id": 35,
+      "start": 15171.504,
+      "end": 15678.697,
+      "title": "Episode 136: Symania Chavanne"
+    },
+    {
+      "id": 36,
+      "start": 15678.697,
+      "end": 16291.169,
+      "title": "Episode 137: Woke Up"
+    },
+    {
+      "id": 37,
+      "start": 16291.169,
+      "end": 16855.878,
+      "title": "Episode 138: The Baby"
+    },
+    {
+      "id": 38,
+      "start": 16855.878,
+      "end": 17402.127,
+      "title": "Episode 139: The Fifth Trial"
+    },
+    {
+      "id": 39,
+      "start": 17402.127,
+      "end": 17787.624,
+      "title": "Episode 140: Congratulations"
+    },
+    {
+      "id": 40,
+      "start": 17787.624,
+      "end": 18253.602,
+      "title": "Episode 141: Dinner?!"
+    },
+    {
+      "id": 41,
+      "start": 18253.602,
+      "end": 18831.848,
+      "title": "Episode 142: Cherry"
+    },
+    {
+      "id": 42,
+      "start": 18831.848,
+      "end": 19279.877,
+      "title": "Episode 143: Desperate Avoidance"
+    },
+    {
+      "id": 43,
+      "start": 19279.877,
+      "end": 19786.164,
+      "title": "Episode 144: Telling Secrets"
+    },
+    {
+      "id": 44,
+      "start": 19786.164,
+      "end": 20228.248,
+      "title": "Episode 145: Grief of My Own Making"
+    },
+    {
+      "id": 45,
+      "start": 20228.248,
+      "end": 20664.783,
+      "title": "Episode 146: Peculiar"
+    },
+    {
+      "id": 46,
+      "start": 20664.783,
+      "end": 21080.257,
+      "title": "Episode 147: When Lies Catch Up"
+    },
+    {
+      "id": 47,
+      "start": 21080.257,
+      "end": 21486.513,
+      "title": "Episode 148: Nap Time"
+    },
+    {
+      "id": 48,
+      "start": 21486.513,
+      "end": 21889.402,
+      "title": "Episode 149: Intruder"
+    },
+    {
+      "id": 49,
+      "start": 21889.402,
+      "end": 22266.377,
+      "title": "Episode 150: His Fate"
+    },
+    {
+      "id": 50,
+      "start": 22266.377,
+      "end": 22659.885,
+      "title": "Episode 151: Daithi's Decision"
+    },
+    {
+      "id": 51,
+      "start": 22659.885,
+      "end": 23057.48,
+      "title": "Episode 152: The Sixth Trial"
+    },
+    {
+      "id": 52,
+      "start": 23057.48,
+      "end": 23541.151,
+      "title": "Episode 153: Love is Immature"
+    },
+    {
+      "id": 53,
+      "start": 23541.151,
+      "end": 23887.987,
+      "title": "Episode 154: Brutal Honesty"
+    },
+    {
+      "id": 54,
+      "start": 23887.987,
+      "end": 24254.374,
+      "title": "Episode 155: In Between"
+    },
+    {
+      "id": 55,
+      "start": 24254.374,
+      "end": 24724.113,
+      "title": "Episode 156: Checking In"
+    },
+    {
+      "id": 56,
+      "start": 24724.113,
+      "end": 25190.81,
+      "title": "Episode 157: The Emperor's Speech"
+    },
+    {
+      "id": 57,
+      "start": 25190.81,
+      "end": 25588.289,
+      "title": "Episode 158: The Lady Killer"
+    },
+    {
+      "id": 58,
+      "start": 25588.289,
+      "end": 26067.247,
+      "title": "Episode 159: At Ease"
+    },
+    {
+      "id": 59,
+      "start": 26067.247,
+      "end": 26652.575,
+      "title": "Episode 160: Monster vs Monster"
+    },
+    {
+      "id": 60,
+      "start": 26652.575,
+      "end": 27191.974,
+      "title": "Episode 161: Who Had I Become?"
+    },
+    {
+      "id": 61,
+      "start": 27191.974,
+      "end": 27693.734,
+      "title": "Episode 162: The Seventh Trial"
+    },
+    {
+      "id": 62,
+      "start": 27693.734,
+      "end": 28245.765,
+      "title": "Episode 163: Don't Go"
+    },
+    {
+      "id": 63,
+      "start": 28245.765,
+      "end": 28626.084,
+      "title": "Episode 164: Sleepless Nights"
+    },
+    {
+      "id": 64,
+      "start": 28626.084,
+      "end": 29123.989,
+      "title": "Episode 165: Thoughts of a Throne"
+    },
+    {
+      "id": 65,
+      "start": 29123.989,
+      "end": 29603.434,
+      "title": "Episode 166: The Bunker"
+    },
+    {
+      "id": 66,
+      "start": 29603.434,
+      "end": 30049.605,
+      "title": "Episode 167: Smoke in Satume"
+    },
+    {
+      "id": 67,
+      "start": 30049.605,
+      "end": 30513.307,
+      "title": "Episode 168: Queens Protect"
+    },
+    {
+      "id": 68,
+      "start": 30513.307,
+      "end": 30981.607,
+      "title": "Episode 169: Take Your Chance"
+    },
+    {
+      "id": 69,
+      "start": 30981.607,
+      "end": 31493.165,
+      "title": "Episode 170: Slip Away"
+    },
+    {
+      "id": 70,
+      "start": 31493.165,
+      "end": 31987.146,
+      "title": "Episode 171: The Call of Chaos"
+    },
+    {
+      "id": 71,
+      "start": 31987.146,
+      "end": 32470.074,
+      "title": "Episode 172: After the Attack"
+    },
+    {
+      "id": 72,
+      "start": 32470.074,
+      "end": 32873.799,
+      "title": "Episode 173: My Lady"
+    },
+    {
+      "id": 73,
+      "start": 32873.799,
+      "end": 33410.04,
+      "title": "Episode 174: A Sister's Love"
+    },
+    {
+      "id": 74,
+      "start": 33410.04,
+      "end": 33837.96,
+      "title": "Episode 175: The Three of Us"
+    },
+    {
+      "id": 75,
+      "start": 33837.96,
+      "end": 34268.202,
+      "title": "Episode 176: Never Again"
+    },
+    {
+      "id": 76,
+      "start": 34268.202,
+      "end": 34757.841,
+      "title": "Episode 177: So Much. Too Much."
+    },
+    {
+      "id": 77,
+      "start": 34757.841,
+      "end": 35209.422,
+      "title": "Episode 178: Prepare for the Worst"
+    },
+    {
+      "id": 78,
+      "start": 35209.422,
+      "end": 35604.834,
+      "title": "Episode 179: Advice from the Enemy"
+    },
+    {
+      "id": 79,
+      "start": 35604.834,
+      "end": 36090.014,
+      "title": "Episode 180: A Desperate Kiss"
+    },
+    {
+      "id": 80,
+      "start": 36090.014,
+      "end": 36638.121,
+      "title": "Episode 181: Faith Piers"
+    },
+    {
+      "id": 81,
+      "start": 36638.121,
+      "end": 37133.379,
+      "title": "Episode 182: A Bizarre Tale"
+    },
+    {
+      "id": 82,
+      "start": 37133.379,
+      "end": 37551.895,
+      "title": "Episode 183: Defending Him"
+    },
+    {
+      "id": 83,
+      "start": 37551.895,
+      "end": 38001.99,
+      "title": "Episode 184: Monstrous Villain"
+    },
+    {
+      "id": 84,
+      "start": 38001.99,
+      "end": 38454.895,
+      "title": "Episode 185: Achieve Destruction"
+    },
+    {
+      "id": 85,
+      "start": 38454.895,
+      "end": 38827.435,
+      "title": "Episode 186: Cheater!"
+    },
+    {
+      "id": 86,
+      "start": 38827.435,
+      "end": 39231.926,
+      "title": "Episode 187: Return Together"
+    },
+    {
+      "id": 87,
+      "start": 39231.926,
+      "end": 39700.133,
+      "title": "Episode 188: Fierce"
+    },
+    {
+      "id": 88,
+      "start": 39700.133,
+      "end": 40141.103,
+      "title": "Episode 189: A Future With You"
+    },
+    {
+      "id": 89,
+      "start": 40141.103,
+      "end": 40580.215,
+      "title": "Episode 190: A Greedy Emperor"
+    },
+    {
+      "id": 90,
+      "start": 40580.215,
+      "end": 41064.443,
+      "title": "Episode 191: Morning After"
+    },
+    {
+      "id": 91,
+      "start": 41064.443,
+      "end": 41541.636,
+      "title": "Episode 192: Her First Battle"
+    },
+    {
+      "id": 92,
+      "start": 41541.636,
+      "end": 41948.078,
+      "title": "Episode 193: The Lure"
+    },
+    {
+      "id": 93,
+      "start": 41948.078,
+      "end": 42462.539,
+      "title": "Episode 194: Childhood Story"
+    },
+    {
+      "id": 94,
+      "start": 42462.539,
+      "end": 42901.396,
+      "title": "Episode 195: It's Settled"
+    },
+    {
+      "id": 95,
+      "start": 42901.396,
+      "end": 43380.47,
+      "title": "Episode 196: He's Here"
+    },
+    {
+      "id": 96,
+      "start": 43380.47,
+      "end": 43848.212,
+      "title": "Episode 197: Mitesh vs Red"
+    },
+    {
+      "id": 97,
+      "start": 43848.212,
+      "end": 44272.278,
+      "title": "Episode 198: Protect"
+    },
+    {
+      "id": 98,
+      "start": 44272.278,
+      "end": 44844.393,
+      "title": "Episode 199: My Death"
+    },
+    {
+      "id": 99,
+      "start": 44844.393,
+      "end": 45356.485,
+      "title": "Episode 200: We Did It"
+    },
+    {
+      "id": 100,
+      "start": 45356.485,
+      "end": 45978.803,
+      "title": "Episode 201: Your Highness"
+    },
+    {
+      "id": 101,
+      "start": 45978.803,
+      "end": 46442.017,
+      "title": "Episode 202: The New Throne Room"
+    },
+    {
+      "id": 102,
+      "start": 46442.017,
+      "end": 46887.027,
+      "title": "Episode 203: Brotherly Love"
+    },
+    {
+      "id": 103,
+      "start": 46887.027,
+      "end": 47285.017,
+      "title": "Episode 204: The Next Adventure"
+    },
+    {
+      "id": 104,
+      "start": 47285.017,
+      "end": 47771.033,
+      "title": "Episode 205: The End of Our Tale"
+    },
+    {
+      "id": 105,
+      "start": 47771.033,
+      "end": 47792,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Reborn as the Villain's Lackey, Vol. 02",
+  "subtitle": null,
+  "authors": [
+    "Nancy Wu"
+  ],
+  "narrators": [
+    "Sarah Roberts"
+  ],
+  "series": [
+    "Reborn as the Villain's Lackey #02"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "Aug 18, 2021 (09-20-22)",
+  "publishedDate": null,
+  "publisher": "Recorded Books",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

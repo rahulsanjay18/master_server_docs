@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=Stephenson, N: Seveneves
+artist=Mary Robinette Kowal, Will Damron
+album_artist=Mary Robinette Kowal, Will Damron
+album=Stephenson, N: Seveneves
+genre=Audiobook
+date=2015-01-01
+composer=Neal Stephenson
+TRACKTOTAL=27

@@ -1,0 +1,354 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 262.990667,
+      "title": "Introduction"
+    },
+    {
+      "id": 1,
+      "start": 262.990667,
+      "end": 1522.713334,
+      "title": "1 Oxford - April 2060"
+    },
+    {
+      "id": 2,
+      "start": 1522.713334,
+      "end": 2951.816001,
+      "title": "2 Warwickshire - December 1939"
+    },
+    {
+      "id": 3,
+      "start": 2951.816001,
+      "end": 3615.522668,
+      "title": "3 Balliol College, Oxford - April 2060"
+    },
+    {
+      "id": 4,
+      "start": 3615.522668,
+      "end": 4474.925335,
+      "title": "4 Warwickshire - February 1940"
+    },
+    {
+      "id": 5,
+      "start": 4474.925335,
+      "end": 5682.844002,
+      "title": "5 Oxford - April 2060"
+    },
+    {
+      "id": 6,
+      "start": 5682.844002,
+      "end": 7487.246669,
+      "title": "6 Oxford - April 2060"
+    },
+    {
+      "id": 7,
+      "start": 7487.246669,
+      "end": 8571.901336,
+      "title": "7 Oxford - April 2060"
+    },
+    {
+      "id": 8,
+      "start": 8571.901336,
+      "end": 10123.548003,
+      "title": "8 Oxford - April 2060"
+    },
+    {
+      "id": 9,
+      "start": 10123.548003,
+      "end": 11106.75467,
+      "title": "9 Warwickshire - Spring 1940"
+    },
+    {
+      "id": 10,
+      "start": 11106.75467,
+      "end": 12194.037337,
+      "title": "10 Saltram-on-Sea - 29 May 1940"
+    },
+    {
+      "id": 11,
+      "start": 12194.037337,
+      "end": 14430.548004,
+      "title": "11 Oxford - April 2060"
+    },
+    {
+      "id": 12,
+      "start": 14430.548004,
+      "end": 15915.558671,
+      "title": "12 Saltram-on-Sea - 29 May 1940"
+    },
+    {
+      "id": 13,
+      "start": 15915.558671,
+      "end": 17308.013338,
+      "title": "13 Dulwich, Surrey - 13 June 1944"
+    },
+    {
+      "id": 14,
+      "start": 17308.013338,
+      "end": 18564.136005,
+      "title": "14 Warwickshire - May 1940"
+    },
+    {
+      "id": 15,
+      "start": 18564.136005,
+      "end": 19516.706672,
+      "title": "15 Kent - April 1944"
+    },
+    {
+      "id": 16,
+      "start": 19516.706672,
+      "end": 22051.801339,
+      "title": "16 London - 15 September 1940"
+    },
+    {
+      "id": 17,
+      "start": 22051.801339,
+      "end": 22622.700006000003,
+      "title": "17 London - 7 May 1945"
+    },
+    {
+      "id": 18,
+      "start": 22622.700006000003,
+      "end": 23778.058673000003,
+      "title": "18 Backbury, Warwickshire - May 1940"
+    },
+    {
+      "id": 19,
+      "start": 23778.058673000003,
+      "end": 24764.109340000003,
+      "title": "19 London - 17 September 1940"
+    },
+    {
+      "id": 20,
+      "start": 24764.109340000003,
+      "end": 25780.400007000004,
+      "title": "20 Dulwich, Surrey - 14 June 1944"
+    },
+    {
+      "id": 21,
+      "start": 25780.400007000004,
+      "end": 26284.950674000003,
+      "title": "21 The English Channel - 29 May 1940"
+    },
+    {
+      "id": 22,
+      "start": 26284.950674000003,
+      "end": 27172.361341000003,
+      "title": "22 London - 17 September 1940"
+    },
+    {
+      "id": 23,
+      "start": 27172.361341000003,
+      "end": 28654.168008000004,
+      "title": "23 London - 18 September 1940"
+    },
+    {
+      "id": 24,
+      "start": 28654.168008000004,
+      "end": 29726.078675000004,
+      "title": "24 Dunkirk - 29 May 1940"
+    },
+    {
+      "id": 25,
+      "start": 29726.078675000004,
+      "end": 31250.581342000005,
+      "title": "25 Dulwich - 15 June 1944"
+    },
+    {
+      "id": 26,
+      "start": 31250.581342000005,
+      "end": 33089.184009000004,
+      "title": "26 Warwickshire - May 1940"
+    },
+    {
+      "id": 27,
+      "start": 33089.184009000004,
+      "end": 33793.894676,
+      "title": "27 Kent - April 1944"
+    },
+    {
+      "id": 28,
+      "start": 33793.894676,
+      "end": 35225.841343,
+      "title": "28 London - 19 September 1940"
+    },
+    {
+      "id": 29,
+      "start": 35225.841343,
+      "end": 35957.84001,
+      "title": "29 Dunkirk, France - 29 May 1940"
+    },
+    {
+      "id": 30,
+      "start": 35957.84001,
+      "end": 36948.930677,
+      "title": "30 London - 20 September 1940"
+    },
+    {
+      "id": 31,
+      "start": 36948.930677,
+      "end": 38374.001344,
+      "title": "31 War Emergency Hospital - Summer 1940"
+    },
+    {
+      "id": 32,
+      "start": 38374.001344,
+      "end": 39595.204010999994,
+      "title": "32 Warwickshire - August 1940"
+    },
+    {
+      "id": 33,
+      "start": 39595.204010999994,
+      "end": 40590.038678,
+      "title": "33 London - 21 September 1940"
+    },
+    {
+      "id": 34,
+      "start": 40590.038678,
+      "end": 42458.786432999994,
+      "title": "34 - Blackout: Chapter 34 - En Route to London—9 September 1940"
+    },
+    {
+      "id": 35,
+      "start": 42458.786432999994,
+      "end": 43715.23309999999,
+      "title": "35 London - 21 September 1940"
+    },
+    {
+      "id": 36,
+      "start": 43715.23309999999,
+      "end": 44413.463766999994,
+      "title": "36 War Emergency Hospital - Summer 1940"
+    },
+    {
+      "id": 37,
+      "start": 44413.463766999994,
+      "end": 45278.086434,
+      "title": "37 London - 10 September 1940"
+    },
+    {
+      "id": 38,
+      "start": 45278.086434,
+      "end": 46483.269101,
+      "title": "38 War Emergency Hospital - August 1940"
+    },
+    {
+      "id": 39,
+      "start": 46483.269101,
+      "end": 47722.867768,
+      "title": "39 London - 21 September 1940"
+    },
+    {
+      "id": 40,
+      "start": 47722.867768,
+      "end": 49142.430434999995,
+      "title": "40 London - 22 September 1940"
+    },
+    {
+      "id": 41,
+      "start": 49142.430434999995,
+      "end": 50715.13710199999,
+      "title": "41 War Emergency Hospital - September 1940"
+    },
+    {
+      "id": 42,
+      "start": 50715.13710199999,
+      "end": 52539.73576899999,
+      "title": "42 London - September 1940"
+    },
+    {
+      "id": 43,
+      "start": 52539.73576899999,
+      "end": 54458.07843599999,
+      "title": "43 London - 26 September 1940"
+    },
+    {
+      "id": 44,
+      "start": 54458.07843599999,
+      "end": 55312.58510299999,
+      "title": "44 War Emergency Hospital - September 1940"
+    },
+    {
+      "id": 45,
+      "start": 55312.58510299999,
+      "end": 56499.87576999999,
+      "title": "45 En route to London - 29 September 1940"
+    },
+    {
+      "id": 46,
+      "start": 56499.87576999999,
+      "end": 57658.87043699999,
+      "title": "46 War Emergency Hospital - September 1940"
+    },
+    {
+      "id": 47,
+      "start": 57658.87043699999,
+      "end": 59074.61710399999,
+      "title": "47 London - October 1940"
+    },
+    {
+      "id": 48,
+      "start": 59074.61710399999,
+      "end": 59929.69977099999,
+      "title": "48 London - 25 October 1940"
+    },
+    {
+      "id": 49,
+      "start": 59929.69977099999,
+      "end": 60719.80243799999,
+      "title": "49 London - 25 October 1940"
+    },
+    {
+      "id": 50,
+      "start": 60719.80243799999,
+      "end": 62201.86110499999,
+      "title": "50 London - 25 October 1940"
+    },
+    {
+      "id": 51,
+      "start": 62201.86110499999,
+      "end": 64714.08314599999,
+      "title": "51 - Blackout: Chapter 51 - London—25 October 1940"
+    },
+    {
+      "id": 52,
+      "start": 64714.08314599999,
+      "end": 66636.09781299999,
+      "title": "52 Oxford Street - 26 October 1940"
+    },
+    {
+      "id": 53,
+      "start": 66636.09781299999,
+      "end": 67424.36447999999,
+      "title": "53 London - 17 September 1940"
+    },
+    {
+      "id": 54,
+      "start": 67424.36447999999,
+      "end": 67458.791147,
+      "title": "54 The End"
+    }
+  ],
+  "title": "Blackout",
+  "subtitle": null,
+  "authors": [
+    "Connie Willis"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "publishedYear": "2010",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by: Katherine Kellgren",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

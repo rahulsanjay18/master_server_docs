@@ -1,0 +1,48 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4440.058776,
+      "title": "Track 1"
+    },
+    {
+      "id": 1,
+      "start": 4440.058776,
+      "end": 8880.143673999999,
+      "title": "Track 2"
+    },
+    {
+      "id": 2,
+      "start": 8880.143673999999,
+      "end": 13320.228572,
+      "title": "Track 3"
+    },
+    {
+      "id": 3,
+      "start": 13320.228572,
+      "end": 15516.238368,
+      "title": "Track 4"
+    }
+  ],
+  "title": "Empire A Very Short Introduction",
+  "subtitle": null,
+  "authors": [
+    "Stephen Howe"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Speech"
+  ],
+  "publishedYear": "2009",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

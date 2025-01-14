@@ -1,0 +1,232 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 42.147,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 42.147,
+      "end": 327.451,
+      "title": "Chapter 1: Chabashira Sae’s Soliloquy"
+    },
+    {
+      "id": 2,
+      "start": 327.451,
+      "end": 1604.246,
+      "title": "Chapter 2: The Boundary Between Heaven and Hell"
+    },
+    {
+      "id": 3,
+      "start": 1604.246,
+      "end": 4629.992,
+      "title": "   ~ 2.1"
+    },
+    {
+      "id": 4,
+      "start": 4629.992,
+      "end": 5485.322,
+      "title": "   ~ 2.2"
+    },
+    {
+      "id": 5,
+      "start": 5485.322,
+      "end": 6781.205,
+      "title": "   ~ 2.3"
+    },
+    {
+      "id": 6,
+      "start": 6781.205,
+      "end": 7906.235,
+      "title": "   ~ 2.4"
+    },
+    {
+      "id": 7,
+      "start": 7906.235,
+      "end": 8399.682,
+      "title": "   ~ 2.5"
+    },
+    {
+      "id": 8,
+      "start": 8399.682,
+      "end": 9140.468,
+      "title": "   ~ 2.6"
+    },
+    {
+      "id": 9,
+      "start": 9140.468,
+      "end": 9605.193,
+      "title": "   ~ 2.7"
+    },
+    {
+      "id": 10,
+      "start": 9605.193,
+      "end": 11211.386,
+      "title": "   ~ 2.8"
+    },
+    {
+      "id": 11,
+      "start": 11211.386,
+      "end": 11865.864,
+      "title": "Chapter 3: Rivals on the Move"
+    },
+    {
+      "id": 12,
+      "start": 11865.864,
+      "end": 12211.54,
+      "title": "   ~ 3.1"
+    },
+    {
+      "id": 13,
+      "start": 12211.54,
+      "end": 13189.773,
+      "title": "   ~ 3.2"
+    },
+    {
+      "id": 14,
+      "start": 13189.773,
+      "end": 14100.413,
+      "title": "   ~ 3.3"
+    },
+    {
+      "id": 15,
+      "start": 14100.413,
+      "end": 14645.803,
+      "title": "   ~ 3.4"
+    },
+    {
+      "id": 16,
+      "start": 14645.803,
+      "end": 16136.2,
+      "title": "Chapter 4: The Meaning of Freedom"
+    },
+    {
+      "id": 17,
+      "start": 16136.2,
+      "end": 16772.658,
+      "title": "Chapter 5: The Quiet Outbreak of War"
+    },
+    {
+      "id": 18,
+      "start": 16772.658,
+      "end": 17151.004,
+      "title": "   ~ 5.1"
+    },
+    {
+      "id": 19,
+      "start": 17151.004,
+      "end": 17959.802,
+      "title": "   ~ 5.2"
+    },
+    {
+      "id": 20,
+      "start": 17959.802,
+      "end": 19418.851,
+      "title": "Chapter 6: False Teamwork"
+    },
+    {
+      "id": 21,
+      "start": 19418.851,
+      "end": 20482.72,
+      "title": "   ~ 6.1"
+    },
+    {
+      "id": 22,
+      "start": 20482.72,
+      "end": 20926.801,
+      "title": "   ~ 6.2"
+    },
+    {
+      "id": 23,
+      "start": 20926.801,
+      "end": 21580.327,
+      "title": "   ~ 6.3"
+    },
+    {
+      "id": 24,
+      "start": 21580.327,
+      "end": 22820.412,
+      "title": "   ~ 6.4"
+    },
+    {
+      "id": 25,
+      "start": 22820.412,
+      "end": 23061.574,
+      "title": "   ~ 6.5"
+    },
+    {
+      "id": 26,
+      "start": 23061.574,
+      "end": 23338.472,
+      "title": "   ~ 6.6"
+    },
+    {
+      "id": 27,
+      "start": 23338.472,
+      "end": 23922.524,
+      "title": "   ~ 6.7"
+    },
+    {
+      "id": 28,
+      "start": 23922.524,
+      "end": 25068.754,
+      "title": "   ~ 6.8"
+    },
+    {
+      "id": 29,
+      "start": 25068.754,
+      "end": 25642.983,
+      "title": "   ~ 6.9"
+    },
+    {
+      "id": 30,
+      "start": 25642.983,
+      "end": 26981.544,
+      "title": "   ~ 6.10"
+    },
+    {
+      "id": 31,
+      "start": 26981.544,
+      "end": 28184.314,
+      "title": "Chapter 7: The Curtain Rises"
+    },
+    {
+      "id": 32,
+      "start": 28184.314,
+      "end": 29265.133,
+      "title": "   ~ 7.1"
+    },
+    {
+      "id": 33,
+      "start": 29265.133,
+      "end": 29339.156,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "Classroom of the Elite, Vol. 03",
+  "subtitle": null,
+  "authors": [
+    "Eddy Lee"
+  ],
+  "narrators": [
+    "Syougo Kinugasa"
+  ],
+  "series": [
+    "Classroom of the Elite #03"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "January 25, 2016 (09-18-23)",
+  "publishedDate": null,
+  "publisher": "Seven Seas Siren",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

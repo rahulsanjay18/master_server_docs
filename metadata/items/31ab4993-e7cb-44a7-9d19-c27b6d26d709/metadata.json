@@ -1,0 +1,116 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 867.761633,
+      "title": "00: Introduction"
+    },
+    {
+      "id": 1,
+      "start": 867.761633,
+      "end": 2279.079184,
+      "title": "01: A Handful of Darkness"
+    },
+    {
+      "id": 2,
+      "start": 2279.079184,
+      "end": 3858.7036740000003,
+      "title": "02: In the Red Tent"
+    },
+    {
+      "id": 3,
+      "start": 3858.7036740000003,
+      "end": 5039.856327,
+      "title": "03: The True Name of the Sun"
+    },
+    {
+      "id": 4,
+      "start": 5039.856327,
+      "end": 6072.137143,
+      "title": "04: The Tall Young Men"
+    },
+    {
+      "id": 5,
+      "start": 6072.137143,
+      "end": 7238.269388,
+      "title": "05: Twilight in the Woods"
+    },
+    {
+      "id": 6,
+      "start": 7238.269388,
+      "end": 8547.265306,
+      "title": "06: Snow"
+    },
+    {
+      "id": 7,
+      "start": 8547.265306,
+      "end": 9679.281632999999,
+      "title": "07: The Southing"
+    },
+    {
+      "id": 8,
+      "start": 9679.281632999999,
+      "end": 10635.755102,
+      "title": "08: In The Alien City"
+    },
+    {
+      "id": 9,
+      "start": 10635.755102,
+      "end": 11876.440815999998,
+      "title": "09: The Guerrillas"
+    },
+    {
+      "id": 10,
+      "start": 11876.440815999998,
+      "end": 12834.559999999998,
+      "title": "10: The Old Chief"
+    },
+    {
+      "id": 11,
+      "start": 12834.559999999998,
+      "end": 13914.462040999997,
+      "title": "11: The Siege of the City"
+    },
+    {
+      "id": 12,
+      "start": 13914.462040999997,
+      "end": 15268.388571999996,
+      "title": "12: The Siege of the Square"
+    },
+    {
+      "id": 13,
+      "start": 15268.388571999996,
+      "end": 16710.896326999995,
+      "title": "13: The Last Day"
+    },
+    {
+      "id": 14,
+      "start": 16710.896326999995,
+      "end": 17758.432653999997,
+      "title": "14: The First Day"
+    }
+  ],
+  "title": "Planet of Exile",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "140mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1966",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Patricia Leclercq",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

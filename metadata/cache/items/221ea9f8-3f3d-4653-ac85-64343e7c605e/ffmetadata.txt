@@ -1,0 +1,8 @@
+;FFMETADATA1
+title=Northanger Abbey (read by Donada Peters)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Northanger Abbey (read by Donada Peters)
+date=1817
+TRACKTOTAL=15
+grouping=1817 - Northanger Abbey (read by Donada Peters) \#1

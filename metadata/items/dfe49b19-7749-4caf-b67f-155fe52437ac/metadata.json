@@ -1,0 +1,308 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 17.019,
+      "title": "chp0"
+    },
+    {
+      "id": 1,
+      "start": 17.019,
+      "end": 212.194,
+      "title": "chp1"
+    },
+    {
+      "id": 2,
+      "start": 212.194,
+      "end": 553.498,
+      "title": "chp2"
+    },
+    {
+      "id": 3,
+      "start": 553.498,
+      "end": 2706.577,
+      "title": "chp3"
+    },
+    {
+      "id": 4,
+      "start": 2706.577,
+      "end": 3586.134,
+      "title": "chp4"
+    },
+    {
+      "id": 5,
+      "start": 3586.134,
+      "end": 5253.962,
+      "title": "chp5"
+    },
+    {
+      "id": 6,
+      "start": 5253.962,
+      "end": 6366.662,
+      "title": "chp6"
+    },
+    {
+      "id": 7,
+      "start": 6366.662,
+      "end": 7139.561,
+      "title": "chp7"
+    },
+    {
+      "id": 8,
+      "start": 7139.561,
+      "end": 7858.987,
+      "title": "chp8"
+    },
+    {
+      "id": 9,
+      "start": 7858.987,
+      "end": 8350.809,
+      "title": "chp9"
+    },
+    {
+      "id": 10,
+      "start": 8350.809,
+      "end": 10639.254,
+      "title": "chp10"
+    },
+    {
+      "id": 11,
+      "start": 10639.254,
+      "end": 11000.411,
+      "title": "chp11"
+    },
+    {
+      "id": 12,
+      "start": 11000.411,
+      "end": 11675.377,
+      "title": "chp12"
+    },
+    {
+      "id": 13,
+      "start": 11675.377,
+      "end": 13706.725,
+      "title": "chp13"
+    },
+    {
+      "id": 14,
+      "start": 13706.725,
+      "end": 15105.909,
+      "title": "chp14"
+    },
+    {
+      "id": 15,
+      "start": 15105.909,
+      "end": 15587.857,
+      "title": "chp15"
+    },
+    {
+      "id": 16,
+      "start": 15587.857,
+      "end": 16700.086,
+      "title": "chp16"
+    },
+    {
+      "id": 17,
+      "start": 16700.086,
+      "end": 19656.012,
+      "title": "chp17"
+    },
+    {
+      "id": 18,
+      "start": 19656.012,
+      "end": 21228.284,
+      "title": "chp18"
+    },
+    {
+      "id": 19,
+      "start": 21228.284,
+      "end": 22014.558,
+      "title": "chp19"
+    },
+    {
+      "id": 20,
+      "start": 22014.558,
+      "end": 23324.535,
+      "title": "chp20"
+    },
+    {
+      "id": 21,
+      "start": 23324.535,
+      "end": 24246.645,
+      "title": "chp21"
+    },
+    {
+      "id": 22,
+      "start": 24246.645,
+      "end": 27896.853,
+      "title": "chp22"
+    },
+    {
+      "id": 23,
+      "start": 27896.853,
+      "end": 28582.007,
+      "title": "chp23"
+    },
+    {
+      "id": 24,
+      "start": 28582.007,
+      "end": 31804.774,
+      "title": "chp24"
+    },
+    {
+      "id": 25,
+      "start": 31804.774,
+      "end": 34557.415,
+      "title": "chp25"
+    },
+    {
+      "id": 26,
+      "start": 34557.415,
+      "end": 35306.438,
+      "title": "chp26"
+    },
+    {
+      "id": 27,
+      "start": 35306.438,
+      "end": 35815.135,
+      "title": "chp27"
+    },
+    {
+      "id": 28,
+      "start": 35815.135,
+      "end": 36345.017,
+      "title": "chp28"
+    },
+    {
+      "id": 29,
+      "start": 36345.017,
+      "end": 39329.155,
+      "title": "chp29"
+    },
+    {
+      "id": 30,
+      "start": 39329.155,
+      "end": 41036.297,
+      "title": "chp30"
+    },
+    {
+      "id": 31,
+      "start": 41036.297,
+      "end": 41468.429,
+      "title": "chp31"
+    },
+    {
+      "id": 32,
+      "start": 41468.429,
+      "end": 42926.075,
+      "title": "chp32"
+    },
+    {
+      "id": 33,
+      "start": 42926.075,
+      "end": 45600.166,
+      "title": "chp33"
+    },
+    {
+      "id": 34,
+      "start": 45600.166,
+      "end": 48405.235,
+      "title": "chp34"
+    },
+    {
+      "id": 35,
+      "start": 48405.235,
+      "end": 49180.746,
+      "title": "chp35"
+    },
+    {
+      "id": 36,
+      "start": 49180.746,
+      "end": 50589.858,
+      "title": "chp36"
+    },
+    {
+      "id": 37,
+      "start": 50589.858,
+      "end": 51853.049,
+      "title": "chp37"
+    },
+    {
+      "id": 38,
+      "start": 51853.049,
+      "end": 54426.386,
+      "title": "chp38"
+    },
+    {
+      "id": 39,
+      "start": 54426.386,
+      "end": 56531.399,
+      "title": "chp39"
+    },
+    {
+      "id": 40,
+      "start": 56531.399,
+      "end": 57490.107,
+      "title": "chp40"
+    },
+    {
+      "id": 41,
+      "start": 57490.107,
+      "end": 58172.361,
+      "title": "chp41"
+    },
+    {
+      "id": 42,
+      "start": 58172.361,
+      "end": 58949.022,
+      "title": "chp42"
+    },
+    {
+      "id": 43,
+      "start": 58949.022,
+      "end": 61821.251,
+      "title": "chp43"
+    },
+    {
+      "id": 44,
+      "start": 61821.251,
+      "end": 63551.538,
+      "title": "chp44"
+    },
+    {
+      "id": 45,
+      "start": 63551.538,
+      "end": 63966.455,
+      "title": "chp45"
+    },
+    {
+      "id": 46,
+      "start": 63966.455,
+      "end": 63988.151,
+      "title": "chp46"
+    }
+  ],
+  "title": "Nona the Ninth (The Locked Tomb, Book 3)",
+  "subtitle": null,
+  "authors": [
+    "Tamsyn Muir"
+  ],
+  "narrators": [
+    "Moira Quirk"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2022-01-01",
+  "publishedDate": null,
+  "publisher": "Recorded Books",
+  "description": "fre:ac - free audio converter <https://www.freac.org/>",
+  "isbn": null,
+  "asin": null,
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,92 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 540.9495,
+      "title": "Lathe of Heaven 01"
+    },
+    {
+      "id": 1,
+      "start": 540.9495,
+      "end": 3272.2664999999997,
+      "title": "Lathe of Heaven 02"
+    },
+    {
+      "id": 2,
+      "start": 3272.2664999999997,
+      "end": 5209.7744999999995,
+      "title": "Lathe of Heaven 03"
+    },
+    {
+      "id": 3,
+      "start": 5209.7744999999995,
+      "end": 6450.674999999999,
+      "title": "Lathe of Heaven 04"
+    },
+    {
+      "id": 4,
+      "start": 6450.674999999999,
+      "end": 9421.874256,
+      "title": "Lathe of Heaven 05"
+    },
+    {
+      "id": 5,
+      "start": 9421.874256,
+      "end": 11576.329011999998,
+      "title": "Lathe of Heaven 06"
+    },
+    {
+      "id": 6,
+      "start": 11576.329011999998,
+      "end": 14543.949512,
+      "title": "Lathe of Heaven 07"
+    },
+    {
+      "id": 7,
+      "start": 14543.949512,
+      "end": 16260.461512,
+      "title": "Lathe of Heaven 08"
+    },
+    {
+      "id": 8,
+      "start": 16260.461512,
+      "end": 19615.216768,
+      "title": "Lathe of Heaven 09"
+    },
+    {
+      "id": 9,
+      "start": 19615.216768,
+      "end": 23154.605524,
+      "title": "Lathe of Heaven 10"
+    },
+    {
+      "id": 10,
+      "start": 23154.605524,
+      "end": 24196.322524,
+      "title": "Lathe of Heaven 11"
+    }
+  ],
+  "title": "The Lathe of Heaven",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "94.8mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1971",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Marvin Kane",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

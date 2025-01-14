@@ -1,0 +1,106 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 43.099,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 43.099,
+      "end": 3961.908,
+      "title": "Chapter I: Disarray ~1"
+    },
+    {
+      "id": 2,
+      "start": 3961.908,
+      "end": 7813.61,
+      "title": "Chapter I: Disarray ~2"
+    },
+    {
+      "id": 3,
+      "start": 7813.61,
+      "end": 11964.897,
+      "title": "Chapter II: Restoration ~1"
+    },
+    {
+      "id": 4,
+      "start": 11964.897,
+      "end": 15917.723,
+      "title": "Chapter II: Restoration ~2"
+    },
+    {
+      "id": 5,
+      "start": 15917.723,
+      "end": 19447.04,
+      "title": "Chapter III: Effort and Ingenuity ~1"
+    },
+    {
+      "id": 6,
+      "start": 19447.04,
+      "end": 23352.195,
+      "title": "Chapter III: Effort and Ingenuity ~2"
+    },
+    {
+      "id": 7,
+      "start": 23352.195,
+      "end": 26944.299,
+      "title": "Chapter IV: Operation Iron Hammer ~1"
+    },
+    {
+      "id": 8,
+      "start": 26944.299,
+      "end": 31440.518,
+      "title": "Chapter IV: Operation Iron Hammer ~2"
+    },
+    {
+      "id": 9,
+      "start": 31440.518,
+      "end": 33528.433,
+      "title": "Chapter V: Turning Point ~1"
+    },
+    {
+      "id": 10,
+      "start": 33528.433,
+      "end": 36335.308,
+      "title": "Chapter V: Turning Point ~2"
+    },
+    {
+      "id": 11,
+      "start": 36335.308,
+      "end": 40300.858,
+      "title": "Chapter VI: Excessive Triumph"
+    },
+    {
+      "id": 12,
+      "start": 40300.858,
+      "end": 40450.044,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "The Saga of Tanya the Evil, Vol. 07: Ut Sementem Feceris, ita Metes",
+  "subtitle": null,
+  "authors": [
+    "Erin Rieman"
+  ],
+  "narrators": [
+    "Carlo Zen"
+  ],
+  "series": [
+    "The Saga of Tanya the Evil #07"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "December 28, 2016 (05-16-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

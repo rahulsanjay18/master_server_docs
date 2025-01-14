@@ -1,0 +1,12 @@
+;FFMETADATA1
+title=The Dresden Files 13.5 - Bombshells
+artist=Emily Rankin
+album_artist=Emily Rankin
+album=The Dresden Files 13.5 - Bombshells
+genre=Audiobook
+date=2013-01-01
+comment=Read by Emily Rankin
+description=Read by Emily Rankin
+composer=Jim Butcher
+TRACKTOTAL=1
+grouping=Jim Butcher - Dresden Files 22GB \#13.5

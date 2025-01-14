@@ -1,0 +1,452 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 51.896,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 51.896,
+      "end": 78.274,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 78.274,
+      "end": 709.834,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 709.834,
+      "end": 734.563,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 734.563,
+      "end": 1184.844,
+      "title": "005"
+    },
+    {
+      "id": 5,
+      "start": 1184.844,
+      "end": 1206.973,
+      "title": "006"
+    },
+    {
+      "id": 6,
+      "start": 1206.973,
+      "end": 3283.185,
+      "title": "007"
+    },
+    {
+      "id": 7,
+      "start": 3283.185,
+      "end": 3729.449,
+      "title": "008"
+    },
+    {
+      "id": 8,
+      "start": 3729.449,
+      "end": 4302.309,
+      "title": "009"
+    },
+    {
+      "id": 9,
+      "start": 4302.309,
+      "end": 4573.959,
+      "title": "010"
+    },
+    {
+      "id": 10,
+      "start": 4573.959,
+      "end": 4602.752,
+      "title": "011"
+    },
+    {
+      "id": 11,
+      "start": 4602.752,
+      "end": 5809.679,
+      "title": "012"
+    },
+    {
+      "id": 12,
+      "start": 5809.679,
+      "end": 7760.433,
+      "title": "013"
+    },
+    {
+      "id": 13,
+      "start": 7760.433,
+      "end": 9177.036,
+      "title": "014"
+    },
+    {
+      "id": 14,
+      "start": 9177.036,
+      "end": 9659.176,
+      "title": "015"
+    },
+    {
+      "id": 15,
+      "start": 9659.176,
+      "end": 10725.993,
+      "title": "016"
+    },
+    {
+      "id": 16,
+      "start": 10725.993,
+      "end": 10985.081,
+      "title": "017"
+    },
+    {
+      "id": 17,
+      "start": 10985.081,
+      "end": 11426.934,
+      "title": "018"
+    },
+    {
+      "id": 18,
+      "start": 11426.934,
+      "end": 11453.428,
+      "title": "019"
+    },
+    {
+      "id": 19,
+      "start": 11453.428,
+      "end": 11885.714,
+      "title": "020"
+    },
+    {
+      "id": 20,
+      "start": 11885.714,
+      "end": 11911.813,
+      "title": "021"
+    },
+    {
+      "id": 21,
+      "start": 11911.813,
+      "end": 13704.138,
+      "title": "022"
+    },
+    {
+      "id": 22,
+      "start": 13704.138,
+      "end": 15486.873,
+      "title": "023"
+    },
+    {
+      "id": 23,
+      "start": 15486.873,
+      "end": 16766.92,
+      "title": "024"
+    },
+    {
+      "id": 24,
+      "start": 16766.92,
+      "end": 17973.591,
+      "title": "025"
+    },
+    {
+      "id": 25,
+      "start": 17973.591,
+      "end": 18736.018,
+      "title": "026"
+    },
+    {
+      "id": 26,
+      "start": 18736.018,
+      "end": 18817.985,
+      "title": "027"
+    },
+    {
+      "id": 27,
+      "start": 18817.985,
+      "end": 18845.175,
+      "title": "028"
+    },
+    {
+      "id": 28,
+      "start": 18845.175,
+      "end": 19233.785,
+      "title": "029"
+    },
+    {
+      "id": 29,
+      "start": 19233.785,
+      "end": 21032.658,
+      "title": "030"
+    },
+    {
+      "id": 30,
+      "start": 21032.658,
+      "end": 23620.986,
+      "title": "031"
+    },
+    {
+      "id": 31,
+      "start": 23620.986,
+      "end": 25484.109,
+      "title": "032"
+    },
+    {
+      "id": 32,
+      "start": 25484.109,
+      "end": 26398.836,
+      "title": "033"
+    },
+    {
+      "id": 33,
+      "start": 26398.836,
+      "end": 27971.43,
+      "title": "034"
+    },
+    {
+      "id": 34,
+      "start": 27971.43,
+      "end": 29734.939,
+      "title": "035"
+    },
+    {
+      "id": 35,
+      "start": 29734.939,
+      "end": 29876.744,
+      "title": "036"
+    },
+    {
+      "id": 36,
+      "start": 29876.744,
+      "end": 29914.058,
+      "title": "037"
+    },
+    {
+      "id": 37,
+      "start": 29914.058,
+      "end": 31136.473,
+      "title": "038"
+    },
+    {
+      "id": 38,
+      "start": 31136.473,
+      "end": 33916.11,
+      "title": "039"
+    },
+    {
+      "id": 39,
+      "start": 33916.11,
+      "end": 35328.487,
+      "title": "040"
+    },
+    {
+      "id": 40,
+      "start": 35328.487,
+      "end": 37179.721,
+      "title": "041"
+    },
+    {
+      "id": 41,
+      "start": 37179.721,
+      "end": 39665.208,
+      "title": "042"
+    },
+    {
+      "id": 42,
+      "start": 39665.208,
+      "end": 40436.413,
+      "title": "043"
+    },
+    {
+      "id": 43,
+      "start": 40436.413,
+      "end": 40463.627,
+      "title": "044"
+    },
+    {
+      "id": 44,
+      "start": 40463.627,
+      "end": 41036.556,
+      "title": "045"
+    },
+    {
+      "id": 45,
+      "start": 41036.556,
+      "end": 41059.66,
+      "title": "046"
+    },
+    {
+      "id": 46,
+      "start": 41059.66,
+      "end": 42639.243,
+      "title": "047"
+    },
+    {
+      "id": 47,
+      "start": 42639.243,
+      "end": 44171.319,
+      "title": "048"
+    },
+    {
+      "id": 48,
+      "start": 44171.319,
+      "end": 45028.484,
+      "title": "049"
+    },
+    {
+      "id": 49,
+      "start": 45028.484,
+      "end": 45789.193,
+      "title": "050"
+    },
+    {
+      "id": 50,
+      "start": 45789.193,
+      "end": 47699.452,
+      "title": "051"
+    },
+    {
+      "id": 51,
+      "start": 47699.452,
+      "end": 48796.456,
+      "title": "052"
+    },
+    {
+      "id": 52,
+      "start": 48796.456,
+      "end": 49354.083,
+      "title": "053"
+    },
+    {
+      "id": 53,
+      "start": 49354.083,
+      "end": 51215.185,
+      "title": "054"
+    },
+    {
+      "id": 54,
+      "start": 51215.185,
+      "end": 51239.357,
+      "title": "055"
+    },
+    {
+      "id": 55,
+      "start": 51239.357,
+      "end": 51937.001,
+      "title": "056"
+    },
+    {
+      "id": 56,
+      "start": 51937.001,
+      "end": 53443.837,
+      "title": "057"
+    },
+    {
+      "id": 57,
+      "start": 53443.837,
+      "end": 54903.28,
+      "title": "058"
+    },
+    {
+      "id": 58,
+      "start": 54903.28,
+      "end": 55499.94,
+      "title": "059"
+    },
+    {
+      "id": 59,
+      "start": 55499.94,
+      "end": 55964.061,
+      "title": "060"
+    },
+    {
+      "id": 60,
+      "start": 55964.061,
+      "end": 56458.576,
+      "title": "061"
+    },
+    {
+      "id": 61,
+      "start": 56458.576,
+      "end": 56750.823,
+      "title": "062"
+    },
+    {
+      "id": 62,
+      "start": 56750.823,
+      "end": 56772.487,
+      "title": "063"
+    },
+    {
+      "id": 63,
+      "start": 56772.487,
+      "end": 58230.584,
+      "title": "064"
+    },
+    {
+      "id": 64,
+      "start": 58230.584,
+      "end": 58737.243,
+      "title": "065"
+    },
+    {
+      "id": 65,
+      "start": 58737.243,
+      "end": 58795.711,
+      "title": "066"
+    },
+    {
+      "id": 66,
+      "start": 58795.711,
+      "end": 58821.671,
+      "title": "067"
+    },
+    {
+      "id": 67,
+      "start": 58821.671,
+      "end": 59099.196,
+      "title": "068"
+    },
+    {
+      "id": 68,
+      "start": 59099.196,
+      "end": 60747.859,
+      "title": "069"
+    },
+    {
+      "id": 69,
+      "start": 60747.859,
+      "end": 62142.589,
+      "title": "070"
+    },
+    {
+      "id": 70,
+      "start": 62142.589,
+      "end": 63025.504943,
+      "title": "071"
+    }
+  ],
+  "title": "Middlegame",
+  "subtitle": null,
+  "authors": [
+    "Seanan McGuire"
+  ],
+  "narrators": [
+    "Amber Benson"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2019-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Meet Roger. Skilled with words, languages come easily to him. He instinctively understands how the world works through the power of story. Meet Dodger, his twin. Numbers are her world, her obsession, her everything. All she understands, she does so through the power of math. Roger and Dodger aren’t exactly human, though they don’t realise it. They aren’t exactly gods, either. Not entirely. Not yet.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,334 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1384.605,
+      "title": "001"
+    },
+    {
+      "id": 1,
+      "start": 1384.605,
+      "end": 2942.664,
+      "title": "002"
+    },
+    {
+      "id": 2,
+      "start": 2942.664,
+      "end": 4797.428,
+      "title": "003"
+    },
+    {
+      "id": 3,
+      "start": 4797.428,
+      "end": 7565.572,
+      "title": "004"
+    },
+    {
+      "id": 4,
+      "start": 7565.572,
+      "end": 10032.599,
+      "title": "005"
+    },
+    {
+      "id": 5,
+      "start": 10032.599,
+      "end": 11568.645,
+      "title": "006"
+    },
+    {
+      "id": 6,
+      "start": 11568.645,
+      "end": 13837.606,
+      "title": "007"
+    },
+    {
+      "id": 7,
+      "start": 13837.606,
+      "end": 16457.421,
+      "title": "008"
+    },
+    {
+      "id": 8,
+      "start": 16457.421,
+      "end": 18463.764,
+      "title": "009"
+    },
+    {
+      "id": 9,
+      "start": 18463.764,
+      "end": 20628.421,
+      "title": "010"
+    },
+    {
+      "id": 10,
+      "start": 20628.421,
+      "end": 22592.783,
+      "title": "011"
+    },
+    {
+      "id": 11,
+      "start": 22592.783,
+      "end": 24216.276,
+      "title": "012"
+    },
+    {
+      "id": 12,
+      "start": 24216.276,
+      "end": 25514.086,
+      "title": "013"
+    },
+    {
+      "id": 13,
+      "start": 25514.086,
+      "end": 27098.383,
+      "title": "014"
+    },
+    {
+      "id": 14,
+      "start": 27098.383,
+      "end": 28324.397,
+      "title": "015"
+    },
+    {
+      "id": 15,
+      "start": 28324.397,
+      "end": 29865.598,
+      "title": "016"
+    },
+    {
+      "id": 16,
+      "start": 29865.598,
+      "end": 31259.817,
+      "title": "017"
+    },
+    {
+      "id": 17,
+      "start": 31259.817,
+      "end": 32692.581,
+      "title": "018"
+    },
+    {
+      "id": 18,
+      "start": 32692.581,
+      "end": 34663.166,
+      "title": "019"
+    },
+    {
+      "id": 19,
+      "start": 34663.166,
+      "end": 36010.062,
+      "title": "020"
+    },
+    {
+      "id": 20,
+      "start": 36010.062,
+      "end": 38076.917,
+      "title": "021"
+    },
+    {
+      "id": 21,
+      "start": 38076.917,
+      "end": 40714.611,
+      "title": "022"
+    },
+    {
+      "id": 22,
+      "start": 40714.611,
+      "end": 42613.632,
+      "title": "023"
+    },
+    {
+      "id": 23,
+      "start": 42613.632,
+      "end": 43875.729,
+      "title": "024"
+    },
+    {
+      "id": 24,
+      "start": 43875.729,
+      "end": 45870.788,
+      "title": "025"
+    },
+    {
+      "id": 25,
+      "start": 45870.788,
+      "end": 48165.941,
+      "title": "026"
+    },
+    {
+      "id": 26,
+      "start": 48165.941,
+      "end": 49736.399,
+      "title": "027"
+    },
+    {
+      "id": 27,
+      "start": 49736.399,
+      "end": 51454.212,
+      "title": "028"
+    },
+    {
+      "id": 28,
+      "start": 51454.212,
+      "end": 53087.457,
+      "title": "029"
+    },
+    {
+      "id": 29,
+      "start": 53087.457,
+      "end": 54323.687,
+      "title": "030"
+    },
+    {
+      "id": 30,
+      "start": 54323.687,
+      "end": 56216.624,
+      "title": "031"
+    },
+    {
+      "id": 31,
+      "start": 56216.624,
+      "end": 58366.467,
+      "title": "032"
+    },
+    {
+      "id": 32,
+      "start": 58366.467,
+      "end": 60830.104,
+      "title": "033"
+    },
+    {
+      "id": 33,
+      "start": 60830.104,
+      "end": 62582.653,
+      "title": "034"
+    },
+    {
+      "id": 34,
+      "start": 62582.653,
+      "end": 66161.034,
+      "title": "035"
+    },
+    {
+      "id": 35,
+      "start": 66161.034,
+      "end": 67527.854,
+      "title": "036"
+    },
+    {
+      "id": 36,
+      "start": 67527.854,
+      "end": 69273.948,
+      "title": "037"
+    },
+    {
+      "id": 37,
+      "start": 69273.948,
+      "end": 70687.161,
+      "title": "038"
+    },
+    {
+      "id": 38,
+      "start": 70687.161,
+      "end": 73094.791,
+      "title": "039"
+    },
+    {
+      "id": 39,
+      "start": 73094.791,
+      "end": 75008.023,
+      "title": "040"
+    },
+    {
+      "id": 40,
+      "start": 75008.023,
+      "end": 77287.572,
+      "title": "041"
+    },
+    {
+      "id": 41,
+      "start": 77287.572,
+      "end": 79228.435,
+      "title": "042"
+    },
+    {
+      "id": 42,
+      "start": 79228.435,
+      "end": 80856.154,
+      "title": "043"
+    },
+    {
+      "id": 43,
+      "start": 80856.154,
+      "end": 82863.751,
+      "title": "044"
+    },
+    {
+      "id": 44,
+      "start": 82863.751,
+      "end": 84482.832,
+      "title": "045"
+    },
+    {
+      "id": 45,
+      "start": 84482.832,
+      "end": 87497.061,
+      "title": "046"
+    },
+    {
+      "id": 46,
+      "start": 87497.061,
+      "end": 90124.77,
+      "title": "047"
+    },
+    {
+      "id": 47,
+      "start": 90124.77,
+      "end": 91801.948,
+      "title": "048"
+    },
+    {
+      "id": 48,
+      "start": 91801.948,
+      "end": 92996.475,
+      "title": "049"
+    },
+    {
+      "id": 49,
+      "start": 92996.475,
+      "end": 95275.003,
+      "title": "050"
+    },
+    {
+      "id": 50,
+      "start": 95275.003,
+      "end": 98118.565442,
+      "title": "051"
+    }
+  ],
+  "title": "08 - Echoes of Honor",
+  "subtitle": null,
+  "authors": [
+    "David Weber"
+  ],
+  "narrators": [
+    "Allyson Johnson"
+  ],
+  "series": [
+    "Honor Harrington #8"
+  ],
+  "genres": [
+    "Space Opera, Military SF, Science Fiction"
+  ],
+  "publishedYear": "1998-09-03T20:51:29Z",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "For eight bloody years, the Star Kingdom of Manticore and its allies have taken the war to the vastly more powerful People's Republic of Haven, and Commodore Honor Harrington has been in the forefront of that war. But now Honor has fallen, captured by the Peep Navy, turned over to the forces of State Security - and executed on the interstellar network's nightly news. The Manticoran Alliance is stunned and infuriated by Honor's death and grimly resolved to avenge it. But its military is over-extended and the People's Republic is poised to take the offensive once more. The war is about to enter a phase of unprecedented ferocity, and the Alliance is on the short end of the stick. But even as powerful Peep fleets hurtle towards their objectives, neither they nor the Alliance are aware of events occurring on a distant, isolated, inescapable prison planet called Hell. For what no one knows, not even State Security, is that Honor Harrington is not dead. She and a handful of her people are trapped on Hell, and determined to disprove the Peep boast that no one can ever escape it. Honor Harrington is going home, and taking her people with her - even if she has to conquer Hell to do it. A Note from Author David Weber  There's been some confusion - not to say, um, energetic debate, readers and fans being readers and fans - about the correct pronunciation of \"Manticoran.\" The truth, alas, is that a stitch was dropped. An error occurred. A mistake was made... and it wasn't Audible's fault. It was mine. Before Audible recorded the very first Honor Harrington book, narrator Allyson Johnson and I not only corresponded by e-mail but actually spoke to one another by phone. She wanted to make absolutely certain she had the correct pronunciations for names, places, star nations, etc., and I tried to make certain all of her questions were answered. And so they were. Unfortunately, at some point in the process, I replied to one of her e-mails by telling her that ...",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

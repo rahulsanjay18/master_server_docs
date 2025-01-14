@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=Six Wakes (Unabridged)
+artist=Mur Lafferty
+album_artist=Mur Lafferty
+album=Six Wakes (Unabridged)
+genre=Audiobook
+date=2017-01-01
+comment=It was not common to awaken in a cloning vat streaked with drying blood....
+description=It was not common to awaken in a cloning vat streaked with drying blood....
+TRACKTOTAL=35

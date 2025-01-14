@@ -1,0 +1,465 @@
+;FFMETADATA1
+title=Our Mutual Friend (Unabridged)
+artist=Charles Dickens, Lucinda Hawksley - introduction
+album_artist=Charles Dickens, Lucinda Hawksley - introduction
+album=Our Mutual Friend (Unabridged): The Audible Dickens Collection
+TIT3=The Audible Dickens Collection
+genre=Classics
+date=2018
+comment=Full of both satire and social analysis, Our Mutual Friend looks at what could happen in Victorian England when a fortune passes to a working-class couple. The audiobook will enchant the listener with its larger-than-life characters, its poignant depiction of social injustice and the singular seed of hope with which Dickens hints at the possibility of a better tomorrow.
+description=Full of both satire and social analysis, Our Mutual Friend looks at what could happen in Victorian England when a fortune passes to a working-class couple. The audiobook will enchant the listener with its larger-than-life characters, its poignant depiction of social injustice and the singular seed of hope with which Dickens hints at the possibility of a better tomorrow.
+composer=Meera Syal, Lucinda Hawksley - introduction
+copyright=Audible Studios
+publisher=Audible Studios
+TRACKTOTAL=1
+grouping=The Audible Dickens Collection \#0
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=38037
+title=Opening Credits
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=38037
+END=597576
+title=About the Book
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=597576
+END=600576
+title=Part 1 - The Cup and the Lip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=600576
+END=1310117
+title=Chapter 1 - On the Look Out
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1310117
+END=3204726
+title=Chapter 2 - The Man From Somewhere
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3204726
+END=5418842
+title=Chapter 3 - Another Man
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5418842
+END=7289070
+title=Chapter 4 - The R. Wilfer Family
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7289070
+END=9945479
+title=Chapter 5 - Boffin's Bower
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9945479
+END=12453884
+title=Chapter 6 - Cut Adrift
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12453884
+END=13927469
+title=Chapter 7 - Mr Wegg Looks After Himself
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13927469
+END=15912914
+title=Chapter 8 - Mr Boffin in Consultation
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15912914
+END=18211550
+title=Chapter 9 - Mr and Mrs Boffin in Consultation
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18211550
+END=20298977
+title=Chapter 10 - A Marriage Contract
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20298977
+END=22823729
+title=Chapter 11 - Podsnappery
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22823729
+END=25281190
+title=Chapter 12 - The Sweat of an Honest Man's Brow
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=25281190
+END=26738753
+title=Chapter 13 - Tracking the Bird of Prey
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26738753
+END=27985154
+title=Chapter 14 - The Bird of Prey Brought Down
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=27985154
+END=30135136
+title=Chapter 15 - Two New Servants
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=30135136
+END=32662210
+title=Chapter 16 - Minders and Re-minders
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=32662210
+END=33411379
+title=Chapter 17 - A Dismal Swamp
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=33411379
+END=33414379
+title=Part 2 - Birds of a Feather
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=33414379
+END=36213656
+title=Chapter 1 - Of an Educational Character
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=36213656
+END=37912753
+title=Chapter 2 - Still Educational
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=37912753
+END=39570472
+title=Chapter 3 - A Piece of Work
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=39570472
+END=41537156
+title=Chapter 4 - Cupid Prompted
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=41537156
+END=43815777
+title=Chapter 5 - Mercury Prompting
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=43815777
+END=45876362
+title=Chapter 6 - A Riddle Without an Answer
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=45876362
+END=47655614
+title=Chapter 7 - In Which a Friendly Move is Originated
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=47655614
+END=50222116
+title=Chapter 8 - In Which an Innocent Elopement Occurs
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=50222116
+END=51477712
+title=Chapter 9 - In Which the Orphan Makes His Will
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=51477712
+END=52484669
+title=Chapter 10 - A Successor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=52484669
+END=54454000
+title=Chapter 11 - Some Affairs of the Heart
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=54454000
+END=56723147
+title=Chapter 12 - More Birds of Prey
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=56723147
+END=59024755
+title=Chapter 13 - A Solo and a Duett
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=59024755
+END=60982383
+title=Chapter 14 - Strong of Purpose
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=60982383
+END=63487398
+title=Chapter 15 - The Whole Case So Far
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=63487398
+END=65367332
+title=Chapter 16 - An Anniversary Occasion
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=65367332
+END=65370332
+title=Part 3 - A Long Lane
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=65370332
+END=67246894
+title=Chapter 1 - Lodgers in Queer Street
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=67246894
+END=68697259
+title=Chapter 2 - A Respected Friend in a New Aspect
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=68697259
+END=69584819
+title=Chapter 3 - The Same Respected Friend in More Aspects than One
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=69584819
+END=71553685
+title=Chapter 4 - A Happy Person of the Day
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=71553685
+END=73882832
+title=Chapter 5 - The Golden Dustman Falls into Bad Company
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=73882832
+END=76156855
+title=Chapter 6 - The Golden Dustman Falls into Worse Company
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=76156855
+END=78009900
+title=Chapter 7 - The Friendly Move Takes Up a Strong Position
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=78009900
+END=79846923
+title=Chapter 8 - The End of a Long Journey
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=79846923
+END=82496134
+title=Chapter 9 - Somebody Becomes the Subject of a Prediction
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=82496134
+END=84486827
+title=Chapter 10 - Scouts Out
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=84486827
+END=85932316
+title=Chapter 11 - In The Dark
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=85932316
+END=87179042
+title=Chapter 12 - Meaning Mischief
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=87179042
+END=88792132
+title="Chapter 13 - Give a Dog a Bad Name, and Hang Him"
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=88792132
+END=90343086
+title=Chapter 14 - Mr Wegg Prepares a Grindstone for Mr Boffin's Nose
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=90343086
+END=92646180
+title=Chapter 15 - The Golden Dustman at His Worst
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=92646180
+END=94960605
+title=Chapter 16 - The Feast of the Three Hobgoblins
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=94960605
+END=96674191
+title=Chapter 17 - A Social Chorus
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=96674191
+END=96677191
+title=Part 4 - A Turning
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=96677191
+END=98418799
+title=Chapter 1 - Setting Traps
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=98418799
+END=99842925
+title=Chapter 2 - The Golden Dustman Rises a Little
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=99842925
+END=101355519
+title=Chapter 3 - The Golden Dustman Sinks Again
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=101355519
+END=102852045
+title=Chapter 4 - A Runaway Match
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=102852045
+END=105420636
+title=Chapter 5 - Concerning the Mendicant's Bride
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=105420636
+END=107523017
+title=Chapter 6 - A Cry for Help
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=107523017
+END=109210829
+title=Chapter 7 - Better to be Abel than Cain
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=109210829
+END=110854848
+title=Chapter 8 - A Few Grains of Pepper
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=110854848
+END=112548326
+title=Chapter 9 - Two Places Vacated
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=112548326
+END=113696460
+title=Chapter 10 - The Dolls' Dressmaker Discovers a Word
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=113696460
+END=115490759
+title=Chapter 11 - Effect is given to the Dolls' Dressmaker's Discovery
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=115490759
+END=117586267
+title=Chapter 12 - The Passing Shadow
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=117586267
+END=119145208
+title=Chapter 13 - Showing How the Golden Dustman Helped to Scatter Dust
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=119145208
+END=121102789
+title=Chapter 14 - Checkmate to the Friendly Move
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=121102789
+END=122872382
+title=Chapter 15 - What was Caught in the Traps That Were Set
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=122872382
+END=124601201
+title=Chapter 16 - Persons and Things in General
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=124601201
+END=125469195
+title=Chapter 17 - The Voice of Society
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=125469195
+END=125806919
+title=Chapter 18 - Postscript—In Lieu of Preface
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=125806919
+END=125867468
+title=End Credits 

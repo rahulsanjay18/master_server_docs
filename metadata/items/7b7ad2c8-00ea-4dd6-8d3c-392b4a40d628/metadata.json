@@ -1,0 +1,64 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4301.161333,
+      "title": "The Trial CD 1"
+    },
+    {
+      "id": 1,
+      "start": 4301.161333,
+      "end": 8588.947666,
+      "title": "The Trial CD 2"
+    },
+    {
+      "id": 2,
+      "start": 8588.947666,
+      "end": 12924.746666,
+      "title": "The Trial CD 3"
+    },
+    {
+      "id": 3,
+      "start": 12924.746666,
+      "end": 17248.007166,
+      "title": "The Trial CD 4"
+    },
+    {
+      "id": 4,
+      "start": 17248.007166,
+      "end": 21543.186166,
+      "title": "The Trial CD 5"
+    },
+    {
+      "id": 5,
+      "start": 21543.186166,
+      "end": 25852.052999,
+      "title": "The Trial CD 6"
+    },
+    {
+      "id": 6,
+      "start": 25852.052999,
+      "end": 28244.263666,
+      "title": "The Trial CD 7"
+    }
+  ],
+  "title": "The Trial CD 1",
+  "subtitle": null,
+  "authors": [
+    "Franz Kafka        01:11:33"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

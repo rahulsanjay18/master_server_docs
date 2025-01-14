@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Telling
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=The Telling
+genre=Audio Book
+date=2004
+comment=Read by Gabra Zackman
+description=Read by Gabra Zackman
+composer=192mb
+TRACKTOTAL=9

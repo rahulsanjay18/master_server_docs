@@ -1,0 +1,9 @@
+;FFMETADATA1
+title=The Dresden Files 08.0 - Proven Guilty
+artist=James Marsters
+album_artist=James Marsters
+album=The Dresden Files 08.0 - Proven Guilty
+genre=Audiobook
+composer=Jim Butcher
+TRACKTOTAL=181
+grouping=Jim Butcher - Dresden Files 22GB \#8

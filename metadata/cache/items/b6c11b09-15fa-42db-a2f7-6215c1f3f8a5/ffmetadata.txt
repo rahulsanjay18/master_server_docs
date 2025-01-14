@@ -1,0 +1,7 @@
+;FFMETADATA1
+title=Sense and Sensibility (read by Susannah Harker)
+artist=Jane Austen
+album_artist=Jane Austen
+album=Sense and Sensibility (read by Susannah Harker)
+date=1811
+TRACKTOTAL=50

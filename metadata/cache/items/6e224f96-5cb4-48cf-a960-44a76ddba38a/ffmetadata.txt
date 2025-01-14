@@ -1,0 +1,10 @@
+;FFMETADATA1
+title=The Yiddish Policemen's Union
+artist=Michael Chabon
+album_artist=Michael Chabon
+album=The Yiddish Policemen's Union
+genre=Mystery
+date=2007
+comment=Read by Peter Riegert
+description=Read by Peter Riegert
+TRACKTOTAL=209

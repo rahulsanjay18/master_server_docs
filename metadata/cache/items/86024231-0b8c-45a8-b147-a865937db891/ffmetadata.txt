@@ -1,0 +1,13 @@
+;FFMETADATA1
+title=The Will to Change
+artist=bell hooks
+album_artist=bell hooks
+album=The Will to Change: Men, Masculinity, and Love
+TIT3=Men, Masculinity, and Love
+date=2020
+comment=Everyone needs to love and be loved - even men. But to know love, men must be able to look at the ways that patriarchal culture keeps them from knowing themselves, from being in touch with their feelings, from loving. In The Will to Change, bell hooks gets to the heart of the matter and shows men how to express the emotions that are a fundamental part of who they are - whatever their age, marital status, ethnicity, or sexual orientation.
+description=Everyone needs to love and be loved - even men. But to know love, men must be able to look at the ways that patriarchal culture keeps them from knowing themselves, from being in touch with their feelings, from loving. In The Will to Change, bell hooks gets to the heart of the matter and shows men how to express the emotions that are a fundamental part of who they are - whatever their age, marital status, ethnicity, or sexual orientation.
+composer=Janina Edwards
+copyright=Simon & Schuster Audio
+publisher=Simon & Schuster Audio
+TRACKTOTAL=15

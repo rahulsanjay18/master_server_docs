@@ -1,0 +1,95 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 38.103,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 38.103,
+      "end": 52.453,
+      "title": "Epigraph"
+    },
+    {
+      "id": 2,
+      "start": 52.453,
+      "end": 337.757,
+      "title": "Prologue"
+    },
+    {
+      "id": 3,
+      "start": 337.757,
+      "end": 888.302,
+      "title": "Interlude: Get Your Guns"
+    },
+    {
+      "id": 4,
+      "start": 888.302,
+      "end": 7937.114,
+      "title": "Chapter 6: Over There"
+    },
+    {
+      "id": 5,
+      "start": 7937.114,
+      "end": 13283.834,
+      "title": "Chapter 7: Something to Die For"
+    },
+    {
+      "id": 6,
+      "start": 13283.834,
+      "end": 17111.783,
+      "title": "Chapter 8: Run Through the Battlefront"
+    },
+    {
+      "id": 7,
+      "start": 17111.783,
+      "end": 20849.081,
+      "title": "Chapter 8: Run Through the Battlefront"
+    },
+    {
+      "id": 8,
+      "start": 20849.081,
+      "end": 26443.906,
+      "title": "Chapter 9: Veni, Veni, Emmanuel"
+    },
+    {
+      "id": 9,
+      "start": 26443.906,
+      "end": 27913.427,
+      "title": "Epilogue: We’ll Meet Again"
+    },
+    {
+      "id": 10,
+      "start": 27913.427,
+      "end": 28052.097,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "86—EIGHTY-SIX, Vol. 03: Run Through the Battlefront (Finish)",
+  "subtitle": null,
+  "authors": [
+    "Suzie Yeung",
+    "Stephen Fu"
+  ],
+  "narrators": [
+    "Toru Asakura"
+  ],
+  "series": [
+    "86—EIGHTY-SIX #03"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "December 9, 2017 (01-10-23)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

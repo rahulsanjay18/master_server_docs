@@ -1,0 +1,1300 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 22.37,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 22.37,
+      "end": 38.688,
+      "title": "BEFORE THE BATTLE",
+      "id": 1
+    },
+    {
+      "start": 38.688,
+      "end": 1645.458,
+      "title": "The Times",
+      "id": 2
+    },
+    {
+      "start": 1645.458,
+      "end": 2616.749,
+      "title": "The Peacemaker",
+      "id": 3
+    },
+    {
+      "start": 2616.749,
+      "end": 5274.366,
+      "title": "The Best of Us",
+      "id": 4
+    },
+    {
+      "start": 5274.366,
+      "end": 7228,
+      "title": "Black Dow",
+      "id": 5
+    },
+    {
+      "start": 7228,
+      "end": 8374.741,
+      "title": "What War",
+      "id": 6
+    },
+    {
+      "start": 8374.741,
+      "end": 9433.292,
+      "title": "Old Hands",
+      "id": 7
+    },
+    {
+      "start": 9433.292,
+      "end": 10702.03,
+      "title": "New Hands",
+      "id": 8
+    },
+    {
+      "start": 10702.03,
+      "end": 12018.741,
+      "title": "Reachey",
+      "id": 9
+    },
+    {
+      "start": 12018.741,
+      "end": 14763.34,
+      "title": "The Right Thing",
+      "id": 10
+    },
+    {
+      "start": 14763.34,
+      "end": 14789.909,
+      "title": "DAY ONE",
+      "id": 11
+    },
+    {
+      "start": 14789.909,
+      "end": 15316.16,
+      "title": "Silence",
+      "id": 12
+    },
+    {
+      "start": 15316.16,
+      "end": 16452.591,
+      "title": "Ambition",
+      "id": 13
+    },
+    {
+      "start": 16452.591,
+      "end": 18503.981,
+      "title": "Give and Take",
+      "id": 14
+    },
+    {
+      "start": 18503.981,
+      "end": 19713.834,
+      "title": "The Very Model",
+      "id": 15
+    },
+    {
+      "start": 19713.834,
+      "end": 20548.684,
+      "title": "Scale",
+      "id": 16
+    },
+    {
+      "start": 20548.684,
+      "end": 20911.194,
+      "title": "Ours Not to Reason Why",
+      "id": 17
+    },
+    {
+      "start": 20911.194,
+      "end": 21812.314,
+      "title": "Cry Havoc and...",
+      "id": 18
+    },
+    {
+      "start": 21812.314,
+      "end": 22132.61,
+      "title": "Devoutly to be Wished",
+      "id": 19
+    },
+    {
+      "start": 22132.61,
+      "end": 25213.109,
+      "title": "Casualties",
+      "id": 20
+    },
+    {
+      "start": 25213.109,
+      "end": 25647.925,
+      "title": "The Better Part of Valour",
+      "id": 21
+    },
+    {
+      "start": 25647.925,
+      "end": 26485.33,
+      "title": "Paths of Glory",
+      "id": 22
+    },
+    {
+      "start": 26485.33,
+      "end": 27203.244,
+      "title": "The Days Work",
+      "id": 23
+    },
+    {
+      "start": 27203.244,
+      "end": 28130.046,
+      "title": "The Defeated",
+      "id": 24
+    },
+    {
+      "start": 28130.046,
+      "end": 29039.618,
+      "title": "Fair Treatment",
+      "id": 25
+    },
+    {
+      "start": 29039.618,
+      "end": 32313.771,
+      "title": "Tactics",
+      "id": 26
+    },
+    {
+      "start": 32313.771,
+      "end": 32899.053,
+      "title": "Rest and Recreation",
+      "id": 27
+    },
+    {
+      "start": 32899.053,
+      "end": 32930.122,
+      "title": "DAY TWO",
+      "id": 28
+    },
+    {
+      "start": 32930.122,
+      "end": 34870.566,
+      "title": "Dawn",
+      "id": 29
+    },
+    {
+      "start": 34870.566,
+      "end": 36140.698,
+      "title": "Opening Remarks",
+      "id": 30
+    },
+    {
+      "start": 36140.698,
+      "end": 38031.824,
+      "title": "The Infernal Contraptions",
+      "id": 31
+    },
+    {
+      "start": 38031.824,
+      "end": 39153.766,
+      "title": "Reasoned Debate",
+      "id": 32
+    },
+    {
+      "start": 39153.766,
+      "end": 41691.521,
+      "title": "Chains of Command",
+      "id": 33
+    },
+    {
+      "start": 41691.521,
+      "end": 43154.378,
+      "title": "Closing Arguments",
+      "id": 34
+    },
+    {
+      "start": 43154.378,
+      "end": 44024.569,
+      "title": "Straight Edge",
+      "id": 35
+    },
+    {
+      "start": 44024.569,
+      "end": 44731.617,
+      "title": "Escape",
+      "id": 36
+    },
+    {
+      "start": 44731.617,
+      "end": 46118.405,
+      "title": "The Bridge",
+      "id": 37
+    },
+    {
+      "start": 46118.405,
+      "end": 47002.528,
+      "title": "Strange Bedfellows",
+      "id": 38
+    },
+    {
+      "start": 47002.528,
+      "end": 47509.791,
+      "title": "Hearts and Minds",
+      "id": 39
+    },
+    {
+      "start": 47509.791,
+      "end": 48522.321,
+      "title": "Good Deeds",
+      "id": 40
+    },
+    {
+      "start": 48522.321,
+      "end": 49258.858,
+      "title": "One Day More",
+      "id": 41
+    },
+    {
+      "start": 49258.858,
+      "end": 51043.311,
+      "title": "Bones",
+      "id": 42
+    },
+    {
+      "start": 51043.311,
+      "end": 52065.454,
+      "title": "The King's Last Hero",
+      "id": 43
+    },
+    {
+      "start": 52065.454,
+      "end": 52696.061,
+      "title": "My Land",
+      "id": 44
+    },
+    {
+      "start": 52696.061,
+      "end": 52724.923,
+      "title": "DAY THREE",
+      "id": 45
+    },
+    {
+      "start": 52724.923,
+      "end": 53446.298,
+      "title": "The Standard Issue",
+      "id": 46
+    },
+    {
+      "start": 53446.298,
+      "end": 54301.582,
+      "title": "Shadows",
+      "id": 47
+    },
+    {
+      "start": 54301.582,
+      "end": 54936.044,
+      "title": "Under the Wing",
+      "id": 48
+    },
+    {
+      "start": 54936.044,
+      "end": 56423.886,
+      "title": "Names",
+      "id": 49
+    },
+    {
+      "start": 56423.886,
+      "end": 57454.201,
+      "title": "Still Yesterday",
+      "id": 50
+    },
+    {
+      "start": 57454.201,
+      "end": 59453.765,
+      "title": "For What We Are About to Receive",
+      "id": 51
+    },
+    {
+      "start": 59453.765,
+      "end": 60071.183,
+      "title": "The Riddle of the Ground",
+      "id": 52
+    },
+    {
+      "start": 60071.183,
+      "end": 63151.171,
+      "title": "Onwards and Upwards",
+      "id": 53
+    },
+    {
+      "start": 63151.171,
+      "end": 63524.501,
+      "title": "More Tricks",
+      "id": 54
+    },
+    {
+      "start": 63524.501,
+      "end": 64106.161,
+      "title": "The Tyranny of Distance",
+      "id": 55
+    },
+    {
+      "start": 64106.161,
+      "end": 65707.409,
+      "title": "Blood",
+      "id": 56
+    },
+    {
+      "start": 65707.409,
+      "end": 66077.953,
+      "title": "Pointed Metal",
+      "id": 57
+    },
+    {
+      "start": 66077.953,
+      "end": 67303.874,
+      "title": "Peace in Our Time",
+      "id": 58
+    },
+    {
+      "start": 67303.874,
+      "end": 68249.808,
+      "title": "The Moment of Truth",
+      "id": 59
+    },
+    {
+      "start": 68249.808,
+      "end": 69125.294,
+      "title": "Spoils",
+      "id": 60
+    },
+    {
+      "start": 69125.294,
+      "end": 70091.244,
+      "title": "Desperate Measures",
+      "id": 61
+    },
+    {
+      "start": 70091.244,
+      "end": 70753.245,
+      "title": "Stuff Happens",
+      "id": 62
+    },
+    {
+      "start": 70753.245,
+      "end": 70786.062,
+      "title": "AFTER THE BATTLE",
+      "id": 63
+    },
+    {
+      "start": 70786.062,
+      "end": 72085.606,
+      "title": "End of the Road",
+      "id": 64
+    },
+    {
+      "start": 72085.606,
+      "end": 74470.62,
+      "title": "By the Sword",
+      "id": 65
+    },
+    {
+      "start": 74470.62,
+      "end": 75552.438,
+      "title": "The Currents of History",
+      "id": 66
+    },
+    {
+      "start": 75552.438,
+      "end": 76748.544,
+      "title": "Terms",
+      "id": 67
+    },
+    {
+      "start": 76748.544,
+      "end": 77781.368,
+      "title": "Family",
+      "id": 68
+    },
+    {
+      "start": 77781.368,
+      "end": 78406.681,
+      "title": "New Hands",
+      "id": 69
+    },
+    {
+      "start": 78406.681,
+      "end": 78782.798,
+      "title": "Old Hands",
+      "id": 70
+    },
+    {
+      "start": 78782.798,
+      "end": 80642.159,
+      "title": "Everyone Serves",
+      "id": 71
+    },
+    {
+      "start": 80642.159,
+      "end": 81604.115,
+      "title": "Just Deserts",
+      "id": 72
+    },
+    {
+      "start": 81604.115,
+      "end": 82420.622,
+      "title": "Black Calder",
+      "id": 73
+    },
+    {
+      "start": 82420.622,
+      "end": 83050.62,
+      "title": "Retired",
+      "id": 74
+    },
+    {
+      "start": 83050.62,
+      "end": 83122.329252,
+      "title": "End Credits",
+      "id": 75
+    },
+    {
+      "start": 83122.329252,
+      "end": 83146.319252,
+      "title": "Opening Credits",
+      "id": 76
+    },
+    {
+      "start": 83146.319252,
+      "end": 86113.477252,
+      "title": "Prologue - Benna Murcatto Saves a Life",
+      "id": 77
+    },
+    {
+      "start": 86113.477252,
+      "end": 86300.81625199999,
+      "title": "PART I - Talins",
+      "id": 78
+    },
+    {
+      "start": 86300.81625199999,
+      "end": 86848.435252,
+      "title": "Chapter 01 - Land of Opportunity",
+      "id": 79
+    },
+    {
+      "start": 86848.435252,
+      "end": 89320.292252,
+      "title": "Chapter 02 - The Bone-Thief",
+      "id": 80
+    },
+    {
+      "start": 89320.292252,
+      "end": 91692.071252,
+      "title": "Chapter 03 - Fish Out of Water",
+      "id": 81
+    },
+    {
+      "start": 91692.071252,
+      "end": 92176.625252,
+      "title": "Chapter 04 - Six and One",
+      "id": 82
+    },
+    {
+      "start": 92176.625252,
+      "end": 93386.617252,
+      "title": "Chapter 05 - Bloody Instructions",
+      "id": 83
+    },
+    {
+      "start": 93386.617252,
+      "end": 93707.54725199999,
+      "title": "PART II - Westport",
+      "id": 84
+    },
+    {
+      "start": 93707.54725199999,
+      "end": 95211.194252,
+      "title": "Chapter 06 - Poison",
+      "id": 85
+    },
+    {
+      "start": 95211.194252,
+      "end": 96856.09625199999,
+      "title": "Chapter 07 - Science and Magic",
+      "id": 86
+    },
+    {
+      "start": 96856.09625199999,
+      "end": 97740.219252,
+      "title": "Chapter 08 - The Safest Place in the World",
+      "id": 87
+    },
+    {
+      "start": 97740.219252,
+      "end": 98653.46025199999,
+      "title": "Chapter 09 - Evil Friends",
+      "id": 88
+    },
+    {
+      "start": 98653.46025199999,
+      "end": 99029.391252,
+      "title": "Chapter 10 - Two Twos",
+      "id": 89
+    },
+    {
+      "start": 99029.391252,
+      "end": 101147.60825199999,
+      "title": "Chapter 11 - Plans and Accidents",
+      "id": 90
+    },
+    {
+      "start": 101147.60825199999,
+      "end": 102421.037252,
+      "title": "Chapter 12 - Repaid in Full",
+      "id": 91
+    },
+    {
+      "start": 102421.037252,
+      "end": 102894.13425199999,
+      "title": "PART III - Sipani",
+      "id": 92
+    },
+    {
+      "start": 102894.13425199999,
+      "end": 103727.902252,
+      "title": "Chapter 13 - Fogs and Whispers",
+      "id": 93
+    },
+    {
+      "start": 103727.902252,
+      "end": 104701.654252,
+      "title": "Chapter 14 - The Arts of Persuasion",
+      "id": 94
+    },
+    {
+      "start": 104701.654252,
+      "end": 105715.484252,
+      "title": "Chapter 15 - The Life of the Drinker",
+      "id": 95
+    },
+    {
+      "start": 105715.484252,
+      "end": 107314.68825199999,
+      "title": "Chapter 16 - Left Out",
+      "id": 96
+    },
+    {
+      "start": 107314.68825199999,
+      "end": 108473.225252,
+      "title": "Chapter 17 - A Few Bad Men",
+      "id": 97
+    },
+    {
+      "start": 108473.225252,
+      "end": 109789.84325199999,
+      "title": "Chapter 18 - The Peacemakers",
+      "id": 98
+    },
+    {
+      "start": 109789.84325199999,
+      "end": 111751.139252,
+      "title": "Chapter 19 - Cooking Up Trouble",
+      "id": 99
+    },
+    {
+      "start": 111751.139252,
+      "end": 114902.40025199999,
+      "title": "Chapter 20 - Sex and Death",
+      "id": 100
+    },
+    {
+      "start": 114902.40025199999,
+      "end": 115825.06325199999,
+      "title": "Chapter 21 - That’s Entertainment",
+      "id": 101
+    },
+    {
+      "start": 115825.06325199999,
+      "end": 116998.570252,
+      "title": "Chapter 22 - What Happened",
+      "id": 102
+    },
+    {
+      "start": 116998.570252,
+      "end": 117266.733252,
+      "title": "PART IV - VIsserine",
+      "id": 103
+    },
+    {
+      "start": 117266.733252,
+      "end": 118367.29425199999,
+      "title": "Chapter 23 - Vengeance, Then",
+      "id": 104
+    },
+    {
+      "start": 118367.29425199999,
+      "end": 120366.85725199999,
+      "title": "Chapter 24 - Downwards",
+      "id": 105
+    },
+    {
+      "start": 120366.85725199999,
+      "end": 121702.79425199999,
+      "title": "Chapter 25 - Rats in a Sack",
+      "id": 106
+    },
+    {
+      "start": 121702.79425199999,
+      "end": 122676.77825199999,
+      "title": "Chapter 26 - The Forlorn Hope",
+      "id": 107
+    },
+    {
+      "start": 122676.77825199999,
+      "end": 124070.393252,
+      "title": "Chapter 27 - Mercy and Cowardice",
+      "id": 108
+    },
+    {
+      "start": 124070.393252,
+      "end": 124793.695252,
+      "title": "Chapter 28 - The Odd Couple",
+      "id": 109
+    },
+    {
+      "start": 124793.695252,
+      "end": 126056.861252,
+      "title": "Chapter 29 - Darkness",
+      "id": 110
+    },
+    {
+      "start": 126056.861252,
+      "end": 127473.27825199999,
+      "title": "Chapter 30 - The Connoisseur",
+      "id": 111
+    },
+    {
+      "start": 127473.27825199999,
+      "end": 128023.266252,
+      "title": "Chapter 31 - Vile Jelly",
+      "id": 112
+    },
+    {
+      "start": 128023.266252,
+      "end": 129134.43325199999,
+      "title": "Chapter 32 - Other People’s Scores",
+      "id": 113
+    },
+    {
+      "start": 129134.43325199999,
+      "end": 133600.141252,
+      "title": "Chapter 33 - The Fencing Master",
+      "id": 114
+    },
+    {
+      "start": 133600.141252,
+      "end": 133929.089252,
+      "title": "PART V - Puranti",
+      "id": 115
+    },
+    {
+      "start": 133929.089252,
+      "end": 134460.209252,
+      "title": "Chapter 34 - Sixes",
+      "id": 116
+    },
+    {
+      "start": 134460.209252,
+      "end": 134890.103252,
+      "title": "Chapter 35 - The Eye-Maker",
+      "id": 117
+    },
+    {
+      "start": 134890.103252,
+      "end": 136216.055252,
+      "title": "Chapter 36 - Prince of Prudence",
+      "id": 118
+    },
+    {
+      "start": 136216.055252,
+      "end": 137253.662252,
+      "title": "Chapter 37 - Neither Rich nor Poor",
+      "id": 119
+    },
+    {
+      "start": 137253.662252,
+      "end": 138690.513252,
+      "title": "Chapter 38 - Heroic Efforts, New Beginnings",
+      "id": 120
+    },
+    {
+      "start": 138690.513252,
+      "end": 139652.701252,
+      "title": "Chapter 39 - The Traitor",
+      "id": 121
+    },
+    {
+      "start": 139652.701252,
+      "end": 141828.179252,
+      "title": "Chapter 40 - King of Poisons",
+      "id": 122
+    },
+    {
+      "start": 141828.179252,
+      "end": 143190.076252,
+      "title": "Chapter 41 - No Worse",
+      "id": 123
+    },
+    {
+      "start": 143190.076252,
+      "end": 144092.403252,
+      "title": "Chapter 42 - Harvest Time",
+      "id": 124
+    },
+    {
+      "start": 144092.403252,
+      "end": 145552.381252,
+      "title": "Chapter 43 - The Old New Captain General",
+      "id": 125
+    },
+    {
+      "start": 145552.381252,
+      "end": 145826.727252,
+      "title": "PART VI - Ospria",
+      "id": 126
+    },
+    {
+      "start": 145826.727252,
+      "end": 146853.163252,
+      "title": "Chapter 44 - His Plan of Attack",
+      "id": 127
+    },
+    {
+      "start": 146853.163252,
+      "end": 149116.31925200002,
+      "title": "Chapter 45 - Politics",
+      "id": 128
+    },
+    {
+      "start": 149116.31925200002,
+      "end": 151406.921252,
+      "title": "Chapter 46 - No More Delays",
+      "id": 129
+    },
+    {
+      "start": 151406.921252,
+      "end": 152816.883252,
+      "title": "Chapter 47 - All Business",
+      "id": 130
+    },
+    {
+      "start": 152816.883252,
+      "end": 155154.157252,
+      "title": "Chapter 48 - The Fate of Styria",
+      "id": 131
+    },
+    {
+      "start": 155154.157252,
+      "end": 156908.611252,
+      "title": "Chapter 49 - To the Victors...",
+      "id": 132
+    },
+    {
+      "start": 156908.611252,
+      "end": 158340.864252,
+      "title": "Chapter 50 - So Much for Nothing",
+      "id": 133
+    },
+    {
+      "start": 158340.864252,
+      "end": 159985.440252,
+      "title": "Chapter 51 - Shifting Sands",
+      "id": 134
+    },
+    {
+      "start": 159985.440252,
+      "end": 160387.914252,
+      "title": "PART VII - Talins",
+      "id": 135
+    },
+    {
+      "start": 160387.914252,
+      "end": 162757.764252,
+      "title": "Chapter 52 - Return of the Native",
+      "id": 136
+    },
+    {
+      "start": 162757.764252,
+      "end": 164443.161252,
+      "title": "Chapter 53 - The Lion’s Skin",
+      "id": 137
+    },
+    {
+      "start": 164443.161252,
+      "end": 165381.015252,
+      "title": "Chapter 54 - Preparation",
+      "id": 138
+    },
+    {
+      "start": 165381.015252,
+      "end": 166746.62725199998,
+      "title": "Chapter 55 - Rules of War",
+      "id": 139
+    },
+    {
+      "start": 166746.62725199998,
+      "end": 168097.889252,
+      "title": "Chapter 56 - One Nation",
+      "id": 140
+    },
+    {
+      "start": 168097.889252,
+      "end": 169093.83925199998,
+      "title": "Chapter 57 - All Dust",
+      "id": 141
+    },
+    {
+      "start": 169093.83925199998,
+      "end": 171474.62725199998,
+      "title": "Chapter 58 - The Inevitable",
+      "id": 142
+    },
+    {
+      "start": 171474.62725199998,
+      "end": 175296.21425199998,
+      "title": "Chapter 59 - Thus the Whirligig...",
+      "id": 143
+    },
+    {
+      "start": 175296.21425199998,
+      "end": 177355.778252,
+      "title": "Chapter 60 - Seeds",
+      "id": 144
+    },
+    {
+      "start": 177355.778252,
+      "end": 177902.097252,
+      "title": "Chapter 61 - All Change",
+      "id": 145
+    },
+    {
+      "start": 177902.097252,
+      "end": 178364.68325200002,
+      "title": "Epilogue - Happy Endings",
+      "id": 146
+    },
+    {
+      "start": 178364.68325200002,
+      "end": 178455.800454,
+      "title": "End Credits",
+      "id": 147
+    },
+    {
+      "start": 178455.800454,
+      "end": 178501.732454,
+      "title": "Opening Credits",
+      "id": 148
+    },
+    {
+      "start": 178501.732454,
+      "end": 178524.170454,
+      "title": "PART I - Trouble",
+      "id": 149
+    },
+    {
+      "start": 178524.170454,
+      "end": 180635.782454,
+      "title": "Chapter 01 - Some Kind of Coward",
+      "id": 150
+    },
+    {
+      "start": 180635.782454,
+      "end": 182892.274454,
+      "title": "Chapter 02 - The Easy Way",
+      "id": 151
+    },
+    {
+      "start": 182892.274454,
+      "end": 184216.69345400002,
+      "title": "Chapter 03 - Just Men",
+      "id": 152
+    },
+    {
+      "start": 184216.69345400002,
+      "end": 186804.67445400002,
+      "title": "Chapter 04 - The Best Man",
+      "id": 153
+    },
+    {
+      "start": 186804.67445400002,
+      "end": 189180.028454,
+      "title": "Chapter 05 - All Got a Past",
+      "id": 154
+    },
+    {
+      "start": 189180.028454,
+      "end": 189622.996454,
+      "title": "Chapter 06 - The Stolen",
+      "id": 155
+    },
+    {
+      "start": 189622.996454,
+      "end": 189660.621454,
+      "title": "PART II - Fellowship",
+      "id": 156
+    },
+    {
+      "start": 189660.621454,
+      "end": 192413.059454,
+      "title": "Chapter 07 - Conscience/Cock-Rot",
+      "id": 157
+    },
+    {
+      "start": 192413.059454,
+      "end": 193840.947454,
+      "title": "Chapter 08 - New Lives",
+      "id": 158
+    },
+    {
+      "start": 193840.947454,
+      "end": 195188.331454,
+      "title": "Chapter 09 - Rugged Outdoorsman",
+      "id": 159
+    },
+    {
+      "start": 195188.331454,
+      "end": 197619.901454,
+      "title": "Chapter 10 - Driftwood",
+      "id": 160
+    },
+    {
+      "start": 197619.901454,
+      "end": 198717.811454,
+      "title": "Chapter 11 - Reasons",
+      "id": 161
+    },
+    {
+      "start": 198717.811454,
+      "end": 199496.07445400002,
+      "title": "Chapter 12 - Oh God, the Dust",
+      "id": 162
+    },
+    {
+      "start": 199496.07445400002,
+      "end": 200602.923454,
+      "title": "Chapter 13 - Sweet's Crossing",
+      "id": 163
+    },
+    {
+      "start": 200602.923454,
+      "end": 202736.16345400002,
+      "title": "Chapter 14 - Dreams",
+      "id": 164
+    },
+    {
+      "start": 202736.16345400002,
+      "end": 204197.76645400003,
+      "title": "Chapter 15 - The Wrath of God",
+      "id": 165
+    },
+    {
+      "start": 204197.76645400003,
+      "end": 207723.833454,
+      "title": "Chapter 16 - The Pratical Thinkers",
+      "id": 166
+    },
+    {
+      "start": 207723.833454,
+      "end": 208423.752454,
+      "title": "Chapter 17 - The Fair Price",
+      "id": 167
+    },
+    {
+      "start": 208423.752454,
+      "end": 208472.146454,
+      "title": "PART III - Crease",
+      "id": 168
+    },
+    {
+      "start": 208472.146454,
+      "end": 210055.070454,
+      "title": "Chapter 18 - Hell on the Cheap",
+      "id": 169
+    },
+    {
+      "start": 210055.070454,
+      "end": 211538.894454,
+      "title": "Chapter 19 - Plots",
+      "id": 170
+    },
+    {
+      "start": 211538.894454,
+      "end": 213108.05245400002,
+      "title": "Chapter 20 - Words and Graces",
+      "id": 171
+    },
+    {
+      "start": 213108.05245400002,
+      "end": 213792.368454,
+      "title": "Chapter 21 - That Simple",
+      "id": 172
+    },
+    {
+      "start": 213792.368454,
+      "end": 214894.781454,
+      "title": "Chapter 22 - Yesterday's News",
+      "id": 173
+    },
+    {
+      "start": 214894.781454,
+      "end": 215739.45445400002,
+      "title": "Chapter 23 - Blood Coming",
+      "id": 174
+    },
+    {
+      "start": 215739.45445400002,
+      "end": 216645.26445400002,
+      "title": "Chapter 24 - The Sleeping Partner",
+      "id": 175
+    },
+    {
+      "start": 216645.26445400002,
+      "end": 219160.03245400003,
+      "title": "Chapter 25 - Fun",
+      "id": 176
+    },
+    {
+      "start": 219160.03245400003,
+      "end": 222811.393454,
+      "title": "Chapter 26 - High Stakes",
+      "id": 177
+    },
+    {
+      "start": 222811.393454,
+      "end": 224988.240454,
+      "title": "Chapter 27 - Old Friends",
+      "id": 178
+    },
+    {
+      "start": 224988.240454,
+      "end": 225548.491454,
+      "title": "Chapter 28 - Nowhere to Go",
+      "id": 179
+    },
+    {
+      "start": 225548.491454,
+      "end": 225585.32945400002,
+      "title": "PART IV - Dragons",
+      "id": 180
+    },
+    {
+      "start": 225585.32945400002,
+      "end": 226353.156454,
+      "title": "Chapter 29 - In Threes",
+      "id": 181
+    },
+    {
+      "start": 226353.156454,
+      "end": 227715.07645400002,
+      "title": "Chapter 30 - Among the Barbarians",
+      "id": 182
+    },
+    {
+      "start": 227715.07645400002,
+      "end": 229761.172454,
+      "title": "Chapter 31 - Bait",
+      "id": 183
+    },
+    {
+      "start": 229761.172454,
+      "end": 232361.319454,
+      "title": "Chapter 32 - Savages",
+      "id": 184
+    },
+    {
+      "start": 232361.319454,
+      "end": 235376.24445400003,
+      "title": "Chapter 33 - The Dragon's Den",
+      "id": 185
+    },
+    {
+      "start": 235376.24445400003,
+      "end": 236212.395454,
+      "title": "Chapter 34 - Greed",
+      "id": 186
+    },
+    {
+      "start": 236212.395454,
+      "end": 236252.445454,
+      "title": "PART V - Trouble",
+      "id": 187
+    },
+    {
+      "start": 236252.445454,
+      "end": 237928.32645400002,
+      "title": "Chapter 35 - The Tally",
+      "id": 188
+    },
+    {
+      "start": 237928.32645400002,
+      "end": 238833.78845400002,
+      "title": "Chapter 36 - Going Back",
+      "id": 189
+    },
+    {
+      "start": 238833.78845400002,
+      "end": 239442.709454,
+      "title": "Chapter 37 - Answered Prayers",
+      "id": 190
+    },
+    {
+      "start": 239442.709454,
+      "end": 242271.572454,
+      "title": "Chapter 38 - Sharp Ends",
+      "id": 191
+    },
+    {
+      "start": 242271.572454,
+      "end": 244522.88645400002,
+      "title": "Chapter 39 - Nowhere Fast",
+      "id": 192
+    },
+    {
+      "start": 244522.88645400002,
+      "end": 247024.16345400002,
+      "title": "Chapter 40 - Times Change",
+      "id": 193
+    },
+    {
+      "start": 247024.16345400002,
+      "end": 247868.719454,
+      "title": "Chapter 41 - The Cost",
+      "id": 194
+    },
+    {
+      "start": 247868.719454,
+      "end": 249066.637454,
+      "title": "Chapter 42 - Last Words",
+      "id": 195
+    },
+    {
+      "start": 249066.637454,
+      "end": 249956.06045400002,
+      "title": "Chapter 43 - Some Kind of Coward",
+      "id": 196
+    },
+    {
+      "start": 249956.06045400002,
+      "end": 250049.05070300002,
+      "title": "End Credits",
+      "id": 197
+    },
+    {
+      "start": 250049.05070300002,
+      "end": 252307.934703,
+      "title": "Chapter 1",
+      "id": 198
+    },
+    {
+      "start": 252307.934703,
+      "end": 255624.904703,
+      "title": "Chapter 2",
+      "id": 199
+    },
+    {
+      "start": 255624.904703,
+      "end": 258968.206703,
+      "title": "Chapter 3",
+      "id": 200
+    },
+    {
+      "start": 258968.206703,
+      "end": 260438.16970300002,
+      "title": "Chapter 4",
+      "id": 201
+    },
+    {
+      "start": 260438.16970300002,
+      "end": 262350.843703,
+      "title": "Chapter 5",
+      "id": 202
+    },
+    {
+      "start": 262350.843703,
+      "end": 265382.99770300003,
+      "title": "Chapter 6",
+      "id": 203
+    },
+    {
+      "start": 265382.99770300003,
+      "end": 267872.362703,
+      "title": "Chapter 7",
+      "id": 204
+    },
+    {
+      "start": 267872.362703,
+      "end": 270835.08970300003,
+      "title": "Chapter 8",
+      "id": 205
+    },
+    {
+      "start": 270835.08970300003,
+      "end": 274206.20870300004,
+      "title": "Chapter 9",
+      "id": 206
+    },
+    {
+      "start": 274206.20870300004,
+      "end": 280898.803703,
+      "title": "Chapter 10",
+      "id": 207
+    },
+    {
+      "start": 280898.803703,
+      "end": 282618.287703,
+      "title": "Chapter 11",
+      "id": 208
+    },
+    {
+      "start": 282618.287703,
+      "end": 287808.272703,
+      "title": "Chapter 12",
+      "id": 209
+    },
+    {
+      "start": 287808.272703,
+      "end": 291157.890703,
+      "title": "Chapter 13",
+      "id": 210
+    },
+    {
+      "start": 291157.890703,
+      "end": 292630.05070300004,
+      "title": "Chapter 14",
+      "id": 211
+    }
+  ],
+  "title": "02 The Heroes",
+  "subtitle": null,
+  "authors": [
+    "Joe Abercrombie"
+  ],
+  "narrators": [
+    "Steven Pacey"
+  ],
+  "series": [
+    "The First Law"
+  ],
+  "genres": [
+    "Grimdark Fantasy"
+  ],
+  "publishedYear": "2011-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "They say Black Dow's killed more men than winter, and clawed his way to the throne of the North up a hill of skulls. The King of the Union, ever a jealous neighbour, is not about to stand smiling by while he claws his way any higher. The orders have been given and the armies are toiling through the northern mud. Thousands of men are converging on a forgotten ring of stones, on a worthless hill, in an unimportant valley, and they've brought a lot of sharpened metal with them.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

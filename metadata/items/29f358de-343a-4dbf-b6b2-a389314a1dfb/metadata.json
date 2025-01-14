@@ -1,0 +1,86 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1927.053061,
+      "title": "01: Warriors in the Mist"
+    },
+    {
+      "id": 1,
+      "start": 1927.053061,
+      "end": 4185.260408,
+      "title": "02: The Shadow"
+    },
+    {
+      "id": 2,
+      "start": 4185.260408,
+      "end": 6823.4971430000005,
+      "title": "03: The School for Wizards"
+    },
+    {
+      "id": 3,
+      "start": 6823.4971430000005,
+      "end": 10065.893878,
+      "title": "04: The Loosing of the Shadow"
+    },
+    {
+      "id": 4,
+      "start": 10065.893878,
+      "end": 12683.676735000001,
+      "title": "05: The Dragon of Pendor"
+    },
+    {
+      "id": 5,
+      "start": 12683.676735000001,
+      "end": 14754.455511,
+      "title": "06: Hunted"
+    },
+    {
+      "id": 6,
+      "start": 14754.455511,
+      "end": 17914.279184,
+      "title": "07: The Hawk's Flight"
+    },
+    {
+      "id": 7,
+      "start": 17914.279184,
+      "end": 20599.510204,
+      "title": "08: Hunting"
+    },
+    {
+      "id": 8,
+      "start": 20599.510204,
+      "end": 22719.973876999997,
+      "title": "09: Iffish"
+    },
+    {
+      "id": 9,
+      "start": 22719.973876999997,
+      "end": 25206.674284999997,
+      "title": "10: The Open Sea"
+    }
+  ],
+  "title": "A Wizard of Earthsea",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "194mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1968",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Kobna Holdbrook-Smith",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Unreal and the Real: The Selected Short Stories of Ursula K. Le Guin
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=The Unreal and the Real: The Selected Short Stories of Ursula K. Le Guin
+genre=Audio Book
+date=2012
+comment=Read by Mary Kane
+description=Read by Mary Kane
+composer=667mb
+TRACKTOTAL=43

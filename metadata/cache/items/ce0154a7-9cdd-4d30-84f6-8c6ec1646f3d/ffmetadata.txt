@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Steering the Craft
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Steering the Craft
+genre=Audio Book
+date=1998
+comment=Read by Jill Ferris
+description=Read by Jill Ferris
+composer=147mb
+TRACKTOTAL=12

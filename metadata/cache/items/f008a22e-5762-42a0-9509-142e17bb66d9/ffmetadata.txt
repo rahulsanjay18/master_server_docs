@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Voices
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=Voices
+genre=Audio Book
+date=2006
+comment=Read by Melanie Martinez
+description=Read by Melanie Martinez
+composer=205mb
+TRACKTOTAL=16

@@ -1,0 +1,104 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 158.354286,
+      "title": "00: Prologue"
+    },
+    {
+      "id": 1,
+      "start": 158.354286,
+      "end": 910.942041,
+      "title": "01: The Eaten One"
+    },
+    {
+      "id": 2,
+      "start": 910.942041,
+      "end": 3001.5477549999996,
+      "title": "02: The Wall Around the Place"
+    },
+    {
+      "id": 3,
+      "start": 3001.5477549999996,
+      "end": 4923.898775,
+      "title": "03: The Prisoners"
+    },
+    {
+      "id": 4,
+      "start": 4923.898775,
+      "end": 7317.237551,
+      "title": "04: Dreams and Tales"
+    },
+    {
+      "id": 5,
+      "start": 7317.237551,
+      "end": 9265.240816,
+      "title": "05: Light Under the Hill"
+    },
+    {
+      "id": 6,
+      "start": 9265.240816,
+      "end": 11580.316734,
+      "title": "06: The Man Trap"
+    },
+    {
+      "id": 7,
+      "start": 11580.316734,
+      "end": 13515.781224,
+      "title": "07: The Great Treasure"
+    },
+    {
+      "id": 8,
+      "start": 13515.781224,
+      "end": 14527.268571,
+      "title": "08: Names"
+    },
+    {
+      "id": 9,
+      "start": 14527.268571,
+      "end": 16481.488979,
+      "title": "09: The Ring of Erreth-Akbe"
+    },
+    {
+      "id": 10,
+      "start": 16481.488979,
+      "end": 17845.472652,
+      "title": "10: The Anger of the Dark"
+    },
+    {
+      "id": 11,
+      "start": 17845.472652,
+      "end": 19599.621223000002,
+      "title": "11: The Western Mountains"
+    },
+    {
+      "id": 12,
+      "start": 19599.621223000002,
+      "end": 21299.774692000003,
+      "title": "12: Voyage"
+    }
+  ],
+  "title": "The Tombs of Atuan",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "327mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1971",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Gabrielle de Cuir & Ursula K. Le Guin",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

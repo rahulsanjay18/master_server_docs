@@ -1,0 +1,72 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 744.85551,
+      "title": "01 - Neil Gaiman - Harper Audio Presents- Fragile Things"
+    },
+    {
+      "id": 1,
+      "start": 744.85551,
+      "end": 1238.72653,
+      "title": "02 - Neil Gaiman - The Mapmaker"
+    },
+    {
+      "id": 2,
+      "start": 1238.72653,
+      "end": 1825.0710199999999,
+      "title": "03 - Neil Gaiman - Locks"
+    },
+    {
+      "id": 3,
+      "start": 1825.0710199999999,
+      "end": 2218.2922439999998,
+      "title": "04 - Neil Gaiman - Sunbird"
+    },
+    {
+      "id": 4,
+      "start": 2218.2922439999998,
+      "end": 2847.0334679999996,
+      "title": "05 - Neil Gaiman - A Study in Emerald"
+    },
+    {
+      "id": 5,
+      "start": 2847.0334679999996,
+      "end": 3342.6024479999996,
+      "title": "06 - Neil Gaiman - Two- The Room"
+    },
+    {
+      "id": 6,
+      "start": 3342.6024479999996,
+      "end": 3611.6636719999997,
+      "title": "07 - Neil Gaiman - Three- The Palace"
+    },
+    {
+      "id": 7,
+      "start": 3611.6636719999997,
+      "end": 4420.780406999999,
+      "title": "08 - Neil Gaiman - Four- The Performance"
+    }
+  ],
+  "title": "Fragile Things - Disc 1",
+  "subtitle": null,
+  "authors": [
+    "Neil Gaiman"
+  ],
+  "narrators": [],
+  "series": [
+    "2006 - Fragile Things"
+  ],
+  "genres": [],
+  "publishedYear": "2006-01-01",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

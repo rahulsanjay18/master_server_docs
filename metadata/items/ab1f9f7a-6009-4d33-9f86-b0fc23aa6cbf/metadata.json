@@ -1,0 +1,310 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 68.997438,
+      "title": "Grave Peril 01"
+    },
+    {
+      "id": 1,
+      "start": 68.997438,
+      "end": 82.171194,
+      "title": "Grave Peril 02"
+    },
+    {
+      "id": 2,
+      "start": 82.171194,
+      "end": 706.949883,
+      "title": "Grave Peril 03"
+    },
+    {
+      "id": 3,
+      "start": 706.949883,
+      "end": 2036.198761,
+      "title": "Grave Peril 04"
+    },
+    {
+      "id": 4,
+      "start": 2036.198761,
+      "end": 2696.112139,
+      "title": "Grave Peril 05"
+    },
+    {
+      "id": 5,
+      "start": 2696.112139,
+      "end": 3752.590395,
+      "title": "Grave Peril 06"
+    },
+    {
+      "id": 6,
+      "start": 3752.590395,
+      "end": 4707.156926000001,
+      "title": "Grave Peril 07"
+    },
+    {
+      "id": 7,
+      "start": 4707.156926000001,
+      "end": 5368.428682000001,
+      "title": "Grave Peril 08"
+    },
+    {
+      "id": 8,
+      "start": 5368.428682000001,
+      "end": 6406.5689950000005,
+      "title": "Grave Peril 09"
+    },
+    {
+      "id": 9,
+      "start": 6406.5689950000005,
+      "end": 7537.861933,
+      "title": "Grave Peril 10"
+    },
+    {
+      "id": 10,
+      "start": 7537.861933,
+      "end": 8996.155746,
+      "title": "Grave Peril 11"
+    },
+    {
+      "id": 11,
+      "start": 8996.155746,
+      "end": 9405.502559,
+      "title": "Grave Peril 12"
+    },
+    {
+      "id": 12,
+      "start": 9405.502559,
+      "end": 9851.081184,
+      "title": "Grave Peril 13"
+    },
+    {
+      "id": 13,
+      "start": 9851.081184,
+      "end": 10408.072062000001,
+      "title": "Grave Peril 14"
+    },
+    {
+      "id": 14,
+      "start": 10408.072062000001,
+      "end": 11166.44094,
+      "title": "Grave Peril 15"
+    },
+    {
+      "id": 15,
+      "start": 11166.44094,
+      "end": 12230.703696,
+      "title": "Grave Peril 16"
+    },
+    {
+      "id": 16,
+      "start": 12230.703696,
+      "end": 13157.901952,
+      "title": "Grave Peril 17"
+    },
+    {
+      "id": 17,
+      "start": 13157.901952,
+      "end": 13638.719765,
+      "title": "Grave Peril 18"
+    },
+    {
+      "id": 18,
+      "start": 13638.719765,
+      "end": 14130.822521,
+      "title": "Grave Peril 19"
+    },
+    {
+      "id": 19,
+      "start": 14130.822521,
+      "end": 14900.450146,
+      "title": "Grave Peril 20"
+    },
+    {
+      "id": 20,
+      "start": 14900.450146,
+      "end": 16094.567583999999,
+      "title": "Grave Peril 21"
+    },
+    {
+      "id": 21,
+      "start": 16094.567583999999,
+      "end": 16955.832773,
+      "title": "Grave Peril 22"
+    },
+    {
+      "id": 22,
+      "start": 16955.832773,
+      "end": 18044.023710999998,
+      "title": "Grave Peril 23"
+    },
+    {
+      "id": 23,
+      "start": 18044.023710999998,
+      "end": 18705.217088999998,
+      "title": "Grave Peril 24"
+    },
+    {
+      "id": 24,
+      "start": 18705.217088999998,
+      "end": 20702.443155999998,
+      "title": "Grave Peril 25"
+    },
+    {
+      "id": 25,
+      "start": 20702.443155999998,
+      "end": 22087.567968999996,
+      "title": "Grave Peril 26"
+    },
+    {
+      "id": 26,
+      "start": 22087.567968999996,
+      "end": 23282.051157999995,
+      "title": "Grave Peril 27"
+    },
+    {
+      "id": 27,
+      "start": 23282.051157999995,
+      "end": 24378.757970999995,
+      "title": "Grave Peril 28"
+    },
+    {
+      "id": 28,
+      "start": 24378.757970999995,
+      "end": 25361.335848999996,
+      "title": "Grave Peril 29"
+    },
+    {
+      "id": 29,
+      "start": 25361.335848999996,
+      "end": 26458.251661999995,
+      "title": "Grave Peril 30"
+    },
+    {
+      "id": 30,
+      "start": 26458.251661999995,
+      "end": 27443.258917999996,
+      "title": "Grave Peril 31"
+    },
+    {
+      "id": 31,
+      "start": 27443.258917999996,
+      "end": 28015.479230999998,
+      "title": "Grave Peril 32"
+    },
+    {
+      "id": 32,
+      "start": 28015.479230999998,
+      "end": 28718.468487,
+      "title": "Grave Peril 33"
+    },
+    {
+      "id": 33,
+      "start": 28718.468487,
+      "end": 30817.389242999998,
+      "title": "Grave Peril 34"
+    },
+    {
+      "id": 34,
+      "start": 30817.389242999998,
+      "end": 32308.597309999997,
+      "title": "Grave Peril 35"
+    },
+    {
+      "id": 35,
+      "start": 32308.597309999997,
+      "end": 32803.547376999995,
+      "title": "Grave Peril 36"
+    },
+    {
+      "id": 36,
+      "start": 32803.547376999995,
+      "end": 33806.761944,
+      "title": "Grave Peril 37"
+    },
+    {
+      "id": 37,
+      "start": 33806.761944,
+      "end": 35609.532511,
+      "title": "Grave Peril 38"
+    },
+    {
+      "id": 38,
+      "start": 35609.532511,
+      "end": 37067.3822,
+      "title": "Grave Peril 39"
+    },
+    {
+      "id": 39,
+      "start": 37067.3822,
+      "end": 37529.757578,
+      "title": "Grave Peril 40"
+    },
+    {
+      "id": 40,
+      "start": 37529.757578,
+      "end": 38416.178703,
+      "title": "Grave Peril 41"
+    },
+    {
+      "id": 41,
+      "start": 38416.178703,
+      "end": 39295.703515999994,
+      "title": "Grave Peril 42"
+    },
+    {
+      "id": 42,
+      "start": 39295.703515999994,
+      "end": 40179.564641,
+      "title": "Grave Peril 43"
+    },
+    {
+      "id": 43,
+      "start": 40179.564641,
+      "end": 40976.124519,
+      "title": "Grave Peril 44"
+    },
+    {
+      "id": 44,
+      "start": 40976.124519,
+      "end": 42191.375019,
+      "title": "Grave Peril 45"
+    },
+    {
+      "id": 45,
+      "start": 42191.375019,
+      "end": 42914.112897,
+      "title": "Grave Peril 46"
+    },
+    {
+      "id": 46,
+      "start": 42914.112897,
+      "end": 42941.575653,
+      "title": "Grave Peril 47"
+    }
+  ],
+  "title": "The Dresden Files 03.0 - Grave Peril",
+  "subtitle": null,
+  "authors": [
+    "James Marsters"
+  ],
+  "narrators": [
+    "Jim Butcher"
+  ],
+  "series": [
+    "Jim Butcher - Dresden Files 22GB #3"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Narrated By : James Marsters",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

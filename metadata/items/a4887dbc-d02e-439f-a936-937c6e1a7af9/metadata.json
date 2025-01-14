@@ -1,0 +1,626 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 684.930612,
+      "title": "00: Intro"
+    },
+    {
+      "id": 1,
+      "start": 684.930612,
+      "end": 933.616326,
+      "title": "Heron Dance"
+    },
+    {
+      "id": 2,
+      "start": 933.616326,
+      "end": 1039.986938,
+      "title": "01: A First Note"
+    },
+    {
+      "id": 3,
+      "start": 1039.986938,
+      "end": 1100.773877,
+      "title": "Twilight Song"
+    },
+    {
+      "id": 4,
+      "start": 1100.773877,
+      "end": 1124.4930610000001,
+      "title": "02: The Quail Song"
+    },
+    {
+      "id": 5,
+      "start": 1124.4930610000001,
+      "end": 1280.522449,
+      "title": "Yes-Singing"
+    },
+    {
+      "id": 6,
+      "start": 1280.522449,
+      "end": 1643.807347,
+      "title": "03: Towards an Archaeology of the Future"
+    },
+    {
+      "id": 7,
+      "start": 1643.807347,
+      "end": 1966.471837,
+      "title": "Dragonfly Song"
+    },
+    {
+      "id": 8,
+      "start": 1966.471837,
+      "end": 8166.50449,
+      "title": "04: Stone Telling: Part One"
+    },
+    {
+      "id": 9,
+      "start": 8166.50449,
+      "end": 8303.595102000001,
+      "title": "A Homesick Song"
+    },
+    {
+      "id": 10,
+      "start": 8303.595102000001,
+      "end": 9400.555102000002,
+      "title": "05: The Serpentine Codex"
+    },
+    {
+      "id": 11,
+      "start": 9400.555102000002,
+      "end": 9500.656326000002,
+      "title": "The Willows"
+    },
+    {
+      "id": 12,
+      "start": 9500.656326000002,
+      "end": 9915.010612000002,
+      "title": "06: Where It Is"
+    },
+    {
+      "id": 13,
+      "start": 9915.010612000002,
+      "end": 10164.741224000001,
+      "title": "Lullaby-Lahela"
+    },
+    {
+      "id": 14,
+      "start": 10164.741224000001,
+      "end": 10234.514285000001,
+      "title": "07: Pandora Worries About What She Is Doing: The Pattern"
+    },
+    {
+      "id": 15,
+      "start": 10234.514285000001,
+      "end": 10583.248979000002,
+      "title": "Long Singing"
+    },
+    {
+      "id": 16,
+      "start": 10583.248979000002,
+      "end": 10994.207346000001,
+      "title": "08: Some Stories Told Aloud One Evening in the Dry Season at a Summer Place Above Sinshan"
+    },
+    {
+      "id": 17,
+      "start": 10994.207346000001,
+      "end": 11124.871836,
+      "title": "The Quail Song"
+    },
+    {
+      "id": 18,
+      "start": 11124.871836,
+      "end": 11429.015509,
+      "title": "09: Shahugoten"
+    },
+    {
+      "id": 19,
+      "start": 11429.015509,
+      "end": 11484.91755,
+      "title": "A Teaching Poem"
+    },
+    {
+      "id": 20,
+      "start": 11484.91755,
+      "end": 11910.556734,
+      "title": "10: The Keeper"
+    },
+    {
+      "id": 21,
+      "start": 11910.556734,
+      "end": 12104.620407,
+      "title": "A River Song"
+    },
+    {
+      "id": 22,
+      "start": 12104.620407,
+      "end": 12364.146938,
+      "title": "11: Dried Mice"
+    },
+    {
+      "id": 23,
+      "start": 12364.146938,
+      "end": 12477.753469,
+      "title": "Sundance Poem"
+    },
+    {
+      "id": 24,
+      "start": 12477.753469,
+      "end": 13114.488163,
+      "title": "12: Dira"
+    },
+    {
+      "id": 25,
+      "start": 13114.488163,
+      "end": 13457.345306,
+      "title": "A Music of the Eighth House"
+    },
+    {
+      "id": 26,
+      "start": 13457.345306,
+      "end": 14345.221223999999,
+      "title": "13: Poems: First Section"
+    },
+    {
+      "id": 27,
+      "start": 14345.221223999999,
+      "end": 15896.764081,
+      "title": "14: How to Die in the Valley"
+    },
+    {
+      "id": 28,
+      "start": 15896.764081,
+      "end": 15956.610611999999,
+      "title": "15: Pandora Sitting by the Creek"
+    },
+    {
+      "id": 29,
+      "start": 15956.610611999999,
+      "end": 16048.770611999998,
+      "title": "16: Four Romantic Tales"
+    },
+    {
+      "id": 30,
+      "start": 16048.770611999998,
+      "end": 16235.702856999998,
+      "title": "17: The Miller"
+    },
+    {
+      "id": 31,
+      "start": 16235.702856999998,
+      "end": 16912.117551,
+      "title": "18: Lost"
+    },
+    {
+      "id": 32,
+      "start": 16912.117551,
+      "end": 17421.583673,
+      "title": "19: The Brave Man"
+    },
+    {
+      "id": 33,
+      "start": 17421.583673,
+      "end": 18173.33551,
+      "title": "20: At the Springs of Orlu"
+    },
+    {
+      "id": 34,
+      "start": 18173.33551,
+      "end": 18811.010612000002,
+      "title": "21: Poems: Second Section"
+    },
+    {
+      "id": 35,
+      "start": 18811.010612000002,
+      "end": 19826.285714,
+      "title": "22: Old Women Hating"
+    },
+    {
+      "id": 36,
+      "start": 19826.285714,
+      "end": 20693.211428000002,
+      "title": "23: A War With the Pig People"
+    },
+    {
+      "id": 37,
+      "start": 20693.211428000002,
+      "end": 20908.826122000002,
+      "title": "24: The Town of Chumo"
+    },
+    {
+      "id": 38,
+      "start": 20908.826122000002,
+      "end": 22586.540408,
+      "title": "25: The Trouble With the Cotton People"
+    },
+    {
+      "id": 39,
+      "start": 22586.540408,
+      "end": 22769.554286000002,
+      "title": "26: Pandora Worrying About What She Is Doing: She Addresses the Reader with Agitation"
+    },
+    {
+      "id": 40,
+      "start": 22769.554286000002,
+      "end": 23557.172245,
+      "title": "27: The City"
+    },
+    {
+      "id": 41,
+      "start": 23557.172245,
+      "end": 24105.195102,
+      "title": "28: A Hole In the Air"
+    },
+    {
+      "id": 42,
+      "start": 24105.195102,
+      "end": 24511.216326,
+      "title": "29: Big Man and Little Man"
+    },
+    {
+      "id": 43,
+      "start": 24511.216326,
+      "end": 24913.580408,
+      "title": "30: Beginnings"
+    },
+    {
+      "id": 44,
+      "start": 24913.580408,
+      "end": 26777.730612000003,
+      "title": "31: Time In the Valley"
+    },
+    {
+      "id": 45,
+      "start": 26777.730612000003,
+      "end": 31679.921632000005,
+      "title": "32: Stone Telling: Part Two"
+    },
+    {
+      "id": 46,
+      "start": 31679.921632000005,
+      "end": 31789.244081000004,
+      "title": "33: Dramatic Works"
+    },
+    {
+      "id": 47,
+      "start": 31789.244081000004,
+      "end": 32706.429387000004,
+      "title": "34: The Wedding Night At Chukulmas"
+    },
+    {
+      "id": 48,
+      "start": 32706.429387000004,
+      "end": 33195.572244,
+      "title": "35: The Shouting Man, the Red Woman, and the Bears"
+    },
+    {
+      "id": 49,
+      "start": 33195.572244,
+      "end": 33528.973060000004,
+      "title": "36: Tabetupah"
+    },
+    {
+      "id": 50,
+      "start": 33528.973060000004,
+      "end": 34112.130611,
+      "title": "37: The Plumed Water"
+    },
+    {
+      "id": 51,
+      "start": 34112.130611,
+      "end": 35736.973060000004,
+      "title": "38: Chandi"
+    },
+    {
+      "id": 52,
+      "start": 35736.973060000004,
+      "end": 36045.609795000004,
+      "title": "39: Pandora, Worrying About What She Is Doing, Finds a Way into the Valley through the Scrub Oak"
+    },
+    {
+      "id": 53,
+      "start": 36045.609795000004,
+      "end": 37271.22285600001,
+      "title": "40: Dancing the Moon"
+    },
+    {
+      "id": 54,
+      "start": 37271.22285600001,
+      "end": 38047.503672000006,
+      "title": "41: Poems: Third Section"
+    },
+    {
+      "id": 55,
+      "start": 38047.503672000006,
+      "end": 38295.48408000001,
+      "title": "42: Eight life stories"
+    },
+    {
+      "id": 56,
+      "start": 38295.48408000001,
+      "end": 38450.31183500001,
+      "title": "43: The Train"
+    },
+    {
+      "id": 57,
+      "start": 38450.31183500001,
+      "end": 38626.06367200001,
+      "title": "44: She Listens"
+    },
+    {
+      "id": 58,
+      "start": 38626.06367200001,
+      "end": 39202.50775400001,
+      "title": "45: Junco"
+    },
+    {
+      "id": 59,
+      "start": 39202.50775400001,
+      "end": 39467.78122300001,
+      "title": "46: The Bright Void of the Wind"
+    },
+    {
+      "id": 60,
+      "start": 39467.78122300001,
+      "end": 39889.632652000015,
+      "title": "47: White Tree"
+    },
+    {
+      "id": 61,
+      "start": 39889.632652000015,
+      "end": 40253.544489000014,
+      "title": "48: The Third Child's Story"
+    },
+    {
+      "id": 62,
+      "start": 40253.544489000014,
+      "end": 40428.61714200002,
+      "title": "49: The Dog at the Door"
+    },
+    {
+      "id": 63,
+      "start": 40428.61714200002,
+      "end": 44092.83918300002,
+      "title": "50: The Visionary: The Life Story of Flicker of the Serpentine of Telina-Na"
+    },
+    {
+      "id": 64,
+      "start": 44092.83918300002,
+      "end": 44901.56408100002,
+      "title": "51: Some Brief Valley Texts"
+    },
+    {
+      "id": 65,
+      "start": 44901.56408100002,
+      "end": 45627.37632600002,
+      "title": "52: Pandora Converses with the Archivist of the Library of the Madrone Lodge at Wakwaha-na"
+    },
+    {
+      "id": 66,
+      "start": 45627.37632600002,
+      "end": 45803.57224400002,
+      "title": "53: Dangerous People"
+    },
+    {
+      "id": 67,
+      "start": 45803.57224400002,
+      "end": 48993.95918300001,
+      "title": "54: Dangerous People: Chapter Two"
+    },
+    {
+      "id": 68,
+      "start": 48993.95918300001,
+      "end": 49055.68653000001,
+      "title": "55: Pandora Gently to the Gentle Reader"
+    },
+    {
+      "id": 69,
+      "start": 49055.68653000001,
+      "end": 55096.47673400001,
+      "title": "56: Stone Telling: Part Three"
+    },
+    {
+      "id": 70,
+      "start": 55096.47673400001,
+      "end": 55803.95102000001,
+      "title": "57: Messages Concerning the Condor"
+    },
+    {
+      "id": 71,
+      "start": 55803.95102000001,
+      "end": 56577.097142000006,
+      "title": "58: About a Meeting Concerning the Warriors"
+    },
+    {
+      "id": 72,
+      "start": 56577.097142000006,
+      "end": 57966.18448900001,
+      "title": "59: Poems: Fourth Section"
+    },
+    {
+      "id": 73,
+      "start": 57966.18448900001,
+      "end": 58049.80244800001,
+      "title": "60: The Back of the Book"
+    },
+    {
+      "id": 74,
+      "start": 58049.80244800001,
+      "end": 58764.72163200001,
+      "title": "61: Long Names of Houses"
+    },
+    {
+      "id": 75,
+      "start": 58764.72163200001,
+      "end": 60287.242448000005,
+      "title": "62: Some of the Other People of the Valley"
+    },
+    {
+      "id": 76,
+      "start": 60287.242448000005,
+      "end": 61244.525713,
+      "title": "63: Kinfolk"
+    },
+    {
+      "id": 77,
+      "start": 61244.525713,
+      "end": 61703.601631000005,
+      "title": "64: Lodges, Societies, Arts"
+    },
+    {
+      "id": 78,
+      "start": 61703.601631000005,
+      "end": 62136.45061100001,
+      "title": "65: What They Wore in the Valley"
+    },
+    {
+      "id": 79,
+      "start": 62136.45061100001,
+      "end": 63087.85632500001,
+      "title": "66: What They Ate"
+    },
+    {
+      "id": 80,
+      "start": 63087.85632500001,
+      "end": 63487.11183500001,
+      "title": "67: Kesh Musical Instruments"
+    },
+    {
+      "id": 81,
+      "start": 63487.11183500001,
+      "end": 63754.91918200001,
+      "title": "68: Maps"
+    },
+    {
+      "id": 82,
+      "start": 63754.91918200001,
+      "end": 64905.090611000014,
+      "title": "69: The World Dance"
+    },
+    {
+      "id": 83,
+      "start": 64905.090611000014,
+      "end": 66096.69224400002,
+      "title": "70: The Sun Dance"
+    },
+    {
+      "id": 84,
+      "start": 66096.69224400002,
+      "end": 66393.07755000002,
+      "title": "71: About the Train"
+    },
+    {
+      "id": 85,
+      "start": 66393.07755000002,
+      "end": 67509.89061100001,
+      "title": "72: Some Notes on Medical Practices"
+    },
+    {
+      "id": 86,
+      "start": 67509.89061100001,
+      "end": 67724.17306000002,
+      "title": "73: A Treatise on Practices"
+    },
+    {
+      "id": 87,
+      "start": 67724.17306000002,
+      "end": 68197.32897800002,
+      "title": "74: Playing"
+    },
+    {
+      "id": 88,
+      "start": 68197.32897800002,
+      "end": 68530.05061100001,
+      "title": "75: Some Generative Metaphors"
+    },
+    {
+      "id": 89,
+      "start": 68530.05061100001,
+      "end": 68659.77469300001,
+      "title": "76: Three Poems by Pandora, Written Sideways from the Valley to the City of Man"
+    },
+    {
+      "id": 90,
+      "start": 68659.77469300001,
+      "end": 69453.27020300001,
+      "title": "77: Living on the Coast, Energy, and Dancing"
+    },
+    {
+      "id": 91,
+      "start": 69453.27020300001,
+      "end": 69586.337958,
+      "title": "78: Love"
+    },
+    {
+      "id": 92,
+      "start": 69586.337958,
+      "end": 70274.14204,
+      "title": "79: Written Kesh"
+    },
+    {
+      "id": 93,
+      "start": 70274.14204,
+      "end": 70427.141224,
+      "title": "80: The Modes of Earth and Sky"
+    },
+    {
+      "id": 94,
+      "start": 70427.141224,
+      "end": 70606.13224400001,
+      "title": "81: A Note and a Chart Concerning Narrative Modes"
+    },
+    {
+      "id": 95,
+      "start": 70606.13224400001,
+      "end": 71362.089795,
+      "title": "82: Spoken and Written Literature"
+    },
+    {
+      "id": 96,
+      "start": 71362.089795,
+      "end": 71528.59428500001,
+      "title": "83: Pandora No Longer Worrying"
+    },
+    {
+      "id": 97,
+      "start": 71528.59428500001,
+      "end": 75716.38857100002,
+      "title": "84: Glossary"
+    },
+    {
+      "id": 98,
+      "start": 75716.38857100002,
+      "end": 75780.02285700002,
+      "title": "85: Stammersong"
+    },
+    {
+      "id": 99,
+      "start": 75780.02285700002,
+      "end": 75919.17714300002,
+      "title": "86: End"
+    }
+  ],
+  "title": "Always Coming Home",
+  "subtitle": null,
+  "authors": [
+    "Ursula K. Le Guin"
+  ],
+  "narrators": [
+    "593mb"
+  ],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": "1985",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Suzanne Toren",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

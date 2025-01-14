@@ -1,0 +1,288 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 36.577982,
+      "title": "Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 36.577982,
+      "end": 738.950975,
+      "title": "Introduction"
+    },
+    {
+      "id": 2,
+      "start": 738.950975,
+      "end": 744.199955,
+      "title": "Book The First: Sowing"
+    },
+    {
+      "id": 3,
+      "start": 744.199955,
+      "end": 881.383946,
+      "title": "Chapter 1. The One Thing Needful"
+    },
+    {
+      "id": 4,
+      "start": 881.383946,
+      "end": 1693.013946,
+      "title": "Chapter 2. Murdering the Innocents"
+    },
+    {
+      "id": 5,
+      "start": 1693.013946,
+      "end": 2379.117937,
+      "title": "Chapter 3. A Loophole"
+    },
+    {
+      "id": 6,
+      "start": 2379.117937,
+      "end": 3352.591927,
+      "title": "Chapter 4. Mr. Bounderby"
+    },
+    {
+      "id": 7,
+      "start": 3352.591927,
+      "end": 4127.581927,
+      "title": "Chapter 5. The Keynote"
+    },
+    {
+      "id": 8,
+      "start": 4127.581927,
+      "end": 5932.909909,
+      "title": "Chapter 6. Sleary's Horsemanship"
+    },
+    {
+      "id": 9,
+      "start": 5932.909909,
+      "end": 6827.574898,
+      "title": "Chapter 7. Mrs. Sparsit"
+    },
+    {
+      "id": 10,
+      "start": 6827.574898,
+      "end": 7608.135896,
+      "title": "Chapter 8. Never Wonder"
+    },
+    {
+      "id": 11,
+      "start": 7608.135896,
+      "end": 8676.32288,
+      "title": "Chapter 9. Sissy's Progress"
+    },
+    {
+      "id": 12,
+      "start": 8676.32288,
+      "end": 9451.798866,
+      "title": "Chapter 10. Stephen Blackpool"
+    },
+    {
+      "id": 13,
+      "start": 9451.798866,
+      "end": 10452.880862,
+      "title": "Chapter 11. No Way Out"
+    },
+    {
+      "id": 14,
+      "start": 10452.880862,
+      "end": 11135.662857,
+      "title": "Chapter 12. The Old Woman"
+    },
+    {
+      "id": 15,
+      "start": 11135.662857,
+      "end": 12246.806848,
+      "title": "Chapter 13. Rachael"
+    },
+    {
+      "id": 16,
+      "start": 12246.806848,
+      "end": 12915.006848,
+      "title": "Chapter 14. The Great Manufacturer"
+    },
+    {
+      "id": 17,
+      "start": 12915.006848,
+      "end": 13996.452834,
+      "title": "Chapter 15. Father and Daughter"
+    },
+    {
+      "id": 18,
+      "start": 13996.452834,
+      "end": 14757.31483,
+      "title": "Chapter 16. Husband and Wife"
+    },
+    {
+      "id": 19,
+      "start": 14757.31483,
+      "end": 14760.948821,
+      "title": "Book The Second: Reaping"
+    },
+    {
+      "id": 20,
+      "start": 14760.948821,
+      "end": 16611.716803,
+      "title": "Chapter 1. Effects in the Bank"
+    },
+    {
+      "id": 21,
+      "start": 16611.716803,
+      "end": 17732.056803,
+      "title": "Chapter 2. Mr. James Harthouse"
+    },
+    {
+      "id": 22,
+      "start": 17732.056803,
+      "end": 18387.044785,
+      "title": "Chapter 3. The Whelp"
+    },
+    {
+      "id": 23,
+      "start": 18387.044785,
+      "end": 19463.057778,
+      "title": "Chapter 4. Men and Brothers"
+    },
+    {
+      "id": 24,
+      "start": 19463.057778,
+      "end": 20316.576757,
+      "title": "Chapter 5. Men and Masters"
+    },
+    {
+      "id": 25,
+      "start": 20316.576757,
+      "end": 21993.172744,
+      "title": "Chapter 6. Fading Away"
+    },
+    {
+      "id": 26,
+      "start": 21993.172744,
+      "end": 23720.876735,
+      "title": "Chapter 7. Gunpowder"
+    },
+    {
+      "id": 27,
+      "start": 23720.876735,
+      "end": 25461.97873,
+      "title": "Chapter 8. Explosion"
+    },
+    {
+      "id": 28,
+      "start": 25461.97873,
+      "end": 26623.556712,
+      "title": "Chapter 9. Hearing the Last of It"
+    },
+    {
+      "id": 29,
+      "start": 26623.556712,
+      "end": 27246.478707,
+      "title": "Chapter 10. Mrs. Sparsit's Staircase"
+    },
+    {
+      "id": 30,
+      "start": 27246.478707,
+      "end": 28493.041701,
+      "title": "Chapter 11. Lower and Lower"
+    },
+    {
+      "id": 31,
+      "start": 28493.041701,
+      "end": 29099.902698,
+      "title": "Chapter 12. Down"
+    },
+    {
+      "id": 32,
+      "start": 29099.902698,
+      "end": 29103.64068,
+      "title": "Book The Third: Garnering"
+    },
+    {
+      "id": 33,
+      "start": 29103.64068,
+      "end": 29989.15068,
+      "title": "Chapter 1. Another Thing Needful"
+    },
+    {
+      "id": 34,
+      "start": 29989.15068,
+      "end": 31261.06966,
+      "title": "Chapter 2. Very Ridiculous"
+    },
+    {
+      "id": 35,
+      "start": 31261.06966,
+      "end": 32358.69966,
+      "title": "Chapter 3. Very Decided"
+    },
+    {
+      "id": 36,
+      "start": 32358.69966,
+      "end": 33602.754649,
+      "title": "Chapter 4. Lost"
+    },
+    {
+      "id": 37,
+      "start": 33602.754649,
+      "end": 34800.39263,
+      "title": "Chapter 5. Found"
+    },
+    {
+      "id": 38,
+      "start": 34800.39263,
+      "end": 36201.553628,
+      "title": "Chapter 6. The Starlight"
+    },
+    {
+      "id": 39,
+      "start": 36201.553628,
+      "end": 37756.756621,
+      "title": "Chapter 7. Whelp-Hunting"
+    },
+    {
+      "id": 40,
+      "start": 37756.756621,
+      "end": 38658.666621,
+      "title": "Chapter 8. Philosophical"
+    },
+    {
+      "id": 41,
+      "start": 38658.666621,
+      "end": 39443.418617,
+      "title": "Chapter 9. Final"
+    },
+    {
+      "id": 42,
+      "start": 39443.418617,
+      "end": 39501.916667,
+      "title": "End Credits"
+    }
+  ],
+  "title": "Hard Times (Unabridged)",
+  "subtitle": "The Audible Dickens Collection",
+  "authors": [
+    "Charles Dickens",
+    "Jeremy Paxman"
+  ],
+  "narrators": [
+    "Bertie Carvel",
+    "Jeremy Paxman"
+  ],
+  "series": [
+    "The Audible Dickens Collection #0"
+  ],
+  "genres": [
+    "Classics, Literary Fiction"
+  ],
+  "publishedYear": "2018",
+  "publishedDate": null,
+  "publisher": "Audible Studios",
+  "description": "'Teach these boys and girls nothing but Facts. Facts alone are wanted in life.' So says Thomas Gradgrind, a wealthy, utilitarian school board superintendent. Father to Tom and Louisa, he shapes the minds of all the young children, including his own, with the exception of only one: the circus-born Sissy Jupe.",
+  "isbn": null,
+  "asin": "B07B9MMHNY",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

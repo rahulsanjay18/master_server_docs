@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=The Other Wind
+artist=Ursula K. Le Guin
+album_artist=Ursula K. Le Guin
+album=The Other Wind
+genre=Audio Book
+date=2001
+comment=Read by Samuel Roukin
+description=Read by Samuel Roukin
+composer=230mb
+TRACKTOTAL=5

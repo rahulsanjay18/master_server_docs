@@ -1,0 +1,102 @@
+{
+  "tags": [
+    "Arts & Entertainment",
+    "Literature & Fiction",
+    "Movie",
+    "TV & Video Game Tie-ins",
+    "Science Fiction & Fantasy",
+    "Fantasy",
+    "Movie",
+    "TV & Video Game Tie-Ins",
+    "Science Fiction"
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 350.179438,
+      "title": "Track 01"
+    },
+    {
+      "id": 1,
+      "start": 350.179438,
+      "end": 802.393127,
+      "title": "Track 02"
+    },
+    {
+      "id": 2,
+      "start": 802.393127,
+      "end": 1337.467252,
+      "title": "Track 03"
+    },
+    {
+      "id": 3,
+      "start": 1337.467252,
+      "end": 1977.3707519999998,
+      "title": "Track 04"
+    },
+    {
+      "id": 4,
+      "start": 1977.3707519999998,
+      "end": 2380.683252,
+      "title": "Track 05"
+    },
+    {
+      "id": 5,
+      "start": 2380.683252,
+      "end": 2785.14513,
+      "title": "Track 06"
+    },
+    {
+      "id": 6,
+      "start": 2785.14513,
+      "end": 3338.269886,
+      "title": "Track 07"
+    },
+    {
+      "id": 7,
+      "start": 3338.269886,
+      "end": 3864.854199,
+      "title": "Track 08"
+    },
+    {
+      "id": 8,
+      "start": 3864.854199,
+      "end": 4476.127512,
+      "title": "Track 09"
+    },
+    {
+      "id": 9,
+      "start": 4476.127512,
+      "end": 4627.619579,
+      "title": "Track 10"
+    },
+    {
+      "id": 10,
+      "start": 4627.619579,
+      "end": 4779.686335,
+      "title": "Track 11"
+    }
+  ],
+  "title": "MirrorMask",
+  "subtitle": null,
+  "authors": [
+    "Neil Gaiman"
+  ],
+  "narrators": [
+    "Stephanie Leonidas"
+  ],
+  "series": [],
+  "genres": [
+    "Teen & Young Adult"
+  ],
+  "publishedYear": "2006-01-01",
+  "publishedDate": null,
+  "publisher": "HarperAudio",
+  "description": "Raised in a family of circus performers, Helena's always dreamed of leading a more ordinary life. But when haunting music draws her into a strange and magical realm, one where anything can happen, her real life is stolen by a runaway from the other side. Helena must rescue the realm from chaos in order to win back her own not-so-ordinary life. MirrorMask is a breathtaking film written by best-selling author Neil Gaiman and brought to life through the vision of acclaimed artist and director Dave McKean. This original audio novella is Helena's tale in her own voice, a stunning and magical journey.",
+  "isbn": null,
+  "asin": "B002V8KWI4",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

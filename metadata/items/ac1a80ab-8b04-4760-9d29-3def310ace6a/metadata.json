@@ -1,0 +1,83 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 58.235,
+      "title": "Intro - Opening Credits ☕"
+    },
+    {
+      "id": 1,
+      "start": 58.235,
+      "end": 520.475,
+      "title": "Epigraph"
+    },
+    {
+      "id": 2,
+      "start": 520.475,
+      "end": 4943.063,
+      "title": "Chapter 1: Ride of the Valkyries"
+    },
+    {
+      "id": 3,
+      "start": 4943.063,
+      "end": 9688.108,
+      "title": "Chapter 2: Panzer Lied"
+    },
+    {
+      "id": 4,
+      "start": 9688.108,
+      "end": 14203.576,
+      "title": "Chapter 3: Wild Blue Yonder"
+    },
+    {
+      "id": 5,
+      "start": 14203.576,
+      "end": 18774.889,
+      "title": "Chapter 4: Beneath the Two-Headed Eagle"
+    },
+    {
+      "id": 6,
+      "start": 18774.889,
+      "end": 22269.979,
+      "title": "Chapter 5: Cries “Take Aim”"
+    },
+    {
+      "id": 7,
+      "start": 22269.979,
+      "end": 23039.047,
+      "title": "Interlude: When “John Doe” Comes Marching Home"
+    },
+    {
+      "id": 8,
+      "start": 23039.047,
+      "end": 23168.212,
+      "title": "Outro - Ending Credits ☕"
+    }
+  ],
+  "title": "86—EIGHTY-SIX, Vol. 02: Run Through the Battlefront (Start)",
+  "subtitle": null,
+  "authors": [
+    "Suzie Yeung",
+    "Alejandro Saab"
+  ],
+  "narrators": [
+    "Toru Asakura"
+  ],
+  "series": [
+    "86—EIGHTY-SIX #02"
+  ],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "July 7, 2017 (11-15-22)",
+  "publishedDate": null,
+  "publisher": "Yen Audio",
+  "description": "Phantom",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}
