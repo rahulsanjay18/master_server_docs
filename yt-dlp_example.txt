@@ -1,0 +1,1 @@
+mullvad-exclude yt-dlp https://www.youtube.com/@khanacademy -o "./%(release_timestamp)s_%(title)s.$(ext)s" --write-sub --write-auto-sub --sub-lang "en.*"

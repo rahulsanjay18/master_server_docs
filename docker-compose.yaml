@@ -55,31 +55,31 @@ services:
     volumes:
       - "/media/rshah17/Drive 3/Music_data:/data"
       - "/media/rshah17/Drive 3/Music:/music:ro"
-  ersatz_tv:
-    image: jasongdove/ersatztv
-    container_name: ersatztv
-    network_mode: service:tailscale
-    volumes:
-      - "/media/rshah17/Drive 1/ersatz_config/:/root/.local/share/ersatztv"
-      - "/media/rshah17/Drive 1/Watchable_Media/:/media:ro"
-  tunarr:
-    image: chrisbenincasa/tunarr
+        #ersatz_tv:
+        #  image: jasongdove/ersatztv
+        #   container_name: ersatztv
+        #   network_mode: service:tailscale
+        # volumes:
+        #- "/media/rshah17/Drive 1/ersatz_config/:/root/.local/share/ersatztv"
+        #  - "/media/rshah17/Drive 1/Watchable_Media/:/media:ro"
+        #tunarr:
+        #image: chrisbenincasa/tunarr
     # Uncomment along with runtime below to enable HW accel
     # image: chrisbenincasa/tunarr:latest-nvidia
-    container_name: tunarr
-    network_mode: service:tailscale
+    #  container_name: tunarr
+    #network_mode: service:tailscale
     # Uncomment if using the Nvidia container
     # runtime: nvidia
-    environment:
+    # environment:
       # Replace this with your timezone to ensure accurate guide
       # data and scheduling.
-      - TZ=America/New_York
+      # - TZ=America/New_York
       # Uncomment if you'd like to adjust default config path
       # - TUNARR_DATABASE_PATH=/your/path/tunarr
-    volumes:
+      #  volumes:
       # Choose a path on your host to map to /config/tunarr. This ensures
       # that restarting the container will not delete your settings or DB.
-      - "/media/rshah17/Drive 1/tunarr/data:/config/tunarr"
+      # - "/media/rshah17/Drive 1/tunarr/data:/config/tunarr"
     # The host path is relative to the location of the compose file
     # This can also use an absolute path.
     #
