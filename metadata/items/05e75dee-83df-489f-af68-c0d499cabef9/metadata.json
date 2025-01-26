@@ -1,17 +1,19 @@
 {
   "tags": [],
   "chapters": [],
-  "title": "Books",
+  "title": "The King in Yellow by Robert William Chambers",
   "subtitle": null,
-  "authors": [],
+  "authors": [
+    "Robert William Chambers"
+  ],
   "narrators": [],
   "series": [],
   "genres": [],
   "publishedYear": null,
   "publishedDate": null,
   "publisher": null,
-  "description": null,
-  "isbn": null,
+  "description": "The King in Yellow by Robert William Chambers",
+  "isbn": "9781986808514",
   "asin": null,
   "language": null,
   "explicit": false,

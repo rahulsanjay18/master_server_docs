@@ -1,0 +1,8 @@
+{"timestamp":"2025-01-22 13:21:32.173","source":"SocketAuthority.js:139","message":"[SocketAuthority] Socket Connected to /socket.io FU-UXbDG3L5B-JBYAAAT","levelName":"INFO","level":2}
+{"timestamp":"2025-01-22 13:27:18.001","source":"SocketAuthority.js:166","message":"[SocketAuthority] Socket FU-UXbDG3L5B-JBYAAAT disconnected from client \"root\" after 345828ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2025-01-22 14:10:08.940","source":"SocketAuthority.js:139","message":"[SocketAuthority] Socket Connected to /socket.io xW77WuPokx6LL7XAAAAV","levelName":"INFO","level":2}
+{"timestamp":"2025-01-22 14:15:31.756","source":"SocketAuthority.js:166","message":"[SocketAuthority] Socket xW77WuPokx6LL7XAAAAV disconnected from client \"root\" after 322817ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2025-01-22 17:05:36.790","source":"SocketAuthority.js:139","message":"[SocketAuthority] Socket Connected to /socket.io gEXN8gcY9HRX9nhBAAAX","levelName":"INFO","level":2}
+{"timestamp":"2025-01-22 17:10:59.885","source":"SocketAuthority.js:166","message":"[SocketAuthority] Socket gEXN8gcY9HRX9nhBAAAX disconnected from client \"root\" after 323095ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2025-01-22 22:58:45.247","source":"SocketAuthority.js:139","message":"[SocketAuthority] Socket Connected to /socket.io ZIPbXDYuYsQZEAQ9AAAZ","levelName":"INFO","level":2}
+{"timestamp":"2025-01-22 23:04:33.200","source":"SocketAuthority.js:166","message":"[SocketAuthority] Socket ZIPbXDYuYsQZEAQ9AAAZ disconnected from client \"root\" after 347953ms (Reason: ping timeout)","levelName":"INFO","level":2}
